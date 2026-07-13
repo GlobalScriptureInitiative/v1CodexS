@@ -1,0 +1,1605 @@
+{
+  "book": "Epistle of Barnabas",
+  "slug": "epistle-of-barnabas",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "χαιρετε ϋϊοι και θυ γατερεϲ εν ονο ματι κυ του αγαπη ϲαντοϲ ημαϲ εν ι ρηνη",
+          "translation": "Greetings, children of joy — sons and daughters — in the name of the Lord who loved us in peace.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-1-1-cultural-context",
+              "text": "The greeting mirrors Hellenistic epistolary conventions but the 'children of joy' reflects the author's characteristic emphasis on spiritual joy as a mark of the redeemed community.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "μεγαλων μεν οντ ω και πλουϲιων τ ω του θυ δικαιωμα των ειϲ ϋμαϲ υ περ τι και καθ υπερβο λην υ περευφρε νομε επι τοιϲ μα καριοιϲ και ενδο ξοιϲ ϋμων πνα ϲιν ου το εμφυτον τηϲ δωρεαϲ πν ικηϲ χαριν ειληφαται",
+          "translation": "Since the righteous requirements of God toward you are great and rich, I'm exceptionally and beyond measure overjoyed at your blessed and glorious spirits. You've received the implanted gift of the spiritual gift.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-1-2-interpretation",
+              "text": "'Implanted gift of the spiritual gift' — a dense phrase suggesting the Spirit's grace is both innate to the new creation and a distinct charism given at baptism.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "διο και μαλλον ϲ υ χαιρω εμαυτω ελ πιζων ϲωθηναι οτι αληθωϲ βλε πω εν υμιν εκκε χυμενον απο του πλουϲιου τηϲ αγα πηϲ κυ πνα εφ υ μαϲ ουτω με εξε πληξεν επι ϋμ ω η επιποθητη οψιϲ υ μων",
+          "translation": "That's why I'm even more delighted with myself, hoping to be saved, because I truly see the Spirit poured out on you from the rich fountain of the Lord's love. Your longed-for appearance amazed me that much.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "πεπιϲμε νοϲ ουν τουτο και ϲυνιδων ϲυνιδωϲ εμαυτω οτι εν υμιν λαλη ϲαϲ πολλα επιϲτα μαι οτι εμοι ϲυνω δευϲεν εν οδω δι καιοϲυνηϲ κϲ και παντωϲ αναγκα ζομε καγω ειϲ του το αγαπαν υ μαϲ υ̇ περ την ψυχην μ(ου) οτι μεγαλη πιϲτιϲ και αγαπη εγκα τοικει εν υμιν ελ πιδει ζωηϲ αυτου",
+          "translation": "So, convinced of this and realizing for myself that I know a lot by speaking among you — because the Lord has accompanied me on the path of righteousness — I'm absolutely compelled to love you more than my own life, since great faith and love dwell in you, in hope of His life.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-1-4-variant",
+              "text": "The phrase 'in hope of His life' — some mss read 'in hope of eternal life' (Sinaiticus has the shorter reading).",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "λογιϲαμενοϲ ο υ τουτο οτι εαν με ληϲη μοι περι υ μων του μεροϲ τι μεταδουναι αφ ου ελαβον οτι εϲται μοι τοιουτοιϲ πν αϲιν ϋπηρετη ϲαντι ειϲ μιϲθον εϲπουδαϲα κατα μικρον υ μιν πεμ πειν ι να μετα τηϲ πιϲτεωϲ ϋμων τε λιαν εχηται την γνωϲιν ·",
+          "translation": "I figured that if I cared enough about you to share some of what I received, it would be a reward for serving such spirits. So I made an effort to send you something in brief, so that along with your faith you might also have complete knowledge.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "τρια ο υ δογματα εϲτιν κυ · ζωη · πιϲτιϲ ελπιϲ · αρχη · και τε λοϲ ημων · και δι κεοϲυνη κριϲε ωϲ αρχη · και τε λοϲ αγαπη ευφρο ϲυνη και αγαλ λιαϲεωϲ εργων εν δικαιοϲυναιϲ μαρτυρια ˙",
+          "translation": "There are three doctrines of the Lord: Life — Faith — Hope — our beginning and end; and Righteousness — Judgment that begins and ends; Love — Joy and gladness of works testified in righteousness.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εγνωρι ϲεν γαρ ημιν ο δε ϲποτηϲ δια των προφητων τα πα ρεληλυθοτα και τα ενεϲτωτα κ(αι) τ ω μελλοντων δουϲ απαρχαϲ ημιν γευϲεωϲ ων τα καθ εκαϲτα βλε ποντεϲ ενεργου μενα καθωϲ ε λαληϲεν οφιλο μεν πλουϲιωτε ρον και ϋψηλοτερ ο προϲαγειν τω φο βω αυτου",
+          "translation": "For the Master made known to us through the prophets the past and present things, and gave us first-fruits of a taste of what's to come. Seeing each of these things accomplished just as He spoke, we ought to approach His fear more richly and loftily.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εγω δε ουχ ωϲ διδαϲκα λοϲ αλλ ωϲ ειϲ εξ υ μων ϋποδιξω ο λιγα δι ων εν τοιϲ παρουϲιν ευφρ α θηϲεϲθε",
+          "translation": "But I — not as a teacher, but as one of you — will point out a few things through which you'll be glad in the present circumstances.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ημερ ω ουν ουϲων πο νηρων και αυτου του ενεργουντοϲ εχοντοϲ την εξου ϲιαν οφιλομεν ε αυτοιϲ προϲεχ ο τεϲ · προϲεχε ι κ(αι) εκζητειν τα δικαιωματα κυ",
+          "translation": "Since, then, the days are evil and the one at work holds power, we ought to pay attention to ourselves and diligently seek the Lord's requirements.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "τηϲ ουν πιϲτεωϲ ημων ειϲιν βοη θοι · φοβοϲ · ϋπο μονη τα δε ϲυν μαχουντα ημιν μακροθυμια · και εγκρατια ·",
+          "translation": "The helpers of our faith are fear and endurance; our allies are patience and self-control.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "τουτ ω μενοντων τα προϲ κν αγνωϲ ϲυνευφρενον ται αυτοιϲ · ϲοφι α · ϲυνεϲιϲ επιϲτη μη γνωϲιϲ",
+          "translation": "While these remain toward the Lord in purity, wisdom, understanding, knowledge, and insight rejoice together with them.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "πεφα νερωκεν γαρ ημ ι δια παντων τ ω προφητων οτι ου τε θυϲιων ουτε ο λοκαυτωματων ουτε προϲφορ ω χρηζει λεγων ο τε μεν",
+          "translation": "For He has made it clear to us through all the prophets that He doesn't need sacrifices, burnt offerings, or offerings, saying in one place:",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "τι μοι πλη θοϲ των θυϲιων ϋμων λεγει κϲ πληριϲ ειμι ολο καυτωματων κ(αι) ϲτεαρ αρνων και αιμα ταυρων και τραγων ου βουλομε ουδ αν ερχηϲθε ο φθηναι μοι τιϲ γαρ εξεζητηϲεν ταυ τα εκ των χιρων υ μων πατιν μου την αυλην ου προϲ θηϲεϲθαι ουδε ε αν φερηται ϲεμι δαλιν ματαιον θυμιαμα βδελυ γμα μοι εϲτιν ταϲ νεομηνιαϲ ϋ μων και τα ϲαββα τα ουκ ανεχομαι",
+          "translation": "\"What do I care about the multitude of your sacrifices?\" says the Lord. \"I've had enough of burnt offerings and the fat of lambs, and I don't want the blood of bulls and goats — not even if you come to appear before Me. For who demanded these from your hands? Don't keep trampling My court. If you bring fine flour, it's worthless; incense is an abomination to Me. I can't stand your new moons and Sabbaths.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-2-5-cultural-context",
+              "text": "A composite quotation of Isa 1:11-13 (LXX). The author argues God never desired animal sacrifice — a key theme of the epistle.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "ταυτα ουν κατηρ γηϲεν ι να ο καινοϲ ι νομοϲ του κυ η κμων ημων ιυ χρυ ανευ ζυγου αναγκηϲ ων μη ανθρωπο ποιητον εχη την προϲφοραν",
+          "translation": "So He abolished these things so that the new law of our Lord Jesus Christ, being without the yoke of necessity, would have an offering not made by human hands.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-2-6-interpretation",
+              "text": "The 'new law without the yoke of necessity' — Barnabas argues the Mosaic law was temporary; Christ's law is free, based on grace, not compulsion.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "original": "λεγει δε παλιν προϲ αυτουϲ μη εγω ε νετιλαμην τοιϲ πατραϲιν ϋμων εκπορευομενοιϲ εκ γηϲ αιγυπτου προϲενεγκαι μοι ολοκαυτωματα και θυϲιαϲ",
+          "translation": "He also says to them again: \"Did I command your fathers when they came out of Egypt to bring Me burnt offerings and sacrifices?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "αλλ η τουτο ενετιλαμ η αυτοιϲ εκαϲτοϲ ϋ μων κατα του πλη ϲιον εν τη καρδι α αυτου εαυτου κακιαν μη μνηϲικακιτω και ορκον ψευδη μη αγαπαται",
+          "translation": "No, this is what I commanded them: \"None of you should hold a grudge against your neighbor in your heart, and don't love a false oath.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-2-8-cultural-context",
+              "text": "Quoting/citing Jer 7:22-23 and Zech 8:17 — the author emphasizes ethical requirements over ritual observance.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "αιϲ θανεϲθαι ουν ο φιλομεν μη ον τεϲ αϲυνετοι την γνωμην τηϲ αγα θωϲυνηϲ του πα τροϲ ημων οτι η μιν λεγει θελων ημαϲ μη ομοιωϲ πλανωμενουϲ ε κεινοιϲ ζητιν πωϲ προϲαγωμ ε αυτω",
+          "translation": "So we ought to understand — since we're not ignorant of the goodness of our Father — that He's telling us He doesn't want us to wander around like them, but rather to seek how we may approach Him.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ημιν ουν ουτωϲ θυϲι α τω θω καρδια ϲ υ τετριμμενη οϲ μη ευωδιαϲ τω κω καρδια δοξα ζουϲα τον πεπλα κοτα αυτην · ακρι βευεϲθαι ουν ο φιλομεν αδελ φοι περι τηϲ ϲω τηριαϲ ημων ϊ να μη ο πονη ροϲ παριϲδυϲιν ϊ πλανηϲ ποιηϲαϲ εν ημιν εκϲφενδο νηϲη ημαϲ απο τηϲ ζωηϲ ημ ω ‾‾",
+          "translation": "So this is how we offer sacrifice to God: a broken heart — a fragrance pleasing to the Lord — a heart that glorifies the One who made it. So, beloved brothers, let's be precise about our salvation, so that the evil one doesn't slip in and, by causing error among us, catapult us away from our life.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-2-10-interpretation",
+              "text": "The 'broken heart' as sacrifice echoes Ps 51:17. The phrase 'catapult us away' is unusually vivid Greek — εκσφενδονηση — literally 'sling us away.'",
+              "type": "interpretation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "λεγει ουν παλιν περι τουτων προϲ αυτουϲ ϊνα τι μοι νηϲτευεται λεγει κϲ ωϲ ϲημε ρον ακουϲθηναι κραυγη την φω νην υ μων ου ταυ την την νηϲτι α εγω εξελεξαμην λεγει κϲ ουκ ανθρω πον ταπινουντα την ψυχην αυτου",
+          "translation": "Now He also says to them about these things: \"Why do you fast for Me?\" says the Lord, \"so that your voice is heard with a cry today? This isn't the fast I chose,\" says the Lord, \"the humbling of a person's soul.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ουδ αν καμψηται ωϲ κρικον τον τραχηλον ϋμων και ϲακκον και ϲπο δον ϋποϲτρωϲη ται ουδ ουτωϲ κα λεϲεται νηϲτιαν δεκτην",
+          "translation": "\"Even if you bend your neck like a ring and spread sackcloth and ashes under you, you still won't call it an acceptable fast.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "προϲ η μαϲ δε λεγει ϊδου αυ τη νηϲτια ην εγω εξελεξαμην λε γει κϲ ουκ ανθρω πον ταπινουν τα την αυτην τ̣η̣ν̣ την ψυχην αυ του αλλα λυε παν ϲυνδεϲμον αδι κιαϲ διαλυε ϲτραγ γαλιαϲ βιαιων ϲυ ναλλαγματων αποϲτελλε τεθραυ ϲμενουϲ εν αφε ϲει και παϲαν αδι κον ϲυνγραφ η διαϲπα διαθρυ πτε πινωϲιν τ ο αρτον ϲου · και γυ μνον εαν ειδηϲ περιβαλε αϲτεγουϲ ειϲαγε ειϲ τον οι κον ϲου · και εαν ι δηϲ ταπινον ου χ υπεροψη αυτον ουδε απο των οι κιων του ϲπερμα τοϲ ϲου",
+          "translation": "But He says to us: \"Look, this is the fast I chose,\" says the Lord. \"Not a person humbling their soul, but: loosen every bond of injustice, untie the knots of extortionate contracts, send the oppressed away free, tear up every unjust agreement. Break your bread for the hungry, and if you see someone naked, clothe them; bring the homeless into your house. And if you see a humble person, don't look down on them, nor any of your own relatives.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-3-3-cultural-context",
+              "text": "A loose quotation of Isa 58:4-10. Barnabas reworks the prophetic call for social justice as the 'true fast' that Christians, not Jews, practice.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "original": "τοτε ραγηϲε ται προϊμον το φωϲ ϲου και τα ιμα τα ϊαματα ϲου ταχεωϲ ανα τελει και προπορευ ϲεται εμπροϲθεν ϲου η δικαιοϲυνη και η δοξα του θυ πε ριϲτελει ϲε",
+          "translation": "\"Then your light will break forth early, your clothes of healing will quickly appear, righteousness will go before you, and the glory of God will surround you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και τοτε βοηϲειϲ και ο θϲ ε πακουϲεται ϲου ετι λαλουντοϲ ϲου ερι ι δου παρειμι εαν αφεληϲ απο ϲου ϲυνδεϲμον και χειροτονιαν και ρημα γογγυϲμου και δωϲ πινωντι τον αρτον ϲου εκ ψυχηϲ ϲου και ψυχ η ελαιηϲειϲ",
+          "translation": "\"Then you'll call, and God will hear you; while you're still speaking, He'll say, 'Here I am.' If you remove from among you the yoke, the pointing finger, and words of grumbling; if you give your bread to the hungry from your heart and show mercy to a soul in distress.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ειϲ του το ουν αδελφοι ο μα κροθυμοϲ προβλε ψαϲ ωϲ εν ακερεο ϲυνη πιϲτευϲει ο λαοϲ ον ητοιμα ϲεν εν τω ηγαπη μενω αυτου προε φανερωϲεν γαρ η μιν περι παντων εινα μη προϲρηϲ ϲωμεθα ωϲ επι λυτοι τω εκινων νομων",
+          "translation": "So, brothers, the Patient One foresaw that the people He prepared in His Beloved would believe in sincerity. He revealed all this to us beforehand so that we wouldn't be smashed against their law as converts.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "δει ουν ημαϲ περι των ε νεϲτωτων επι πολυ εραυνων ταϲ εκζητιν τα γ̣ε νομενα δυναμενα ημαϲ ϲω ζειν φυγωμεν ουν τελειωϲ απο παντων των ερ γων τηϲ ανομι αϲ μηποτε κατα λαβη ημαϲ τα εργα τηϲ ανομιαϲ και μιϲηϲωμεν την πλανην του νυν καιρου ϊνα ειϲ τ ο μελλοντα αγαπη ϲωμεν αγαπηθωμεν",
+          "translation": "So we ought to investigate deeply about the present things and seek what can save us. Let's completely flee from all the works of lawlessness, so that the works of lawlessness don't overtake us. Let's hate the deception of the present age so that we may be loved in the age to come.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "μη δωμ ε τη εαυτων ψυχη ανεϲιν ωϲτε εχ ι αυτην εξουϲιαν μετα αμαρτωλ ω και πονηρων ϲυν τρεχιν μηποτε ο μοιωθωμεν αυ τοιϲ ˙",
+          "translation": "Let's not give our souls any rest that lets them have authority to run alongside sinners and wicked people, so we don't end up like them.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "το τελιον ϲκ α δαλον γεγραπται ηγγικεν περι ου γεγραπται ωϲ ενωχʼ λεγει ειϲ τουτο γαρ ο δεϲποτηϲ ϲυν τετμηκεν τουϲ καιρουϲ και ταϲ η μεραϲ ϊνα ταχυ νη ο ηγαπημενοϲ αυτου και επι την κληρονομιαν η ξει",
+          "translation": "The final stumbling block is near — about which it's written, as Enoch says. For this reason the Master has cut short the times and the days, so that His Beloved may hurry and arrive at the inheritance.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-4-3-cultural-context",
+              "text": "Reference to Enoch (1 Enoch 80:2; 89:61-64). Barnabas uses Enochic apocalyptic tradition to argue the end times are imminent.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "original": "λεγει δε ουτωϲ και ο προφητηϲ βαϲιλειαι δεκα επι τηϲ γηϲ βαϲιλευϲου ϲιν και εξαναϲτη ϲεται οπιϲθεν αυ των μικροϲ βαϲι λευϲ οϲ ταπινωϲει τριϲ υ φ εν των βα ϲιλεων",
+          "translation": "This is what the prophet says: \"Ten kingdoms will reign on the earth, and after them a little king will arise who will humble three of the kings at once.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-4-4-cultural-context",
+              "text": "Quoting Dan 7:24. Like many early Christian authors, Barnabas sees the ten kingdoms as Rome and its client states.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "ομοιωϲ περι του αυτου λεγι δανιηλʼ · και ϊδον το τεταρτον θηρι ο πονηρον και ϊϲχυ ρον και χαλεπω τερον παρα παν τα τα θηρια τηϲ γηϲ και ωϲ εξ αυτου ανετιλεν δεκα κλερατα κερατα και εξ αυ των μικρον κε ραϲ παραφυαδι ο και ωϲ εταπινωϲ ϲεν εταπινωϲεν εταπινωϲεν ϋφ εν τρια τ ω μεγαλων κερατ ω",
+          "translation": "Daniel says something similar about the same thing: \"And I saw the fourth beast, wicked and strong and more dangerous than all the beasts of the earth, and how ten horns sprang up from it, and from them a little horn as a shoot, and how it humbled three of the great horns at once.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ϲυνιεναι ουν ο φιλεται ετι δε και τουτο ερωτω υ μαϲ ωϲ ειϲ εξ υμων ων ι δειωϲ δε και πανταϲ αγαπων ϋπερ την ψυχην μου προϲεχειν νυν εαυτοιϲ και μη ομοιουϲθαι τιϲιν επιϲωρευ οντεϲ ταιϲ αμαρ τιαιϲ ϋμων λεγ ο ταϲ οτι η διαθη κη ημων μεν αλλ εκινοι ουτωϲ ειϲ τελοϲ απωλε ϲαν αυτην λαβ ο τοϲ ηδη του μω ϋϲεωϲ",
+          "translation": "So understand, dearly loved ones. And I'm also asking this of you — as one of you, and especially as one who loves you all more than my own life — pay attention now to yourselves and don't become like some people, piling up your sins while saying, \"The covenant is ours.\" Those people lost it completely, even after Moses had already received it.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-4-6-interpretation",
+              "text": "'The covenant is ours' — a central argument: Barnabas insists the Jews lost the covenant at Sinai (Ex 32) and Christians received it through Christ.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "original": "λεγει γαρ η γραφη και ην μω ϋϲηϲ εν τω ορι νη ϲτευων ημεραϲ μ και νυκταϲ μ και ελαβεν την δια θηκην απο του κυ πλακαϲ λιθι ναϲ γεγραμμεναϲ τω δακτυλω τηϲ χειροϲ του κυ",
+          "translation": "For Scripture says: \"And Moses was on the mountain fasting for forty days and forty nights, and he received the covenant from the Lord — stone tablets written by the finger of the Lord's hand.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "αλλα επιϲτραφεντεϲ επι τα ειδωλα απω λεϲαν αυτην λε γει γαρ ουτωϲ κϲ μωϲη μωϲη κα ταβηθι το ταχοϲ οτι ηνομηϲεν ο λαοϲ ϲου ουϲ εξη γαγεϲ εκ γηϲ αιγυ πτου και ϲυνηκ ε μωϲηϲ και εριψ ε ταϲ δυο πλακαϲ εκ των χειρων αυτ ω αυτου και ϲυνετριβη αυ των η διαθηκη ϊ να η του ηγαπημε νου ιυ ενκαταϲφρα γιϲθη ειϲ την καρ διαν ημων εν ελ πιδι τηϲ πιϲτεωϲ αυτου",
+          "translation": "But when they turned to idols, they lost it. For the Lord says: \"Moses, Moses, come down quickly, because your people whom you led out of Egypt have broken the law.\" And Moses understood, and he threw the two tablets out of his hands, and their covenant was broken — so that the covenant of the Beloved Jesus might be sealed in our hearts, in hope of faith in Him.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-4-8-interpretation",
+              "text": "The shattering of the tablets is read typologically: the physical covenant was broken so the spiritual covenant in Christ could be sealed in hearts.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "πολλα δε θελων γραφειν ουχ ωϲ διδαϲκα λοϲ αλλ ωϲ πρεπι αγαπωντι αφ ω εχομεν μη ελλι πειν γραφην γραφειν γραφειν ε ϲπουδαϲα διο πε ριψημα ϋμων προϲεχομεν εν ταιϲ εϲχαταιϲ ημε ραιϲ ουδεν γαρ ω φεληϲει υ μαϲ ο παϲ χρονοϲ τηϲ πιϲτεωϲ υ μων εαν μη νυν εν τω ανομω και ρω και τοιϲ μελλου ϲιν ϲκανδαλοιϲ ωϲ πρεπει ϋϊοιϲ θυ αντιϲτωμεν ϊνα μη ϲχη παριϲ δυϲιν ο μελαϲ",
+          "translation": "Though I want to write many things — not as a teacher but as is fitting for someone who loves — I've been eager not to leave anything out from what we have, writing as I can. So I'm the scum of your offering in these last days. For your whole lifetime of faith won't help you at all unless now, in this lawless age and the coming stumbling blocks, we resist as is fitting for children of God, so that the Black One doesn't get a chance to slip in.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "φυγωμεν απο παϲηϲ ματαιοτη τοϲ μιϲηϲωμ ε τελιωϲ τα εργα τηϲ πονηριαϲ οδου μη καθ εαυτουϲ εν δυνοντεϲ μονα ζεται ωϲ ηδη δε δικαιωμενοι αλλ επι το αυτο ϲυνερχομενοι ϲυνζητειτε πε ρι του κοινη ϲυμ φεροντοϲ",
+          "translation": "Let's flee from all vanity, let's completely hate the works of the wicked path. Don't withdraw into yourselves and live alone as if you were already justified, but come together in one place and discuss what's beneficial for all.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "λεγει γαρ η γραφη · ουαι οι ϲυνετοι εαυτοιϲ και ενωπιον εαυ των επιϲτημονεϲ γενωμεθα πν ικοι γενωμεθα ναοϲ τελιοϲ τω θω οϲον εϲτιν εν η μιν μελετωμ ε τον φοβον του θυ φυλαϲϲιν ϊνα αγω νιζωμεθα ταϲ εντολαϲ αυτου · ϊνα εν τοιϲ δικαιω μαϲιν αυτου ευφρανθωμεν",
+          "translation": "For Scripture says: \"Woe to those who are wise in their own eyes and clever in their own sight.\" Let's become spiritual, let's become a perfect temple for God. As much as it's up to us, let's practice the fear of God and strive to keep His commandments, so that we may rejoice in His righteous requirements.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ο κϲ απρο ϲωπολημπτωϲ κρινι τον κοϲμ ο εκαϲτοϲ καθωϲ εποιηϲεν κομι ειται εαν η αγαθοϲ η δικαιοϲυνη αυτου προηγηϲε ται αυτου εαν η πονηροϲ ο μι ϲθοϲ τηϲ πονη ριαϲ εμπροϲθεν αυτου",
+          "translation": "The Lord will judge the world without partiality. Each person will receive according to what they've done. If they're good, their righteousness will go before them; if they're wicked, the reward of their wickedness will be in front of them.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ϊνα μηπο τε επαναπαυο μενοι ωϲ κλητοι επικαθυπνω ϲωμεν ταιϲ αμαρ τιαιϲ ημων και ο πονηροϲ αρ χων λαβων τ η καθ ημων εξου ϲιαν απωϲηται ημαϲ απο τηϲ βαϲιλιαϲ του κυ",
+          "translation": "Let's not fall asleep over our sins, resting on our laurels as if we were already called, so that the wicked ruler doesn't take authority over us and push us away from the Lord's kingdom.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-4-13-cultural-context",
+              "text": "'The Black One' (ο μελας) — a unique description of Satan in early Christian literature, likely derived from 'ruler of darkness.'",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "original": "ετι δε κακινο α δελφοι μου οτ α νοειται οταν βλε πεται μετα τηλι καυτα ϲημια και τερατα γ̣ε̣γονοτα τα γεγονοτα εν τω ϊϲλ ʼ και ου τωϲ ενκαταλελι φθαι αυτουϲ προϲε χωμεν μηποτε ωϲ γεγραπται πολ λοι κλητοι ολιγοι δε εκλεκτοι ευρε θωμεν",
+          "translation": "Also consider this, my brothers: when you see that after such great signs and wonders that happened in Israel, they were still abandoned like this — let's watch out, so that we don't end up among those of whom it's written, \"Many are called, but few are chosen.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-4-14-missing-text",
+              "text": "The text at this point is fragmentary — the transition from 'they were still abandoned' is partially reconstructed.",
+              "type": "missing-text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ειϲ του το γαρ ϋπεμινεν ο κϲ παραδουναι τ η ϲαρκα ειϲ καταφθο ραν ϊνα τη αφεϲει των αμαρτιων αγνιϲθωμεν ο εϲ τιν εν τω αιματι του ραντιϲματοϲ αυτου ·",
+          "translation": "For this is why the Lord endured handing over His flesh to destruction: so that we might be purified through the forgiveness of sins, which is in the sprinkling of His blood.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-5-1-interpretation",
+              "text": "'Sprinkling of His blood' — sacrificial language drawn from the Day of Atonement ritual (Lev 16), applied to Christ's death.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "γεγραπται γαρ πε ρι αυτου α μεν προϲ τον ϊϲλ ʼ α δε προϲ η μαϲ λεγει δε ουτωϲ ετραυματιϲθη δι α ταϲ ανομιαϲ η μων και μεμα λακιϲται δια ταϲ αμαρτιαϲ ημων τω μωλωπι αυτου ημιϲ ϊαθημεν ωϲ προβατον επι ϲφαγην ηχθη και ωϲ αμνοϲ αφωνοϲ εναντιον του κι ραντοϲ αυτον",
+          "translation": "For it's written about Him — some things concerning Israel, some concerning us. It says this: \"He was wounded for our transgressions and bruised for our iniquities; by His wound we were healed. He was led like a sheep to slaughter and like a lamb silent before its shearer.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ουκο υ ϋπερευχαριϲτιν ο φιλομεν τω κω ο τι και τα παρεληλυ θοτα ημιν εγνωρι ϲεν και εν τοιϲ ενε ϲτωϲιν ημαϲ εϲο φιϲεν και ειϲ τα μελ λοντα ουκ εϲμεν αϲυνετοι",
+          "translation": "So we should be extremely grateful to the Lord, because He made known to us the past, made us wise in the present, and we're not ignorant about the future.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "λεγει δε η γραφη ου κ αδικωϲ εκτινε ται δικτυα πτερω τοιϲ τουτο λεγι οτι δικαιωϲ απολιται α νοϲ ο εχων δικαιοϲυνηϲ γνω ϲιν εαυτον ειϲ ο δον ϲκοτουϲ απο ϲυνεχει",
+          "translation": "For Scripture says: \"The net is not spread unjustly for the birds.\" This means that a person who has knowledge of righteousness but abandons himself to the path of darkness will justly perish.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ετι δε και τουτο α δελφοι μου ει ο κϲ υ πεμινεν πα θειν περι τηϲ ψυ χηϲ ημων ων π α τοϲ του κοϲμου κϲ ω ειπεν ο θϲ α πο καταβοληϲ κο ϲμου ποιηϲωμ ε α νον κατ ικονα και καθ ομοιωϲ ι ημετεραν πωϲ ο υ υ πεμινεν ϋπο χι ροϲ α νων παθειν μαθεται",
+          "translation": "And also this, my brothers: if the Lord endured suffering for the sake of our souls — He who is the Lord of the whole world, to whom God said at the foundation of the world, \"Let's make humanity in Our image and likeness\" — then how could He endure suffering at the hands of men? Learn this.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-5-5-cultural-context",
+              "text": "Quoting Gen 1:26. The argument from creation: if the Lord of creation became human, His voluntary suffering demonstrates supreme love.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "οι προφη ται απ αυτου εχον τεϲ την χαριν ειϲ αυ τον επροφητευϲ α αυτοϲ δε εινα κα ταργηϲει τον θα νατον και την εκ νεκρων ανα ϲταϲιν δειξει οτι εν ϲαρκι εδει αυτ ο φανερωθηναι ϋπεμινεν",
+          "translation": "The prophets, having grace from Him, prophesied about Him. But He Himself endured so that He might destroy death and demonstrate the resurrection from the dead, because it was necessary for Him to be revealed in the flesh.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ϊνα και τοιϲ πατραϲιν την επαγγελιαν αποδω και αυτοϲ εαυτω τον λαον τον κενον ονο μαζων ετοιμαζων επιδει ξει επι την τηϲ γηϲ ω · οτι την αναϲταϲ ι αυτοϲ ποιηϲαϲ κρι νι",
+          "translation": "So that He might fulfill the promise to the fathers and prepare for Himself a new people, showing while on earth that when He Himself has accomplished the resurrection, He will judge.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "περαϲ γε τοι διδαϲκων τον ιϲλ και τηλικαυτα τε ρατα και ϲημια ποιων εκηρυϲ ϲεν και υ περηγα πηϲαν αυτον",
+          "translation": "Furthermore, while teaching Israel and performing such great signs and wonders, He preached and they loved Him intensely.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ο τε δε τουϲ ϊδιουϲ α ποϲτολουϲ τουϲ μελλονταϲ κηρυϲ ϲιν το ευαγγελι ον αυτου εξελε ξατο ονταϲ υ περ παϲαν αμαρτι αν ανομωτερουϲ ι να δειξη οτι ου κ ηλθεν καλεϲαι δικαιουϲ αλλα α μαρτωλουϲ τοτε ϲεν [1 chars] ϲεν εφανερωϲεν εαυτον ειναι υϊον θυ",
+          "translation": "And when He chose His own apostles who were to preach His gospel — men who were more lawless than all sin — He did this to show that He didn't come to call the righteous but sinners. Then He revealed Himself to be the Son of God.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-5-9-interpretation",
+              "text": "Barnabas emphasizes Christ's call of sinners — the apostles themselves were chosen 'more lawless than all sin' to magnify grace.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "ει γαρ μη ηλθεν εν ϲαρκι ουδ αν πωϲ οι α νο ι εϲωθηϲαν βλεποντεϲ αυτ ο οτε τον μελλον τα μη ειναι ηλι ο εργον των χιρ ω αυτου υ παρχον τα εμβλεποντεϲ · ουκ ιϲχυουϲιν ειϲ ταϲ ακτιναϲ αυτου αντοφθαλμηϲαι",
+          "translation": "For if He hadn't come in the flesh, people could never have been saved just by looking at Him. When they look at the sun — which is the work of His hands and is destined to cease existing — they can't look directly into its rays.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ουκουν ο ϋιοϲ του θυ εν ϲαρκι ηλθεν ϊνα το τε λιον των αμαρ τιων ανακεφα λαιωϲη τοιϲ διω ξαϲιν εν θανατω τουϲ προφηταϲ αυτων αυτου",
+          "translation": "So the Son of God came in the flesh so that He could complete the full account of sins for those who persecuted His prophets to death.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ουκουν ειϲ τουτο υ πεμι νεν λεγει γαρ ο θϲ τ η πληγην τηϲ ϲαρ κοϲ αυτου · οτι εξ αυ των οταν πατα ξωϲιν τον ποιμε να εαυτων · τοτε ϲκορπιϲθηϲεται και απολιπεται απολιται τα προβατα τηϲ ποι μνηϲ ·",
+          "translation": "So this is why He endured. For God says about the wounding of His flesh: \"When they strike their own shepherd, then the sheep of the flock will be scattered and perish.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "αυτοϲ δε η θεληϲεν ουτω παθειν εδει γαρ ϊνα επι ξυλου πα θη λεγει γαρ ο προ φητευων επ αυ τω φειϲε μου τηϲ ψυχηϲ απο ρομ φαιαϲ και καθη λωϲον μου ταϲ ϲαρκαϲ οτι ϲυνα γωγη πονηρευ ομενων επανε ϲτηϲαν μοι",
+          "translation": "But He Himself chose to suffer in this way, for He had to suffer on a tree. For the prophet says about Him: \"Spare my soul from the sword, and nail my flesh, because a gathering of evildoers has risen up against me.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και παλιν λεγει ϊδου τεθεικα μου τον νωτον ειϲ μαϲτι γαϲ ταϲ δε ϲειαγο ναϲ μου ειϲ ραπι ϲματα το δε προ ϲωπον μου εθη κα ωϲ ϲτερεαν πετραν",
+          "translation": "And again He says: \"Look, I offered my back to lashes and my cheeks to slaps, and I set my face like solid rock.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-5-14-cultural-context",
+              "text": "Quoting Isa 50:6-7 (LXX). The Servant songs are interpreted as direct prophecies of Christ's passion.",
+              "type": "cultural-context"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "οτε ουν εποιηϲεν την ε τολην τι λεγει · τιϲ ο κρινομενοϲ μοι αντιϲτητω μοι η τιϲ ο δικαι ουμενοϲ μοι εν γιϲατω τω παιδι κυ ·",
+          "translation": "So when He gave the command, what does He say? \"Who is the one who argues with Me? Let him stand against Me, or who is the one who contends with Me? Let him approach the servant of the Lord.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ουαι υ μιν οτι υ μιϲ παντεϲ ωϲ ι ματιον παλαιω θηϲεϲθαι και ϲηϲ καταφαγεται ϋ μαϲ και παλιν λεγει ο προφητηϲ επι ωϲ λιθοϲ ϊϲχυροϲ ετεθη ειϲ ϲυντρι βην ϊδου εμβα λω ειϲ τα θεμελι α ϲιων λιθον πο λυτελην πολυτελη εκλε κτον ακρογωνιε ον εντιμον",
+          "translation": "\"Woe to you, because all of you will grow old like a garment and the moth will eat you.\" And again the prophet says: \"He was placed as a mighty stone for crushing. Look, I'm placing in Zion's foundations a precious, choice, honored cornerstone.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ειτα τι λεγει και ο πι ϲτευων ειϲ αυτον ˙ ζηϲεται ειϲ τον . αιωνα επι λιθον ουν ημων η ελ πιϲ μη γενοιτο αλλα ειπεν αλλ επει εν ϊϲ χυϊ τεθεικεν τ η ϲαρκαν ϲαρκα αυτου κϲ · λεγει γαρ και εθη κεν με ωϲ ϲτερε α πετραν",
+          "translation": "Then what does He say? \"And the one who believes in Him will live forever.\" So our hope rests on a stone? Absolutely not. But He said this because the Lord has set His flesh in strength. For He says: \"And He set me like solid rock.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "λεγει δε παλιν ο προφη τηϲ λιθον ον α πεδοκιμαϲαν οι οικοδομουντεϲ ουτοϲ εγενηθη ειϲ κεφαλην γω νιαϲ και παλιν λεγει αυτη εϲτιν η ημερα η μεγα λη και θαυμαϲτη ην εποιηϲεν ο κϲ",
+          "translation": "And again the prophet says: \"The stone the builders rejected has become the cornerstone.\" And again He says: \"This is the great and wonderful day the Lord has made.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-6-4-cultural-context",
+              "text": "Composite quotation: Ps 118:22-23 (stone rejected = cornerstone) and Ps 118:24 (the day the Lord made). Barnabas reads these christologically.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "απλουϲτερον ϋμιν γραφω ϊνα ϲυνιετε εγω πε ριψημα τηϲ αγα πηϲ υ μων",
+          "translation": "I'm writing to you plainly so you'll understand — I'm the scum of your love.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "τι ουν λεγει παλιν ο προ φητηϲ περιεϲχ ε με ϲυναγωγη πο νηρευομενων εκυκλωϲαν με ωϲι μελιϲϲαι κη ριον και επι τον ϊματιϲμον μου εβαλον κληρον",
+          "translation": "So what does the prophet say again? \"A gathering of evildoers surrounded me, they encircled me like bees around a honeycomb, and they cast lots for my clothing.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εν ϲαρκι ουν αυ του μελλοντοϲ φανερουϲθαι και παϲχειν προε φανερωθη το πα θοϲ λεγει γαρ ο προ φητηϲ επι τον ιϲλ ουαι τη ψυχη αυ των οτι βεβου λευνται βουλην πονηραν καθ ε αυτων ειποντεϲ δηϲωμεν τον δι καιον οτι δυϲχρη ϲτοϲ ημιν εϲτ ι",
+          "translation": "Since He was about to be revealed in the flesh and suffer, His suffering was foretold. For the prophet says against Israel: \"Woe to their soul, because they've devised an evil plan against themselves, saying, 'Let's bind the righteous one, because he's troublesome to us.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "τι λεγει ο αλλοϲ προφητηϲ μωϲηϲ αυτοϲ αυτοιϲ αυτοιϲ ϊδου ταδε λεγει κϲ ο θϲ ειϲελ θαται ειϲ την γ η την αγαθην ην ωμοϲεν κϲ τοιϲ πατραϲιν ϋμ ω τω αβρααμʼ και ϊϲακ και ϊακωβʼ · και κα τακληρονομηϲα τω την κατακληρονομηϲατε αυτην γην ρεου ϲαν γαλα και μελι",
+          "translation": "What does the other prophet Moses say to them? \"Look, this is what the Lord God says: Enter the good land that the Lord swore to your fathers — to Abraham, Isaac, and Jacob — and take possession of it, a land flowing with milk and honey.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "τι δε λεγει η γνω ϲιϲ μαθετε . ελπι ϲαται φηϲιν επι τον εν ϲαρκι μελλοντα φανερουϲθαι ϋ μιν ιν α νοϲ γαρ γη εϲτιν παϲχου ϲα απο προϲωπου γαρ τηϲ γηϲ η πλα ϲιϲ του αδαμ εγε νετο",
+          "translation": "What does knowledge say? Learn this. He says: \"Hope in the One who is about to be revealed to you in the flesh.\" For humanity is earth — the creation of Adam came from the face of the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "τι ουν λεγει ειϲ την γην την α γαθην γη γην ρεουϲ α γαλα και μελι · ευ λογητοϲ ο κϲ ημ ω αδελφοι ο ϲοφι α και νουν θεμε νοϲ εν ημιν τ ω κρυφιων αυτου · λεγει γαρ ο προφη τηϲ παραβολην κυ τιϲ νοηϲει ει μη ϲοφοϲ και επι ϲτημων και αγα πων τον κν αυτου",
+          "translation": "So what does He say? \"Into the good land, a land flowing with milk and honey.\" Blessed is our Lord, brothers, who has placed wisdom and understanding in us — the secrets of His mysteries. For the prophet says: \"Who will understand the Lord's parable except the wise, knowledgeable, and those who love their Lord?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "επι ουν εκαινιϲεν ανακαινιϲαϲ ημαϲ εν τη αφεϲει των αμαρτιων . εποιηϲεν ημαϲ αλλον τυπον ωϲ παιδιων εχειν τ η ψυχην ωϲ αν δη αναπλαϲϲοντοϲ αυτου ημαϲ ·",
+          "translation": "Since He renewed us through the forgiveness of sins, He made us into a different type, so that we have the soul of children — as if He were remolding us.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "λεγει γαρ η γραφη περι ημων ωϲ λεγει τω ϋϊω ποιηϲω μεν καθ εικονα και καθ ομοιωϲ ι ημων τον ανον και αρχετωϲαν των θηριων τηϲ γηϲ και των πετει νων του ο υνο υ και των ϊχθυων τηϲ θαλαϲϲηϲ και ειπεν κϲ ι δ ω το καλον πλαϲμα ημων · αυξανεϲθε και πληθυνεϲθε και πληρωϲαται την γην ταυτα προϲ τον υιον",
+          "translation": "For Scripture says about us, as He says to the Son: \"Let's make humanity in Our image and likeness, and let them rule over the beasts of the earth, the birds of the sky, and the fish of the sea.\" And the Lord said: \"Look at Our good creation — increase, multiply, and fill the earth.\" He said these things to the Son.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "παλιν ϲοι επιδειξω πωϲ προϲ ημαϲ λεγει κϲ δευ τεραν πλαϲιν επ ε ϲχατων εποιηϲ ε λεγει δε κϲ ϊδου ποι ω τα εϲχατα ωϲ τα πρωτα ειϲ τουτο ουν εκηρυξεν ο προφητηϲ ειϲελ θαται ειϲ γην ρεου ϲαν γαλα και μελι και κατακυριευϲα τε αυτηϲ",
+          "translation": "I'll show you again how the Lord speaks to us. He made a second creation in the last days. For the Lord says: \"I'm making the last things like the first.\" So this is why the prophet preached: \"Enter the land flowing with milk and honey and rule over it.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ϊδε ουν η μιϲ αναπεπλαϲμε θα καθωϲ παλιν εν ετερω προφη τη λεγει ϊδου λεγει κϲ εξελω τουτων τουτεϲτιν ων προ εβλεπεν το πνα κυ ταϲ λιθιναϲ καρ διαϲ και εμβαλω ϲαρκιναϲ οτι αυ τοϲ εν ϲαρκι εμελ λεν φανερουϲθαι και εν ημιν κατοι κειν",
+          "translation": "See, we've been remade — just as the Spirit of the Lord foresaw, as another prophet says: \"Look,\" says the Lord, \"I'll remove from them\" — meaning those the Spirit foresaw — \"the hearts of stone and put in hearts of flesh,\" because He was about to be revealed in the flesh and dwell among us.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-6-14-cultural-context",
+              "text": "Ezek 11:19; 36:26 — the promise of heart-transformation is fulfilled in Christ's incarnation and indwelling.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "original": "ναοϲ γαρ αγιοϲ αδελφοι μου τω κω το κατοικητη ριον ημων τηϲ καρ διαϲ",
+          "translation": "For the dwelling place of our hearts, my brothers, is a holy temple to the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "λεγει γαρ κϲ πα λιν και εν τινι ο φθηϲομε τω κω τω θω μου και δο ξαϲθηϲομαι εξο μολογηϲομαι ϲοι εν εκκληϲια αδελ φων μου και ψα λω ϲοι αναμεϲον εκκληϲιαϲ αγιων ουκουν ημειϲ εϲ μεν ουϲ ειϲηγα γεν ειϲ την γην την αγαθην",
+          "translation": "For the Lord says again: \"And in what place will I appear before the Lord my God and be glorified? I'll confess to You in the assembly of my brothers and sing to You in the midst of the assembly of saints.\" So we are the ones He brought into the good land.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "τι ουν το γαλα και το μελι οτι πρωτον το πε διον μελιτι ειτα γαλακτι ε ζωοποι ειται ουτωϲ ουν κ(αι) ημιϲ τη πιϲτι τηϲ επαγγελιαϲ και τω λογω ζωοποι ουμενοι ζηϲομ ε κατακυριευον τεϲ τηϲ γηϲ",
+          "translation": "So what about the milk and honey? First the land is brought to life with honey, then with milk. So we too, brought to life by the faith of the promise and the Word, will live and rule over the land.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-6-17-interpretation",
+              "text": "Milk and honey interpreted allegorically: milk = first nourishment of faith; honey = sweetness of the promise.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "original": "προει ρηκαμεν δε επα νω και αυξανε ϲθωϲαν και πλη θυνεϲθωϲαν και αρχετωϲαν τ ω ϊχθυων τιϲ ουν ο δυναμενοϲ αρχ ι θηριων η ϊχθυ ω η πετινων του ου ρανου αιϲθανε ϲθαι γαρ οφιλομ ε οτι το αρχειν εξου ϲιαϲ εϲτιν ϊνα τιϲ επιταξαϲ κυριευ ϲει",
+          "translation": "We said earlier: \"Let them increase and multiply and rule over the fish.\" So who can rule over beasts, fish, or birds of the sky? We should understand that ruling implies authority — the power to command and govern.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ει ουν ου γεινε ται τουτο νυν αρα ημιν ειρηκεν πο τε οταν και αυτοι τελιωθωμεν κληρονομοι τηϲ διαθηκηϲ κυ γενε ϲθαι",
+          "translation": "If this isn't happening now, then He's told us about a future time — when we ourselves will be made complete, becoming heirs of the Lord's covenant.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ουκουν νοει ται τεκνα ευφρο ϲυνηϲ οτι παντα ο καλοϲ κϲ προε φανερωϲεν ημ ι ϊνα γνωμεν ω κατα παντα ευχα ριϲτουντεϲ οφι λομεν αινιν",
+          "translation": "So understand, children of joy: the good Lord has revealed everything to us beforehand, so that we may know whom we ought to thank for everything.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ει ουν ο υ̇ϊοϲ του θυ ων κϲ προεφα νερωϲεν ϊνα γνω μεν ω κατα παν τα ευχαριϲτουν τεϲ και μελλων κρινιν ζωνταϲ και νεκρουϲ επα θεν ϊνα η πληγη αυτου ζωοποιηϲι ημαϲ πιϲτευϲω μεν οτι ο υ̇ϊοϲ του θυ ουκ ηδυνατο παθειν ει μη δι ημαϲ",
+          "translation": "So if the Son of God — who is Lord and who will judge the living and the dead — suffered so that His wound might bring us to life, let's believe that the Son of God couldn't suffer except for us.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "αλλα και ϲταυ ρωθιϲ εποτιζε το οξει και ολη χολη α κουϲατε περι του του πεφανερωκ α οι ϊεριϲ του ναου γεγραμμενηϲ εν τοληϲ οϲ αν μη νη ϲτευϲη την νηϲτι αν θανατω εξολεθρευθη ϲετε ενετιλατο κϲ · αυτ επι και αυτοϲ επι ϋπερ των ημετερ ω αμαρτιων εμελ λεν το ϲκευοϲ του π νϲ προϲφεριν θυϲιαν ι να και ου τοϲ ο τυποϲ ο γενομενοϲ επι ϊϲακ ϊϲαακ του προϲε νεχθεντοϲ επι το θυϲιαν τελεϲθη ναι ·",
+          "translation": "But even when crucified He was offered vinegar and gall. Listen to what the priests of the temple revealed — as it's written in the commandment: \"Whoever doesn't keep the fast shall be put to death.\" The Lord commanded this. He Himself was about to offer the vessel of the Spirit as a sacrifice for our sins, so that the type that occurred with Isaac — who was offered on the altar — might be fulfilled.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-7-3-interpretation",
+              "text": "The type of Isaac: as Isaac carried the wood for his sacrifice, so Christ carried the cross. This typology was common in early Christian literature.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "original": "τι ουν λεγει εν τω προφητη και φαγετωϲαν εκ του τραγου του προϲφε ρομενου τη νηϲτι α ϋπερ παϲων τ ω αμαρτιων προϲε χεται ακριβωϲ και φαγετωϲαν οι ϊερειϲ μονοι παν τεϲ το εντερον α πλυτον μετα οξουϲ",
+          "translation": "So what does He say in the prophet? \"Let them eat from the goat that is offered on the fast for all sins.\" Pay close attention: \"Let the priests alone, all of them, eat the unwashed intestine with vinegar.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "προϲ τι · επι εμεν επιδη εμε ϋπερ αμαρτιων μελλοντα του λα ου μου του κενου προϲφεριν πρ [1 chars] ριν την ϲαρκαν μου μελλε ται ποτιζειν χολ η μετα οξουϲ φαγε ται ϋμιϲ μονοι του λαου νηϲτευ οντοϲ και κοπτο μενου επι ϲακκου και ϲποδου ϊνα διξη οτι δι αυτ ο πολλα παθειν ϋπ αυτων",
+          "translation": "Why? Because I'm about to offer My flesh for the sins of My new people. They're about to give Me gall mixed with vinegar to drink. Eat, you alone of the people, while the people fast and mourn in sackcloth and ashes — to show that He must suffer many things at their hands.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "α ενε τιλατο προϲεχε ται λαβετε δυο τρα γουϲ καλουϲ και ομοιουϲ και προϲ ενεγκαται και λα βετω ο ϊερευϲ τον εναν ενα ειϲ ολοκαυ τωμα τον ενα υ περ αμαρτιων",
+          "translation": "Pay attention to what He commanded: \"Take two fine goats that are alike and offer them. Let the priest take one for a burnt offering and one for sin.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "τον δε εναν ενα τι ποι ηϲωϲιν επικατα ρατοϲ φηϲιν ο ειϲ πωϲ ο τυποϲ του θυ ιυ φανε ρουται",
+          "translation": "And what should they do with the other one? He says: \"The one is cursed.\" See how the type of Jesus God is revealed!",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-7-7-interpretation",
+              "text": "The two goats of Yom Kippur (Lev 16) typify Christ: one sacrificed (the cross), the other cursed and sent away (the rejection and glorification).",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "original": "και εμπτυ ϲαται παντεϲ και κατακεντηϲαται και περιθεται το εριον το κοκκιν ο περι την κεφαλ η αυτου και ουτωϲ ειϲ ερημον βλη θητω και οταν γε νηται ουτωϲ αγει ο βαϲταζων τον τραγον ειϲ την ερη μον φερι κ(αι) αφερι το εριον και επιτιθηϲιον επιτιθηϲινον επιτιθηϲιν αυτο επι φρυγαν ο το γενομενον λεγομενον ρα χηλʼ ου και τουϲ βλαϲτουϲ ειωθα μεν τρωγειν εν τη χωρα ευριϲκ ο τεϲ ουτω μονηϲ τηϲ ραχουϲ οι καρ ποι γλυκειϲ ειϲιν ·",
+          "translation": "\"Let them all spit on it and stab it and put the scarlet wool around its head, and let it be thrown into the wilderness.\" And when this is done, the one carrying the goat into the wilderness takes the wool off and puts it on a bush called 'rachal' — whose shoots we're used to eating when we find them in the country. Only the fruit of this bush is sweet.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "τι ουν τουτο εϲτ ι προϲεχετε τον μεν ενα επι το θυ ϲιαϲτηριον τον δε ενα επικαταρα τον και οτι τον εϲτεφανωμεν ο επικαταρατον ε πιδη οψονται αυτον τοτε τη η μερα τον ποδη ρη εχοντα τον κοκκινον περι την ϲαρκα και ε ρουϲιν ουχ ουτοϲ εϲτιν ον ποτε η μιϲ εϲταυρωϲαμ ε και εξουθενη ϲαμεν κ(αι) εμπτυϲ α τεϲ αληθωϲ ου τοϲ ην ο τοτε λε γων εαυτον υι ο του θυ ειναι",
+          "translation": "What does this mean? Pay attention: one is on the altar, the other is cursed — and the one who is cursed is crowned. Because when they see Him on that day wearing the long scarlet robe around His flesh, they'll say: \"Isn't this the one we once crucified, mocked, spat on? Surely this is the one who said He was the Son of God.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-7-9-interpretation",
+              "text": "The scarlet robe and crown of thorns prefigure Christ's passion; the 'cursing' of the goat is overturned when they see Him in glory.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "πωϲ γαρ ομοιοϲ εκει νω ειϲ τουτο ο μοιουϲ τουϲ τρα γουϲ καλουϲ ειϲουϲ ϊϲουϲ · ϊνα οταν ειδωϲ ι αυτον τοτε ερχο μενον εκπλαγωϲ ι επι τη ομοιοτη τι του τραγου · ου κουν ειδε ειδετε τον τρα γον τον τυπον του μελλοντοϲ παϲ χειν ιυ ·",
+          "translation": "Why are the goats alike and similar, equal? So that when they see Him coming at that time, they'll be amazed at the resemblance to the goat. So then: see the goat as the type of Jesus who was about to suffer.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "τι δε οτι το εριον μεϲον των ακανθων τιθεαϲιν τυποϲ εϲτιν του ιυ τη εκ κληϲια θεμενοϲ οτι ωϲ εαν θελη το εριον αραι το κοκκινον εδει αυτον πολλα πα θιν δια το ειναι φοβεραν την ακ α θαν και θλιβεν τα κυριευϲαι αυτου ουτω φηϲιν οι θελοντεϲ με ι διν και αψαϲθαι μου τηϲ βαϲιλιαϲ οφιλουϲιν θλιβ ε τεϲ μ και παθον τεϲ λαβειν με",
+          "translation": "What about the wool placed among the thorns? It's a type of Jesus set before the church, because if anyone wants to take the scarlet wool, they'd have to suffer many things because the thorn is frightening, and by enduring pain they'd gain mastery over it. He says: \"Those who want to see Me and touch My kingdom must endure suffering and pain to receive Me.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "τι να δε δοκιται τυ πον ειναι οτι εν τεταλται τω ϊϲλʼ προϲ φεριν δαμαλιν τουϲ ανδραϲ εν οιϲ ειϲιν αμαρτιαι τε λιαι και ϲφαξαν ταϲ κατακαιειν και εριν τοτε τα παιδι α ϲποδον και βαλ ι ειϲ αγγη και περι τιθεναι το εριον το κοκκινον επι ξων επι ξυλων ειδε παλιν ο τυποϲ ο του ϲταυρου και το ε ριον το κοκκινον και τον το ϋϲϲωπον και ουτωϲ ραντι ζειν τα παιδια κα θ ενα τον λαον ϊ να αγνιζωνται α πο των αμαρτι ω",
+          "translation": "What type do you think it is? That Israel was commanded to offer a heifer — the men who have complete sins — and after slaughtering it, burn it. Then the children were to take the ashes, put them in containers, wrap the scarlet wool around wood — see again the type of the cross and the scarlet wool and the hyssop — and in this way sprinkle each person from the people so they'd be cleansed from sins.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-8-1-cultural-context",
+              "text": "The red heifer ritual (Num 19) — the wood, scarlet wool, and hyssop all signify the cross, Christ's blood, and purification.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "νοειται πωϲ εν α πλοτητι λεγεται ϋμιν νομοϲ χϲ ιϲ ο μοϲχοϲ ο ιϲ εϲτιν οι προϲφερ ο τεϲ ανδρεϲ αμαρ τωλοι οι προϲενεγ καντεϲ αυτον επι την ϲφαγην ειτα ουκετι ανδρεϲ ου κετι αμαρτωλ ω η δοξα ·",
+          "translation": "Understand how plainly it's told to you: the calf is Jesus Christ. The men who offered it were sinners who brought Him to the slaughter. Then no longer men, no longer sinners — the glory is His.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "οι δε ραντιζ ο τεϲ παιδεϲ · οι ευαγγε λιϲαμενοι ημιν την αφεϲιν των αμαρτιων και τον αγνιϲμον τηϲ καρδιαϲ οιϲ ε δωκεν τη του του ευαγ γελιου την εξουϲι αν ουϲιν ιβ ειϲ μαρ τυριον των φυ λων οτι ιβ φυλαι του ι ϲλ ʼ ειϲ το κηρυϲ ϲιν",
+          "translation": "The children who sprinkled are the ones who proclaimed to us the forgiveness of sins and the purification of the heart — those to whom He gave the authority of the gospel. There were twelve as a testimony to the tribes, because the twelve tribes of Israel were to hear the preaching.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-8-3-interpretation",
+              "text": "The twelve apostles correspond to the twelve tribes — the new Israel is constituted by apostolic preaching.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "original": "διατι δε τρειϲ παιδεϲ οι ραντι ζοντεϲ ειϲ μαρτυ ριον αβρααμʼ ϊϲακ ϊακωβʼ οτι ουτοι μεγαλοι τω θω",
+          "translation": "Why are there three children doing the sprinkling? As a testimony to Abraham, Isaac, and Jacob — because these are great before God.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-8-4-interpretation",
+              "text": "Three sprinkling children typify the three patriarchs — Abraham, Isaac, and Jacob — confirming the covenant across generations.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "οτι δε το εριον ε πι το ξυλον οτι η βαϲιλεια ιυ επι ξυ λου και οτι οι ελπι ζοντεϲ επ αυτον ζηϲονται ειϲ τον αιωνα",
+          "translation": "The wool on the wood means that the kingdom of Jesus is on the tree, and those who hope in Him will live forever.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "διατι δε α μα το εριον και το υ ϲϲωπον οτι εν τη βαϲιλεια αυτου ημεραι εϲονται ρυπαραι και πονη ραι εν αιϲ ημιϲ ϲω θηϲομεθα οτι ο αλγων ϲαρκα δι α του ρυπου του ϋϲϲωπου ειαται ϊαται",
+          "translation": "Why is the wool together with the hyssop? Because in His kingdom there will be foul and evil days, in which we'll be saved — for the one who is sick in the flesh is healed through the cleansing of the hyssop.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και δια τουτο ουτωϲ γενομενα ημιν μεν εϲτιν φανε ρα · εκεινοιϲ δε ϲκο τια ϲκοτινα οτι η ουκ ηκου ϲαν φωνηϲ κυ",
+          "translation": "These things that happened are clear to us, but to them they're dark — because they didn't hear the voice of the Lord.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "λε γει γαρ παλιν περι των ωτιων πωϲ περιετεμεν ημ ω την ϲαρκαν καρδιαν λεγει κϲ εν τω προφητη ειϲ ακο ωτιου ϋπη κουϲαν μου και παλιν λεγει ακο η ακουϲονται οι πορρωθεν α εποι ηϲα γνωϲονται και περιτμηται περιτμηθηται λεγει κϲ ταϲ καρ διαϲ ϋμων",
+          "translation": "Now again He says about the ears — how He circumcised our hearts from the flesh. The Lord says in the prophet: \"Through the hearing of the ear they obeyed Me.\" And again He says: \"Those far away will hear and know what I've done.\" And He says: \"Circumcise your hearts,\" says the Lord.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-9-1-interpretation",
+              "text": "Barnabas reinterprets circumcision as an inward, spiritual reality — the 'circumcision of the heart' from Deut 10:16; Jer 4:4.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "και παλιν λεγει ακουε ϊ ϲ λ οτι ταδε λεγει κϲ ο θϲ ϲου τιϲ εϲτ ι ο θελων ζηϲε ειϲ τον αιωνα ακο η ακουϲαται ακουϲατω τηϲ φωνηϲ του παι δοϲ μου ·",
+          "translation": "And again He says: \"Hear, O Israel, for this is what the Lord your God says. Whoever wants to live forever, listen carefully to the voice of My servant.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και παλιν λεγει ακου ε ο υνε και ενωτι ζου γη οτι κϲ ελα ληϲεν ταυτα ειϲ μαρτυριον και πα λιν λεγει · ακουϲα τε λογον κυ αρχον τεϲ του λαου του του · και παλιν λεγει ακου ϲατε τεκνα φωνη φωνηϲ βοωντοϲ εν τη ε ρημω",
+          "translation": "And again He says: \"Hear, O heavens, and listen, O earth, for the Lord has spoken these things as a witness.\" And again He says: \"Hear the word of the Lord, rulers of this people.\" And again He says: \"Listen, children, to the voice of one crying in the wilderness.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ουκουν πε ριετεμεν ημων ταϲ ακοαϲ ι να ακου ϲωμεν λογον και μη μονον πιϲτευ ϲωμεν ημιϲ αλλα και η περιτομη ε φ ηϲ πεποιθαϲιν κατηργηται · περι τομην γαρ ειρηκ ε ου ϲαρκοϲ γενηθη ναι αλλα παρεβηϲ α οτι αγγελοϲ πονηροϲ εϲφαξεν εϲοφιζεν αυτουϲ",
+          "translation": "So He circumcised our hearing so that we might hear the word and believe — not just we, but also that the circumcision in which they trusted has been abolished. For He said that circumcision isn't about the flesh, but they transgressed because an evil angel deceived them.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "λε γει προϲ αυτουϲ τα δε λεγει κϲ ο θϲ ϋ μων ωδε ευριϲκω εντολην μη ϲπει ρεται επ ακανθαιϲ περιτμηθηται τω θω ϋμων και τι λεγει περιτμη ται την ϲκληρο καρδιαν ϋμων και τον τραχηλον ϋ μων ου ϲκληρυ νειτε ϊδου λαβε πα λιν ϊδου λεγει κϲ παντα τα εθνη ακροβυϲτιαν ο δε λαοϲ ουτοϲ α περιτμητοϲ καρ διαϲ",
+          "translation": "He says to them: \"This is what the Lord your God says\" — here I find a command: \"Don't sow among thorns.\" He says: \"Be circumcised to your God.\" And what does He say? \"Circumcise the hardness of your hearts and don't stiffen your necks.\" Look again: \"Look,\" says the Lord, \"all the nations are uncircumcised in the flesh, but this people is uncircumcised in heart.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "αλλ εριϲ και μην περιτετμη ται ο λαοϲ ειϲ ϲφρα γιδα αλλα και παϲ ϲυροϲ και αραψ και παντεϲ οι ϊερειϲ των ϊδωλων αρα ουν κακεινοι εκ τηϲ διαθηκηϲ αυ των ειϲιν αλλα και οι αιγυπτιοι εν περιτομη ειϲ ι",
+          "translation": "But you'll say: \"Surely that people is circumcised as a seal.\" But so is every Syrian, Arab, and all the priests of idols — so are they also from their covenant? And even the Egyptians are in circumcision!",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-9-6-cultural-context",
+              "text": "Barnabas notes that other nations (Syrians, Arabs, Egyptians) also practice physical circumcision, so it cannot be the unique sign of the covenant.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "original": "μαθετε ουν τε κνα αγαπηϲ περι παντων οτι αβρα αμ πρωτοϲ περι τομην δουϲ εν πνι πλουϲιωϲ προ βλεψαϲ ειϲ τον ιν περιετεμεν λαβ ω γ γραμματων δογ",
+          "translation": "So learn, children of love, about everything: Abraham, who first gave circumcision, looked ahead in the Spirit to Jesus and circumcised, receiving the teaching of three letters.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "λεγει γαρ και περιετεμεν αβρα αμ εκ του οικου αυ του ανδραϲ δεκαο κτω και τριακοϲι ουϲ · τριϲ τιϲ τιϲ ουν η δο θιϲα αυτω γνωϲιϲ μαθετε · οτι τουϲ δεκαοκτω πρω τουϲ και διαϲτη μα ποιηϲαϲ λεγει τριακοϲιουϲ · το δεκαοκτω εχειϲ ιν οτι δε ο ϲταυροϲ εν τριακοϲτω τω τριακοϲτω τουτω η μελλεν εχιν την χαριν λεγει και τρι ακοϲιουϲ · δηλοι ουν τον μεν ιν εν τοιϲ δυϲιν γραμ μαϲιν και εν τω ενι τον ϲταυρον",
+          "translation": "For Scripture says: \"Abraham circumcised eighteen and three hundred men from his household.\" So what was the knowledge given to him? Learn. He mentions the eighteen first, then makes a pause and says \"three hundred.\" The eighteen is Ι (=10) Η (=8) — you have ΙΗ (Jesus). And since the cross (Τ = 300) was about to have grace in the three hundred, it says \"three hundred.\" So the ΙΗ reveals Jesus in the two letters, and the Τ reveals the cross in the one.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-9-8-interpretation",
+              "text": "The famous ΙΗ (ΙΗΣΟΥΣ = Jesus = 18 = Ι+Η) + Τ (cross = 300) interpretation. The 318 servants of Abraham (Gen 14:14) prefigure Christ's crucifixion.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "οιδεν · οτι την εμ φυτον δωρεαν τηϲ διαθηκηϲ αυ του θεμενοϲ εν η μιν ουδειϲ γνηϲι ωτερον εμαθεν απ εμου λογον αλλα οτι αξιοι εϲτε ϋμειϲ",
+          "translation": "He knows. The One who placed the implanted gift of His covenant in us — no one learned a more genuine word from me than this. But you're worthy of it.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "οτι δε μωϲηϲ ει πεν ου φαγεϲθε χοιρον ουτε αε τον · ουτε οξυπτε ρον ουτε κορα καν κορακα ουτε ϊχθυν οϲ ουκ εχει μερι δα λεπιδα εν εαυτω τρι α ελαβεν εν τη ϲυνεϲει δογμα τα",
+          "translation": "Now when Moses said, \"Don't eat pork, or eagle, or hawk, or raven, or any fish without a scale or fin,\" he took three teachings in his understanding.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "περαϲ γε τοι λε γει αυτοιϲ εν τω δευτερονομιω και διαθηϲομαι προϲ τον λαον του τον τα δικαιωμα τα μου αρα ουν ου κ εϲτιν εντολη θυ το μη τρωγε ι μω υ ϲηϲ δε εν πν ι ελαληϲεν",
+          "translation": "Furthermore, He says to them in Deuteronomy: \"And I'll set My requirements before this people.\" So it's not a command from God not to eat — but Moses spoke in the Spirit.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "το ο υ χοιριον προϲ του το ειπεν ου κολ ληθηϲη φηϲιν α νοιϲ τοιουτοιϲ οιτινεϲ ειϲιν ο μοιοι χοιρων τουτεϲτιν οταν ϲπαταλωϲιν επι λανθανονται του κυ οταν δε ϋ ϲτερουνται επι γινωϲκουϲιν τον κν ωϲ και ο χοι ροϲ κϲ χοιροϲ οταν τρωγει τον κυριον ουκ οι δεν οταν δε επι κραυγαζει πινα κραυγαζει και λα βων παλιν ϲιω πα ·",
+          "translation": "About the pig, Moses said this: \"Don't associate with people like pigs.\" Pigs are like people who, when they're well-off, forget the Lord; but when they're in need, they recognize the Lord. A pig, when it's eating, doesn't know its owner; when it's hungry, it cries out — and when it gets food, it's quiet again.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-10-3-interpretation",
+              "text": "The pig allegory: gluttonous forgetfulness of God vs. need-driven remembrance. A moral typology applied to the dietary prohibition.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "original": "ουτε φαγη τ ο αετον · ουδε τον οξυπτερον ουδε τον ϊκτινα ουτε τον κορακα ου μη φηϲιν κολληθη ϲη ουδε ομοιω θηϲη ανοι ϲ τοιου τοιϲ οιτινεϲ ουκ οι δαϲιν δια κοπου και ϊδρωτοϲ εαυ τοιϲ ποριζειν τ η τροφην αλλα τα αλλο τρια εν ανομια αυ των και περιτη ρουϲιν εν ακερε οϲυνη περιπατο υ τεϲ και περιβλε πονται τινα εκ δυϲωϲιν δια την πλεονεξιαν ωϲ και τα ορνεα ταυ τα μονα δια κοπου εαυτοιϲ ου ποριζει την τροφην αλλα και τα αργα καθημενα εκ ζητει πωϲ αλλο τριαϲ ϲαρκαϲ φαγη οντα λοιμα τη πονηρια αυτων",
+          "translation": "\"Don't eat the eagle, or the hawk, or the kite, or the raven.\" He says: \"Don't associate with or become like people who don't know how to provide food for themselves by their own work and sweat, but plunder what belongs to others in their lawlessness, and are on the lookout to take from others out of greed.\" These birds alone don't provide food for themselves by their own work, but sit idle and look to devour others' flesh — they're destructive in their wickedness.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-10-4-interpretation",
+              "text": "Birds of prey represent thieves and the greedy — those who live off others rather than working.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "και ου φαγη φηϲ ι ϲμυρναν · ουδε πωλυπαν ουδε ϲηπιαν ου μη φα γωϲιν ου μη φη ϲιν ομοιωθηϲη α νοι ϲ τοιουτοιϲ οιτινεϲ ειϲιν αϲε βειϲ ειϲ τελοϲ και κεκριμενοι ηδη τω θανατω ωϲ και ταυτα τα ϊχθυ δια μονα επικα ταρατα τα εν τω βυθω νηχεται μη κολυμβων τα ωϲ και τα λοιπα αλλα εν τη γη κα τω του βυθου κα τοικι ·",
+          "translation": "\"And don't eat the eel, or the octopus, or the cuttlefish.\" He says: \"Don't become like people who are completely ungodly and already condemned to death.\" These fish alone are cursed — they swim in the depths, not like the others that swim above, but they live on the bottom of the deep.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-10-5-interpretation",
+              "text": "Bottom-dwelling fish represent the ungodly who live in darkness, contrasted with fish that swim freely.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "αλλα και τ ο δαϲυποδα ου μη φαγη προϲ τι ου μη γενη παιδοφθο ροϲ ουδε ομοιω θηϲη τοιϲ τοιου τοιϲ οτι λαογωοϲ ο λαγωοϲ κατ ενιαυτον πλε ονεκτι την αφο δευϲιν οϲα γαρ ε τη ζη τοϲαυταϲ ε χει τρυπαϲ",
+          "translation": "\"And don't eat the hare.\" Why? \"Don't become a seducer of boys or like such people, because the hare increases its orifices every year — as many years as it lives, that many openings it has.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "αλλ ου δε την ϋεναν φα γη ου μη φηϲιν γε νη μοιχοϲ ουδε φθορευϲ ουδε ο μοιωθηϲη τοιϲ τοιουτοιϲ προϲ τι οτι το ζωον του το παρ ενιαυτον αλλαϲϲει την φυϲ ι και ποτε μεν αρ ρεν ποτε θηλυ γει ν̣εται",
+          "translation": "\"And don't eat the hyena.\" He says: \"Don't become an adulterer or a seducer or like such people.\" Why? Because this animal changes its nature every year — one time it becomes male, another time female.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-10-7-cultural-context",
+              "text": "The hyena's changing sex was a widely believed ancient natural-history 'fact' (cf. Pliny, Aelian). Barnabas uses it to condemn sexual ambiguity and adultery.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "original": "αλλα και τ η γαλην εμιϲηϲεν καλωϲ ου μη φη ϲιν γενηθηϲ τοι ουτοϲ οιουϲ ακου ομεν ανομιαϲ ποιουνταϲ εν τω ϲωματι δι ακα θαρϲιαν ουδε ταιϲ την ανομιαν ποι ουϲαι ποιουϲαιϲ εν τω ϲτο ματι και ακαθαρ ϲια κολληθηϲει το γαρ ζωον του το τω ϲτοματι κυ ει",
+          "translation": "And he rightly hated the weasel. He says: \"Don't become like those who, as we hear, commit lawlessness with their bodies through uncleanness, and don't associate with women who commit lawlessness with their mouths and uncleanness — for this animal conceives through its mouth.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-10-8-cultural-context",
+              "text": "The weasel conceiving through the mouth was another ancient belief (cf. Aristotle, Pliny). Applied to sins of speech and oral impurity.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "περι μεν των βρωματων λαβ ω μω υ ϲηϲ τρια δογ ματα ουτωϲ εν πνι ελαληϲεν οι δε κατ επιθυμι α τηϲ ϲαρκοϲ ωϲ πε ρι βρωϲεωϲ προϲ εδεξαντο",
+          "translation": "So Moses received three teachings about foods — he spoke in the Spirit. But people accepted them according to the desires of the flesh, as if they were about actual food.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "λαμ βανι δε των αυ των τριων δογ ματων γνωϲιν δαυειδ και λεγει ομοιωϲ μακαριοϲ ανηρ οϲ ουκ επορευθη εν βουλη αϲεβ ω καθωϲ και οι ι χθυεϲ πορευον ται εν ϲκοτι ειϲ τα βαθη · και εν οδω αμαρτωλων ου κ εϲτη καθωϲ οι δοκουντεϲ φοβι ϲθαι τον κν αμαρ τανουϲιν ωϲ οι χοιροι και επι κα θεδραν λοιμων ουκ εκαθιϲεν κα θωϲ τα πετινα καθημενα ειϲ αρ παγην · εχε τελι ωϲ και περι τηϲ βρωϲεωϲ",
+          "translation": "David also received knowledge about the same three teachings and says: \"Blessed is the person who doesn't walk in the counsel of the ungodly\" — just as the fish walk in darkness in the depths — \"and doesn't stand in the way of sinners\" — like those who claim to fear the Lord but still sin like pigs — \"and doesn't sit in the seat of the destructive\" — like birds sitting for prey. Now you have the full teaching about food.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "παλιν λεγει μω υ ϲηϲ και φαγεϲθαι π α διχηλουν και μαρυκουμενον τι λεγει οτι την τροφην λαμβα νων οιδεν τον τρεφοντα αυτ ο και επ αυτω ανα παυομενοϲ ευ φρενεϲθαι δοκει · καλωϲ ειπεν βλε πων την εντο λην τι ουν λεγει κολλαϲθαι μετα των φοβουμε νων τον κν με τα των μελετο υ των ο ελαβον διαϲταλμα ρη ματοϲ εν τη καρ δια μετα των λα λουντων τα δι καιωματα κυ και τηρουντων με τα των ειδοτ ω οτι η μελετη εϲτ ι εργον ευφροϲυ νηϲ και αναμαρυ κωμενοντον λογον του κυ τι δε το διχηλουν οτι και ο δικαιοϲ εν τουτω τω κο ϲμω περιπατι και τον αγιον ο̣ αιω να εκδεχεται βλε πετε πωϲ ˙ ενομο θετηϲεν μωϋϲηϲ καλωϲ",
+          "translation": "Again Moses says: \"Eat everything that has a split hoof and chews the cud.\" What does he mean? That the one receiving the food knows the One who feeds them, and resting in Him seems to rejoice. He spoke well, understanding the command. So what does he say? Associate with those who fear the Lord, who meditate on what they've received as the command of the word in their hearts, who speak and keep the Lord's requirements, who know that meditation is a work of joy — and who chew the cud of the Lord's word. And what about the split hoof? That the righteous walks both in this world and awaits the holy age. See how wisely Moses legislated!",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-10-11-interpretation",
+              "text": "Split hoof = walking in both this age and the age to come. Chewing the cud = meditating on God's word.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "original": "αλλα ποθ ε εκεινοϲ εκεινοιϲ εκεινοιϲ ταυτα νο ηϲαι η ϲυνιεναι ημειϲ δε δικαιωϲ νοηϲαντεϲ ταϲ εντολαϲ δικαιωϲ λαλουμεν ωϲ η θεληϲεν ο κϲ δια τουτο περιετεμ ε ταϲ ακοαϲ ημων και ταϲ καρδιαϲ ι να ϲυνιωμεν ταυτα ·",
+          "translation": "But how could those people understand or comprehend these things? But we, having rightly understood the commandments, speak them rightly — as the Lord intended. That's why He circumcised our ears and our hearts, so that we might understand these things.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ζητηϲωμ ε ταυτα ει εμεληϲ ε τω κω προεφανε ρωϲεν προφανερωϲαι περι του ϋδατοϲ και περι του ϲταυρου περι μεν του υ δατοϲ γεγραπται επι τ ο ϊ ϲλ ʼ πωϲ το βαπτι ϲμα το φερον αφε ϲιν αμαρτιων ου μη προϲδεξ ο αλλ εαυτοιϲ οι κοδομηϲουϲιν",
+          "translation": "Let's examine whether the Lord was careful to reveal ahead of time about water and the cross. About the water, it's written concerning Israel that they would not accept the baptism that brings forgiveness of sins, but they would build for themselves.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "λεγει γαρ ο προφη τηϲ εκϲτηθι ουν ε και επι τουτω πλι ον φραξατω φριξατω η γη οτι δυο και πονη ρα εποιηϲεν ο λαοϲ ουτοϲ εμε εγκατελιπον πη γην ζωηϲ και εαυ τοιϲ ωρυξαν βο θρον θανατου",
+          "translation": "For the prophet says: \"Be horrified at this, O heavens, let the earth tremble violently, because this people has done two evil things: they abandoned Me, the fountain of life, and dug for themselves a pit of death.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "μη πετρα ερημοϲ εϲτιν το οροϲ το αγιον μου ϲεινα εϲεϲθαι γαρ ωϲ πε τινου νοϲϲοι α νεπταμενοι ανιπταμενοι νοϲ ϲιαϲ αφειρημε νοι",
+          "translation": "\"Is My holy mountain Sinai a barren rock? For you'll be like fledglings of a bird, hatched and snatched from the nest.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και παλιν λε γει ο προφητηϲ εγω πορευϲομαι εμπροϲθεν ϲου και ορη ομαλιω και πυλαϲ χαλκαϲ ϲυντριψω και μο χλουϲ ϲιδηρουϲ ϲυνκλαϲω και δωϲω ϲοι θηϲαυ ρουϲ ϲκοτουϲ απο κρυφουϲ αορατουϲ ϊνα γνωϲιν οτι εγω κϲ ο θϲ και κα τοικηϲειϲ εν ϋ ψηλω ϲπηλαιω πετραϲ ϊϲχυραϲ",
+          "translation": "And again the prophet says: \"I'll go before you, level the mountains, shatter bronze gates, break iron bars, and give you hidden, invisible treasures of darkness so you'll know that I am the Lord God. You'll dwell in a high cave of a mighty rock.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και το υ δωρ αυτου πιϲτον βαϲιλεα μετα δοξηϲ οψε ϲθε και η ψυχη υ μων μελετηϲει φοβον κυ",
+          "translation": "\"And you'll see His faithful water — a king with glory — and your soul will meditate on the fear of the Lord.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και πα λιν εν αλλω προ φητη λεγει και εϲται ο ταυτα ποι ων ωϲ το ξυλον το πεφυτευμε νον παρα ταϲ διε ξοδουϲ των ϋδα των ο τον καρπ ο αυτου δωϲει εν καιρω αυτου και το φυλλον αυτου ουκ απορυηϲεται και παντα οϲα α ποιη κατευοδω θηϲεται",
+          "translation": "And again in another prophet he says: \"The one who does these things will be like a tree planted by streams of water — it will give its fruit in season, its leaves won't fall, and everything it does will prosper.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ουχ ου τωϲ οι αϲεβειϲ ου χ ουτωϲ αλλ η ωϲ ο χνουϲ ον εκρι μοϲ εκριπτει ο ανεμοϲ απο προϲω που τηϲ γηϲ · δια τουτο ουκ αναϲτη ϲονται οι αϲεβειϲ εν κριϲει · ουδε α μαρτωλοι εν βου λη δικαιων οτι γεινωϲκι κϲ οδ ο δικαιων και ο δοϲ αϲεβων απο λιται ·",
+          "translation": "\"Not so the ungodly — not so — but they're like the chaff that the wind blows from the face of the earth. That's why the ungodly won't stand in judgment, nor sinners in the assembly of the righteous — because the Lord knows the way of the righteous, but the way of the ungodly will perish.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "αιϲθανε ϲθαι πωϲ το υ δωρ και τον ϲταυρον επι το αυτο ωρι ϲεν τουτο γαρ λεγι μακαριοι οι επι τον ϲταυρον ελπιϲαντεϲ κα τεβηϲαν ειϲ το ϋδωρ οτι τον μ ε μιϲθον λεγει εν καιρω αυτου τοτε φηϲιν αποδωϲω νυν δε ο λεγει τα φυλλα ουκ απορυ ηϲεται τουτο λε γει οτι παν ρημα ο εαν εξελευϲεται εξ υμων δια του ϲτοματοϲ υ μ ω εν πιϲτι και αγα πη εϲται και επι ϲτροφην και ελ πιδα πολλοιϲ",
+          "translation": "Do you see how He combined water and the cross together? This is what He means: \"Blessed are those who hoped on the cross and descended into the water.\" He says: \"I'll give the reward in its season — at that time.\" Now when He says, \"Its leaves won't fall,\" He means that every word that comes out of your mouth in faith and love will lead to conversion and hope for many.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-11-8-interpretation",
+              "text": "Blessed are those who 'hoped on the cross and descended into the water' — baptism and the cross are inseparably linked as the means of salvation.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "και παλιν εταιροϲ προφητηϲ λεγει και ην η γη του ϊ ακωβʼ επαινου μενη παρα παϲ α την γην τουτο λεγει το ϲκευοϲ του πνϲ αυτου δο ξαζει δοξαϲει",
+          "translation": "And again another prophet says: \"The land of Jacob was praised above all lands.\" This means He glorifies the vessel of His Spirit.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ειτα τι λεγει και ην ποταμοϲ ελκων εκ δεξι ω και ανεβαινεν εξ αυτου δενδρα ωραια και οϲ αν φαγη εξ αυτων ζηϲεται ειϲ τον αιωνα ·",
+          "translation": "Then what does He say? \"There was a river flowing from the right, and beautiful trees grew out of it — and whoever eats from them will live forever.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-11-10-cultural-context",
+              "text": "Ezek 47:1-12 — the river flowing from the temple, interpreted as the life-giving waters of baptism.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "original": "οτι ημιϲ μεν καταβενο μεν ειϲ το ϋδωρ γεμοντεϲ αμαρ τιων και ρυπου και αναβενο μεν καρποφο ρουντεϲ εν τη καρδια και τον φοβον και την ελπιδαν ελπιδα ειϲ τον ιν εν τω πν ι εχ ο τεϲ και οϲ αν φα γη απο τουτων ζηϲεται ειϲ τον αιωνα τουτο λε γει οϲ αν φηϲιν ακουϲη τουτ ω λαλουμενων κ(αι) πιϲτευϲει ζηϲε ται ειϲ τον αιωνα",
+          "translation": "We descend into the water full of sins and filth, and we come up bearing fruit in our hearts — having the fear and hope in Jesus in the Spirit. And \"whoever eats from these will live forever\" — this means: whoever hears these things spoken and believes will live forever.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ομοιωϲ παλιν περι του ϲταυρου οριζει εν αλλω προφητη λεγ ω οτι και ποτε ταυ τα ϲυντελεϲθη ϲεται λεγει κϲ ο ταν ξυλον κλιθη και αναϲτη και ο ταν εκ ξυλου αιμα ϲταξη εχειϲ πα λιν περι του ϲταυ ρου και του ϲταυ ρουϲθαι μελλοντοϲ",
+          "translation": "Similarly, again the Lord defines about the cross in another prophet, saying: \"When will these things be accomplished?\" says the Lord. \"When a tree is bent and then rises, and when blood drips from a tree.\" You have again a reference to the cross and the One about to be crucified.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-12-1-interpretation",
+              "text": "The tree that bends and rises, and blood dripping from wood — an apocalyptic prophecy of the crucifixion and resurrection.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "λεγει δε παλιν τω μωϋϲη πολεμου μενου του ιηλ ʼ ϋπο των αλλοφυ λων και ϊνα ϋπο μνηϲει αυτουϲ πολεμουμενουϲ οτι δια ταϲ αμαρ τιαϲ αυτων παρε δοθηϲαν ειϲ θα νατον λεγει ειϲ την καρδιαν μω ϲεωϲ το πν α ϊ να ποιηϲη τυπ ο του ϲταυρου του μελλοντοϲ πα ϲχειν οτι εαν μη φηϲιν ελπιϲωϲ ι επ αυτω ειϲ τον αιωνα πολεμη θηϲονται τιθη ϲιν ουν μω υ ϲηϲ εν εφ εν οπλον εν μεϲω τηϲ πυγ μηϲ και ϋψηλοτε ροϲ ϲταθιϲ παντ ω εξετινεν ταϲ χι ραϲ και ουτωϲ παλιν ενικα τον ι̣ν̣ ο ιηλ ειτα οποταν κα θιλεν εθανατο υ το ·",
+          "translation": "Again He says to Moses — when Israel was being fought by foreigners — to remind them as they fought that they were handed over to death because of their sins — the Spirit speaks into Moses' heart so that he makes a type of the cross of the One about to suffer. He says: \"Unless they hope in Him, they'll be at war forever.\" So Moses piles weapons on top of each other in the middle of the battle line, and standing taller than everyone, he stretched out his hands — and then Israel was victorious again. But whenever he lowered them, they started dying.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-12-2-interpretation",
+              "text": "Moses' outstretched arms during the battle with Amalek (Ex 17:8-13) typify the cross — when arms are raised, Israel prevails.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "προϲ τι ϊνα γνω ϲιν οτι ου δυναν ται ϲωθηναι ε α μη επ αυτω ελπι ϲωϲιν",
+          "translation": "Why? So that they'd know they can't be saved unless they hope in Him.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και παλιν εν ε τερω προφητη λεγει ολην την ημεραν εξεπε ταϲα ταϲ χειραϲ μου προϲ λαον απιθη και αντι λεγοντα οδω δι καια μου ·",
+          "translation": "And again in another prophet He says: \"All day long I stretched out My hands to a disobedient and contrary people — those who walk in a way that is not good, following their own thoughts.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "παλιν μωϲηϲ ποι ει τυπον του ιυ ο τι δι αυτον παθε ι και αυτοϲ ζωο ποιηϲει ον αν δο ξουϲιν απολω λεκεναι εν ϲη μιω πιπτοντοϲ του ϊϲλ ʼ εποιηϲ ε γαρ κϲ παντα ο φιν δακνιν αυτουϲ και απεθνηϲκ ο επιδη η παραβα ϲιϲ δια του οφε ωϲ εν ευα εγενε το ϊνα ελεγξη αυ τουϲ οτι δια την παραβαϲιν αυτ ω ειϲ θλιψιν θανα του παραδοθηϲ ο ται",
+          "translation": "Again Moses makes a type of Jesus — that He would suffer and that He Himself would give life to the one they thought they'd destroyed. When Israel fell, the Lord made snakes bite them and they died — since the transgression came through the snake in Eve — so that He might convict them that through their transgression they would be handed over to the distress of death.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-12-5-interpretation",
+              "text": "The bronze serpent (Num 21:4-9) typifies Christ (cf. John 3:14) — looking on the dead serpent brings life, as looking on the crucified Christ brings salvation.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "περαϲ γε τοιου τοϲ μωϋϲηϲ εν τιλαμενοϲ ουκ ε ϲτιν ϋμιν ουτε χωνευτον ουτε γλυπτον ειϲ θν ϋμιν αυτοϲ ποι ει ϊνα τυπον του ιυ δειξει ποιει ο υ μω υ ϲηϲ χαλκο υ οφιν και τιθηϲ ι ενδοξωϲ και κη ρυγματι καλι τον λαον",
+          "translation": "Even though Moses commanded: \"You won't have a molten or carved image as your God,\" he himself made one to show a type of Jesus. Moses made a bronze snake and placed it prominently, and by proclamation called the people.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ελθοντεϲ ουν επι το αυτο εδεοντο μωϲε ωϲ ϊνα περι αυτ ω ανενεγκη δεηϲ ι περι τηϲ ϊαϲεωϲ αυτων ειπεν δε μωϲηϲ προϲ αυτουϲ οτ α φηϲιν δηχθη τιϲ ϋμων ελθετω ε πι τον οφιν τον επι του ξυλου επι κειμενον και ελ πιϲατω πιϲτευ ϲαϲ οτι αυτοϲ ων νεκροϲ δυναται ζωοποιηϲαι και παραχρημα ϲω θηϲεται και ου τωϲ εποιουν εχειϲ παλιν και εν του τοιϲ την δοξαν του ιυ οτι εν αυ τω τα παντα και ειϲ αυ τον ·",
+          "translation": "So when they gathered together, they begged Moses to offer a prayer for their healing. Moses said to them: \"When any of you is bitten, come to the snake placed on the tree and hope, believing that though it's dead, it can give life — and you'll be immediately saved.\" And that's what they did. Again you have in this the glory of Jesus — for in Him and toward Him are all things.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "τι λεγει παλ ι μω υ ϲηϲ ιυ υιω ναυη επιθεϲ επιθειϲ αυ τω τουτο το ονο μα οντι προφητη ϊνα μονον ακου ϲη οτι παϲ ο λαοϲ οτι ο πατηρ ϲου παντα φανεροι περι του υιου ιυ",
+          "translation": "What does Moses say to Jesus son of Nun? He gave him this name when he was a prophet, so that all the people would hear that the Father reveals everything about the Son Jesus.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-12-8-interpretation",
+              "text": "Joshua (Ιησους = Jesus in Greek) son of Nun is a type of Jesus Christ — the name itself foreshadows the Savior.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "λε γει ουν μωυϲηϲ ιυ ϋϊω ναυη επιθειϲ τουτο ονομα απο τε οποτε επεμπεν αυτ ο καταϲκοπον τηϲ γηϲ λαβε βιβλι ο ειϲ ταϲ χιραϲ ϲου και γραψον α λεγει κϲ οτι εκκοψειϲ εκ ριζων τον οι κον παντα του α μαληκʼ · ο ϋιοϲ του θυ επ εϲχατων των ημερων",
+          "translation": "So Moses says to Jesus son of Nun, giving him this name: When He sent him to spy on the land, He said: \"Take a book in your hands and write what the Lord says: that the Son of God will utterly cut off the entire house of Amalek in the last days.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ει δε παλιν ιϲ ουχι ϋιοϲ α νου αλλα υ ϊοϲ του θυ τυπω δε εν ϲαρκι φανε ρωθειϲ επι ουν μελλουϲιν λεγειν οτι χϲ ϋϊοϲ δ α δ εϲτιν αυτοϲ ο προφητευ ει δαδ φοβουμε νοϲ και ϲυνιων την πλανην τ ω αμαρτωλων . ει πεν κϲ τω κω μου καθου εκ δεξι ω μου εωϲ αν θω τουϲ εχθρουϲ ϲου ϋποποδιον τ ω ποδων ϲου",
+          "translation": "If Jesus is not the Son of Man but the Son of God — and He was revealed in the flesh as a type — since they're going to say that Christ is the son of David, David himself, foreseeing and understanding the error of sinners, prophesied: \"The Lord said to my Lord: sit at My right hand until I make Your enemies a footstool for Your feet.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-12-10-cultural-context",
+              "text": "Quoting Ps 110:1. Barnabas argues Christ is not merely David's son (as Jews claimed) but David's Lord — i.e., divine.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "original": "και παλιν λεγει ου τωϲ ηϲαϊαϲ · ειπ ε κϲ τω κω χω μου κυρω κυρω ου εκρατηϲεν τηϲ χειροϲ τηϲ δεξιαϲ αυτου επα κουϲε εμπροϲθεν αυτου εθνη και ϊϲχυν βαϲιλε ων διαρρηξω ει δε πωϲ δ α δ λεγει αυτον κν και υν ου λεγει θυ ·",
+          "translation": "And again Isaiah says: \"The Lord said to my Lord Christ — whose right hand He grasped — listen: I'll shatter nations before Him and break the power of kings.\" See how David calls Him Lord and Son but doesn't say \"Son of God.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ειδωμ ε δε ει ουτοϲ ο λαοϲ κληρονομει ο ει ο πρωτοϲ και η δια θηκη ειϲ ημαϲ η ειϲ εκινουϲ ·",
+          "translation": "Let's see whether this people or the first people inherit — and whether the covenant is for us or for them.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ακου ϲατε ουν περι του λαου τι λεγει η γρα φη εδειτο δε ι ϲα ακʼ περι ρεβεκκαϲ τηϲ γυναικοϲ αυ του οτι ϲτιρα ην και ϲυνελαβεν ειτα εξηλθεν ρε βεκκα πυθεϲθαι παρα κυ και ειπ ε κϲ προϲ αυτην δυο εθνη εν τη γαϲτρι ϲου και δυ ο λαοι εν τη κοιλι α ϲου και ϋπερε ξει λατοϲε λαοϲ λαου και ο μειζον δου λευϲει τω ελαϲϲο νι",
+          "translation": "Listen, then, to what Scripture says about the people. Isaac prayed for his wife Rebekah because she was barren, and she conceived. Then Rebekah went to inquire of the Lord, and the Lord said to her: \"Two nations are in your womb, and two peoples in your belly — one people will surpass the other, and the older will serve the younger.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "αιϲθανεϲθαι οφιλεται τιϲ ο ϊϲακ ϊϲαακ και τιϲ η ρεβεκ κα και επι τιν ω δεδιχεν οτι μει ζων ο λαοϲ ουτοϲ η εκεινοϲ",
+          "translation": "You should understand who Isaac is, who Rebekah is, and about whom He showed that this people is greater than that one.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ε αλλη προφητι α λεγει φανερω τερον ο ϊακωβ προϲ ι ωϲηφʼ τον υιον αυτου λεγ ω ϊδου ουκ εϲτερε ϲεν εϲτερηϲεν με κϲ του προ ϲωπου ϲου προϲ αγαγε μοι τουϲ ϋϊ ουϲ ϲου · ϊνα ευλογη ϲω αυτουϲ",
+          "translation": "And in another prophecy he speaks more clearly. Jacob says to Joseph his son: \"Look, the Lord hasn't deprived me of your presence. Bring me your sons so I can bless them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και προϲηγαγεν εφραιμ και μαναϲϲη θε λων τον εφραιμ ϊνα ευλογηϲη ο τι πρεϲβυτεροϲ η ο γαρ ϊωϲηφ προϲ ηγαγεν ειϲ την δε ξιαν χειραν χειρα του πρϲ ι ακωβ ειδεν δε ϊακωβʼ τυπον τω πν ι του λαου του μετοξυ μεταξυ και τι λεγει και εποιη ϲεν ι ακωβ εναλ λαξ εναλλαξαϲ ταϲ χιραϲ αυτου και επεθηκεν τ η δεξιαν επι την κεφαλην μαναϲ ϲη του δευτερου και νεωτερου · και ευλογηϲεν αυ τον και ειπεν ϊω ϲηφʼ · προϲ ϊακωβ μεταθεϲ ϲου τ η δεξιαν επι την κεφαλην εφραιμ οτι πρωτοτοκοϲ μου υ̇ϊοϲ εϲτιν · και ειπεν ϊακωβʼ · προϲ ι ακωβʼ · οιδα τεκνον οιδα αλ λ ο μιζων δουλευ ϲει τω ελαϲϲονι και ουτοϲ δε ευλο γηθηϲεται",
+          "translation": "And he brought Ephraim and Manasseh, wanting Jacob to bless Ephraim because he was older. For Joseph brought Ephraim to Jacob's right hand. But Jacob, seeing in the Spirit a type of the future people, what does he do? Jacob crossed his hands and placed his right hand on the head of Manasseh — the younger, and blessed him. Joseph said to Jacob: \"Switch Your right hand to Ephraim's head, because he's my firstborn son.\" But Jacob said to Joseph: \"I know, child, I know. But the older will serve the younger, and this one too will be blessed.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-13-5-interpretation",
+              "text": "Jacob's crossed hands blessing Ephraim (younger) over Manasseh (older) typify the new Christian people superseding the old covenant people.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "βλεπε τε επι τινων εοι κεν τον λαον του τον ειναι πρωτ ο και τηϲ διαθηκηϲ κληρονομον .",
+          "translation": "See to whom He compared this people — that they are the first and the heir of the covenant.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ει ουν ετι και δια του αβρααμ εμνηϲθη απεχομεν το τε λιον τηϲ γνωϲε ωϲ ημων τι ουν λεγει τω αβρααμ · οτε μονοϲ πιϲτευ ϲαϲ ετεθη ειϲ δι καιοϲυνην ϊδου τεθικα ϲε αβρααμʼ πρα εθνων των πιϲτευοντων δι ακροβυϲτιαν τω θω",
+          "translation": "So if He also mentioned this through Abraham, we have the full knowledge. What does He say to Abraham? When he alone believed and was counted as righteous: \"Look, I've made you, Abraham, the father of the nations who believe in God through uncircumcision.\"",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-13-7-cultural-context",
+              "text": "Quoting Gen 17:4-5; 15:6. Abraham is father of believing Gentiles — the uncircumcised who believe.",
+              "type": "cultural-context"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ναι αλλα ει δωμεν ει η διαθη κη ην ωμοϲεν δουναι τοιϲ πατρα ϲιν δουναι τω λα ω ει δεδωκεν · δε δωκεν · αυτοι δε ουκ εγενοντο α ξιοι λαβειν δια ταϲ αμαρτιαϲ αυτων",
+          "translation": "Yes, but let's see whether He has given the covenant that He swore to give to the fathers — whether He gave it to the people. He did give it, but they weren't worthy to receive it because of their sins.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "λεγει γαρ ο προφη τηϲ και ην μωϋ ϲηϲ νηϲτευων εν ορι ϲινα του λα βειν την διαθηκ η κυ προϲ τον λα ο ημεραϲ τεϲϲερα κοντα και νυκταϲ μ και ελαβεν μω ϲηϲ παρα κυ ταϲ δυ πλακαϲ ταϲ γε γραμμεναϲ τω δακτυλω τηϲ χει ροϲ κυ εν πνι και λαβων μωϲηϲ κα τεφερεν προϲ τ ο λαον δουναι ·",
+          "translation": "For the prophet says: \"Moses was fasting on Mount Sinai to receive the Lord's covenant for the people — forty days and forty nights. And Moses received from the Lord two tablets written by the finger of the Lord's hand in the Spirit. And taking them, Moses brought them to the people.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ειπεν κϲ προϲ μωϲην μωϲη μωϲη καταβηθι το ταχοϲ οτι ο λα οϲ ϲου ον εξηγαγεϲ εκ γηϲ αιγυπτου ηνομηϲεν και ϲυνηκεν μωϲηϲ οτι εποιηϲαν εαυ τοιϲ χωνευμα τα και ερρειψεν εκ των χιρων κ(αι) ταϲ πλακαϲ κ(αι) ϲυνετριβηϲαν αι πλακεϲ τηϲ διαθη κηϲ κυ",
+          "translation": "And the Lord said to Moses: \"Moses, Moses, come down quickly, because your people whom you led out of Egypt have broken the law.\" And Moses understood that they had made a cast image for themselves, and he threw the tablets from his hands, and the tablets of the Lord's covenant were shattered.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-14-3-cultural-context",
+              "text": "Ex 32:7-8, 19 — the golden calf episode. The shattered tablets prefigure the transfer of the covenant to Christians.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "original": "μωϲηϲ μ ε ελαβεν αυτοι δε ουκ εγενοντο α ξιοι πωϲ δε ημιϲ ελαβομεν μαθε τε μωϲηϲ θεραπ ω ων ελαβεν · αυτοϲ δε κϲ ημιν εδωκ ε ειϲ λαον κληρονο μιαϲ δι ημαϲ ϋπο μιναϲ ·",
+          "translation": "Moses received, but they weren't worthy. How did we receive? Learn: Moses received as a servant, but the Lord Himself gave it to us as a people of inheritance, enduring for us.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "εφανερω θη δε εινα ϊνα κακινοι τελιωθωϲιν τοιϲ αμαρτημαϲιν και ημιϲ δια του κλη ρονομουντοϲ κυ ιυ διαθηκην κυ ιυ χυ λαβωμεν [1 chars] ϲ οϲ ειϲ τουτο ητοιμαϲθη ϊνα αυτοϲ φανιϲ ταϲ ηδη δεδαπα νημεναϲ ημων καρδιαϲ τω θανα τω και παραδεδο μεναϲ τη τηϲ πλα νηϲ ανομια λυτρω ϲαμενοϲ εκ του ϲκοτουϲ διαθηται εν ημιν διαθηκ η λογω",
+          "translation": "He was revealed so that they might be fully completed in their sins and we might receive the covenant through the Lord Jesus Christ who inherits — who was prepared for this: that He, appearing, might redeem our hearts already wasted by death and handed over to the lawlessness of deception from the darkness, and establish a covenant with us by His word.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "γεγραπται γαρ πωϲ αυτω ο πατηρ εντελλεται λυτρω ϲαμενον ημαϲ εκ του ϲκοτουϲ εαυτω ητοιμαϲε λαον α γιον",
+          "translation": "For it's written how the Father commanded Him: \"Having redeemed us from darkness, He prepared for Himself a holy people.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "λεγει ουν ε ο προφητηϲ εγω κϲ ο θϲ ϲου εκαλε ϲα ϲε εν δικαιοϲυ νη και κρατηϲω τηϲ ι χιροϲ ϲου και ϊϲχυϲω ϲε και ε δωκα ϲε ειϲ διαθη κην γενουϲ ειϲ φωϲ εθνων ανοι ξε οφθαλμουϲ τυ φλων και εξαγαγε ι εκ δεϲμων πεπε δημενουϲ και ε ξ οικου φυλα κηϲ καθημε νουϲ εν ϲκοτι γινωϲκομεν ουν ποθεν ελυ τρωθημεν",
+          "translation": "So the prophet says: \"I, the Lord your God, called You in righteousness, and I'll hold Your hand and strengthen You. I've made You a covenant for the people, a light for the nations — to open blind eyes, and to bring prisoners out of chains and those sitting in darkness from the prison house.\" So we know from where we've been redeemed.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-14-7-cultural-context",
+              "text": "Quoting Isa 42:6-7 and 61:1-2 (LXX). Barnabas applies the Servant/Suffering Servant passages to Christ's redemptive work.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "πα λιν ο προφητηϲ λε̣γ̣ει ϊδο̣υ̣ τ̣ε̣θ̣ε̣ι̣κ̣α̣ ϲ̣ε̣ ειϲ φω̣ϲ̣ ε̣θ̣νω̣ν̣ του ειναι ϲε ειϲ ϲωτηριαν ε̣ ωϲ εϲχ ατου τηϲ γηϲ ουτωϲ λ̣ε̣γ̣ε̣ι̣ κ̣ϲ̣ ο λυτρωϲα μ̣εν̣ο̣ϲ ϲε θϲ κ(αι) παλιν ο προ φ̣η̣τ̣η̣ϲ̣ λεγει π να κυ ε π εμε ου εινε κεν εχριϲεν με ευαγγελιϲαϲθαι πτωχοιϲ απε ϲταλκεν με εια ϲαϲθαι ϊαϲαϲθαι τουϲ ϲυν τετριμμενουϲ την καρδιαν κη ρυξαι αιχμαλω τοιϲ αφεϲιν και τυφλοιϲ αναβλε ψιν καλεϲε ενι αυτον κυ δεκτ ο και ημεραν αν ταποδοϲεωϲ παρακαλεϲε π α ταϲ τουϲ πενθο υ ταϲ",
+          "translation": "Again the prophet says: \"Look, I've made You a light for the nations, to be salvation to the ends of the earth.\" So says the Lord who redeemed You — God. And again the prophet says: \"The Spirit of the Lord is upon Me, because He anointed Me to preach good news to the poor. He sent Me to heal the brokenhearted, to proclaim release to captives and sight to the blind, to proclaim the acceptable year of the Lord and the day of recompense, to comfort all who mourn.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "παλιν ο προφητηϲ λεγει ϊδου τεθει κα ϲε ειϲ φωϲ ε θνων του ειναι ϲε ειϲ ϲωτηριαν ε ωϲ εϲχατου τηϲ γηϲ · ουτωϲ λεγει κϲ ο λυτρωϲαμενοϲ ϲε θϲ ι ηλ",
+          "translation": "Again the prophet says: \"Look, I've made You a light for the nations, to be salvation to the ends of the earth.\" So says the Lord who redeemed You — the God of Israel.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "οτι ετι ουν και περι του ϲαββα του γεγραπται εν τοιϲ δεκα λογοιϲ εν οιϲ ελαληϲεν εν τω ορι ϲινα προϲ μωϲην κα τα προϲωπον και αγιαϲαται το ϲαββατον κυ χερ ϲιν καθαραιϲ και καρδια καθαρα",
+          "translation": "Now concerning the Sabbath, it's written in the Ten Commandments — which He spoke to Moses face to face on Mount Sinai — \"And sanctify the Lord's Sabbath with clean hands and a pure heart.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και εν εταιρω λε γει εαν φυλαξω ϲιν οι ϋϊοι μου ι ηλ το ϲαββατον το τε επιθηϲω το ελεοϲ μου επ αυ τουϲ",
+          "translation": "And in another place He says: \"If My sons keep the Sabbath, then I'll place My mercy on them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "το ϲαββατ ο λεγει εν αρχη τηϲ κτιϲεωϲ · και εποιηϲεν ο θϲ εν εξ ημε ραιϲ τα εργα των χιρων αυτου κ(αι) ϲυνετελεϲεν τη ημερα τη ε βδομη και κα τεπαυϲεν αυτ η και ηγιαϲεν αυ την",
+          "translation": "The Sabbath is mentioned at the beginning of creation: \"And God made the works of His hands in six days, and He finished on the seventh day and rested on it and sanctified it.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "προϲεχετε τεκνα τι λεγει το ϲυνετελεϲεν εν εξ ημεραιϲ τουτο λεγει οτι εν εξακιϲχιλι οιϲ ετεϲιν ϲυν τελεϲι κϲ τα ϲυν παντα η γαρ ημε ρα παρ αυτω ϲη μαινι χιλια ετη μαρτυρει γαρ μοι δαδ λεγων οτι χιλια ετη εν οφθαλμοιϲ ϲου ωϲ η ημερα η εχθεϲ ητιϲ διηλθεν κ(αι) φυλακη εν νυκτι αυτοϲ δε μοι μαρ τυρι λεγων ϊδου ημερα κυ εϲται ωϲ χιλια ετη ου κουν τεκνα εν εξ ημεραιϲ εν τοιϲ εξακιϲχιλιοιϲ ετεϲιν · ϲυντελε ϲθηϲεται τα ϲυν",
+          "translation": "Pay attention, children: what does \"He finished in six days\" mean? It means the Lord will complete everything in six thousand years. For a day with Him signifies a thousand years. And David testifies: \"A thousand years in Your sight are like yesterday that passed, or a watch in the night.\" And he Himself bears witness: \"The day of the Lord will be like a thousand years.\" So, children, in six days — that is, in six thousand years — everything will be completed.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-15-4-interpretation",
+              "text": "The 'day = 1000 years' equation (citing Ps 90:4; 2 Pet 3:8). Barnabas calculates history as a 6000-year 'week' followed by the eternal Sabbath.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "και κατε παυϲεν τη ημε ρα τη ε ζ τουτο λεγει οταν ελθ ω ο υϲ αυτου καταρ γηϲει τον καιρ ο και κρινι τουϲ α ϲεβειϲ · και αλ λαξει τον ηλι ον και τουϲ αϲτε ραϲ και την ϲελη νην τοτε καλωϲ καταπαυϲεται τη ημερα τη εβδο μη ·",
+          "translation": "\"And He rested on the seventh day.\" This means: when His Son comes and abolishes the time of the lawless one, judges the ungodly, and changes the sun, moon, and stars — then truly He will rest on the seventh day.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "περαϲ γε τοι λεγει αγιαϲειϲ αυτην χερϲιν κα θαραιϲ και καρδι α καθαρα ει ουν ην ο θϲ ημεραν ηγιαϲεν νυν τιϲ δυναται αγιαϲαι ει μη καθαροϲ ων τη καρδια εν παλιν παϲιν πεπλανημεθα",
+          "translation": "Furthermore, He says: \"You'll sanctify it with clean hands and a pure heart.\" So if God sanctified a day, who can sanctify it now except someone who is pure in heart? In this we've all been deceived.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ει δε ου ουν αρα τοτε καλωϲ καταπαυ ομενοι αγιαϲο μεν αυτην οτε δυνηϲομεθα αυ τοι δικαιωθεν τεϲ και απολα βοντεϲ την ε παγγελιαν μη κετι ουϲηϲ τηϲ ανομιαϲ καιν ω δε γεγονοτων παντων ϋπο του κυ ου τοτε δυνηϲομε θα αυτην αγιαϲε αυτοι γαρ αγια ϲθεντεϲ πρωτ ο :",
+          "translation": "But if not now, then we'll truly rest and sanctify it when we ourselves — having been justified and received the promise, when lawlessness no longer exists and everything has been made new by the Lord — will then be able to sanctify it, because we ourselves will have first been sanctified.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "περαϲ γε τοι λεγει αυτοιϲ ταϲ νε ομηνιαϲ υ μ ω και τα ϲαββατα υ κ ουκ ανεχομαι ο ραται πωϲ λεγει ου τα νυν ϲαββα τα δεκτα αλλα ο πεποιηκα εν ω καταπαυϲαϲ τα παντα αρχην η μεραϲ ογδοηϲ ποιηϲω ο εϲτιν αλλου κοϲμου αρχην",
+          "translation": "Furthermore, He says to them: \"I can't stand your new moons and Sabbaths.\" See what He's saying: it's not the present Sabbaths that are acceptable to Me, but the one I made, in which, after resting all things, I'll make the beginning of an eighth day — which is the beginning of another world.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-15-8-interpretation",
+              "text": "The eighth day (Sunday) = the first day of the new creation, distinct from the seventh-day Sabbath of the old creation. This is one of the earliest clear arguments for Sunday worship.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "διο και α γομεν την ημε ραν την ογδο ην ειϲ ευφροϲυ νην εν η και ο ιϲ κϲ ημων ιϲ ο χϲ ανεϲτη εκ νε κρων και φα νερωθειϲ ανε βη ειϲ ου νου ϲ",
+          "translation": "That's why we celebrate the eighth day with joy — the day on which Jesus our Lord rose from the dead, and after being revealed, ascended into heaven.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ε τι δε και περι του ναου ερω ϋμιν ωϲ πλανωμε νοι οι ταλαιπω ροι ειϲ την οικο δομην ηλπιϲαν και ουκ επι τον θν αυτων τον ποι ηϲαντα αυτουϲ ωϲ οντα οικον θυ",
+          "translation": "Now I'll also ask you about the temple — how those miserable people went astray by hoping in the building, not in their God who made them, as if it were God's house.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ϲχεδον ειϲ τα ε θνη γαρ αφιερω ϲαν γαρ αυτον εν τω ναω αλλα πωϲ λεγει κϲ κα ταργων αυτον μαθεται τιϲ εμε τον ου ρανον ϲπιθαμη η την γην δρακει ουκ εγω λεγει κϲ ο ουν οϲ μοι θρο νοϲ η δε γη υ πο ποδιον των πο δων μου ποιον οικον οικοδομη ϲεται μοι η τιϲ το ποϲ τηϲ καταπαυ ϲεωϲ μου εγνωκαται οτι ματαια η ελπιϲ ϋμων αυτων",
+          "translation": "They practically consecrated Him in the temple. But what does the Lord say when He abolishes it? Learn: \"Who measured heaven with a span or the earth with a handful? Wasn't it I?\" says the Lord. \"Heaven is My throne, and the earth is a footstool for My feet. What kind of house will you build for Me? Or what place for My rest?\" You know that their hope is futile.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-16-2-cultural-context",
+              "text": "Quoting Isa 66:1 and 40:12. The argument that God cannot be contained in a physical temple — a theme shared with Stephen's speech (Acts 7).",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "περαϲ γε τοι παλιν λεγει ϊ δου οι καθελον τεϲ τον ναον του τον αυτοι οικο δομηϲουϲιν αυτ ο",
+          "translation": "Furthermore, He says again: \"Look, those who destroyed this temple will themselves build it.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "δια γαρ το πολε μιν αυτουϲ καθη ρεθη ϋπο των εχθρων νυν και αυτοι και οι των εχθρων υ πηρε ται ανοικοδο μηϲωϲιν αυτον",
+          "translation": "Because they were at war, it was destroyed by their enemies. Now they themselves and the servants of the enemies will rebuild it.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "παλιν ωϲ εμελ λεν η πολιϲ και ο λαοϲ και ο να οϲ ϊ ηλ παραδιδο ϲθαι εφανερω θη λεγει γαρ η γραφη · και εϲται επ εϲχα των των ημερ ω και παραδωϲει κϲ τα προβατα τηϲ νομηϲ και την μανδραν και τ ο πυργον αυτων ειϲ καταφθοραν και εγενετο κα θ α ελαληϲεν κϲ",
+          "translation": "Again, when the city and the people and the temple of Israel were about to be handed over, it was foretold. For Scripture says: \"It will happen in the last days that the Lord will hand over the sheep of the pasture, and the fold, and their tower to destruction.\" And it happened just as the Lord spoke.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ζητηϲωμεν δε ει εϲτιν ναοϲ θυ εϲτιν οπου αυ τοϲ λεγει ποιε ι και καταρτιζειν γεγραπται γαρ και εϲται τηϲ εβδο μαδοϲ ϲυντε λουμενηϲ ει οι κοδομηθηϲεται ναοϲ θυ ενδοξωϲ επι τω ονοματι κυ",
+          "translation": "Let's examine whether there is a temple of God. There is, where He says He makes and restores it. For it's written: \"When the week is completed, the temple of God will be built gloriously in the name of the Lord.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ευριϲκω ουν οτι εϲτιν ναοϲ πωϲ ουν οικο δομηθηϲεται επι τω ονομα τι κυ μαθεται προ του υ μαϲ πι ϲτευϲαι τω θω ημων το κατοι κητηριον τηϲ καρδιαϲ φθαρτον και αϲθενεϲ ωϲ αληθωϲ οικο δομητοϲ ναοϲ δια χιροϲ οτι ην πληριϲ μεν ει δωλολατριαϲ και ην οικοϲ δαιμονιων δι α το ποιειν ει οϲα ην εναντια τω θω",
+          "translation": "So I find that a temple exists. How then will it be built in the name of the Lord? Learn. Before we believed in God, the dwelling place of our heart was corrupt and weak — truly a temple built by human hands, full of idolatry and a house of demons, because we did everything contrary to God.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "οικοδομη θηϲεται δε επι τω ονοματι κυ · μαθετε προ του ϋμαϲ πιϲτευ προϲ εχετε δε ι να ο ναοϲ του θυ ενδο ξωϲ οικοδομη θη πωϲ μαθε λαβοντεϲ τ η αφεϲιν των α μαρτιων και ελ πιϲαντεϲ επι το ονομα κυ εγενο μεθα κενοι πα λιν εξ αρχηϲ κτιζομενοι δι ο εν τω κατοι κητηριω ημ ω αληθωϲ ο θϲ κα τοικει εν ημιν",
+          "translation": "But it will be built in the name of the Lord. Learn how. Before we believed, pay attention — so that the temple of God might be gloriously built. Learn how: having received the forgiveness of sins and hoped in the name of the Lord, we became new, created again from the beginning. Therefore God truly dwells in our dwelling place — within us.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-16-8-interpretation",
+              "text": "The true temple is the community of believers — 'God dwells in us.' This spiritualizes temple theology entirely.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "πωϲ οπωϲ ο λογοϲ αυ του τηϲ πιϲτεωϲ ‾‾ η κληϲιϲ τηϲ ε παγγελιαϲ · ‾‾ η ϲοφια των δι καιωματων ‾‾ αι εντολαι τηϲ δι δαχηϲ ‾‾ αυτοϲ εν ημιν προφητευων ‾‾ αυτοϲ εν ημιν κατοικων ‾‾ τοιϲ τω θανατω δεδουλωμενοιϲ ανυγων ημιν την θυραν του ναου · ‾‾ ο εϲτιν ϲτομα με τανοιαν διδουϲ ημιν ειϲαγει ειϲ τον αφθαρτον ναον",
+          "translation": "How so? His word of faith, the call of the promise, the wisdom of His requirements, the commandments of the teaching — He Himself prophesies in us, He Himself dwells in us. To those enslaved to death, He opens the temple door for us — which is the mouth, giving us repentance, and leads us into the incorruptible temple.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ο γαρ πο θων ϲωθηναι βλεπει ουκ ειϲ τ ο α νον αλλα ειϲ τον εν αυτω κα τοικουντα και λαλουντα επ αυ τω εκπληϲϲομε νοϲ επι τω μη δεποτε μητε του λεγοντοϲ τα ρηματα ακηκο εναι εκ του ϲτο ματοϲ μητε αυ τοϲ ποτε επιτε θυμηκεναι α κουειν τουτο τουτ ε ϲτιν πνι κοϲ να οϲ οικοδομου μενοϲ τω κω",
+          "translation": "For the one who longs to be saved looks not to the person, but to the One dwelling and speaking in them. They're amazed because they've never heard the speaker utter such words from the mouth, nor have they ever desired to hear. This is the spiritual temple being built for the Lord.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-16-10-interpretation",
+              "text": "The spiritual temple is not a building but the person in whom Christ dwells and speaks — a radically inward ecclesiology.",
+              "type": "interpretation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "εφ οϲον ην εν δυνατω και α πλοτητι δηλω ϲε ϋμιν ελπιζει μου ο νουϲ και η ψυχη τη επιθυμια μου μη πα ραλελιπεναι τι τι των αν η κοντων ειϲ ϲωτ η ριαν",
+          "translation": "As far as it was possible and in simplicity, I hope my mind and soul's desire has not omitted anything that contributes to salvation.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ε̣αν γαρ περι των ενεϲτωτ ω η μελλοντων γραφω γραψω υ μιν ου μη νοηϲηται δι α το εν παραβο λαιϲ κειϲθε ταυ τα μεν ουτωϲ",
+          "translation": "If I write to you about present or future things, you won't understand, because they're wrapped in parables. So much for that.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "μεταβωμεν δε εφ ετεραν και γνω ϲιν και διδαχην οδοι δυο ειϲιν δι δαχηϲ και εξου ϲιαϲ η του φωτοϲ και η του ϲκοτουϲ διαφθορα διαφορα δε πολ λη των δυο οδ ω εφ ηϲ μεν γαρ ει ϲιν τεταγμε νοι φωταγωγοι αγγελοι του θυ ε φ οιϲ δε αγγελοι του ϲατανα",
+          "translation": "Let's move on to another knowledge and teaching. There are two ways of teaching and authority — the way of light and the way of darkness. The difference between the two ways is great. For over the one are appointed light-bearing angels of God, and over the other are angels of Satan.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-18-1-cultural-context",
+              "text": "The 'Two Ways' tradition is shared with the Didache (chs 1-6) and represents a standard early Christian catechetical form derived from Jewish ethical teaching.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "και ο μεν εϲτιν κϲ α πο αιωνων και ειϲ τουϲ αιωναϲ ο δε αρχων και ρου του νυν τηϲ ανομιαϲ",
+          "translation": "And the One is Lord from ages and to ages, while the other is the ruler of the present time of lawlessness.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "η ουν οδοϲ του φωτοϲ εϲτιν τοι αυτη εαν τιϲ θε λων οδον οδευ ειν επι τον ωρι ϲμενον τοπον ϲπευϲη τοιϲ ερ γοιϲ αυτου εϲτ ι ουν η δοθιϲα η μιν γνωϲιϲ του περιπατιν εν ταυτη τοιαυτη",
+          "translation": "So this is the way of light. If someone wants to journey to the appointed place, they should hurry in their works. So this is the knowledge given to us for walking in it:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "αγαπηϲειϲ τον ποιηϲαντα ϲε φοβηθηϲη τον ϲε πλαϲαντα · δοξαϲειϲ τον ϲε λυτρωϲαμεν ο εκ θανατου · εϲη απλουϲ τη καρδια · και πλου ϲιοϲ τω πν ι · ου κολληθηϲη μετα πορευο μενων εν οδω θανατου · μιϲηϲειϲ παν ο ουκ εϲτιν αρε ϲτον τω θω μιϲηϲειϲ παϲ α ϋποκριϲιν · ου μη εγκαταλι πηϲ εντολαϲ κυ",
+          "translation": "Love the One who made you; fear the One who formed you; glorify the One who redeemed you from death. Be simple in heart and rich in spirit. Don't associate with those who walk in the way of death. Hate everything that's not pleasing to God. Hate all hypocrisy. Don't abandon the Lord's commandments.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ουχ υψωϲειϲ ϲε αυτον εϲη δε τα πινοφρων κα τα παντα ουχ ουκ αριϲ επι ϲεαυτον δοξ α ου λημψη βου λην πονηραν κα τα του πληϲιον ϲου ου δωϲειϲ τη ψυχη ϲου θραϲοϲ",
+          "translation": "Don't exalt yourself; be humble in everything. Don't claim glory for yourself. Don't devise evil plans against your neighbor. Don't give your soul arrogance.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ου πορνευϲειϲ ου μοιχευϲειϲ ου παιδοφθορηϲιϲ ου μη ϲου ο λογοϲ του θυ εξελθη ε ν ακαθαρϲια ˙ τινων · ου λημψη βουλην πονηραν ου λημψη προϲωπον · ελεγ ξε τινα επι παρα πτωματι · εϲη πραϋϲ εϲη ηϲυχιοϲ εϲη τρεμων τουϲ λογουϲ ουϲ ηκου ϲαϲ ου μνηϲικα κηϲειϲ τω αδελ φω ϲου",
+          "translation": "Don't be sexually immoral; don't commit adultery; don't seduce boys. Don't let the word of God come out of you in uncleanness. Don't show favoritism. Rebuke someone for a transgression. Be gentle; be quiet; tremble at the words you've heard. Don't hold a grudge against your brother.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ου μη δι ψυχηϲειϲ ποτερ ο εϲται η ου ου μη λαβηϲ επι μαται ω το ονομα ϲου κυ αγαπηϲειϲ τον πληϲιον ϲου υ περ τον εχθρον ϲου την ψυχην ϲου υ περ την ψυχην ϲου ωϲ εαυτων ωϲ εαυτον ου φονευϲειϲ τε κνον εν φθορα ουδε παλιν γεν νηθεν αποκτε νειϲ ου μη αρειϲ την χειρα ϲου απο του υιου ϲου η α πο τηϲ θυγατροϲ ϲου αλλα απο νεο διδαξειϲ φοβον θυ",
+          "translation": "Don't be double-minded about whether something will happen or not. Don't take the Lord's name in vain. Love your neighbor more than your own life. Don't kill a child by abortion, and don't kill a newborn. Don't withhold discipline from your son or daughter, but teach them the fear of God from youth.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ου μη γενη επιθυμων τα του πληϲιον ϲου ου μη γενη πλε ονεκτηϲ ουδε κολληθηϲη εκ ψυχηϲ ϲου μετα υ ψηλων · αλλα με τα ταπινων και δικαιων ανα ϲτραφηϲη · τα ϲυμβαινοντα ϲοι ενεργηματα ωϲ αγαθα προϲδε ξη ειδωϲ οτι ανευ θυ ουδεν γεινεται",
+          "translation": "Don't covet your neighbor's possessions. Don't be greedy. Don't closely associate with arrogant people, but associate with the humble and righteous. Accept the things that happen to you as good, knowing that nothing happens apart from God.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ουκ εϲη διγνω μων ουδε γλωϲ ϲωδηϲ ϋποταγη κυριοιϲ ωϲ τυπω θυ · αιϲχυνη και φοβω ου μη επι ταξειϲ δουλω ϲου η παιδιϲκη εν πι κρια τοιϲ επι τ ο αυτον θν ελπιζου ϲιν μηποτε ου μη φοβηθηϲ ο ται τον επ αμφο τεροιϲ θν οτι ου κ ηλθεν κατα προϲωπον κα λεϲε αλλ εφ ουϲ το πνα ητοιμαϲ ε",
+          "translation": "Don't be double-minded or double-tongued. Submit to your masters as a type of God, with respect and fear. Don't give harsh orders to your servant or maid when they hope in the same God — otherwise they might not fear the God over both of you. For He didn't come to call people based on appearance, but based on those whom the Spirit has prepared.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "κοινωνηϲειϲ εν παϲιν τω πλη ϲιον ϲου και ου κ ερειϲ ϊδια ειναι ει γαρ εν τω αφθαρ τω κοινωνοι εϲτε ποϲω μαλ λον εν τοιϲ θνη τοιϲ φθαρτοιϲ · ουκ εϲη προ γλωϲϲοϲ παγιϲ γαρ το ϲτομα θα νατου οϲον δυνα ϲε υ περ τηϲ ψυ χηϲ ϲου αγνευϲιϲ",
+          "translation": "Share everything with your neighbor and don't say something is your own. If you share in the incorruptible, how much more in the corruptible things of this life? Don't be quick to speak — the mouth is a trap of death. As much as you can, be pure for the sake of your soul.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "μη γεινου προϲ μεν το λαβειν εκτινων ταϲ χιραϲ προϲ δε το δουναι ϲυϲπων ϲυϲτελλ ω αγαπηϲειϲ ωϲ κορην του ο φθαλμου ϲου παντα τον λαλο υ τα ϲοι τον λογον κυ",
+          "translation": "Don't be one who reaches out to take but draws back from giving. Love everyone who speaks the Lord's word to you like the apple of your eye.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "μνηϲθηϲη η μεραν κριϲεωϲ νυκτοϲ και ημε ραϲ και εκζητη ϲειϲ καθ εκαϲτ η ημεραν τα προϲωπα των αγιων η δια λο γου κ(αι) εργου κ(αι) κοπου κοπιων τι και πορευομενοϲ ειϲ το παρακαλεϲε και μελετων ειϲ το ϲωϲαι ψυχην τω λογω η δια τ ω χιρων ϲου εργα ϲη ειϲ λυτρον α μαρτιων ϲου",
+          "translation": "Remember the day of judgment night and day. Seek the face of the saints every day — whether through word and work and toil, going to encourage them, meditating on how to save a soul by the word, or by the work of your hands giving a ransom for your sins.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ου διϲταϲιϲ δουναι ουδε διδουϲ γογ γυϲη γογγυϲειϲ παντι τω αι τουντι ϲε διδου γνωϲη δε τιϲ ο του μιϲθου καλοϲ ανταπο δοτηϲ φυλαξειϲ α παρελαβεϲ μη τε προϲθιϲ μητε αφαιρων ειϲ τε λοϲ μιϲηϲειϲ πο νηρον και κρι νειϲ δικαιωϲ",
+          "translation": "Don't hesitate to give, and don't grumble when giving. Give to everyone who asks — you'll know who the good rewarder is. Guard what you've received — don't add or remove anything. Hate evil to the end and judge righteously.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ου ποιηϲειϲ ϲχιϲμα ειρηνευϲειϲ μα χομενουϲ ϲυνα γαγων εξομολο γηϲει εν αμαρτι αιϲ ϲου ου προϲε ξειϲ επι προϲευ χην εν ϲυνιδη ϲει πονηρα αυτη εϲτιν η οδοϲ του φωτοϲ",
+          "translation": "Don't cause division; make peace between those who are fighting by bringing them together. Confess your sins. Don't approach prayer with a bad conscience. This is the way of light.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "η δε του μελανοϲ οδοϲ εϲτιν ϲκολιαϲ κ(αι) καταραϲ μεϲτη οδοϲ γαρ εϲτιν θα νατου αιωνια με τα τιμωριαϲ εν η εϲτιν τα απολλυν τα την ψυχην αυ των ειδωλολατρια θραϲυτηϲ ϋψοϲ δυναμεωϲ ϋποκριϲιϲ διπλοκαρδια μοιχια φονοϲ αρπαγη υ περηφανια παραβαϲειϲ δολοϲ · κακια · αυθαδια φαρμακια αφοβια θυ",
+          "translation": "But the way of the Black One is crooked and full of curses. For it's a way of eternal death with punishment. On it are the things that destroy people's souls: idolatry, arrogance, pride of power, hypocrisy, double-heartedness, adultery, murder, robbery, haughtiness, transgression, deceit, malice, stubbornness, sorcery, irreverence toward God.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-20-1-interpretation",
+              "text": "'Way of the Black One' — the author's distinctive term for Satan, reflecting the darkness/light dualism of the Two Ways.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "διωκται των αγα θων · μιϲουντεϲ αληθιαν αγαπ ω τεϲ ψευδη · ου γινω ϲκοντεϲ μιϲθον δικαιοϲυνηϲ ου κολλωμενοι αγα θω ου κριϲει δικαι α χηρα και ορφα νω ου προϲεχον τεϲ αγρυπνουντεϲ ουκ ειϲ φοβον θυ αλλα επι το πονη ρον ων μακραν και πορρω πραυ τηϲ και υ πομονη αγαπωντεϲ μαται οτητα διωκοντεϲ ανταποδομα ου κ ελεωντεϲ πτω χον ου πονουντεϲ επι καταπονουμε νω · ευχεριϲ εν καταλαλια ου γι νωϲκοντεϲ τον ποιηϲαντα αυτουϲ φονιϲ τεκνων φθοριϲ πλαϲματοϲ θυ αποϲτρεφομε νοι τον ενδεομε νον και καταπο νουντεϲ τον θλι βομενον πλουϲι ων παρακλητοι πενητων ανο μοι κριται παντα μαρτητοι",
+          "translation": "Persecutors of the good, haters of truth, lovers of lies — they don't know the reward of righteousness. They don't cling to what is good, they don't judge fairly for widows and orphans. They don't stay alert for the fear of God, but for evil — from whom gentleness and patience are far away. Lovers of vanity, pursuing revenge, not showing mercy to the poor, not working for the oppressed, quick to slander, not knowing the One who made them — murderers of children, corrupters of God's creation, turning away from the needy, oppressing the afflicted, advocates of the rich, lawless judges of the poor — utterly sinful.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "καλον εϲτιν μαθοντα τα δικαιωματα του κυ οϲα γεγραπται εν τουτοιϲ περι πατειν ο γαρ ταυτα ποιων εν τη βαϲι λεια του θυ δοξα ϲθηϲεται ο εκει να εκλεγομενοϲ μετα των εργων αυτου ϲυναπολι ται δια τουτο ανα ϲταϲειϲ αναϲταϲιϲ δια τουτο ανταποδομα",
+          "translation": "It's good to learn the righteous requirements of the Lord, as many as are written here, and to walk in them. For the one who does these things will be glorified in the kingdom of God. But the one who chooses the opposite will perish along with his works. That's why there's a resurrection — that's why there's a reward.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ερω τω τουϲ ϋπερεχ ει τινα μου γνω μηϲ αγαθηϲ λαμ βανεται ϲυμβου λιαν εχετε μεθ ε αυτων ειϲ ουϲ ερ γαϲηϲθε το καλον μη ενλιπηται",
+          "translation": "I ask those in authority: if you accept any good advice from me, keep it among yourselves — do good to those you can and don't leave anything undone.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "εν γυϲ η ημερα εν η ϲυναπολιται π α τα τω πονηρω εγγυϲ ο κϲ και ο μιϲθοϲ αυτου",
+          "translation": "The day is near when everything will perish along with the Evil One. The Lord is near, and His reward.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ετι και ετι ερωτω υ μαϲ εαυτων γει νεϲθαι νομοθε ται αγαθων εαυτ ω μενετε ϲυμβου λοι πιϲτοι αρα αραται εξ υ μων παρρηϲιαν παϲαν ϋποκριϲιν",
+          "translation": "Again and again I ask you: be good lawgivers to yourselves. Remain faithful counselors to each other. Remove all hypocrisy from among you.",
+          "footnotes": [
+            {
+              "id": "epistle-of-barnabas-21-4-cultural-context",
+              "text": "'Be good lawgivers to yourselves' — the community is responsible for its own ethical formation, not dependent on external authorities.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "ο δε θϲ ο του παντοϲ κο ϲμου κυριευων δωη υ μιν ϲοφι αν ˙ ϲυνεϲιν · επιϲτημην · γνωϲιν των δι καιωματων αυ του υ πομονην",
+          "translation": "May God, who rules over the whole world, give you wisdom, understanding, knowledge of His requirements, and endurance.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "γιγνεϲθε δε εκζη τουντεϲ τι ζητι κϲ αφ υμων και ποιειται ϊνα ευ ρεθηται εν ημε ρα κριϲεωϲ",
+          "translation": "Be people who seek what the Lord requires of you and do it, so that you may be found faithful on the day of judgment.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ει δε τι εϲτιν αγαθου μνια μνημονευ εται μου μελετ ω τεϲ ταυτα ϊνα και η επιθυμια και η αγρυπνια ειϲ τι α γαθον χωρηϲη ε ρωτω υ μαϲ χαρ ι αιτουμενοϲ",
+          "translation": "If there's any remembrance of good, remember me, meditating on these things — so that both desire and vigilance may lead to something good. I ask you this as a favor.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εωϲ ετι το καλον ϲκευ οϲ εϲτιν μεθ υμ ω μη ενλιπηται μη δενι εαυτων αλ λα ϲυνεχωϲ εκζη τιται ταυτα και ανα πληρουται παϲαν εντολην εϲτιν γαρ αξια αξιον",
+          "translation": "While the good vessel is still with you, don't leave anything undone. Instead, continually seek these things and fulfill every command — for it's worthy.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "διο μαλλ ο εϲπουδαϲα γραψε αφ ων ηδυνηθ η ειϲ το ευφραναι ϋμαϲ ϲωζεϲθαι · αγαπηϲ τεκνα και ι ρηνηϲ ο κϲ τηϲ δοξηϲ και παϲηϲ χαριτοϲ με τα του πνϲ ϋμων : ⌇﹏",
+          "translation": "That's why I was all the more eager to write from what I could, to bring you joy and salvation. Children of love and peace — may the Lord of glory and all grace be with your spirit.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

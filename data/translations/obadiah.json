@@ -1,0 +1,160 @@
+{
+  "book": "Obadiah",
+  "slug": "obadiah",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 0,
+          "original": "",
+          "translation": "",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "οραϲιϲ αβδιου · τα δε λεγει κϲ ο θϲ τη ϊ δουμαια · ακοην ηκουϲα παρα κυ · και περιοχην ειϲ τα εθνη εξαπεϲτι λεν εξαπεϲτει λεν · αναϲτηται αναϲτητε και εξαναϲτηϲω μαιν εξαναϲτω μεν επ αυτην ειϲ πολεμον ·",
+          "translation": "The vision of Obadiah. Thus says the Lord God concerning Edom. We have heard a report from the Lord, and a messenger has been sent among the nations: \"Rise up! Let us rise against her in battle!\"",
+          "footnotes": [
+            {
+              "id": "obadiah-1-1-interpretation",
+              "text": "The LXX reads 'God of Edom' while MT has 'Adonai YHWH concerning Edom'.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "ϊδου ολιγοϲτον δεδω κα ϲε εν τοιϲ εθνε ϲιν · ητιμωμενοϲ ϲυ ει ϲφοδρα ·",
+          "translation": "\"Look, I have made you small among the nations; you are utterly despised.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "η υ̇πε ρηφανια τηϲ καρ διαϲ ϲου επηρεν ϲε · καταϲκηνουν τ [1 chars] καταϲκηνουν τα καταϲκηνουν ταϲ εν ταιϲ οπεϲ οπαιϲ των πετρων · υ̇ ψων κατοικιαν αυτου · λεγων εν καρδιαʼ αυτου · τιϲ με καταξι καταξει επι τ η γην ˙",
+          "translation": "The pride of your heart has deceived you, you who live in the clefts of the rock, whose dwelling is high, who say in your heart, 'Who can bring me down to the ground?'",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "εαν μετεω ριϲθηϲ ωϲ αετοϲ ˙ και ανα μεϲον τ ω αϲτερων αϲτρων θηϲ νοϲ ϲιαν ϲου · εκιθεν εκειθεν καταξω ϲαι λεγι ϲε λεγει κϲ ·",
+          "translation": "Though you soar like the eagle and set your nest among the stars, from there I will bring you down, declares the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ει κλεπτε κλεπται ειϲηλθ ο προϲ ϲε ε̣η ληϲτε η ληϲται νυκτοϲ · που ανʼ α περιφηϲ · ουκ αν εκλεψαν τα ϊκα να εαυτοιϲ αυτοιϲ · και ει τρυγηται ειϲηλθ ο προϲ ϲε · ουκ αν υ̇ πολιποντο υ̇ πελιποντο υπο φυλλιδαϲ επι φυλλιδα επι φυλλιδαϲ",
+          "translation": "If thieves came to you, if robbers by night — how you would be devastated! — would they not steal only what they wanted? If grape gatherers came to you, would they not leave gleanings?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "πωϲ ε ξηρευνηθη ηϲαυ · και κατελιφθη αυ του τα κεκρυμε να ·",
+          "translation": "How Esau has been ransacked, his hidden treasures searched out!",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εωϲ των ορι ων εξαπεϲτιλαν εξαπεϲτειλαν ϲε · παντεϲ οι αν δρεϲ τηϲ διαθηκηϲ ϲου · αντεϲτηϲαν ϲοι · ηδυναϲθηϲ α προϲ ϲε : ανδρεϲ ϊ ρηνικοι ει ρηνικοι ϲου . εθη καν ενεδρα ϋπο κατω ϲου · ουκ εϲτ ι εϲτ ι ϲυνεϲειϲ ϲυνεϲιϲ ϲυνεϲιϲ αυτοιϲ ·",
+          "translation": "All your allies have driven you to the border; those at peace with you have deceived you and prevailed against you. Those who eat your bread have set a trap under you — there is no understanding in them.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εν εκινη εκεινη τη ημαι ρα ημε ρα λεγει κϲ · απολῶ ϲοφουϲ εκ τηϲ ι δου μαιαϲ · και ϲυνεϲ ι ϲυνεϲ ι εξ ορουϲ ηϲαυ ·",
+          "translation": "On that day, declares the Lord, will I not destroy the wise from Edom and understanding from Mount Esau?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και πτοηθηϲονται οι μαχητε μαχηται ϲου οι εκ θεμαν · οπωϲ εξαρ θη ανο ϲ εξ ορουϲ ηϲαυ ·",
+          "translation": "Your warriors will be terrified, Teman, so that everyone from Mount Esau will be cut off by slaughter.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "δια την ϲφα γην και την αϲεβι αν αδελφου την ειϲ τον αδελφον αδελφου ϲου ϊα κωβ καλυψι ϲα̣ι̣ εϲχυ κ(αι) καλυψι ϲε αιϲχυνη καλυψει ϲε αιϲχυνη · και εξαρθηϲη ειϲ τον αιωναν αιωνα αιωνα ·",
+          "translation": "Because of the violence against your brother Jacob, shame will cover you, and you will be cut off forever.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "αφ ηϲ ημεραϲ αν τεϲτηϲ εξ εναντι αϲ · εν ημεραιϲ εκ μαλωτευοντ ω αιχ μαλωτευοντ ω αιχ μαλωτευοντ ω αλλογενων δυνα μιν αυτων αυτου αυτου · και αλ λοτριοι ειϲηλθ ο ειϲηλθ ο ειϲ πυλαϲ αυτου · και επι ιημ ʼ επβαλ λον εβαλλον εβαλ λον εβα λον κληρουϲ · και ϲυ ηϲʼ ωϲ ειϲ εξ αυ των ·",
+          "translation": "On the day you stood aloof, on the day when strangers carried off his wealth and foreigners entered his gates and cast lots for Jerusalem — you were like one of them.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και μη επιδη επϊδηϲ ημαιραν ημεραν ημεραν αδελφου ϲου · εν ημερα αλ λοτριων · και μη ε πιχαρηϲ επι τουϲ ϋϊουϲ ϊουδα · εν ημε ρα απωλιαϲ αυτ ω · και μη μεγαρηο νηϲηϲ μεγαλορημο νηϲηϲ εν ημερα θλιψεωϲ ·",
+          "translation": "Do not gloat over your brother on the day of his misfortune; do not rejoice over the people of Judah on the day of their ruin; do not boast on the day of distress.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "μηδε ειϲελθηϲ ειϲ πυ λαϲ λαων λαου μου εν ημε ρα πονηρων πονων αυ των · μηδε επϊδηϲ και ϲυ την ϲυναγω γην αυτων αυτου εν η μερα ολεθρου αυ των αυτου · μηδε ϲυνε πιθη επι την δυ ναμιν αυτων αυτου · ε ν ημερα απωλιαϲ αυτων αυτου ·",
+          "translation": "Do not enter the gate of my people on the day of their disaster; do not gloat over their calamity on the day of their destruction; do not seize their wealth on the day of their ruin.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "μηδε ϲυν επιθη επι την δυ ναμιν αυτων ε ν ημεραʼ απολιαϲ αυτων ε μηδε αι πειϲτηϲ ε πιϲτῆϲ ε πιϲτῆϲ επι ταϲ διεκβολαϲ αυτου αυτων αυτου ˙ εξολεθρευϲε εξολεθρευϲαι τουϲ τουϲ αναϲωζομενουϲ αυτου αναϲωζομενουϲ εξ αυτων αναϲωζομενουϲ αυτου · μηδε ϲυν κλιϲηϲ τουϲ φευ γονταϲ αυτου αυτων αυτου εν ημερα θλιψεωϲ ·",
+          "translation": "Do not wait at the crossroads to cut down their fugitives; do not hand over their survivors on the day of distress.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "διοτι εγγυϲ η ημε ρα κυ επι παντα τα εθνη · ον τροπον εποιηϲαϲ · ουτωϲ εϲτε εϲται ϲοι · το αντα ποδομα ϲου · αντα ποδοθηϲεται ειϲ καιφαλην κεφαλην ϲου ˙",
+          "translation": "For the day of the Lord is near against all the nations. As you have done, it will be done to you; your deeds will return on your own head.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "δι οτι ον τροπον ε πιεϲ · αιπι επι τοʼ οροϲ το αγιον μου πι ο ται παντα τα εθνη οινον πιονται και καταβηϲ ο ται · και εϲοντε εϲονται κα θωϲ ουχ υ̇παρχ ο τεϲ ·",
+          "translation": "For as you drank on my holy mountain, so all the nations will drink continually; they will drink and stagger and will be as though they had never been.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "εν δε τω ορει ορε ϲειων εϲτε εϲται η ϲω · και εϲτε εϲται αγι ον · και κατακλη ρονομηϲουϲιν ο οικοϲ ϊακωβʼ τουϲ κατακληρονομη ϲανταϲ αυτουϲ",
+          "translation": "But on Mount Zion there will be deliverance, and it will be holy. The house of Jacob will possess those who dispossessed them.",
+          "footnotes": [
+            {
+              "id": "obadiah-1-17-variant",
+              "text": "LXX: 'those who dispossessed them'; MT: 'their own possessions'.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "original": "και εϲτε εϲται ο οικοϲ ϊακωβʼ πυρʼ · ὁ δε οι κοϲ ϊωϲηφʼ φλοξʼ · ο δε οικοϲ ηϲαυ · καλαμην · και εκ καυθηϲονται ειϲ αυτουϲ κ(αι) καταφαγον ται αυτουϲ · και ου κ εϲτε εϲται πυροφοροϲ πυρφοροϲ τω οικω ηϲαυ ηϲα [1 chars] · δι οτι οτι κϲ ελαληϲεν ·",
+          "translation": "The house of Jacob will be a fire, and the house of Joseph a flame, and the house of Esau stubble; they will set them ablaze and consume them. There will be no survivor from the house of Esau, for the Lord has spoken.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και κατακληρονο μηϲουϲιν οι ενα γεβʼ εν ναγεβʼ · τοʼ οροϲ το ηϲαυ · και οι εν τη ϲεφη λα · τουϲ αλλοφυλουϲ · και κατακληρονο μηϲουϲιν το οροϲ εφραιμ · και το πε διον ϲαμαριαϲ · και βενιαμειν · και τ η τ η γαλααδειτιν ·",
+          "translation": "Those of the Negev will possess Mount Esau, and those of the Shephelah will possess the land of the Philistines; they will possess the fields of Ephraim and Samaria, and Benjamin will possess Gilead.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και τηϲ μετοικαιϲι αϲ μετοικεϲιαϲ μετοικεϲιαϲ η αρχη αυτη τοιϲ υϊοιϲ ϊ ϲλ ʼ γη των χανανεων . εωϲ ϲαρεπτων · και η μετοικαιϲια μετοικεϲια μετοικεϲια ϊ ημ ϊ ημ εωϲ εφραθα κ(αι) κλη ρονομηϲουϲιν ταϲ πολιϲ πολειϲ του να γεβʼ .",
+          "translation": "The exiles of this host of the people of Israel will possess the land of the Canaanites as far as Zarephath; and the exiles of Jerusalem who are in Sepharad will possess the towns of the Negev.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και αναβηϲον ται αναϲωζομε νοι εξ ορουϲ ϲι ω ϲι ω · του εκδικηϲαι το οροϲ ηϲαυʼ · και εϲτε εϲται τω κω η βαϲιλια βαϲιλεια : ⌇﹏",
+          "translation": "Deliverers will go up on Mount Zion to judge Mount Esau, and the kingdom will belong to the Lord.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

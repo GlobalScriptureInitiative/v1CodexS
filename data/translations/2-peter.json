@@ -1,0 +1,423 @@
+{
+  "book": "2 Peter",
+  "slug": "2-peter",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ϲυμεων πετροϲ δουλοϲ και αποϲτο λοϲ ιυ χυ τοιϲ ϊϲο τιμον ημιν λαχου ϲιν πιϲτιν ειϲ δι καιοϲυνην του κυ ημων και ϲωτη ροϲ ιυ χυ",
+          "translation": "Simeon Peter, a servant and apostle of Jesus Christ, to those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:",
+          "footnotes": [
+            {
+              "id": "2-peter-1-1-interpretation",
+              "text": "The phrase \"our God and Savior Jesus Christ\" (using the Granville Sharp rule) strongly identifies Jesus as God. This is one of the clearest divine-title passages in the NT.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "χαριϲ ϋμιν και ει ρηνη πληθυνθι η εν επιγνωϲι του θυ και ιυ χυ του κυ ημων",
+          "translation": "Grace and peace be yours in abundance through the knowledge of God and of Jesus our Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ωϲ τα π α τα ημιν τηϲ θιαϲ δυναμεωϲ αυτου τα προϲ τον θν και ζωην και ευϲεβι αν δεδωρημενηϲ δια τηϲ επιγνωϲε ωϲ του καλεϲαν τοϲ ημαϲ ϊδια δο ξη και αρετη",
+          "translation": "His divine power has given us everything we need for a godly life through our knowledge of him who called us by his own glory and goodness.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "δι ω τα τιμια ημιν και μεγιϲτα επαγγελ ματα δεδωρηται ϊνα δια τουτων γε νηϲθε θειαϲ φυ ϲεωϲ κοινωνοι αποφυγοντεϲ την εν τω κοϲμω επιθυμιαν φθο ραϲ",
+          "translation": "Through these he has given us his very great and precious promises, so that through them you may participate in the divine nature, having escaped the corruption in the world caused by evil desires.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και αυτο δε του το ϲπουδην παϲ α παρειϲενεγκαν τεϲ χορηγηϲατε επιχορηγηϲατε επιχορηγηϲατε ‾‾ εν τη πιϲτι ϋμων την αρετην ‾‾ εν δε τη αρετη την γνωϲιν ‾‾",
+          "translation": "For this very reason, make every effort to add to your faith goodness; and to goodness, knowledge;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εν δε τη γνωϲι την εγκρατιαν ‾‾ εν δε τη εγκρατια την υ πομονην ‾‾ εν δε τη ϋπομονη την ευϲεβειαν ‾‾",
+          "translation": "and to knowledge, self-control; and to self-control, perseverance; and to perseverance, godliness;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εν δε την ευϲεβια την φιλαδελφιαν ‾‾ εν δε τη φιλαδελφια την αγαπην ‾‾",
+          "translation": "and to godliness, mutual affection; and to mutual affection, love.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ταυτα γαρ ϋμιν υ παρχοντα και πλε οναζοντα ουκ αρ γουϲ ουδε ακαρ πουϲ ουδ καθϊϲτη ϲιν ειϲ την του κυ ημων ιυ χυ επι γνωϲιν",
+          "translation": "For if you possess these qualities in increasing measure, they'll keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ω γαρ μη παρεϲτιν ταυτα τυφλοϲ εϲτ ι μυωπαζων ληθ η λαβων του καθαρι ϲμου των παλαι αυτου αμαρτημα των",
+          "translation": "But whoever doesn't have them is nearsighted and blind, forgetting that they've been cleansed from their past sins.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "διο μαλλον αδελφοι ϲπουδα ϲατε ϊνα δια των καλων εργων βε βαιαν ϋμων την κληϲιν και εκλο γην ποιειϲθαι ταυ τα γαρ ποιουντεϲ ου μη πτεϲητε πο τε",
+          "translation": "Therefore, my brothers, make every effort to confirm your calling and election. For if you do these things, you'll never stumble,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ουτωϲ γαρ πλου ϲιωϲ επιχορηγη θηϲεται υ μιν ειϲο δοϲ ειϲ την αιωνι ον βαϲιλιαν του κυ ημων και ϲω τηροϲ ιυ χυ",
+          "translation": "and you'll receive a rich welcome into the eternal kingdom of our Lord and Savior Jesus Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "διο μελ ληϲω αει περι του των ϋπομιμνη ϲκιν ϋμαϲ καιπερ ϊδοταϲ και εϲτηριγμενουϲ εν τη παρουϲη αληθια",
+          "translation": "So I'll always remind you of these things, even though you know them and are firmly established in the truth you now have.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "δικαιον δε ηγουμαι εφ οϲον ειμι εν τουτω τω ϲκηνωματι διεγιριν υμαϲ εν τη ϋπομνηϲει",
+          "translation": "I think it's right to refresh your memory as long as I live in the tent of this body,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ειδωϲ οτι ταχεινη εϲτ ι η αποθεϲιϲ του ϲκη νωματοϲ μου ιϲ χϲ εδηλωϲεν μοι",
+          "translation": "because I know that I'll soon put it aside, as our Lord Jesus Christ has made clear to me.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ϲπουδαζω δε και εκαϲτοτε εχειν ϋ μαϲ μετα την ε μην εξοδον τ η τουτων μνημ η ποιειϲθαι",
+          "translation": "And I'll make every effort to see that after my departure you'll always be able to remember these things.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ου γαρ ϲεϲοφιϲμενοιϲ μυθοιϲ εξακολου θηϲαντεϲ εγνω ριϲαμεν ϋμιν τ η του κυ ημων ιυ χυ δυναμιν και παρου ϲιαν · αλλ εποπται γενηθεντεϲ τηϲ εκεινου μεγαλειο τητοϲ",
+          "translation": "For we didn't follow cleverly devised stories when we told you about the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty.",
+          "footnotes": [
+            {
+              "id": "2-peter-1-16-interpretation",
+              "text": "The reference to the Transfiguration (cf. Matthew 17:1-8; Mark 9:2-8) as an eyewitness event is used to authenticate the apostolic testimony against false teachers.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "original": "λαβων γαρ παρα του θυ πατροϲ τιμην και δοξαν φωνηϲ ενεχθιϲηϲ αυτω τοιαϲδε ϋπο τηϲ μεγαλοπρεπουϲ δοξηϲ ˙ ουτοϲ εϲτ ι ο υϲ μου ο αγαπητοϲ ειϲ ον εγω ευδοκη ϲα",
+          "translation": "He received honor and glory from God the Father when the voice came to him from the Majestic Glory, saying, \"This is my Son, whom I love; with him I am well pleased.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και ταυτην την φωνην ημειϲ η κουϲαμεν εκ του ουρανου ενεχθει ϲαν ουν ϲυν αυτω ον τεϲ εν τω ορι τω α γιω",
+          "translation": "We ourselves heard this voice that came from heaven when we were with him on the sacred mountain.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και εχομεν βεβαιοτερον τον προφητικον λογ ο ω καλωϲ ποιειται προϲεχοντεϲ ωϲ λυχνω φαινοντι εν αυχμηρω τοπω εωϲ ου η ημερα δι αυγαϲη και φωϲ φοροϲ ανατιλη εν ταιϲ καρδιαιϲ ϋμ ω",
+          "translation": "We also have the prophetic message as something completely reliable, and you'll do well to pay attention to it, as to a light shining in a dark place, until the day dawns and the morning star rises in your hearts.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "τουτο πρωτον γι νωϲκοντεϲ οτι παϲα προφητια γραφηϲ ι διαϲ επι λυϲεωϲ ου γινεται",
+          "translation": "Above all, you must understand that no prophecy of Scripture came about by the prophet's own interpretation.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ου γαρ θεληματι ανθρωπου ηνε χθη ποτε αλλα υ πο πνϲ αγιου φερομενοι ελαληϲαν αγιοι θυ ανθρωποι",
+          "translation": "For prophecy never had its origin in the human will, but prophets, though human, spoke from God as they were carried along by the Holy Spirit.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "εγενοντο δε και ψευ δοπροφηται εν τω λαω ωϲ και εν υ μιν εϲονται ψευ δοδιδαϲκαλοι οι τινεϲ παριϲαξουϲ ι αιρεϲειϲ απωλιαϲ και τον αγοραϲαν τα αυτουϲ δεϲπο την αρνουμενοι επαγοντεϲ εαυτοιϲ ταχινην απωλι αν",
+          "translation": "But there were also false prophets among the people, just as there will be false teachers among you. They'll secretly introduce destructive heresies, even denying the sovereign Lord who bought them — bringing swift destruction on themselves.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και πολλοι εξα κολουθηϲουϲιν αυτων ταιϲ αϲελ γιαιϲ δι ουϲ η οδοϲ δοξα τηϲ αληθιαϲ βλα ϲφημηθηϲεται",
+          "translation": "Many will follow their depraved conduct, and the way of truth will be brought into disrepute because of them.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εν πλεονεξι α πλαϲτοιϲ λογοιϲ ϋμαϲ εκπορευϲ ο ται ενπορευϲ ο ται οιϲ το κριμα εκ παλαι ουκ αργει και η απωλεια αυτ ω ου νυϲταζει",
+          "translation": "In their greed these teachers will exploit you with fabricated stories. Their condemnation has long been hanging over them, and their destruction has not been sleeping.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "η̣ ει γαρ ο θϲ αγγελων αμαρ τηϲαντων ουκ ε φιϲατο αλλα ϲιροιϲ ζοφοιϲ ζοφου ταρταρω ϲαϲ παρεδωκεν ειϲ κριϲιν κολα ζομενουϲ τηριν",
+          "translation": "For if God didn't spare angels when they sinned, but sent them to Tartarus, putting them in chains of darkness to be held for judgment;",
+          "footnotes": [
+            {
+              "id": "2-peter-2-4-cultural-context",
+              "text": "\"Tartarus\" (ταρταρώσας) is a Greek mythological term for the abyss of punishment — the only occurrence of this word in the NT. Peter uses it to describe the holding place for fallen angels.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "και αρχαιου κοϲ μου ουκ εφιϲατο αλλα ογδοον νω ε δικαιοϲυνηϲ κηρυκα εφυλαξ ε κατακλυϲμον κο ϲμον κοϲμω αϲεβων ε παξαϲ ·",
+          "translation": "if he didn't spare the ancient world when he brought the flood on its ungodly people, but protected Noah, a preacher of righteousness, and seven others;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και πολιϲ ϲοδομων και γο μορραϲ τεφρωϲαϲ καταϲτροφη κα τεκρινεν ϋποδι γμα μελλοντ ω αϲεβειν τεθικωϲ",
+          "translation": "if he condemned the cities of Sodom and Gomorrah by burning them to ashes, and made them an example of what's going to happen to the ungodly;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και δικαιον λωτ καταπονουμεν ο ϋπο τηϲ των αθε ϲμων εν αϲελγι α αναϲτροφηϲ ερρυϲατο",
+          "translation": "and if he rescued Lot, a righteous man, who was distressed by the depraved conduct of the lawless",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "βλεμμα τι γαρ και ακοη ο δικαιοϲ ενκατοι κων εν αυτοιϲ η μεραν εξ ημεραϲ ψυχην δικαιαν ανομοιϲ εργοιϲ ε βαϲανιζεν",
+          "translation": "(for that righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard) —",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "οιδ ε κϲ ευϲεβειϲ εκ πι ραϲμων πιραϲμου ρυεϲθαι αδικουϲ δε πεφυ λακιϲμενουϲ ειϲ η ραν κριϲεωϲ κο λαζομενουϲ τη ριν",
+          "translation": "if all this is so, then the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "μαλιϲτα δε τουϲ οπιϲω ϲαρκοϲ ε ν επιθυμιαϲ επιθυμια μιαϲ μου πορευομε νουϲ και κυριοτη τοϲ καταφρονο υ ταϲ τολμηται αυ θαδιϲ δοξαϲ ου τρε μουϲιν βλαϲφη μουντεϲ",
+          "translation": "This is especially true of those who follow the corrupt desire of the flesh and despise authority. Bold and arrogant, they're not afraid to heap abuse on celestial beings;",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "οπου αγ γελοι ϊϲχυει και δυναμι μιζονεϲ οντεϲ ου φερουϲ ι κατ αυτων κω βλαϲφημον κριϲιν",
+          "translation": "yet even angels, although stronger and more powerful, don't bring slanderous accusations against them in the presence of the Lord.",
+          "footnotes": [
+            {
+              "id": "2-peter-2-11-variant",
+              "text": "Some manuscripts read \"against them from the Lord\" instead of \"against them in the presence of the Lord,\" a minor textual variation.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "original": "αυτοι δε ωϲ αλογα ζωα γεγενη μενα φυϲικα ειϲ αλωϲιν και φθο ραν εν οιϲ αγνοο υ τεϲ βλαϲφημουϲ ι εν τη φθορα αυτ ω και φθαρηϲον ται καταφθαρηϲον ται",
+          "translation": "But these people blaspheme in matters they don't understand. They're like unreasoning animals, creatures of instinct, born only to be caught and destroyed, and like animals they too will perish.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "αδικουμενοι κομιουμενοι μιϲθον αδικιαϲ ηδονην ηγουμε νοι την εν ημε ρα τρυφην ϲπιλοι και μωμοι εν τρυφωντεϲ εν ταιϲ απαταιϲ αυτ ω ϲυνευωχουμε νοι υ μιν",
+          "translation": "They'll be paid back with harm for the harm they've done. Their idea of pleasure is to carouse in broad daylight. They're blots and blemishes, reveling in their pleasures while they feast with you.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "οφθαλ μουϲ εχοντεϲ μεϲτουϲ μοιχα λιαϲ και ακαταπαυ ϲτουϲ αμαρτιαιϲ δελεαζοντεϲ ψυ χαϲ αϲτηρικτουϲ καρδιαν γεγυμνα ϲμενην πλεονε ξιαϲ εχοντεϲ κα ταραϲ τεκνα",
+          "translation": "With eyes full of adultery, they never stop sinning; they seduce the unstable; they're experts in greed — an accursed brood!",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "κατα λειποντεϲ ευθει αν οδον επλανη θηϲαν εξακολου θηϲαντεϲ τη οδω του βαλααμ του βεωορϲορ βοϲορ οϲ μιϲθ ο αδικιαϲ ηγαπηϲ ε",
+          "translation": "They've left the straight way and wandered off to follow the way of Balaam son of Beor, who loved the wages of wickedness.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ελεγξειν δε εϲχ ε ϊδιαϲ παρανομι αϲ υποζυγιον α φωνον εν ανθρω που φωνη φθεγ ξαμενον εκω λυϲεν την του προ φητου παραφρονι αν",
+          "translation": "But he was rebuked for his wrongdoing by a donkey — an animal without speech — who spoke with a human voice and restrained the prophet's madness.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ουτοι ειϲιν πη γαι ανυδροι και ο μιχλαι ϋπο λελα ποϲ ελαυνομε ναι οιϲ ο ζοφοϲ του ϲκοτουϲ τετη ρηται",
+          "translation": "These people are springs without water and mists driven by a storm. The blackest darkness is reserved for them.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ϋπερογκα γαρ μαθηταιοτη τοϲ ματαιοτητοϲ ματαιοτητοϲ φθεγγομενοι δελεαζουϲιν εν ε πιθυμιαιϲ ϲαρκοϲ αϲελγιαιϲ του τουϲ ον τωϲ ολιγωϲ αποφευγον ταϲ τουϲ εν πλα νη αναϲτρεφο μενουϲ",
+          "translation": "For they mouth empty, boastful words and, by appealing to the lustful desires of the flesh, they entice people who are just escaping from those who live in error.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ελευθερι αν ελευθεριαν αυ τοιϲ επαγγελλο μενοι αυτοι δου λοι ϋπαρχοντεϲ τηϲ φθοραϲ ω γαρ τιϲ ηττηται του τω κ(αι) δεδουλωται",
+          "translation": "They promise them freedom, while they themselves are slaves of depravity — for \"people are slaves to whatever has mastered them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ει γαρ αποφυγον τεϲ τα μιαϲματα του κοϲμου εν ε πιγνωϲει του κυ ημων και ϲωτη ροϲ ιυ χυ τουτοιϲ δε παλιν εμπλα κεντεϲ ηττωνται γεγονεν αυτοιϲ τα εϲχατα χειρονα των πρωτων",
+          "translation": "If they've escaped the corruption of the world by knowing our Lord and Savior Jesus Christ and are again entangled in it and are overcome, they're worse off at the end than they were at the beginning.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "κριϲ ϲον γαρ ην αυτοιϲ μη επεγνωκεναι την οδον τηϲ δικ(αι) οϲυνηϲ η επιγνουϲ ι ̣ επιγνουϲ ι ειϲ τα οπιϲω ανα καμψαι απο τηϲ παραδοθιϲηϲ αυ τοιϲ αγιαϲ εντο ληϲ",
+          "translation": "It would've been better for them not to have known the way of righteousness, than to have known it and then to turn their backs on the sacred command that was passed on to them.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ϲυμβεβηκεν δε αυτοιϲ το τηϲ αλη θουϲ παροιμιαϲ κυων επιϲτρε ψαϲ επι το ϊδιον ε ξεραμα και ϋϲ λου ϲαμενη ειϲ κυλι ϲμα βορβορου ·",
+          "translation": "Of them the proverbs are true: \"A dog returns to its vomit,\" and, \"A sow that is washed returns to her wallowing in the mud.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ταυτην ηδη αγα πητοι δευτεραν ϋμιν γραφω επι ϲτολην εν αιϲ δι εγειρω υ μων ε ν υπομνηϲι την ειλικρινη διανοι αν",
+          "translation": "Dear friends, this is now my second letter to you. I've written both of them as reminders to stimulate you to wholesome thinking.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "μνηϲθηναι των προειρημε νων ρηματων ϋ πο των αγιων προφητων και τηϲ των αποϲτο λων υ μων εντο ληϲ του κυ και ϲω τηροϲ",
+          "translation": "I want you to recall the words spoken in the past by the holy prophets and the command given by our Lord and Savior through your apostles.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "τουτο πρω τον γιγνωϲκοντεϲ οτι ελευϲονται ε π εϲχατων των ημερων εν εμπε γμονη εμπεκται κατα ταϲ ϊδιαϲ αυ των επιθυμιαϲ πορευομενοι",
+          "translation": "Above all, you must understand that in the last days scoffers will come, scoffing and following their own evil desires.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "κ(αι) λεγοντεϲ που εϲ τιν η επαγγελια τηϲ παρουϲιαϲ αυ του αφ ηϲ γαρ οι πα τερεϲ εκοιμηθη ϲαν παντα ουτωϲ διαμενι απ αρχηϲ κτιϲεωϲ",
+          "translation": "They'll say, \"Where's this 'coming' he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "λανθανει γαρ αυ τουϲ τουτο θελον ταϲ οτι ουρανοι η ϲαν εκπαλαι και γη εξ υδατοϲ και δια ϋδατοϲ ϲυνε ϲτωτα ϲυνεϲτωϲα τω του θυ λογω",
+          "translation": "But they deliberately forget that long ago by God's word the heavens came into being and the earth was formed out of water and by water.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "δι ων ο το τε κοϲμοϲ υ δατι κατακλυϲθειϲ α πωλετο ·",
+          "translation": "By these waters also the world of that time was deluged and destroyed.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "οι δε ν υ ουρανοι και η γη τω αυτου λογω τε θηϲαυριϲμενοι ειϲιν πυρι τηρου μενοι ειϲ ημε ραν κριϲεωϲ και απωλειαϲ των αϲεβων ανθρω πων ·",
+          "translation": "By the same word the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of the ungodly.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εν δε του το μη λανθανετω ϋμαϲ αγαπητοι ο τι μια ημερα πα ρα κυ ωϲ χιλια ετη ωϲ ημερα μια ·",
+          "translation": "But don't forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ου βραδυνει κϲ τηϲ επαγγελιαϲ ωϲ τινεϲ βραδυ τητα ηγουνται αλλα μακροθυμι δι ϋμαϲ μη βουλο μενοϲ τιναϲ απο λεϲθαι αλλα παν τεϲ ειϲ μετανοι α χωρηϲαι ·",
+          "translation": "The Lord isn't slow in keeping his promise, as some understand slowness. Instead he's patient with you, not wanting anyone to perish, but everyone to come to repentance.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ηξει δε η ημερα κυ ωϲ κλεπτηϲ εν η ουρανοι μεν ρυζηδον παρελευϲ ο ται ϲτοιχεια δε καυ ϲουμενα λυθηϲε ται γη και τα εν εργα ευρεθηϲε ται",
+          "translation": "But the day of the Lord will come like a thief. The heavens will disappear with a roar; the elements will be destroyed by fire, and the earth and everything done in it will be laid bare.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "τουτων ουν παντων λυομεν ω ποταπουϲ δει ϋ παρχειν ημαϲ υ̇μαϲ ε ν αγιαιϲ αναϲτρο φαιϲ και ευϲεβειαιϲ",
+          "translation": "Since everything will be destroyed in this way, what kind of people ought you to be? You ought to live holy and godly lives",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "προϲδοκωνταϲ κ(αι) ϲπευδονταϲ τ η παρουϲιαν τηϲ του θυ ημεραϲ δι ην ου ρανοι πυρουμενοι λυθηϲονται και ϲτοιχια καυϲουμε να τηκεται",
+          "translation": "as you look forward to the day of God and speed its coming. That day will bring about the destruction of the heavens by fire, and the elements will melt in the heat.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "καινουϲ δε ουρανουϲ και κενην γην κατα τα επαγγελματα αυ του προϲδοκωμ ε εν οιϲ δικαιοϲυ νη κατοικει ·",
+          "translation": "But in keeping with his promise we're looking forward to a new heaven and a new earth, where righteousness dwells.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "διο αγαπητοι ταυτα προϲδοκωντεϲ ϲπουδαϲατε αϲπι λοι και αμωμη τοι αυτω ευρεθη ναι εν ειρηνη",
+          "translation": "So then, dear friends, since you're looking forward to this, make every effort to be found spotless, blameless and at peace with him.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και την του κυ ημ ω μακροθυμιαν ϲω τηριαν αγειϲθαι ηγειϲθαι καθωϲ και ο αγαπη τοϲ ημων αδελ φοϲ παυλοϲ κατα την δοθειαν δοθειϲαν δοθειϲαν αυτω ϲοφιαν εγραψεν ϋμιν",
+          "translation": "Bear in mind that our Lord's patience means salvation, just as our dear brother Paul also wrote you with the wisdom that God gave him.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ωϲ και εν πα ϲαιϲ ταιϲ επιϲτο λαιϲ λαλων εν αυ ταιϲ περι τουτων εν αιϲ εϲτιν δυϲνο ητα τινα α οι αμα θειϲ και αϲτηρικτοι ϲτρεβλουϲιν ωϲ και ταϲ λοιπαϲ γραφαϲ προϲ την ϊδιαν αυτων απω λειαν",
+          "translation": "He writes the same way in all his letters, speaking in them of these matters. His letters contain some things that are hard to understand, which ignorant and unstable people distort, as they do the other Scriptures, to their own destruction.",
+          "footnotes": [
+            {
+              "id": "2-peter-3-16-interpretation",
+              "text": "This passage refers to Paul's letters as \"Scripture\" (γραφάς), one of the earliest indications that Paul's writings were being collected and considered authoritative alongside the OT.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "original": "ϋμειϲ ουν αγαπητοι προγι νωϲκοντεϲ φυ λαϲϲεϲθαι ϊνα μη τη των αθεϲμ ω πλανη ϲυναπα χθεντεϲ εκπεϲη τε του ϊδιου ϲτηρι γμου",
+          "translation": "Therefore, dear friends, since you've been forewarned, be on your guard so that you won't be led astray by the error of the lawless and fall from your secure position.",
+          "footnotes": [
+            {
+              "id": "2-peter-3-17-variant",
+              "text": "Some manuscripts read \"lawless\" (ἀθέσμων) while others read \"deceitful\" (πλάνης). Both are well-attested.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "original": "αυξανετε δε εν χαριτι και γνωϲι του κυ η μων και ϲωτηροϲ ιυ χυ αυτω η δοξα και νυν και ειϲ η μεραν αιωνοϲ α μην ·",
+          "translation": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

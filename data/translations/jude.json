@@ -1,0 +1,190 @@
+{
+  "book": "Jude",
+  "slug": "jude",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 0,
+          "original": "",
+          "translation": "",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ϊουδαϲ ιυ χυ δουλοϲ αδελφοϲ δε ι ακω βου τοιϲ εν θω πατρι ηγαπημε και ιυ χω τε τηρημενοιϲ κλη τοιϲ ˙",
+          "translation": "Jude, a servant of Jesus Christ and a brother of James, to those who have been called, who are loved in God the Father and kept for Jesus Christ:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ελεοϲ υ μιν και ειρηνη και αγαπη πληθυνθι η",
+          "translation": "Mercy, peace and love be yours in abundance.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "αγαπητοι · παϲαν ϲπουδην ποιουμενοϲ του γραφειν ϋμιν πε ρι τηϲ κοινηϲ η μων ϲωτηριαϲ και ζωηϲ αναγκην εϲχον γραφιν υμ ι παρακαλων επα γωνιζεϲθαι τη α παξ παραδοθειϲη τοιϲ αγιοιϲ πιϲτι",
+          "translation": "Dear friends, although I was very eager to write to you about the salvation we share, I felt compelled to write and urge you to contend for the faith that was once for all entrusted to God's holy people.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "παρειϲεδυϲαν γαρ τινεϲ ανθρωποι οι και παλαι προ γεγραμμενοι ειϲ τουτο το κριμα α ϲεβειϲ την του θυ ημων χαριν με τατιθεντεϲ ειϲ α ϲελγιαν και τον μονον δεϲπο την και κν ημ ω ιν χν αρνουμε νοι",
+          "translation": "For certain individuals have crept in unnoticed — those who were long ago marked out for this condemnation, ungodly people who pervert the grace of our God into a license for immorality and deny Jesus Christ, our only Sovereign and Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ϋπομνηϲαι δε ϋμαϲ βουλο μαι ειδοταϲ ϋ μαϲ παντα οτι κϲ απαξ λαον εκ γηϲ αιγυπτου ϲω ϲαϲ το δευτερον τουϲ μη πιϲτευ ϲανταϲ απωλεϲ ε",
+          "translation": "Though you already know all this, I want to remind you that the Lord at once delivered his people out of Egypt, but later destroyed those who didn't believe.",
+          "footnotes": [
+            {
+              "id": "jude-1-5-variant",
+              "text": "This verse has a major textual variant. Codex Sinaiticus reads \"the Lord\" (κύριος) but other manuscripts read \"Jesus\" (Ἰησοῦς) or \"God\" (θεός). The reading \"Jesus\" would be the only NT reference to Jesus delivering Israel from Egypt.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "αγγελουϲ τε τουϲ μη τηρηϲανταϲ την εαυτων αρχ η αλλα απολιπον ταϲ το ι διον οικη τηριον ειϲ κριϲιν μεγαληϲ ημεραϲ δεϲμοιϲ αϊδιοιϲ υ πο ζοφον τετη ρηκεν",
+          "translation": "And the angels who didn't keep their positions of authority but abandoned their proper dwelling — these he's kept in darkness, bound with everlasting chains for judgment on the great Day.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ωϲ ϲοδο μα και γομορρα και αι περι αυταϲ πολειϲ τον ομοι ον τροπον του τοιϲ εκπορνευϲα ϲαι και απελθου ϲαι οπιϲω ϲαρκοϲ ετεραϲ προκιν ται δε διγμα πυ ροϲ αιωνιου δικ η ουκ εχουϲιν υπεχουϲιν",
+          "translation": "In a similar way, Sodom and Gomorrah and the surrounding towns gave themselves up to sexual immorality and perversion. They serve as an example of those who suffer the punishment of eternal fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ομοι ωϲ μεντοι και ου τοι ενυπνιαζο μενοι ϲαρκα μεν μιαινουϲιν κυρι οτηταϲ δε αθετου ϲιν δοξαϲ δε βλα ϲφημουϲιν ·",
+          "translation": "In the very same way, these dreamers pollute their own bodies, reject authority and heap abuse on celestial beings.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ο δε μιχαηλ ο αρχαγγε λοϲ οτε τω διαβο λω διακρινομε νοϲ διελεγετο περι του μωυϲε ωϲ ϲωματοϲ ου κ ετολμηϲεν κρι ϲιν επενεγκειν βλαϲφημιαϲ αλ λ ειπεν επιτιμη ϲε ϲοι ο θϲ κϲ",
+          "translation": "But even the archangel Michael, when he was disputing with the devil about the body of Moses, didn't dare to bring a slanderous accusation against him, but said, \"The Lord rebuke you!\"",
+          "footnotes": [
+            {
+              "id": "jude-1-9-cultural-context",
+              "text": "The dispute over Moses' body is not recorded in the OT. It likely comes from Jewish tradition in the Testament of Moses (Assumption of Moses), a non-canonical work.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "ουτοι δε οϲα μεν ουκ οιδαϲιν βλα ϲφημουϲιν οϲα δε φυϲικωϲ ωϲ τα αλογα ζωα επι ϲτανται εν του τοιϲ φθειρονται",
+          "translation": "Yet these people speak abusively against whatever they don't understand; and what things they do understand by instinct — like unreasoning animals — these are the very things that destroy them.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ουαι αυτοιϲ οτι τη οδω του καϊν επο ρευθηϲαν και τη πλανη του βαλα αμ μιϲθου εξεχυ θηϲαν και τη αν τιλογια του κορε απωλοντο ˙",
+          "translation": "How terrible for them! They've taken the way of Cain; they've rushed for profit into Balaam's error; they've been destroyed in Korah's rebellion.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ουτοι ειϲιν γογγυϲται μεμψιμυροι κα ταϲ επιθυμιαϲ αυ των πορευομενοι μεμψιμυροι κατα ταϲ επιθυμιαϲ αυτων πορευομενοι γογγυϲται μεμψιμυροι κατα ταϲ επιθυμιαϲ αυτων πορευομενοι οι εν ταιϲ αγαπαιϲ ϋ μων · ϲπιλαδεϲ ϲυνευωχουμε νοι αφοβωϲ εαυ τουϲ ποιμαινον τεϲ νεφελαι ανυ δροι παντι ανε μω παραφερομε ναι · δενδρα φθι νοπωρικ̣α φθινοπωρινα ακαρ πα διϲ αποθανον τα εκριζωθεντα",
+          "translation": "These people are blemishes at your love feasts, eating with you without the slightest qualm — shepherds who feed only themselves. They're clouds without rain, blown along by the wind; autumn trees, without fruit and uprooted — twice dead.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "αγρια κυματα θαλαϲ ϲηϲ επαφριζοντα ταϲ εαυτων αιϲχυ ναϲ αϲτερεϲ πλα νηται οιϲ ο ζοφοϲ του ϲκοτουϲ ειϲ αι ωνα τετηρηται",
+          "translation": "They're wild waves of the sea, foaming up their shame; wandering stars, for whom the blackest darkness has been reserved forever.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "προεπροφητευ ϲεν δε και τουτοιϲ εβδομοϲ απο α δαμʼ ενωχ λεγ ω ϊδου ηλθεν ο κϲ εν μυριαϲιν αγιων αγγελων",
+          "translation": "Enoch, the seventh from Adam, prophesied about them: \"See, the Lord is coming with thousands upon thousands of his holy ones",
+          "footnotes": [
+            {
+              "id": "jude-1-14-cultural-context",
+              "text": "Jude directly quotes 1 Enoch 1:9, indicating familiarity with this Jewish apocalyptic work. 1 Enoch was widely read in Second Temple Judaism but is not part of the canonical OT.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "original": "ποιηϲαι κριϲιν κατα παντ ω και ελεγξαι παϲαν ψυχην περι παν των των εργων ων ηϲεβηϲαν και περι παντων τ ω ϲκληρων λογων ων ελαληϲαν κα τ αυτου αμαρτωλοι αϲεβειϲ ˙",
+          "translation": "to judge everyone, and to convict all of them of all the ungodly acts they've committed in their ungodliness, and of all the defiant words ungodly sinners have spoken against him.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ουτοι ειϲ ι γογγυϲται μεμ ψιμυροι κατα ταϲ επιθυμιαϲ αυτ ω πορευομενοι και το ϲτομα αυτων λαλει ϋπερογκα θαυμαζοντεϲ προ ϲωπα ωφελειαϲ χα ριν",
+          "translation": "These people are grumblers and faultfinders; they follow their own evil desires; they boast about themselves and flatter others for their own advantage.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ϋμειϲ δε αγαπητοι μνηϲθητε των ρη ματων των προ ειρημενων υ πο των αποϲτολων του κυ ημων ιυ χυ ·",
+          "translation": "But, dear friends, remember what the apostles of our Lord Jesus Christ foretold.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "οτι ελεγον ϋμ ι επ εϲχατου του χρονου εϲονται ελευϲονται εμπεκται κατα ταϲ επιθυμιαϲ αυ των εαυτων πορευομε νοι των αϲεβει ω",
+          "translation": "They said to you, \"In the last times there will be scoffers who will follow their own ungodly desires.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ουτοι ειϲιν οι απο διοριζοντεϲ διοριζοντεϲ αποδιοριζοντεϲ · ψυ χικοι π ν α μη ε χοντεϲ",
+          "translation": "These are the people who divide you, who follow mere natural instincts and don't have the Spirit.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ϋμειϲ δε αγαπητοι εποι κοδομουντεϲ ε αυτουϲ τη αγιωτα τη υ μων πιϲτι εν π ν ι αγιω προϲευ χομενοι ·",
+          "translation": "But you, dear friends, by building yourselves up in your most holy faith and praying in the Holy Spirit,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "εαυτουϲ εν αγαπη θυ τηρη ϲατε προϲδεχο μενοι το ελεοϲ του κυ ημων ιυ χυ ειϲ ζωην αιω νιον",
+          "translation": "keep yourselves in God's love as you wait for the mercy of our Lord Jesus Christ to bring you to eternal life.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "και ουϲ μεν ελεα τε διακρινομενουϲ",
+          "translation": "Be merciful to those who doubt;",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "ουϲ δε ϲωζετε εκ πυροϲ αρπαζο̣ν̣τεϲ αρπαζε̣τεϲ ουϲ δε ελεατε εν φοβω μιϲουντεϲ και τον απο τηϲ ϲαρκοϲ εϲπιλω μενον χιτωνα",
+          "translation": "save others by snatching them from the fire; to others show mercy, mixed with fear — hating even the clothing stained by corrupted flesh.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "τω δε δυναμενω φυλαξαι ϋμαϲ απτε ϲτουϲ και ϲτηϲαι κατενωπιον τηϲ δοξηϲ αυτου αμω μουϲ εν αγαλλια ϲι",
+          "translation": "To him who's able to keep you from stumbling and to present you before his glorious presence without fault and with great joy —",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "μονω θω ϲω τηρι ημων δια ιυ χυ του κυ ημων ω δοξα μεγαλω ϲυνη κρατοϲ και εξουϲια προ παν τοϲ του αιωνοϲ και νυν και ειϲ τουϲ αιωναϲ · αμην · ⌇﹏",
+          "translation": "to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "book": "2 John",
+  "slug": "2-john",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 0,
+          "original": "",
+          "translation": "",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ο πρεϲβυτεροϲ εκλεκτη κυρια και τοιϲ τεκνοιϲ αυτηϲ ουϲ εγω α γαπω εν αληθι α και ουκ εγω μο νοϲ αλλα και π α τεϲ οι εγνωκοτεϲ την αληθειαν",
+          "translation": "The elder, to the chosen lady and her children, whom I love in the truth — and not I alone, but also all who know the truth —",
+          "footnotes": [
+            {
+              "id": "2-john-1-1-interpretation",
+              "text": "\"Chosen lady\" (ἐκλέκτῃ κυρίᾳ) may be either (1) a specific woman and her children (literal), or (2) a metaphor for a local church and its members (symbolic). The ambiguity is intentional.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "δι α την αληθειαν την μενουϲαν εν ημιν και με θ ημων εϲται ειϲ τον αιωνα",
+          "translation": "because of the truth that lives in us and will be with us forever:",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "εϲται μεθ ημων χαριϲ ελεοϲ ειρηνη α πο παρα θυ πατροϲ και παρα κυ ιυ χυ του υυ αυτου του πατροϲ εν αληθεια και αγαπη",
+          "translation": "Grace, mercy and peace from God the Father and from Jesus Christ, the Father's Son, will be with us in truth and love.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "εχαρην λι αν οτι ευρηκα εκ των τεκνων ϲου περιπατουνταϲ εν αληθεια καθωϲ εντολην ελαβον παρα του πατροϲ",
+          "translation": "It has given me great joy to find some of your children walking in the truth, just as the Father commanded us.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και νυν ερωτω ϲε κυρια ουχ ωϲ εντολην καιν η γραφων ϲοι αλλα εντολην ην ει χαμεν απ αρχηϲ ι να αγαπωμεν αλληλουϲ",
+          "translation": "And now, dear lady, I'm not writing you a new command but one we've had from the beginning: Let's love one another.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και αυ τη εϲτιν η αγαπη ϊνα περιπατωμ ε κατα ταϲ εντολαϲ αυτου ϊνα καθωϲ αυτη εϲτιν η εντο αυτου ϊνα καθωϲ ηκουϲατε απ αρχηϲ ϊνα εν αυτη περι πατηϲητε",
+          "translation": "And this is love: that we walk in obedience to his commands. As you've heard from the beginning, his command is that you walk in love.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "οτι πολ λοι πλανοι εξηλ θον ειϲ τον κοϲμ ο οι μη ομολογουν τεϲ ιν χν ερχομε νον εν ϲαρκι ουτοϲ εϲτιν ο πλανοϲ κ(αι) αντιχριϲτοϲ ·",
+          "translation": "I say this because many deceivers have gone out into the world, those who don't acknowledge Jesus Christ as coming in the flesh. Such a person is the deceiver and the antichrist.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "βλε πετε εαυτουϲ ϊνα μη αποληϲθε απολεϲητε α ειρ γαϲαϲθαι αλλα μι ϲθον πληρη απο λαβητε",
+          "translation": "Watch out that you don't lose what we've worked for, but that you may be rewarded fully.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "παϲ ο προ αγων και μη με νων και μη εν τη διδαχη του χυ θν ουκ εχει ο μεν ω εν τη διδαχη ουτοϲ και τον πατερα και τον υν εχει ·",
+          "translation": "Anyone who runs ahead and doesn't continue in the teaching of Christ doesn't have God; whoever continues in the teaching has both the Father and the Son.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ει τιϲ ερχεται προϲ υμαϲ και ταυτην την ε διδαχην ου φερι μη λαμβανετε αυτον ειϲ οικιαν και χαιρειν αυτω μη λεγετε",
+          "translation": "If anyone comes to you and doesn't bring this teaching, don't take them into your house or welcome them.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ο λεγ ω γαρ αυτω χαιρειν κοινωνι τοιϲ ερ γοιϲ αυτου τοιϲ πο νηροιϲ",
+          "translation": "For whoever welcomes them shares in their wicked work.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "πολλα εχω εχ ω ϋμιν γραφειν ου κ εβουληθην δι α χαρτου και με λανοϲ αλλα ελπι ζω γενεϲθαι προϲ ϋμαϲ και ϲτομα τι ϲτομα προϲ ϲτομα λα ληϲαι ϊνα η χαρα ημων πεπληρω μενη ην ῆ",
+          "translation": "I have much to write to you, but I don't want to use paper and ink. Instead, I hope to visit you and talk with you face to face, so that our joy may be complete.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "αϲπαζε τε ϲε τα τεκνα τηϲ αδελφηϲ ϲου τηϲ εκλεκτηϲ ⌇﹏",
+          "translation": "The children of your chosen sister send their greetings.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "book": "Joel",
+  "slug": "joel",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 0,
+          "original": "",
+          "translation": "",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "λογοϲ κυ · οϲ εγενη θη προϲ ϊωηλʼ τ ο τ ο του βαθουηλʼ ·",
+          "translation": "The word of the Lord that came to Joel son of Bethuel.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ταυτα οι πρεϲ βυτεροι · και ενω τιϲαϲθαι ενω τιϲαϲθε παντεϲ οι κατοικουντεϲ την γην · ει γεγο νεν τοιαυταϲ τοιαυτα τοιαυτα τοιαυτα εν τεϲ ημερεϲ ταιϲ ημεραιϲ ταιϲ ημεραιϲ ϋμ ω ϋμ ω · η εν τεϲ ημερεϲ ταιϲ ημεραιϲ ταιϲ ημεραιϲ των πρω ν ημ ω ϋμ ω .",
+          "translation": "Hear this, you elders; listen, all you who live in the land. Has anything like this ever happened in your days, or in the days of your ancestors?",
+          "footnotes": [
+            {
+              "id": "joel-1-2-variant",
+              "text": "The LXX differs significantly from the MT here, with repeated phrases suggesting scribal corruption.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "ϋπερ αυτων τοιϲ τεκνοιϲ ϋμων δι ηγηϲαϲθαι δι ηγηϲαϲθε · και τα τεκνα ϋμων τοιϲ τεκνοιϲ αυτων · κ(αι) κ(αι) τα τεκνα αυτων ειϲ γενεαν ετερ α ετερ α .",
+          "translation": "Tell your children about it, and let your children tell their children, and their children the next generation.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "τα καταλοιπα τηϲ καμπηϲ κατεφα γεν η ακρειϲ ακριϲ ακριϲ ακριϲ · και τα καταλοιπα τηϲ ακριδοϲ κατεφα γεν ο βουχοϲ βρουχοϲ βρουχοϲ · και τα καταλοιπα του βρουχου κατε φαγεν η ερυϲιβη ·",
+          "translation": "What the cutting locust left, the swarming locust has eaten; what the swarming locust left, the hopping locust has eaten; and what the hopping locust left, the destroying locust has eaten.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "εκνηψατε οι με θυοντεϲ · εξ οινου αυτων και κλαυ ϲατε θρηνηϲατε παντεϲ οι πινον τεϲ οινον ειϲ με θην ˙ οτι εξηχ̣θη εξηρθη εξηρται εξηρται εκ ϲτοματοϲ ϋμ ω ϋμ ω ευφροϲυνη και χαρα ˙",
+          "translation": "Wake up, you drunkards, and weep; wail, all you wine drinkers, because the sweet wine has been taken from your mouth.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "οτι εθνοϲ ανε βη επι την γην μου ϊϲχυρον · και αναριθμητον · οι ονδοντεϲ οδοντεϲ αυτου οδοντεϲ λεοντοϲ και ε αι μυλαι ϲκυμνου αυτου αυτου ϲκυμνου ϲκυμνου αυτου .",
+          "translation": "For a nation has invaded my land, powerful and beyond number; its teeth are lion's teeth, and it has the fangs of a lioness.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εθετο την αμπελον μου ειϲ αφανιϲμον · και ταϲ ϲυκαϲ μου ειϲ ϲυνκλαϲμον · ε ρευνον ε ρευνων ε ρευνων εξηρευνη ϲεν αυτην και ερι ψεν · ελευκανεν κληματα αυτηϲ ·",
+          "translation": "It has laid waste my vine and splintered my fig tree; it has stripped it bare and thrown it down; its branches have turned white.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "θρηνηϲον θρηνηϲει θρηνηϲον προϲ με · ϋπερ νυμφ η νυμφ η περιεζωϲμεν η περιεζωϲμεν η ϲακκον επι τον α δρα α δρα αυτηϲ τον παρ θενικον ˙",
+          "translation": "Lament like a young woman dressed in sackcloth, mourning for the husband of her youth.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "εξηλθε εξηρται θυϲια και ϲπονδη εξ οικου κυ · πενθι τε ϊερειϲ · οι λιτουρ γουντεϲ λειτουρ γουντεϲ θυϲιαϲτη ριω ˙",
+          "translation": "Grain offering and drink offering are cut off from the house of the Lord. The priests, the ministers of the Lord, mourn.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "οτι τεταλεπω ρηκεν τεταλαιπω ρηκεν τα πεδια · πενθιτω η γη ˙ οτε οτι τεταλεπωρηκεν τεταλαιπωρηκεν ϲιτοϲ · εξηρανθη οινοϲ · ωλιγωθη ολιγωθη ωλιγωθη ελεον ·",
+          "translation": "The fields are ruined, the ground mourns, for the grain is destroyed, the new wine is dried up, the olive oil fails.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "εξηρανθη ϲαν [1 chars] ηϲχυνθη ϲαν εξηρανθη ϲαν γεωργοι ˙ θνη νιτε θρη νιτε θρη νειτε κτημα·τα ϋπερ πυρου και κριθηϲ · οτι απελωλεν τρυ γητοϲ εξ αγρου ·",
+          "translation": "Despair, you farmers; wail, you vinedressers, over the wheat and the barley, because the harvest of the field has perished.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "η αμπελοϲ εξηραν θη · και ε αι αι ϲυκαι ωλι γωθηϲαν ολι γωθηϲαν ωλι γωθηϲαν · ροα και φοινιξʼ και μηλ ο · και παντα τα ξυλα του αγρου εξηραν θηϲαν εξηραν θη ˙ οτι ηϲχυ ναν χαραν οι ϋϊοι των ανθρωπ ω ·",
+          "translation": "The vine has dried up, the fig tree withers; pomegranate, palm, and apple tree — all the trees of the field are withered. Surely joy has dried up from the people.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "περιζωϲαϲθαι περιζωϲαϲθε κ(αι) κοπτεϲθε οι ϊεριϲ ϊερειϲ · θρηνιτε θρηνειτε οι λιτουρ γουντα̣ι̣ϲ λειτουρ γουντε·ϲ θυϲιαϲ τηριω ˙ ειϲελθατε ϋπνωϲατε εν ϲακ κοιϲ · λιτουργουν τεϲ λειτουργουν τεϲ θω ˙ οτι επεϲχη κεν α̣πεϲχη κεν εξ οικου θυ ϋ μων θυϲια και ϲπ ο δη θυϲια και ϲπ ο δη εξ οικου θυ η μων εξ οικου θυ η μων θυϲια και ϲπ ο δη εξ οικου θυ η μων θυϲια και ϲπ ο δη ·",
+          "translation": "Put on sackcloth and lament, you priests; wail, you ministers of the altar. Come, spend the night in sackcloth, you ministers of my God, because grain offering and drink offering are withheld from the house of your God.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "αγιαϲατε νηϲτι αν · κηρυξατε θε ραπιαν · ϲυναγα γετε πρεϲβυτερουϲ : πανταϲ κατοικο υ ταϲ κατοικο υ ταϲ γην ειϲ οικον θυ κυ κυ θυ υ̇μων · κε και και κε κραξατε προϲ κν κν εκτενωϲ ·",
+          "translation": "Proclaim a holy fast; call a sacred assembly. Gather the elders and all who live in the land to the house of the Lord your God, and cry out to the Lord earnestly.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "οιμʼμοι · οιμʼμοι · οιμʼμοι · ειϲ ημεραν ˙ οτι εγ γυϲ η ημερα κυ κυ · και ωϲ ταλεπωρι α ταλαιπωρι α εκ ταλεπωριαϲ ταλαιπωριαϲ ηξι ηξει",
+          "translation": "Oh no! For the day is near, the day of the Lord; it comes like destruction from the Almighty.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "κατεναντι τ ω τ ω οφθαλμων υ̇μ ω υ̇μ ω . βρωματα εξωλε θρευθη εξηρανθη εξωλε θρευθη · εξ οικου θυ θυ ϋμων ευφρο ϲυνη και χαρα ·",
+          "translation": "Isn't the food cut off before our very eyes — joy and gladness from the house of our God?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ε ϲκιρτηϲαν δαμα λιϲ δαμα λειϲ επι ταιϲ πα [1 chars] ναιϲ φατναιϲ φατναιϲ αυτων · ηφανιϲθη ϲαν θηϲαυροι · κα τεϲκαφηϲαν λη νοι · οτι εξηραν θη ϲιτοϲ ·",
+          "translation": "The seeds shrivel under the clods; the storehouses are desolate; the granaries are ruined, for the grain has dried up.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "τι απο θηϲομεν εαυτοιϲ · εκλαυϲαν βουκο λια βοων · οτι ου χ υ̇πηρχεν νομη αυτοιϲ · και τα ποι μνια των προβα των ηφανιϲθη ϲαν ·",
+          "translation": "How the cattle groan! The herds of oxen wander confused because they have no pasture; even the flocks of sheep are suffering.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "προϲ ϲε κε βο ηϲομε βο ηϲομαι ˙ οτι πυρʼ ανηλωϲεν τα ω ρεα ω ραια τηϲ ερημου · και φλοξʼ ανηψ ε ανηψ ε παντα τα ξυλα του αγρου ·",
+          "translation": "To you, Lord, I cry, for fire has devoured the open pastures and flames have burned all the trees of the field.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και τα κτη νη του παιδιου πεδιου ανεβλεψαν προϲ ϲε · οτι εξηρανθη ϲαν αφεϲειϲ υ δα των · και πυρʼ κα τεφαγεν τα ωρε α ωραι α τηϲ ερημου ·",
+          "translation": "Even the wild animals pant for you, because the streams of water have dried up and fire has devoured the open pastures.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ϲαλπιϲατε ϲαλ πιγγει εν ϲιων · κηρυξατε εν ορι αγιω μου · και ϲυν χυθητωϲαν παν τεϲ οι κατοικουν τεϲ την γην · διο τι ο τι παρεϲτιν η ημε ρα κυ · οτι εγγυϲ ·",
+          "translation": "Blow the trumpet in Zion; sound the alarm on my holy mountain! Let all who live in the land tremble, for the day of the Lord is coming — it is near!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "η η μερα ϲκοτουϲ κ(αι) γνοφου · ημερα νεφεληϲ και ομι χληϲ · ωϲ ορθροϲ χυθηϲεται επι τα ορη λαοϲ πολυϲ · και ϊϲχυροϲ ομοι οϲ αυτω ου γεγο νεν απο του αιω νοϲ · και μετ αυτ ο αυτ ο ου προϲτεθηϲεται εωϲ ετων ειϲ γε νεαϲ γενεων ·",
+          "translation": "A day of darkness and gloom, a day of clouds and thick darkness! Like blackness spread across the mountains, a great and mighty army comes — nothing like it has ever been, nor will there ever be again, to the years of all generations.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "τα τα δε τα εμπροϲθεν αυτου πυρ αναλιϲκον · και τα οπιϲω αυ του αναπτομενη φλοξʼ · ωϲ παραδι ϲοϲ θ̣υ̣π̣ηϲ τρυφηϲ η γη προ προϲωπου αυτου και τα οπι ϲθεν οπι ϲω αυτου πεδι ον αφανιϲμου · και αναϲωζομε νοϲ ουκ αι̣ϲτε εϲτε εϲται αυ τω ˙",
+          "translation": "Fire devours before them, and behind them a flame blazes. The land before them is like the Garden of Eden, but behind them it is a desolate wilderness — nothing escapes them.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ωϲ οραϲιϲ ϊπ πων η οραϲιϲ ατ ω αυτ ω αυτ ω . και ωϲ ϊππειϲ · ου τω ου τωϲ καταδιωξον τε καταδιωξον ται ˙",
+          "translation": "They have the appearance of horses; they charge like war horses.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ωϲ φωνη αρμα των . επι ταϲ κορυ φαϲ των ορεων εξαλουντε εξαλουνται · και ωϲ φωνη φλογοϲ πυροϲ κατεϲθι ουϲηϲ καλαμην · και ωϲ λαοϲ πο λυϲ ϊϲχυροϲ · παρα ταϲϲομενοϲ ειϲ πολεμον ·",
+          "translation": "With a noise like chariots they leap on the mountaintops, like a crackling fire devouring stubble, like a mighty army drawn up for battle.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "απο προ ϲωπου αυτου ϲ υ τριβηϲοντε τριβηϲονται λαοι · παν προϲωπον ωϲ προϲκαυμα χυτραϲ ·",
+          "translation": "Before them peoples are in anguish; every face turns pale.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ωϲ μαχη τε μαχη ται δραμουνται · κ(αι) ωϲ ανδρεϲ πολε μιϲτε πολε μιϲται αναβηϲον ται επι τα τιχη τειχη · και εκαϲτοϲ εν τη ο δω αυτου πορευ ϲεται · και ου μη εκ ταϲ τρι βουϲ αυτων ·",
+          "translation": "They rush like warriors; they scale the wall like soldiers. Each marches straight ahead and they do not swerve from their paths.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και εκαϲτοϲ απο του αδελφου αυτου ουκ αφεξεται : καταβαρυνομε νοι · εν τοιϲ οπλοιϲ αυτων πορευϲ ο ται πορευϲ ο ται · και εν τοιϲ βε λεϲιν αυτων πε ϲουνται · και ου μη ϲυντελεϲθωϲ ι ϲυντελεϲθωϲ ι ϲυντελεϲωϲ ι ·",
+          "translation": "They do not push each other; each marches in his own lane. They burst through the weapons and are not stopped.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "τηϲ πολεωϲ επι λημψονται · και επι των τιχε ω τιχε ω τειχε ω δραμουνται · και επι ταιϲ οικιαιϲ αναβηϲονται · κ(αι) δια θυριδων ειϲ ελευϲονται ωϲ κλεπτε κλεπται κλεπται ·",
+          "translation": "They rush upon the city; they run along the wall; they climb into the houses; they enter through the windows like thieves.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "προ προ ϲωπου αυτων αυτου ϲυϲχυθηϲεται > ϲυϲχυθηϲονται η γη · και ϲιϲθηϲε τε ϲιϲθηϲε ται ο ουρανοϲ · ο ηλιοϲ και η ϲελη νη ϲυϲκοταϲου ϲιν · και ταʼ αϲτρα δυϲουϲιν το φεγ γοϲ αυτων ·",
+          "translation": "Before them the earth shakes, the heavens tremble. The sun and the moon grow dark, and the stars withdraw their shining.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και κϲ δωϲι δωϲει φωνην αυ του προ προϲω που δυναμεωϲ αυτου · οτι πολʼλη εϲτιν ϲφοδρα η παρεμβολη αυτου · οτι ηϲχυρα ϊϲχυρα εργα λο γων αυτου · οτι διοτι με γαλη η ημαιρα ημερα ημερα του κυ · μεγαλη και επι φανηϲ ϲφοδρα ˙ κ(αι) τιϲ εϲτιν εϲται ϊκανοϲ αυτη ˙",
+          "translation": "The Lord thunders at the head of his army; his camp is very great, for mighty are those who carry out his word. The day of the Lord is great and very awesome — who can endure it?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και νυν λε γει + κϲ ο θϲ ϋμων ˙ επιϲτραφητε προϲ με εξ οληϲ τηϲ καρδιαϲ υ̇μων · και εν νηϲτια κ(αι) εν κλαυθμω κε και εν κοπετω ·",
+          "translation": "\"Even now,\" declares the Lord your God, \"return to me with all your heart — with fasting, weeping, and mourning.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και διαρηξατε διαρρηξατε διαρρηξατε ταϲ καρ διαϲ ϋμων · και μη τα ειματια υ̇μων ˙ και επιϲτραφητε προϲ κν τον θν ϋμων · οτι ελεη μων και οικτιρ μων οικτειρ μων εϲτιν · μα κροθυμοϲ και πο λυελεοϲ · και με τανοων επι τεϲ ταιϲ ταιϲ κακιαιϲ ·",
+          "translation": "Rend your hearts and not your garments. Return to the Lord your God, for he is gracious and compassionate, slow to anger and abounding in love, and he relents from sending disaster.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "τιϲ οιδ ε ει επιϲτρεψει και μετανοηϲι μετανοηϲει · και υπολιψετε υπολιψεται οπιϲω αυτου ευλογιαν · θυϲιαν και ϲπον δην κω τω θω ημων ˙",
+          "translation": "Who knows? He may turn and relent, and leave behind a blessing — grain offering and drink offering for the Lord your God.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ϲαλπιϲα τε ϲαλπιγγει εν ϲιων · αγιαϲατε νηϲτιαν · κηρυ ξατε θεραπιαν ˙",
+          "translation": "Blow the trumpet in Zion; proclaim a holy fast; call a sacred assembly.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ϲυναγαγετε λα ο αγιαϲατε εκκλη ϲιαν · εκλεξαϲθε πρεϲβυτερουϲ ˙ ϲυναγαγετε νη πια · θηλαζοντα μαϲτουϲ · εξελ θετω εξελ θατω εξελ θετω νυμφιοϲ εκ του κοιτωνοϲ αυτου · και νυμφη εκ του παϲτου αυ τηϲ ·",
+          "translation": "Gather the people; consecrate the congregation; assemble the elders; gather the children, even those nursing at the breast. Let the bridegroom leave his room and the bride her chamber.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ανα μεϲον τηϲ κριπιδοϲ κρηπιδοϲ του θυ ϲιαϲτηριου κλαυ ϲοντε κλαυ ϲονται οι ι ερειϲ · οι λιτουργουντεϲ λειτουργουντεϲ κω ˙ και ερουϲιν · φιϲε φειϲαι κε του λαου ϲου · και μη δωϲ την κληρονομι αν ϲου ειϲ ονιδοϲ ˙ του καταξε αυτουϲ καταρξε αυτων καταρξαι αυτων εθνη · οπωϲ μη ειπωϲιν εν τοιϲ εθνεϲιν · που εϲτ ι εϲτ ι ο θϲ θϲ αυτων ·",
+          "translation": "Between the porch and the altar, let the priests, the ministers of the Lord, weep and say, \"Spare your people, Lord! Do not make your inheritance a reproach, a byword among the nations. Why should they say among the peoples, 'Where is their God?'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και ε ζηλωϲεν κϲ τ η τ η γην αυτου · και ε φιϲατο ε φειϲατο του λαου αυτου ·",
+          "translation": "Then the Lord became jealous for his land and had pity on his people.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και απεκριθη κϲ και ειπεν τω λαω αυτου · ϊδου εγω ε ξαποϲτελλω ϋ μιν τον ϲιτον κ(αι) κ(αι) τον οινον και το ελεον ελαιον · και εμ πληϲθηϲεϲθαι εμ πληϲθηϲεϲθε αυτων · και ου δω ϲω ϋμαϲ ουκετι ειϲ ονιδιϲμον εν τοιϲ εθνεϲιν ˙",
+          "translation": "The Lord answered and said to his people, \"Look, I am sending you grain, new wine, and olive oil, and you will be satisfied with them; and I will no longer make you a reproach among the nations.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και τον απο βορρα εκδιωξω αφ ϋ μων · και εξωϲω αυτον ειϲ γην την α νϋδρον · και αφα νιϲω αφα νιω αφα νιω το προϲω πον αυτου ειϲ τ η τ η θαλαϲϲαν την πρωτην · και τα ο πιϲω αυτου ειϲ την θαλαϲϲαν την εϲχατην · κ(αι) αναβηϲετε αναβηϲεται η ϲα> πρια ϲαπιριαʼ αυτου · και ανα βηϲεται ο βρομοϲ αυτου · οτι εμεγα λυνεν τα εργαʼ αυ του ˙",
+          "translation": "\"I will remove the northern army far from you, driving it into a parched and desolate land, its front into the eastern sea and its rear into the western sea. Its stench will rise, its foul smell will rise, for it has done great things.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "θαρϲι θαρϲει γη · χερε χαιρε και ευφραινου . ο τι εμεγαλυνεν κϲ του ποιηϲε ποιηϲαι ˙",
+          "translation": "Do not fear, O land; rejoice and be glad, for the Lord has done great things!",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "θαρ ϲιτε θαρ ϲειτε κτηνη του παιδιου πεδιου · οτι βεβλα ϲτηκεν τα πεδια τηϲ ερημου · οτι ξυλον ηνεγκ ε ηνεγκ ε τον καρπον αυ του · ϲυκη και αμ πελοϲ εδωκαν την ϊϲχυν αυτ ω ·",
+          "translation": "Do not be afraid, you wild animals, for the pastures of the wilderness are green; the tree bears its fruit; the fig tree and the vine yield their strength.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και τα τεκνα ϲι ων χερεται χαιρετε και ευφρενεϲθαι ευφρενεϲθε . ε πι τω κω θω ϋμ ω · διοτι οτι εδωκεν ϋ μιν τα βραματα βρωματα βρωματα ειϲ δικαιοϲυν η · και βρεξι βρεξει ϋμιν υ ετον · προϊμον και οψιμον · κα θωϲ εμπροϲθ ε εμπροϲθ ε ·",
+          "translation": "Be glad, O children of Zion, and rejoice in the Lord your God, for he has given you the early rain for your vindication; he pours down for you abundant rain, the early and the latter rain, as before.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και πληϲθηϲ ο τε πληϲθηϲ ο τε πληϲθηϲ ο ται αι αλωνε αλωνεϲ ϲιτου ˙ και ϋπερχυθηϲ ο ται ϋπερχυθηϲ ο ται αι ληνοι οινου και ελεου ελαιου ·",
+          "translation": "The threshing floors will be full of grain; the vats will overflow with new wine and olive oil.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "και αν ταποδωϲω ϋμ ι ϋμ ι · αντι των ετων ων κατεφαγεν η ακριϲ · και ο βρου χοϲ · και η ερυϲιβη · και η καμπη και η δυναμιϲ μου η μεγαλη · ην ε ξαπεϲτιλα ε ξαπεϲτειλα ειϲ ϋ μαϲ ·",
+          "translation": "\"I will repay you for the years that the swarming locust has eaten — the hopper, the destroyer, and the cutter — my great army that I sent against you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "και φαγεϲθε εϲθιονταιϲ εϲθιοντεϲ εϲθιοντεϲ · και εμπληϲθηϲεϲθαι εμπληϲθηϲεϲθε · και ενεϲατε αινεϲετε αινεϲετε το ο νομα κυ του θυ υ̇μων · α εποιη ϲεν μεθ ϋμων ειϲ θαυμαϲια · και ου μη κατεϲχ υ θη καταιϲχ υ θη ο λαοϲ μου ειϲ τον αιωνα ·",
+          "translation": "\"You will eat in plenty and be satisfied, and you will praise the name of the Lord your God, who has dealt wondrously with you. And my people will never be put to shame.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "κ(αι) επιγνωϲεϲθαι επιγνωϲεϲθε · οτι εν μεϲω του ϊ ϲλ ϊ ϲλ εγω ειμι · και εγω κϲ ο θϲ ϋμ ω · και ουκ εϲτιν ετι πλην εμου · και ου μη κατεϲχυνθω ϲιν κατʼεϲχυνθη κατʼαιϲχυνθη οτι ετι ετι ο λαοϲ μου ειϲ τον αιωνα ·",
+          "translation": "\"Then you will know that I am in the midst of Israel, and that I am the Lord your God and there is no other. And my people will never again be put to shame.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και εϲτε εϲται μετα ταυτα και εκχεω απο του π ν ϲ π νϲ μου επι παϲαν ϲαρκαν · κ(αι) προφητευϲουϲ ι προφητευϲουϲ ι οι ϋϊοι ϋμων · και ε αι θυγατερεϲ ϋμ ω ϋμ ω · και οι πρεϲβυτεροι ϋμων ενυ̇πνα ε νυ̇πνιαϲθηϲον ται ενυ̇πνια ε νυ̇πνιαϲθηϲον ται ενυ̇πνιοιϲ ενυ̇πνιαϲθηϲον ται · και οι νεανιϲκοι ϋμων οραϲιϲ οραϲειϲ ο ψονται ·",
+          "translation": "\"And it will be, after all this, that I will pour out my Spirit on all flesh; your sons and your daughters will prophesy, your old men will dream dreams, your young men will see visions.\"",
+          "footnotes": [
+            {
+              "id": "joel-3-1-variant",
+              "text": "The LXX has 'after all this' (μετὰ ταῦτα) while MT reads 'afterward'; the key 'pour out my Spirit' is the same.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "και καιγε καιγε επι τουϲ δουλουϲ μου μου και επι ταϲ δουλαϲ μου εν τεϲ ημερεϲ εκιναιϲ ταιϲ ημεραιϲ εκιναιϲ ταιϲ ημεραιϲ εκειναιϲ . εκχεω απο του π νϲ πνϲ μου ·",
+          "translation": "\"Even on my male and female servants in those days I will pour out my Spirit.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και δω ϲω τερατα εν τω ουρανω και επι και επι [1 chars] ανω και ϲημια επι τηϲ γηϲ · αιμα και πυρ και ατμιδα καπνου",
+          "translation": "\"I will show wonders in the heavens above and signs on the earth below — blood and fire and columns of smoke.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ο ηλιοϲ μεταϲτραφηϲε ται ει ϲκοτοϲ · και η ϲεληνη ειϲ αιμα ˙ πριν ελθειν ημε ραν ημε ραν κυ την μεγα λην και επιφα νην επιφα νη επιφα νη ·",
+          "translation": "\"The sun will be turned to darkness and the moon to blood before the coming of the great and awesome day of the Lord.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και εϲτε εϲται παϲ · οϲ εαν επικαλη ται επικαλεϲη ται επικαληϲη ται το ονομα κυ + ϲωθηϲεται · οτι εν τω ορι ϲιων και εν ιημ εϲτε εϲται αναϲωζομενοϲ · καθοτι ειπεν κϲ · και ευαγʼγελιζο μενοϲ · ουϲ κϲ προϲ κεκληται :",
+          "translation": "\"And everyone who calls on the name of the Lord will be saved. For on Mount Zion and in Jerusalem there will be deliverance, as the Lord has said, and among the survivors whom the Lord calls.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "διοτι ειδου ϊδου ϊδου εγω εν τεϲ ταιϲ ταιϲ ημεραιϲ εκι ναιϲ εκει ναιϲ · και εν τω κε ρω και ρω εκινω εκεινω · οταν επιϲτρεψω την εκμαλωϲιαν αιχμαλωϲιαν αιχμαλωϲιαν ϊου δα και ϊερουϲαλημ ·",
+          "translation": "\"For behold, in those days and at that time, when I restore the fortunes of Judah and Jerusalem,\"",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ϲυναξω παν τα τα εθνη · και κατα ξω αυτα ειϲ την κοιλαδαν κοιλαδα κοιλαδα ϊωϲαφατʼ · και διακριθηϲομε διακριθηϲομαι προϲ αυτουϲ εκι εκει ϋπερ του λαου μου · και τηϲ κληρονο μιαϲ μου ι ϲ λ ιϲλ · οι δι εϲπαρηϲαν εν τοιϲ εθνεϲιν · και την γην μου καταδιει λαντο κατεδιει λαντο κατεδιει λαντο ·",
+          "translation": "\"I will gather all the nations and bring them down to the Valley of Jehoshaphat. And I will enter into judgment with them there concerning my people, my inheritance Israel, whom they scattered among the nations — they divided up my land.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και επι τον λαον μου εβαλον κληρουϲ · και εδω καν τα πεδαρια παιδαρια παιδαρια πορ ναιϲ · και τα κοραϲι α επωλουν αντι οινου και επιν ο επιον ·",
+          "translation": "\"They cast lots for my people and traded boys for prostitutes and sold girls for wine to drink.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και τι ϋμιϲ ϋμειϲ εμοι τυ ροϲ και ϲιδων · και παϲα γαλιλαια αλ λοφυλων · μη αν ταποδομα ϋμιϲ ϋμειϲ ανταποδιδοτε μοι · η μνηϲικακιται · ϋμιϲ ϋμειϲ επ εμοι · οξε ωϲ και ταχεωϲ αν ταποδωϲω · το αν ταποδομα ϋμ ω ϋμ ω ειϲ καιφαλαϲ κεφαλαϲ κεφαλαϲ ϋμ ω ϋμ ω ·",
+          "translation": "\"What are you to me, Tyre and Sidon and all the regions of Philistia? Are you repaying me for something? If you are holding a grudge against me, I will swiftly and quickly repay you on your own heads.\"",
+          "footnotes": [
+            {
+              "id": "joel-4-4-interpretation",
+              "text": "The LXX adds 'Galilee of the Philistines' which is not in the MT.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "ανθ ων το αργυρι μου και το χρυ ϲιον μου ελαβετε · και τα επιλεκτα μου και τα καλα ˙ ειϲηνεγ κατε ειϲενεγ κατε ειϲηνεγ κατε ειϲ τουϲ ναουϲ υ̇μων ·",
+          "translation": "\"For you took my silver and my gold and carried my finest treasures into your temples.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και τουϲ ϋϊ ουϲ ϊουδα και τουϲ ϋϊουϲ ϊ ϲη μ ϊ ϲημ απεδο ϲθαι απεδο ϲθε τοιϲ ϋϊοιϲ τ ω ελληνων ˙ οπωϲ οπωϲ εξωϲητε αυτουϲ εκ των οριων τηϲ κληρονομιαϲ αυ των ˙",
+          "translation": "\"You sold the people of Judah and Jerusalem to the Greeks, to remove them far from their own borders.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ϊδου εγω εξε γειρω αυτουϲ εκ του τοπου · ου απε δοϲθε αυτουϲ ε κει · και και ανταποδω ϲω το ανταποδο μα ϋμων ειϲ κε φαλαϲ ϋμων",
+          "translation": "\"Look, I will rouse them from the place where you sold them, and I will repay you on your own heads.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και αποδωϲομαι τουϲ ϋϊουϲ ϋμων και ταϲ θυγατεραϲ ϋμ ω ϋμ ω ειϲ χιραϲ χειραϲ των ϋϊ ων ϊουδα · και απο δωϲοντε απο δωϲονται αυτουϲ ειϲ εκμαλωϲιαν αιχμαλωϲιαν · ειϲ εθνοϲ μακρ α μακρ α απεχον · οτι κϲ ελα ληϲεν :",
+          "translation": "\"I will sell your sons and your daughters into the hand of the people of Judah, and they will sell them to the Sabeans, a nation far away.\" For the Lord has spoken.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "κηρυξατε ταυτα ε ε τοιϲ εθνεϲιν · αγι αϲατε πολεμον · εξεγειρατε τουϲ μαχηταϲ · και προϲ αγαγεται · αναβε νετε αναβαι νετε παντεϲ αν δραιϲ αν δρεϲ αν δρεϲ πολεμιϲτε πολεμιϲται ·",
+          "translation": "Proclaim this among the nations: prepare for war; rouse the warriors; let all the soldiers draw near and advance.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ϲυγκοψατε τα αρο τρα ημων υ̇μων ϋμων ειϲ ρομ φαιαϲ · και τα δρεπα να υ̇μων ειϲ ϲει ρομαϲταϲ · ο δυνα τοϲ αδυνα τοϲ λεγετω . οτι ϊ ϲχυω γω εγω εγω ˙",
+          "translation": "Beat your plowshares into swords and your pruning hooks into spears. Let the weak say, \"I am strong!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ϲυναθροι ζεϲθε και ειϲπο ρευεϲθαι ειϲπο ρευεϲθε παντα τα εθνη κυκλοθ ε κυκλοθ ε · και ϲυναχθηϲετε ϲυναχθητε ϲυναχθητε εκει · ο πραϋϲ εϲτω μαχητηϲ ·",
+          "translation": "Come quickly, all you nations from every side, and gather there. Bring your mighty ones, Lord!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "εξεγι + ρεϲθωϲαν και α ναβενετωϲαν α ναβαινετωϲαν π α τα π α τα τα εθνη ειϲ τ η τ η κοιλαδα [1 chars] κοιλαδα ϊωϲα φατʼ · διοτι εκι εκει καθι ω · του διακρινε διακριναι παντα τα εθνη κυ κλοθεν ·",
+          "translation": "Let the nations rouse themselves and advance to the Valley of Jehoshaphat, for there I will sit to judge all the nations on every side.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "εξαποϲτι λατε εξαποϲτει λατε δρεπανα · οτι παρεϲτηκεν τρυ γητοϲ · ειϲπορευε ϲθαι ειϲπορευε ϲθε πατιται · διοτι πληρηϲ η ληνοϲ · υ̇περχιτε υ̇περχειται τα ϋπο ληνια · οτι πεπλη θυνται τα κακα αυ των ·",
+          "translation": "Swing the sickle, for the harvest is ripe! Come, trample, for the winepress is full; the vats overflow, for their wickedness is great!",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ηχοι εξηχη ϲαν εν τη κοιλη̣ κοιλε̣δι κοιλαδι τηϲ δικηϲ · οτι εγ γυϲ η ημερα κυ ε τη κοιλαδι τηϲ δι κηϲ ·",
+          "translation": "Multitudes, multitudes in the valley of decision! For the day of the Lord is near in the valley of decision.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ο ηλιοϲ και η ϲεληνη ϲυϲκοτα ϲουϲιν · και οι αϲτε ρεϲ δυϲουϲιν το φεγ γοϲ αυτων ˙",
+          "translation": "The sun and the moon grow dark, and the stars withdraw their shining.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ϲι ϲθηϲετε οʼ ουρανοϲ και η γη ο δε κϲ εκ ϲιων ανα κραξεται κ(αι) εξ ϊλημ δωϲει φωνην αυτ(ου) ο δε κϲ εκ ϲιων ανακραξεται κ(αι) εξ ϊλημ δωϲει φωνην αυτ(ου) και ϲιϲθηϲεται οʼ ουρανοϲ και η γη ˙ ο δε κϲ φι ϲεται του λαου αυ του · και εν ι ϲχυϲι εν ι ϲχυϲει τουϲ ϋϊουϲ ιϲ λ ·",
+          "translation": "The Lord roars from Zion and thunders from Jerusalem; the heavens and the earth tremble. But the Lord is a refuge for his people, a stronghold for the people of Israel.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "κ(αι) επιγνωϲεϲθαι γνωϲεϲθαι γνωϲεϲθε διοτι οτι εγω κϲ ο θϲ ϋμων · ο καταϲκη νων εν ϲιων εν ορι ορει αγιω μου ˙ και εϲτε εϲται ϊημ πολιϲ αγια · και αλλογενειϲ ου δι ελευϲοντε δι ελευϲονται δι αυ τηϲ ουκαιτι ουκετι ουκετι ·",
+          "translation": "\"Then you will know that I am the Lord your God, dwelling in Zion, my holy mountain. And Jerusalem will be holy; foreigners will never again pass through it.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και ε ϲτε ε ϲται εν τη ημερα εκινη εκεινη · αποϲταλα ξει τα ορη γλυκαϲ μον · και οι βουνοι ρυηϲοντε ρυηϲονται γαλα · και παϲε ε αφεϲιϲ παϲαι αι αφεϲιϲ παϲαι αι αφεϲειϲ ϊουδα ρυηϲοντε ρυηϲονται ϋδατα · και πηγη ε ξ ε ξ οικου κυ εξελευ ϲεται · και ποτιει τον χιμαρʼρουν τ ω ϲχοινων ·",
+          "translation": "\"On that day the mountains will drip sweet wine, and the hills will flow with milk; all the streams of Judah will flow with water. A spring will flow from the house of the Lord, watering the Valley of Shittim.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "αιγυπτοϲ ειϲ αφανιϲμον εϲτε εϲται και η ϊουδε α ϊδουμε α ϊδουμαι α ειϲ πεδιον αφα νιϲμου εϲτε εϲται εξ α δικιων υϊων ι ου δα · ανθ ων εξεχε αν αιμα δικαιον εν τη γη αυτων ·",
+          "translation": "\"Egypt will become a desolation and Edom a desolate wilderness, because of the violence done to the people of Judah, for they shed innocent blood in their land.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "η δε ϊουδεα ειϲ τ ο τ ο αιωναν αιωνα αιωνα κατοικη θηϲεται · και ϊερου ϲαλημʼ ειϲ γενε αϲ γενεων ·",
+          "translation": "\"But Judah will be inhabited forever, and Jerusalem for all generations.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και εκ ζητηϲω το αιμα αυτων · και ου μη αθοωϲω · και κϲ κϲ καταϲκηνωϲι ε ε ϲειων · + ⌇﹏",
+          "translation": "\"I will avenge their blood; I will not leave it unpunished.\" And the Lord dwells in Zion.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

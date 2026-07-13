@@ -1,0 +1,595 @@
+{
+  "book": "Genesis",
+  "slug": "genesis",
+  "chapters": [
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 26,
+          "original": "αβιμελεχ ουκ εγν ω τιϲ εποιηϲ εν το πραγμα τ ουτο · ουδε ϲυ μοι α πηγγει λαϲ ουδ ε εγω ηκουϲα αλλ η̣ ϲη>",
+          "translation": "Abimelech said, \"I do not know who did this thing. Neither did you tell me, nor did I hear of it except today.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "και ε λ̣αβ ε αβρααμ πρ ο̣βατα και μοϲχουϲ και εδωκεν τω αβ ι̣με λεχ και διεθ εντο αμφοτερ οι διαθη κην",
+          "translation": "And Abraham took sheep and cattle and gave them to Abimelech, and the two of them made a covenant.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "και εϲτηϲ ε̣ αβραα μ̣ επτα αμν α δαϲ των προ β ατω ν μο",
+          "translation": "And Abraham set apart seven ewe lambs from the flock.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "τω φρεα̣ τι του ορ κου και ε̣ πεκα λε ϲατο ε̣κει̣ τ ο ονο̣ μα τ ου κυ · θϲ α̣ιω νιοϲ",
+          "translation": "Abraham called on the name of the Lord, the Everlasting God, at the well of the oath.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "original": "π̣αρωκηϲ ε δε αβρα α μ εν τη γη τ ω̣ν φυλ̣ ιϲ τιειμ · η μεραϲ π̣ο̣λλαϲ",
+          "translation": "And Abraham resided as a foreigner in the land of the Philistines for many days.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και εγενετο μ̣ε̣τ̣α̣ τα ρηματα τ αυτ α̣ · επειραϲεν επειραζεν ο̣ θϲ τον α βραα μ και ει πεν προϲ αυτ̣ ον αβρααμ αβρααμ̣ ο δε ειπεν · ϊδου ε̣ γω",
+          "translation": "Now after these things, God tested Abraham. He said to him, \"Abraham!\" And he said, \"Here I am.\"",
+          "footnotes": [
+            {
+              "type": "variant",
+              "text": "The text repeats 'tested' (ἐπείρασεν ἐπείραζεν), possibly a scribal duplication.",
+              "id": "gen-22-1-variant"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "κ α̣ι ειπεν · λαβε τ ο υιο ν ϲου τον αγα πητ ο̣ν · ον ηγαπη ϲαϲτ ο̣ν ϊϲαακ · και πορευ θητι ειϲ τ η γην τη ν ϋψηλην · και ανε ν̣εγκε αυ τον εκει ε ιϲ ολ οκαρ πωϲιν ε φ̣ εν τ ω ορεων ων α ν ϲοι",
+          "translation": "He said, \"Take your son, your beloved one whom you love—Isaac—and go to the high land, and offer him there as a burnt offering on one of the mountains of which I will tell you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "εγ̣ω̣ δε και το παι δ αριον διελευϲο μ εθα εωϲ ωδε και π ροϲκυνηϲαντεϲ αν αϲτρεψωμεν προ ϲ υμαϲ",
+          "translation": "Abraham said to his servants, \"Stay here with the donkey. I and the boy will go over there, worship, and return to you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ελαβεν δε αβ ρααμ τα ξυλα τηϲ ο λοκαρπωϲε ωϲ · και επεθηκεν ϊϲαακ τ ω υιω αυ του · ελαβ̣ εν δε με τα χειρα · κα ι το πυρ και την μ αχ αιραν και επορευ θ η̣ϲαν οι δυο αμα",
+          "translation": "Abraham took the wood for the burnt offering and placed it on his son Isaac. He took in his hands the fire and the knife, and the two of them went together.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ε̣ιπεν δε ϊϲαακ προϲ αβρααμ τον πατε ρα αυτου · ειπαϲ πατερ ˙ ο δε ειπεν̣ τι̣ εϲ τιν τεκνον λε̣ γ ω̣ν · ϊδου το > πυ ρ κ α̣ι̣ τα ξυλα · πο υ εϲτιν το προ βατ ον το ειϲ ολο καρπωϲιν",
+          "translation": "Isaac said to his father Abraham, \"Father?\" He said, \"What is it, my son?\" He said, \"Here is the fire and the wood, but where is the lamb for the burnt offering?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ε ιπεν δε αβρααμ ο",
+          "translation": "Abraham said, \"God will provide...\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The remainder of this verse is lost in the manuscript.",
+              "id": "gen-22-8-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "original": "θ ν ϲου και ουκ εφει",
+          "translation": "\"...your God, and you did not spare...\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Only a fragment of this verse survives.",
+              "id": "gen-22-12-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "original": "ειδεν ι να ειπω̣ ϲιν ϲ ημερον κϲ ωφ θη εν τω ορει",
+          "translation": "Abraham called that place \"The Lord Appeared,\" so that it is said to this day, \"On the mountain of the Lord, he appeared.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και εκ α̣λ̣εϲεν αγγε λοϲ κυ τ ον αβρααμ δευτερ ον εκ του ουραν ο̣υ",
+          "translation": "The angel of the Lord called to Abraham a second time from heaven,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "λεγων κατ εμα υτου ωμο ϲα λεγε ι̣ κϲ̣ ο̣υ ε̣ ι ν ε̣κ̣ε̣ν επ̣ ο ιη ϲαϲ το ρημ α τουτο και ουκ εφειϲω του υιο υ ϲου του̣ αγαπητ ου δι εμε",
+          "translation": "saying, \"I swear by myself, declares the Lord, because you have done this thing and have not withheld your beloved son from me,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ε̣ ι μην ε υ̣λογω ν ευλ̣ ογ ηϲω ϲε κ̣α̣ι̣ πληθυνων̣ πλη̣",
+          "translation": "\"I will surely bless you and greatly multiply...\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The manuscript breaks off mid-verse.",
+              "id": "gen-22-17-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "original": "και τον̣ βαυξ αδελ φον αυτου κ̣ αι τον καμουηλʼ πα τερα ϲυρων ·",
+          "translation": "\"...Uz his firstborn, Buz his brother, Kemuel the father of Aram,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "και τ ον χαζαδ ˙ και̣ τον αζαυ και τον φ αλδαϲ και τον ϊε̣ δλαφ και τον β αθουηλ",
+          "translation": "Chesed, Hazo, Pildash, Jidlaph, and Bethuel.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "βα θ̣ουη̣λ δε̣ εγεν ν η̣ϲε ν την ρε̣̣ βεκ καν · οκτω ουτ οι ϋϊοι . ουϲ ετ εκεν μελ̣χα τ ω ναχωρ τω αδελφ ω αβρα α μ ·",
+          "translation": "Bethuel fathered Rebekkah. These eight sons Milcah bore to Nahor, Abraham's brother.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και η παλλακη αυτου η ον ο μ̣α̣ ρε̣ ημα · ε̣τ̣εκεν και και τον μωχ α ·",
+          "translation": "And his concubine, whose name was Reumah, also bore Tebah, Gaham, Tahash, and Maacah.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "εγενετο δε η ζ ωη ϲαρραϲ ετη ρ κ̣ζ ·",
+          "translation": "Now Sarah's life was one hundred and twenty-seven years.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και απεθαν εν ϲαρρα εν π ο̣λει αρβοκ η εϲ τιν ε τω κοιλ ωματι · αυτη εϲ τ̣ιν χεβρ ω . εν γη χ ανααν · ηλθε ν δ ε αβρααμ κοψ̣αϲ̣θαι ϲαρραν και πενθηϲαι ·",
+          "translation": "Sarah died in the city of Arbok—that is, Hebron—in the land of Canaan. Abraham came to mourn for Sarah and to weep for her.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ανεϲτη αβρα αμʼ απο του νεκρου α υ τ(ο̣υ̣) και ειπεν τοιϲ ϋ ιοιϲ του χετʼ λεγ ω ·",
+          "translation": "Abraham rose from before his dead and spoke to the sons of Heth, saying,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "παροικοϲ κα ι π αρε πιδημοϲ εγω̣ ε ι̣μι μεθ ϋμ ω δοτε ουν μ οι κτη̣ ϲιν ταφου μ εθ ϋ μων και θαψ ω τ ο̣ νεκρον μου απ εμ ου",
+          "translation": "\"I am a stranger and a foreigner among you. Give me a burial site among you so that I may bury my dead out of my sight.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "χη υ μ̣ων ωϲτε θαψαι το ν νεκρον μου απ ο προϲωπ ο̣υ μου · ακου̣ ϲατε μ̣ου · κ(αι) λαλη̣ϲατε π ερι ε μου εφρων τω > του ϲααρ",
+          "translation": "\"...to bury my dead from before my face. Listen to me and speak for me to Ephron the son of Zohar,",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Beginning of verse is fragmentary.",
+              "id": "gen-23-8-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "κ αι δοτω̣ μοι τ ο ϲ πηλαι ο̣ το διπλ̣ουν . ο εϲ τ ι αυ̣το̣υ · το ον εν με ρ ει τ ο̣υ αγρου αυτου ˙ αργυ ρ̣ι̣ου του αξιου · δοτω μοι α υ το ε υμι ν . ειϲ κτηϲιν μν ημειου ·",
+          "translation": "\"and let him give me the cave of Machpelah, which belongs to him, at the end of his field. For full price let him give it to me among you as a burial site.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εφρ ω δε εκαθητο εν με των υϊων χ̣ ετ αποκριθειϲ δε εφρων ο χετταιοϲ π̣ ροϲ αβρααμ ειπ εν ακου οντων τω̣ ν υιων χετ · και π αντων των ειϲ πορευο με ν ων π̣υ ωϲ̣ πα̣",
+          "translation": "Now Ephron was sitting among the Hittites, and Ephron the Hittite answered Abraham in the hearing of the Hittites and all who entered the gate of the city,",
+          "footnotes": [
+            {
+              "id": "genesis-23-10-g",
+              "text": "[?  missing]",
+              "type": "missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "original": "πολιτων μου δ εδω",
+          "translation": "\"...of my people, I give...\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Only a fragment of this verse survives.",
+              "id": "gen-23-11-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "original": "μου εκ̣ ει",
+          "translation": "\"...from me...\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Only a fragment of this verse survives.",
+              "id": "gen-23-13-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "original": "απεκριθ̣ η δε εφρων τω αβραα μ λεγων",
+          "translation": "Ephron answered Abraham, saying,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ουχι κ̣υ̣ ριε ακηκο α γαρ · τ ετρακοϲιων διδρ αχμων αργυ ρι ο̣υ · α̣ να μεϲον ε μου · και ανα με ϲον̣ ϲου τι αν ει η τ ουτο ϲου δε τον νεκρ ον ϲου θα ψον ·",
+          "translation": "\"No, my lord, I have heard. Four hundred double-drachmas of silver, between me and you—what is that? Bury your dead.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "κ α ι̣ ηκουϲ̣ εν αβρα α̣μ του εφ ρων και α̣π̣ε̣κα τεϲτη",
+          "translation": "Abraham listened to Ephron and weighed out...",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The manuscript breaks off mid-verse.",
+              "id": "gen-23-16-missing-text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 19,
+          "original": "αυτη εϲτιν χεβρ ω · εν τη γη χανααν ·",
+          "translation": "That is Hebron, in the land of Canaan.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και εκυρωθη ο α> γροϲ · και το ϲπηλαι ον ο ην εν αυτω τω αβρααμ · ειϲ κτη ϲιν ταφου παρα των υϊων χετ",
+          "translation": "So the field and the cave that was in it were confirmed to Abraham as a burial site by the sons of Heth.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και αβρααμ · ην πρε ϲβυτεροϲ προβε βηκωϲ ημερων · και κϲ ευλογηϲ ε ευλογηϲ ε τον αβρααμ κατα παντα ·",
+          "translation": "Abraham was old, advanced in days, and the Lord had blessed Abraham in every way.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ειπεν αβρααμ τω παιδι αυτου · τω πρεϲβυτερω > τηϲ οικιαϲ αυτου · τω αρχοντι παν των των αυτου · θεϲ την χειρα ϲου ϋπο τον μηρον μου ·",
+          "translation": "Abraham said to his servant, the elder of his household who managed all that he had, \"Put your hand under my thigh,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εξορκιω ϲε κν τον θν του ουρανου · και τον θν τηϲ γηϲ · ϊνα μη λαβηϲ γυναι> κα τω υϊω μου ϊ ϲαακ · απο των θυ γατερων των χα ναναιων · μεθ ω εγω οικω εν αυτοιϲ",
+          "translation": "\"and I will make you swear by the Lord, the God of heaven and the God of earth, that you will not take a wife for my son Isaac from the daughters of the Canaanites among whom I dwell,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "αλλα ειϲ τη̣ν γην μου · ου εγενο μην πορε υ ϲη και ειϲ τ η̣ν̣ φ υ",
+          "translation": "\"but you shall go to my land and to my family and take...\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The text breaks off mid-verse.",
+              "id": "gen-24-4-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "ειϲ την γην οθ ε εξηλθεϲ εκειθ ε ·",
+          "translation": "...to the land from which you came.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ειπεν δε προϲ αυ τον αβρααμ · προϲ εχε ϲεαυτω . μη > αποϲτρεψηϲ τον υϊον μου εκει ˙",
+          "translation": "Abraham said to him, \"Watch yourself, that you do not take my son back there.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "κϲ ο θϲ του ουρα νου · και ο θϲ τηϲ γηϲ · οϲ ελαβεν με εκ του οικου του πατροϲ μου · και εκ γηϲ · ηϲ εγ ε νηθην · οϲ ελαλη ϲεν μοι . και ωμο ϲεν μοι λεγων · τω ϲπερματι ϲου δω ϲω την γην ταυ την · αυτοϲ αποϲτε λει τον αγγελον αυτου εμπροϲθ ε ϲου · και λημψη γυ ναικα τω υϊω μου ϊϲαακ εκειθεν ·",
+          "translation": "\"The Lord, the God of heaven and the God of earth, who took me from my father's house and from the land of my birth, who spoke to me and swore to me saying, 'To your offspring I will give this land'—he will send his angel before you, and you will take a wife for my son Isaac from there.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εαν δε μη θελη η γυνη πορευ θηναι μετα ϲου · ειϲ την γην ταυτ η καθαροϲ εϲη απο του ορκου τουτου · μονον τον υϊον̣ μου · μη απ̣ οϲτρε ψηϲ εκε ι",
+          "translation": "\"If the woman is not willing to come with you to this land, you will be free from this oath. Only do not take my son back there.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ματοϲ τ̣ο̣ υτου",
+          "translation": "...of this oath.",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Only a fragment of this verse survives.",
+              "id": "gen-24-9-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "και ελαβεν ο π̣ αιϲ δεκα καμηλουϲ · α πο των καμηλ ω του κυριου αυτου και απο παντων των αγαθων του κυριου αυτου μεθ ε αυτου · και αναϲτα ϲ επορευθη ειϲ τ η μεϲοποταμιαν · ειϲ την πολιν να χωρ ·",
+          "translation": "The servant took ten camels from his master's camels and all the good things of his master with him. He set out and went to Mesopotamia, to the city of Nahor.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και εκοιμιϲ ε ταϲ καμηλουϲ εξω τηϲ πολεωϲ παρα το φρεαρ του ϋδατο̣ϲ̣ το προϲ οψε · ηνι> κα εκπορευονται · αι υδρευομεναι ·",
+          "translation": "He made the camels kneel outside the city by the well of water in the evening, at the time the women go out to draw water.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ειπεν · κε ο θϲ > του κυριου μου αβρααμ · ευοδωϲ α̣ εναντιον εμου ϲημερον · και ποι ηϲον ελεοϲ μετα του κυριου μου α βρααμ ·",
+          "translation": "He said, \"Lord, God of my master Abraham, grant me success today and show kindness to my master Abraham.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ϊδου εγω ε ϲτηκα επι τηϲ πη γηϲ του ϋδατοϲ · αι δε θυγατερεϲ τ ω οικουντων την πολιν εκπορευ ο ται αντληϲαι υδωρ ·",
+          "translation": "\"See, I am standing by the spring of water, and the daughters of those who live in the city are coming out to draw water.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και εϲται η παρθε νοϲ η αν εγω ειπω · επικλεινον μοι την ϋδριαν ϲου ϊ να πιω · και ειπη μ̣ο̣ι̣ πιε . κ αι ταϲ καμη λου̣ ϲ ϲου ποτιω",
+          "translation": "\"Let it be that the young woman to whom I say, 'Lower your jar that I may drink,' and she says, 'Drink, and I will also water your camels'—let her be the one you have chosen for your servant Isaac.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "τ ην ϋδριαν αυτηϲ κ αι ανεβη",
+          "translation": "...her jar and went up...",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Only a fragment of this verse survives.",
+              "id": "gen-24-16-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "original": "επεδρα μ̣ εν δε ο παιϲ ειϲ ϲ̣ υναντηϲιν αυτηϲ κ̣ αι ειπεν ποτιϲ ο μ ε μικρον ϋδωρ εκ̣ τηϲ ϋδριαϲ ϲου",
+          "translation": "The servant ran to meet her and said, \"Please give me a little water from your jar.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "η δ ε ειπεν πιε κε κα ι εϲπευϲεν και κα θειλεν την ϋδρι αν επι τον βραχιο να αυτηϲ · και ε πο̣ τιϲεν αυτον",
+          "translation": "She said, \"Drink, sir,\" and quickly lowered her jar onto her arm and gave him a drink.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "εω̣ ϲ επαυϲατο και ειπεν και τα ιϲ καμηλοιϲ ϲου ϋ δρευϲομαι εωϲ α ν παϲαι πιωϲιν",
+          "translation": "When she had finished, she said, \"I will also draw water for your camels until they have all drunk.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "κ̣ αι εϲπευϲεν και",
+          "translation": "She quickly emptied...",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The manuscript breaks off mid-verse.",
+              "id": "gen-24-20-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "original": "παρα τω πατρι ϲ ου",
+          "translation": "\"...with your father?\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Only a fragment of this verse survives.",
+              "id": "gen-24-23-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "original": "αυτω θυγατηρ βα θ̣ʼ ουηλʼ ειμι ον ετεκ ε",
+          "translation": "She said to him, \"I am the daughter of Bethuel, whom Milcah bore to Nahor.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "και ειπεν αυτ ω και αξυγα και χ ορ ταϲματα πολλ α > παρ ημιν και τ ο̣ποϲ του",
+          "translation": "She said to him, \"We have plenty of straw and feed, and a place to...\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The manuscript breaks off mid-verse.",
+              "id": "gen-24-25-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "original": "ευδοκηϲαϲ ο αν θρωποϲ προϲε κ̣υ νηϲεν κυριω",
+          "translation": "...the man worshiped the Lord.",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Only a fragment of this verse survives.",
+              "id": "gen-24-26-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "original": "και ειπεν ευλογητ ο̣ϲ̣ κϲ ο θϲ του κυρι ου μου αβρααμ οϲ ο̣υ",
+          "translation": "He said, \"Blessed be the Lord, the God of my master Abraham, who has not...\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The text breaks off mid-verse.",
+              "id": "gen-24-27-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 30,
+          "original": "λελαληκεν μοι ο ο ανθ̣ρωποϲ · και ηλ θεν προϲ τον αν θρω̣π̣ο̣ν ε̣ϲτηκο τοϲ̣ αυτου επι τ ω̣ κα̣μ̣ηλων επι τηϲ πηγηϲ ·",
+          "translation": "...had spoken to me. So he went to the man who was standing by the camels at the spring.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "και ειπεν αυτω · δευρο ειϲελ θε · ευλογητοϲ κϲ ϊνα τι εϲτηκαϲ εξω εγω δε ητοι μακα την οικιαν · και τοπον ταιϲ > καμηλοιϲ ·",
+          "translation": "He said to him, \"Come in, blessed of the Lord. Why are you standing outside? I have prepared the house and a place for the camels.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "ειϲηλθεν δε ο ανο ϲ ειϲ την οικιαν · κ(αι) απεϲαξεν ταϲ κα> μηλουϲ και εδω κεν αχυρ̣α και χορ ταϲματα ταιϲ καμη λοιϲ · και ϋδωρ νιψα ϲθαι τοιϲ ποϲιν > αυτου · και τοιϲ πο ϲιν των ανδρων των με̣τ αυτου ·",
+          "translation": "So the man entered the house. He unloaded the camels, gave straw and feed to the camels, and water to wash his feet and the feet of the men who were with him.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "και παρ̣εθηκεν αυ τοιϲ α̣ρ̣τ̣ο̣υϲ φαγε ι και ειπεν ο υ̣ μη φαγω εωϲ του λα",
+          "translation": "Food was set before him, but he said, \"I will not eat until I have spoken...\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The text breaks off mid-verse.",
+              "id": "gen-24-33-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 36,
+          "original": "αυτω παντα οϲα ην αυτω",
+          "translation": "...to him everything that he had.",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Only a fragment of this verse survives.",
+              "id": "gen-24-36-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 37,
+          "original": "και ωρκωϲεν με ο κυριοϲ μου λεγ ω ου λημψη γυναικα τω ϋιω μου απο τ ω θυγατερων των χαναναιων . εν οιϲ εγω παροικω εν > τη γη αυτων ·",
+          "translation": "\"My master made me swear, saying, 'You shall not take a wife for my son from the daughters of the Canaanites, in whose land I dwell,",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "original": "αλλ η ειϲ τον οικον του πατροϲ μου πορευ ϲη · και ειϲ την φυ λην μου · και λημ ψη γυναικα τω ϋϊ ω μου εκειθεν",
+          "translation": "\"but you shall go to my father's house and to my family and take a wife for my son from there.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "original": "ειπα δε τω κυριω μου μηποτε ου πορευϲεται η γυ νη μετ εμου",
+          "translation": "I said to my master, 'Perhaps the woman will not come with me.'",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "original": "και ειπεν μοι ˙ κϲ ω ευ ηρεϲτηϲα ενωπι ον εναντιον αυτου · αυτοϲ αποϲτελει αγ γελον αυτου μετα ϲου · και ευοδωϲει την οδον ϲου · και λημψη γυναικα > τω υϊω μου εκ τηϲ φυληϲ μου · και εκ τ ο̣υ̣ οικου του πα τροϲ μ ο̣υ̣",
+          "translation": "\"He said to me, 'The Lord, before whom I have walked, will send his angel with you and will make your journey successful, and you will take a wife for my son from my family and from my father's house.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "original": "τοτε α θωοϲ εϲη α πο τη̣ϲ̣ ορκιϲ μ̣ου μο̣υ",
+          "translation": "...then you will be free from my oath.",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The text breaks off mid-verse.",
+              "id": "gen-24-41-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 42,
+          "original": "και ελ θων ϲημερ ο ε πι την πηγην . ει πα · κε ο θϲ του κυ ρ̣ιου μου αβρααμ · ει ϲυ ευοδοιϲ την οδον μου · ην ν υ · εγω πορευομαι > επ αυτην ·",
+          "translation": "\"Today I came to the spring and said, 'Lord, God of my master Abraham, if you are making my journey successful, on which I am going,",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "original": "ϊδου εγω εϲτηκα επι τηϲ πη γηϲ του ϋδατοϲ κ(αι) αι θυγατερεϲ των ανθρωπων τηϲ πο λεωϲ εκπορευον ται ϋδρευϲαϲθαι ϋδωρ · και εϲται η παρθενοϲ · η αν εγω ειπω · ποτιϲον με μεικρον ϋδωρ εκ τηϲ υδρειαϲ ϲου ·",
+          "translation": "\"see, I am standing by the spring of water. Let it be that the young woman who comes out to draw water, to whom I say, 'Give me a little water from your jar to drink,'",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "original": "κ(αι) ειπη μοι πιε και ϲυ και ταιϲ καμηλοιϲ ϲου ϋδρευϲομαι · αυτη η γυνη · ην η τοιμαϲεν κϲ τω θε ραποντι αυτου ϊ ϲαακ · και εν τουτω γνωϲομαι . οτι πε ποιηκαϲ ελεοϲ τω κυριω μου αβρααμ ·",
+          "translation": "\"and she says to me, 'Drink, and I will also draw water for your camels'—let her be the woman whom the Lord has prepared for his servant Isaac. By this I will know that you have shown kindness to my master Abraham.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "original": "και εγενετο προ του ϲυντελεϲαι με λαλουντα εν τη > διανοια ˙ ευθυϲ ρε βεκκα εξεπορευ ετο εχουϲα την ϋδρειαν επι των ωμων αυτηϲ · κ(αι) κατεβη επι την πηγην . και ϋδρευ ϲατο ˙ ειπα δε αυτη ποτιϲον με ·",
+          "translation": "\"Before I finished speaking in my mind, behold, Rebekah came out with her jar on her shoulder. She went down to the spring and drew water. I said to her, 'Give me a drink.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "original": "και ϲπευϲαϲα · καθει λεν την ϋδρει̣α̣ ν αυτηϲ αφ εαυτηϲ κ̣α̣ι̣ ειπεν πιε ϲυ",
+          "translation": "\"She quickly lowered her jar from herself and said, 'Drink...'\"",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The manuscript breaks off mid-verse.",
+              "id": "gen-24-46-missing-text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

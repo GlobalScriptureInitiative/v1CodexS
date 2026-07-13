@@ -1,0 +1,3353 @@
+{
+  "book": "4 Maccabees",
+  "slug": "4-maccabees",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 0,
+          "original": "",
+          "translation": "",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "φιλοϲοφωτατ ο φιλοϲοφωτατ ο λογον επιδικνυ ϲθαι μελλων ει > αυτοδεϲποτοϲ ε των παθ ω ο ευϲεβηϲ λογιϲμοϲ ϲυμβουλευϲαιμ α α ϋμιν ορθωϲ οπωϲ προϲεχητε προ θυμωϲ τη φιλο ϲοφια ˙",
+          "translation": "I am about to demonstrate a most philosophical proposition: that devout reason is absolute master over the passions — and I would rightly advise you to give earnest attention to philosophy.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-1-1-philosophical",
+              "text": "\"Most philosophical proposition\" — the author frames his discourse as Greek philosophical rhetoric, blending Stoic and Jewish thought.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "και γαρ αναγ καιοϲ ειϲ επιϲτη μην παντι ο λο> γοϲ και αλλωϲ τηϲ μεγιϲτηϲ αρετηϲ λεγω δη φρονη> ϲεωϲ περιεχει ε> παινον ·",
+          "translation": "For the subject is necessary for every kind of knowledge, and besides that, it contains praise of the greatest virtue — I mean prudence.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ει αρα τ ω ϲωφροϲυνηϲ κω λυτικων παθων ο λογιϲμοϲ φαινε ται επικρατειν · γα ϲτριμαργιαϲ τε και επιθυμιαϲ ·",
+          "translation": "So then, if reason appears to master the passions that hinder self-control — gluttony and lust —",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "αλλα κ(αι) των τηϲ δικαιοϲυ νηϲ εμποδιϲτι> κων παθων κυρι ευειν αναφαινε ται ˙ οιον κακοηθι αϲ και των τηϲ αν δριαϲ εμποδιϲτι κων παθων . θυ μου τε και φοβου και πονου ·",
+          "translation": "it also plainly rules the passions that obstruct justice — such as malice — and those that hinder courage: anger, fear, and pain.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "πωϲ ο υ ο υ ιϲωϲ ϊϲωϲ ειποιεν ειποι αν > τιϲ ει των παθων ο λογιϲμοϲ κρατει ληθηϲ και αγνοιαϲ ου δεϲποζει γελοι ον επιχειρουν> τεϲ λεγειν ·",
+          "translation": "But someone might say, \"If reason masters the passions, why doesn't it control forgetfulness and ignorance?\" — a ridiculous thing to claim.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-1-5-rhetorical",
+              "text": "A rhetorical objection the author anticipates and refutes — common in Stoic diatribe style.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "ου γαρ > των αυτου παθ ω ο λογιϲμοϲ κρατει αλλα των τηϲ δι> καιοϲυνηϲ και αν δριαϲ και ϲωφροϲυ νηϲ εναντιων κ(αι) των τοιουτων > ουχ ωϲτε αυτα κα ταλυϲαι · αλλ ωϲτε αυτοιϲ μη ειξαι",
+          "translation": "For reason does not master its own passions, but those that oppose justice, courage, self-control, and the like — not to destroy them, but so as not to yield to them.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "πολλαχοθεν μεν ουν και αλλαχοθ ε αλλαχοθ ε εχοιμ αν ϋμιν ε> πιδειξαι οτι αυτο κρατωρ εϲτιν τ ω παθων ο λογιϲμοϲ ·",
+          "translation": "From many other sources I could demonstrate to you that reason is sovereign over the passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "πολυ δε πλεον του το αποδειξαιμι α πο τηϲ καλοκαγα θιαϲ των υ περ αρε τηϲ αποθανοντ ω · ελεαζαρου τε και των επτα αδελφ ω αδελφ ω και τηϲ τουτων > μητροϲ ·",
+          "translation": "But I could prove it much more convincingly from the noble character of those who died for virtue — Eleazar, the seven brothers, and their mother.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "παντεϲ απαντεϲ γαρ ουτοι τουϲ εωϲ θανατου πονουϲ ϋπερϊδοντεϲ επε δειξαντο ˙ οτι περι κρατει περʼ κρατει των παθ ω ο λογιϲμοϲ ·",
+          "translation": "For all of these, despising pains that reach to death, demonstrated that reason rules over the passions.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-1-9-thesis",
+              "text": "This verse states the central thesis: devout reason (εὐσεβὴς λογισμός) rules the passions.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "των > μεν ουν αρετων επεϲτι μοι επαινε ι επαινε ι τουϲ κατα τουτον τον καιρον ϋπερ τηϲ καλοκαγαθιαϲ αποθανονταϲ με τα τηϲ μητροϲ αν δραϲ · των δε τιμ ω μακαριϲαιμ αν ˙",
+          "translation": "Of the virtues, then, it falls to me to praise those who died at this time for nobility of character — men along with their mother. And of the honors, I would count them blessed.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "θαυ μαϲθεντεϲ γαρ ου μονον ϋπο παν των ανθρωπων επ ανδρια κ(αι) υπομονη αλλα και ϋπο των αικιϲαμε νων αιτιοι κατε ϲτηϲαν του κατα λυθηναι την κατα του εθνουϲ τυραν νιδα · νικηϲαντεϲ τον τυραννον τη ϋπομονη ˙ ωϲτε κα θαριϲθηναι δι αυ> των την πατριδα ·",
+          "translation": "For though they were admired not only by all people for their courage and endurance, but also by their torturers, they became the cause of the tyrant's downfall, defeating the tyrant through their endurance, so that the homeland was purified through them.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "αλλα και περι του > νυν αυτικα δη λε γειν εξεϲται αρξα μενω τηϲ ϋποθε ϲεωϲ οπερ ϊωθα > ποιειν και ουτωϲ ειϲ τον περι αυτ ω τρεψομαι λογον · δοξαν διδουϲ · τω πανϲοφω θω :",
+          "translation": "But now it's time to speak about this directly, beginning with the proposition — which is my usual practice — and then I'll turn to their story, giving glory to the all-wise God.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ζητουμεν δη τοι νυν ˙ ει αυτοκρατωρ εϲτι εϲτιν των παθων ο λογιϲμοϲ",
+          "translation": "We're now investigating: is reason absolute master over the passions?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και διακρι νομεν · τι ποτε ε ϲτιν λογιϲμοϲ και παθοϲ · και ποϲαι > παθων ειδεαι · και ει παντων επικρα> τει τουτων ο λογι ϲμοϲ :",
+          "translation": "And we're determining: what exactly is reason, and what is passion? And how many kinds of passions are there? And does reason master all of them?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "λογιϲμοϲ μεν δη τοιν υ τοιν υ εϲτιν νουϲ μετα ορθου λογου προ τιμων τον ϲοφιαϲ βιον ˙",
+          "translation": "Reason, then, is the mind choosing with right logic the life of wisdom.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ϲοφια δη τοι νυν εϲτιν · γνωϲιϲ θειων και ανθρω πιων πραγματ ω και των τουτων αιτιων",
+          "translation": "And wisdom is knowledge of divine and human matters and of their causes.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "αυτη δη τοινυν εϲτιν η > του νομου παιδια δι ηϲ τα θεια ϲεμνωϲ και τα ανθρωπινα ϲυμφεροντωϲ ϲ [1 chars] οντωϲ > μανθανομεν :",
+          "translation": "This wisdom is the education of the law, through which we learn divine matters reverently and human matters to our benefit.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-1-17-law-education",
+              "text": "The author uniquely identifies wisdom with Torah education — a distinctive Jewish adaptation of Greek philosophy.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "original": "τηϲ δε ϲοφιαϲ ειδε αι καθεϲτηκαϲιν τεϲϲαρεϲ · φρονηϲιϲ και δικαι οϲυνη και ανδρια και ϲωφροϲυνη :",
+          "translation": "There are four forms of wisdom: prudence, justice, courage, and self-control.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "κυριωτατη δε π α των . η φρονηϲιϲ · εξ ηϲ δε παθων ο λογιϲμοϲ επικρα τει ˙",
+          "translation": "The most authoritative of these is prudence, from which reason masters the passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "παθων δε φυϲιϲ ειϲιν αι περιεκτι> κωταται δυο ηδο νη τε και πονοϲ τουτων δε εκατε ροϲ εκατερον και περι την > ψυχην πεφυκεν ˙",
+          "translation": "The most comprehensive kinds of passions are two: pleasure and pain. And each of these is rooted in both body and soul.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-1-20-stoic",
+              "text": "The division of passions into pleasure and pain follows Stoic classification.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "original": "πολλαι δε και περι την ηδονην και τον πονον αγαθ ω αγαθ ω ειϲιν ακολουθειαι [1 chars] ειαι ˙",
+          "translation": "And there are many sequences of consequences surrounding both pleasure and pain.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "προ μεν ουν τηϲ ηδονηϲ εϲτιν . ε πιθυμια ˙ μετα δε την ηδονην . χαρα ˙",
+          "translation": "Before pleasure comes desire; after pleasure, joy.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "προ δε του πονου εϲτιν . φοβοϲ ˙ με τα δε τον πονον . λυπη ˙",
+          "translation": "Before pain comes fear; after pain, sorrow.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "θυμοϲ δε > κοινον παθοϲ ε ϲτιν · ηδονηϲ και πονου ˙ εαν εννο ηθη τιϲ οτι αυτω περιεπεϲεν ·",
+          "translation": "Anger is a passion common to both pleasure and pain — when someone realizes they've encountered it.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "εν τη ηδονη δε ενεϲτ ι ενεϲτ ι και η κακοηθηϲ διαθεϲιϲ πολυτρο πωτατη παντ ω ουϲα των παθ ω ·",
+          "translation": "In pleasure there is also malice, the most multifaceted disposition of all the passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "και τα μεν ψυχηϲ αλαζονια · και φι> λαργυρια · και φιλο δοξια · και φιλονι κια · και βαϲκανια ˙",
+          "translation": "In the soul: arrogance, love of money, love of fame, love of strife, and envy.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "κατα δε το ϲωμα παντοφαγια ˙ και μονοφαγια ˙ και λαιμαργια ˙",
+          "translation": "In the body: eating everything, eating alone, and gluttony.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "καθα> περ ουν δυειν του ϲωματοϲ και τηϲ ψυχηϲ φυτων ο των · ηδονηϲ τε και πονου . πολλαι τουτων των φυ των ˙ ειϲιν παραφυ αδεϲ",
+          "translation": "Just as with two plants of body and soul — pleasure and pain — many of their offshoots branch out.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "ων εκαϲτ η εκαϲτ η ο πανγεωργοϲ λο γιϲμοϲ περικαθαι ρων και αποκνι> ζων και περιπλε κων και επαρδων επαρ [1 chars] και παντα τροπ ο μεταχεων εξϊμε ροι εξημεροι ταϲ των ηθ ω και παθων ϋλαϲ",
+          "translation": "The master-gardener reason prunes, trims, ties up, and waters each, taming the wild growth of habits and passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "ο γαρ λογιϲμοϲ τ ω μεν αρετων εϲτ ι ηγεμων · των δε παθων αυτοκρα τωρ · επιθεωρει τοι νυν δε τοινυν δε πρωτον δια των κωλυτικ ω τηϲ ϲωφροϲυνηϲ εργων οτι αυτο δεϲποτοϲ εϲτιν των παθων ο λο γιϲμοϲ ·",
+          "translation": "For reason is the guide of the virtues and absolute master of the passions. Observe now, then,",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "ϲωφρο> ϲυνη δη τοινυν εϲτιν επικρατια των επιθυμι ω ·",
+          "translation": "self-control is mastery over desires.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "των δε επιθυμι ω αι μεν ειϲιν ψυχι και · αι δε ϲωματι και · και τουτων αμφοτερων επι κρατειν ο λογιϲμοϲ φαινεται ˙",
+          "translation": "Some desires are mental, others physical, and reason rules over both.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "επει > ποθεν κεινου μενοι προϲ ταϲ απειρημεναϲ τρο φαϲ · αποϲτρεφο μεθα ταϲ εξ αυτ ω ηδοναϲ . ουχ οτι δυναται των ορε ξεων επικρατε ι ο λογιϲμοϲ · εγω γαρ οιμαι ·",
+          "translation": "For how is it that when we're moved toward forbidden foods, we turn away from the pleasures they offer? Isn't it because reason can rule over cravings?",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "original": "τοιγαρ ουν ενϋδρων ε πιθυμουντεϲ κ(αι) ορνεων και τετρα ποδων και παν τοιων βρωματ ω των απηγορευ> μενων ημιν δι α κατα τον νομον απε χομεθα δια την του λογιϲμου επι κρατειαν ·",
+          "translation": "Therefore, when we desire aquatic creatures, birds, four-footed animals, and all kinds of foods prohibited by the law, we abstain because of reason's mastery.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "original": "ανεχε ται γαρ τα των ορε ξεων παθη ϋπο του ϲωφρονοϲ > νοοϲ ανακοπτο μενα και φειμου παντα τα του ϲωματοϲ κινημα τα ϋπο του λογι> ϲμου",
+          "translation": "For the passions of the appetites are checked by the self-controlled mind, and all the impulses of the body are bridled by reason.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και τι θαυμα ϲτον ει αι τηϲ ψυ χηϲ επιθυμιαι προϲ την του καλλουϲ μετουϲιαν ακυ> ρουνται",
+          "translation": "And what's so remarkable if the soul's desires for the enjoyment of beauty are overruled?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ταυτη > γουν ο ϲωφρων ϊωϲηφ επαινει ται οτι διανοια πε ριεκρατηϲεν τηϲ ηδυπαθειαϲ ·",
+          "translation": "That's why the self-controlled Joseph is praised — because through his mind he mastered sexual indulgence.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-2-2-joseph",
+              "text": "Joseph resisting Potiphar's wife (Genesis 39) is used as proof that reason masters sexual desire.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "νεοϲ γαρ ων και ακμα ζων προϲ ϲυνου ϲιαϲμον · ηκυρω ϲε τω λογιϲμω τ ο των παθων οιϲτρ ο οιϲτρ ο",
+          "translation": "For though young and at his prime for intercourse, he nullified the passion's stinging urge by reason.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ου μονον δε την επι τηϲ ηδυ> παθειαϲ οιϲτρηλα ϲιαν ο λογιϲμοϲ επικρατειν φαι νεται · αλλα και πα ϲηϲ επιθυμιαϲ :",
+          "translation": "And not only does reason appear to master the sting of pleasure-seeking desire, but it also prevails over every desire.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "λεγει γουν ο νομοϲ ουκ επιθυμηϲειϲ την γυναικα του πληϲιον ϲου ου δε οϲα τω πληϲι ον ϲου εϲτιν ˙",
+          "translation": "For the law says: \"You shall not covet your neighbor's wife, nor anything that belongs to your neighbor.\"",
+          "footnotes": [
+            {
+              "id": "4-maccabees-2-5-decalogue",
+              "text": "Quoting the Tenth Commandment (Exodus 20:17; Deuteronomy 5:21) as evidence that the law itself commands mastery of desire.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "και τοι οτε μη επιθυ μειν ειρηκεν η μαϲ ο νομοϲ πο λυ πλεον πειϲαι μ αν ϋμαϲ οτι τ ω επιθυμιων κρα τειν δυναται ο λο γιϲμοϲ . ωϲπερ και των κωλυτικων τηϲ δικαιοϲυνηϲ παθων ·",
+          "translation": "Now, since the law told us not to desire, I could much more readily persuade you that reason masters desires.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "επει τινα τιϲ τροπον μονο φαγοϲ ων το ηθοϲ και γαϲτριμαργοϲ · η και μεθυϲοϲ μετα παιδευεται · ει μη δη λον οτι κυριοϲ εϲτ ι εϲτ ι των παθων ο λογι ϲμοϲ ·",
+          "translation": "For how can someone of gluttonous character or a drunkard be reformed, unless reason clearly rules over the passions?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "αυτικα γουν τω νομω πολιτευ ομενοϲ καν φιλαρ γυροϲ τιϲ η βιαζε ται τον αυτου τρο πον τοιϲ δεομενοιϲ δανιζων χωριϲ το κων · και το δανι ο των εβδομαδων ενϲταϲων χρεο κοπουμενοϲ",
+          "translation": "So right away, someone who lives by the law, even if they're greedy, is forced to change their ways — lending to the needy without interest.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "καν φιδωλοϲ τιϲ ῆ . ϋπο του νομου κρατει ται δια τον λογιϲμο λογιϲμ ο μητε επικαρπολο γουμενοϲ τουϲ α μητουϲ μητε επι ρωγολογουμενοϲ τουϲ αμπελωναϲ και επι των εργων δε εϲτιν επιγνω ναι τουτο οτι τ ω παθων εϲτιν ο λογιϲμοϲ κρατ ω ·",
+          "translation": "Even if someone is stingy, they're controlled by the law through reason — neither gleaning the corners of their harvest nor gathering the fallen grapes.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ο γαρ νομοϲ και τηϲ προϲ γονειϲ ευνοι αϲ κρατει μη κατα προδιδουϲ την αρε την δι αυτουϲ ·",
+          "translation": "For the law also rules over affection for parents, not betraying virtue for their sake.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και τηϲ προϲ γαμετην φιλιαϲ επικρατει > δια την παρανομι αν αυτην απελεγ ·",
+          "translation": "And it rules over love for a wife, rebuking her when she breaks the law.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και τηϲ τεκν ω τεκν ω φιλιαϲ κυριευει δι α κακιαν αυτουϲ > κολαζων",
+          "translation": "And it rules over love for children, punishing them for wrongdoing.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και τηϲ τηϲ φιλων ϲυνηθιαϲ δεϲποζει δια πο> νηριαν αυτουϲ εξʼ ελεγχων ˙",
+          "translation": "And it rules over friendship, exposing friends for their wickedness.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και μη νομιϲητε παραδο ξον ειναι οπου κ(αι) εχθραϲ επικρατε ι επικρατε ι ο λογιϲμοϲ δυνα> ται δια τον νομ ο μητε δενδροτο> μων δενδροτο>μων τα ημερα τ ω πολεμιων φυτα : τα δε των εχθρ ω τοιϲ απολεϲαϲι δι αϲωζων και τα πε πτωκοτα ϲυνε> γειρων ˙",
+          "translation": "Don't think it's surprising that reason can also master hatred — through the law it's possible.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και δια τ ω τ ω βιαιοτερων δε πα θων κρατειν επικρατειν ο λο γιϲμοϲ φαινεται φιλαργυριαϲ φιλαρχιαϲ και κε νοδοξιαϲ και αλα ζονιαϲ και μεγα λαυχιαϲ και βαϲκα νιαϲ ˙",
+          "translation": "And reason clearly rules over even the more violent passions — love of money, love of power, love of fame — all of which are harmful.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "παντα γαρ ταυ τα ταυτα τα κακοηθη παθη ο ϲωφρων νουϲ απωθειται ωϲπερ και τον θυμον · κ(αι) γαρ τουτου δεϲπο ζει ˙",
+          "translation": "The self-controlled mind rejects all these evil passions, just as it does anger. For even over anger it prevails.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "θυμουμενοϲ γε τοι μωϲηϲ κατα δαθαν · και αβειρ ω ου θυμω τι κατ αυ των εποιηϲεν αλ λα λογιϲμω τον > θυμον διητηϲεν ˙",
+          "translation": "For Moses, when angry with Dathan and Abiram, did nothing to them in anger, but reasoned with them to turn them from their wrath.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-2-17-moses",
+              "text": "Refers to Numbers 16 — Moses didn't act in anger against Korah's followers but interceded.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "original": "ϊκανοϲ δυνατοϲ γαρ ο ϲωφρ ω ϲωφρ ω νουϲ ωϲ εφην κα τα των παθων α> ριϲτευϲαι και τα μ ε μ ε αυτων μεταθει> ναι · τα δε και ακυ> ρωϲαι ˙",
+          "translation": "For the self-controlled mind is capable, as I said, of excelling against the passions and transforming some of them.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "επει δια τι ο πανϲοφοϲ ημ ω ημ ω πατηρ ϊακωβ τουϲ περι ϲυμεων και λευειν αιτιαται μη λογιϲμω τουϲ ϲικιμιταϲ εθνη> δον αποϲφαξαν> ταϲ λεγων ˙ επικατα ρατοϲ ο θυμοϲ αυτ ω αυτ ω",
+          "translation": "For why does our all-wise father Jacob blame Simeon and Levi for their actions, if not because reason can master anger?",
+          "footnotes": [
+            {
+              "id": "4-maccabees-2-19-jacob",
+              "text": "Jacob's rebuke of Simeon and Levi (Genesis 49:5-7) shows reason should rule anger.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "original": "ει μη γαρ εδυνατο του θυμου ο λογι> ϲμοϲ κρατειν ουκ α α ειπεν ουτωϲ ˙",
+          "translation": "For if reason couldn't control anger, he wouldn't have said so.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "οπη νικα γαρ ο θϲ θϲ κατε ϲκευαϲεν κατεϲκευαξεν κατεϲκευαϲεν τον αν θρωπον τα παθη αυτου και τα ηθη περιεφυτευϲεν ˙",
+          "translation": "For when God created the human being, He implanted in him passions and character.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ηνικα δε επι παν των τον ϊερον η γεμονα νουν δια των εϲθητηρι ω εϲθητηρι ω ενεθρονιϲεν ·",
+          "translation": "But at that time He enthroned the sacred mind as governor over all, through the senses.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και τουτω νομον δε δωκεν καθ ον πο λιτευομενοϲ βα ϲιλευϲει βαϲιλει α βαϲιλει α ϲωφρονα τε και δι καιαν και αγαθην και ανδρειαν ˙",
+          "translation": "And to this mind He gave the law, by which one who lives according to it will rule a kingdom that is temperate, just, good, and courageous.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "πωϲ ουν ειποιτε η τ ω ειποι τιϲ αν ει τ ω παθων ο λογιϲμοϲ δεϲποτηϲ εϲτιν ο λογιϲμοϲ ληθηϲ και αγνοιαϲ ου κρατι",
+          "translation": "So then, someone might ask: \"If reason is master of the passions, why doesn't it control forgetfulness and ignorance?\" This is a ridiculous question.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-2-24-repetition",
+              "text": "This repeats the earlier objection (1:5) for rhetorical reinforcement — a diatribe technique.",
+              "type": "interpretation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "επικρατειν εϲ τιν δε κομιδη γελοιοϲ ο λογοϲ ου γαρ των εαυτου παθων ο λογιϲμοϲ κρα κρατειν εϲτιν δε κομιδη γελοιοϲ ο λογοϲ ου γαρ των εαυτου παθων ο λογιϲμοϲ κρατειν φαι> νεται αλα των ϲω ματικων",
+          "translation": "The argument that reason rules is utterly ridiculous — for reason doesn't master its own passions but those that oppose justice.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "οιον ε πιθυμιαν τιϲ εκ κοψαι ου δυναται ημων αλλα μη δου λωθηναι τη επι θυμια δυναται ο λο γιϲμοϲ παρεχεϲθαι παραϲχεϲθαι ·",
+          "translation": "For example, none of us can cut out desire, but reason can keep us from being enslaved to it.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "θυμον τιϲ ου δυνα ται ϋμων εκκο> ψαι τηϲ ψυχηϲ · αλ λα τω θυμω δυνα τον τον λογιϲμον βοηθηϲαι ˙",
+          "translation": "None of us can cut anger out of the soul, but reason can help us against anger.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "κακοη θιαν τιϲ ϋμων ου δυναται εκκοψαι · αλλα το μη καμφθη ναι τη κακοηθια ˙ δυναιτ αν ο λογιϲμοϲ ϲυμμαχηϲαι ·",
+          "translation": "None of us can cut out malice, but reason can help us not to be swayed by malice.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ου γαρ εκριζωτηϲ των > παθων ο λογιϲμοϲ εϲτιν αλλα ανταγω νιϲτηϲ ˙",
+          "translation": "For reason isn't the eradicator of the passions, but their opponent.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εϲτιν γο υ τουτο δια δια τηϲ δα δ δα δ του βαϲιλεωϲ διψηϲ ϲαφεϲτερον επι λογιϲαϲθαι ˙",
+          "translation": "This can be more clearly illustrated through the story of King David's thirst.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-3-6-david",
+              "text": "The David story (2 Samuel 23:13-17; 1 Chronicles 11:15-19) is adapted as a philosophical example.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "original": "επει γαρ δι δι οληϲ ημεραϲ προϲ βαλων τοιϲ αλλο φυλοιϲ ο δαυειδʼ δαυειδʼ πολλουϲ αυτων απεκτεινεν μετα των του εθνουϲ ϲτρατιωτων ·",
+          "translation": "For when David had fought the foreigners all day long and killed many of them,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "το τε δη γενομενηϲ εϲπεραϲ εϲπευδεν εϲπευδεν ϊδρων και ϲφοδρα κεκμηκωϲ επι τ η τ η βαϲιλειον ϲκην η ϲκην η ηλθεν περι ην ο παϲ των προγονων > ϲτρατοϲ εϲτρατο παιδευκει ˙",
+          "translation": "when evening came, he hurried, sweating and thoroughly exhausted, to the royal tent.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "οι μεν ουν αλλοι παντεϲ επι το δειπνον η ϲαν",
+          "translation": "Now everyone else was at supper.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ο δε βαϲιλευϲ > μαλιϲτα διψων > καιπερ αφθονου αφθονουϲ εχων πηγαϲ ουκ η δυνατο δι αυτων ϊαϲαϲθαι την διψ α",
+          "translation": "But the king, who was extremely thirsty — though he had abundant springs — couldn't quench his thirst from them.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "αλλα τιϲ αυτον αλο γιϲτοϲ επιθυμια επιθυμια του παρα τοιϲ πολε μιοιϲ πολεμιοιϲ ϋδατοϲ επι τινουϲα διεφρυγ ε ϲυνεφρυγ ε και λυουϲα κατε> φλεγεν ˙",
+          "translation": "Instead, an irrational desire for water from the enemy's camp kept intensifying, inflaming and consuming him.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "οθεν των ϋπαϲπιϲτων επι τη του βαϲιλεωϲ ϲχετλια ζοντων · δυο νεα νιϲκοι ϲτρατιω> ται καρτεροι καται δεϲθεντεϲ την > του βαϲιλεωϲ επι θυμιαν ταϲ παντευ χιαϲ καθωπλιϲαν το και καλπην λαβ ο τεϲ ϋπερεβηϲαν > τουϲ των πολεμι ω πολεμι ω χαρακαϲ ·",
+          "translation": "So when the guards complained about the king's distress, two strong young soldiers,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και λαθ ο τεϲ λαθ ο τεϲ τουϲ των πυ λων πυλων ακροφυλακαϲ διεξηεϲαν ανευ> ρωμενοι ανερευ>νωμενοι κατα π α π α το των πολεμιων ϲτρατοπεδον ·",
+          "translation": "hiding from the sentries at the gates, slipped out and made their way through the enemy camp.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ανευραμενοι τ η πηγην εξ αυτηϲ θαρραλεωϲ εκομι ϲαν τω βαϲιλει το ποτον ˙",
+          "translation": "Finding the spring, they bravely brought the drink to the king.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ο δε καιπερ την διψαν διψαν διαπυ> ρουμενοϲ ελογιϲα το πανδινον πανδινον ειναι κινδυνον κινδυνον ψυχη λογιϲθεν ϊϲοδυνα μον ποτον αιμα τι ˙",
+          "translation": "But he, though burning with thirst, reasoned that such a drink was equivalent to endangering his soul.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "οθεν αντιθειϲ αντιθειϲ τη επιθυμια τον λογιϲμον εϲπειϲ ε εϲπειϲ ε το πομα τω θω θω",
+          "translation": "Therefore, setting reason against desire, he poured the drink out as an offering to God.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-3-16-libation",
+              "text": "David's pouring out the water as a drink offering to God demonstrates reason ruling over irrational desire.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "original": "δυ νατοϲ γαρ ο ϲωφρ ω ϲωφρ ω νουϲ νικηϲαι ταϲ των παθων αναγ καϲ και ϲβεϲαι ταϲ των οιϲτρων φλε γμοναϲ",
+          "translation": "For the self-controlled mind is able to conquer the compulsions of the passions and to extinguish the flames of the urges,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και ταϲ τ ω ϲωματων αλγηδο ναϲ καθ ϋπερβολ η ϋπερβολ η δυναταϲ ουϲαϲ κα ταπαλεϲαι καταπαλεϲαι και τη καλοκαγαθια καλογαγαθια καλοκαγαθια του λογιϲμου αποπτυ ϲαι παϲαϲ ταϲ των παθων επικρατει αϲ :",
+          "translation": "and to overcome the pains of the body, however extreme they may be, and to reject all the enticements of pleasure through the nobility of reason.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ηδη δε και ο και ροϲ ‾̷‾ ημαϲ καλει ε πι την αποδειξ ι αποδειξ ι τηϲ ϊϲτοριαϲ του ϲωφρονοϲ λογι ϲμου ˙",
+          "translation": "And now the time calls us to the demonstration of this history of the self-controlled reason.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "επειδη γαρ βαθειαν ειρηνην δια την ευνομι α ευνομι α οι πατερεϲ ημων ειχον · και επρατʼτ ο καλωϲ ωϲτε και τ ο τ ο τηϲ αϲιαϲ βαϲιλεα ϲελευκον τον νι κανορα ˙ και χρημα τα ειϲ την ϊερουρ γιαν αυτοιϲ αφο ριϲαι και την πο λειτειαν αυτων αποδεχεϲθαι αποδεχεϲθαι ·",
+          "translation": "For when our fathers were enjoying deep peace because of their law-abiding conduct and were prospering under Seleucus Nicanor,",
+          "footnotes": [
+            {
+              "id": "4-maccabees-3-20-seleucus",
+              "text": "Seleucus IV Philopator reigned before Antiochus IV Epiphanes. The peaceful period refers to early Hellenistic rule.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "original": "το τε δη τινεϲ προϲ την κοινην νεω τεριϲαντεϲ ομο νοιαν · πολυτρο ποιϲ εχρηϲαντο ϲυμφοραιϲ",
+          "translation": "then certain people disrupted the common harmony and brought about all sorts of calamities.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ϲιμων γαρ τιϲ προϲ ονιαν αντιπολι τευομενοϲ · τον > ποτε την αρχϊερω ϲυνην εχοντα > δια βιου καλον κ(αι) αγαθον ανδρα · επειδη παντα τρο πον διαβαλλων ϋπερ του εθνουϲ ουκ ϊϲχυϲεν κα κωϲαι φυγαϲ · ωχε το την πατριδα προδωϲων ·",
+          "translation": "For a certain Simon became a political rival to Onias, who held the high priesthood for life — a good and noble man.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-4-1-simon",
+              "text": "Simon's conflict with Onias III reflects historical tensions in Jerusalem before the Maccabean revolt (2 Maccabees 3-4).",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "οθ ε ηκων ωϲ απολλω νιον τον ϲυριαϲ τε και φοινικηϲ και κιλικιαϲ ϲτρα τηγον · ελεγεν",
+          "translation": "So he went to Apollonius, the governor of Syria, Phoenicia, and Cilicia, and said,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ευ νουϲ ων τοιϲ του βαϲιλεωϲ πραγμα ϲιν ηκω μηνυ ω μηνυ ω πολλαϲ ϊδιωτικ ω χρηματων μυρια δαϲ εν τοιϲ ϊεροϲο λυμων γαζοφυ> λακιοιϲ τεθηϲαυ> ριϲθαι · τοιϲ ϊεροιϲ μη επικοινωνουϲαϲ και προϲηκειν ταυ τα ϲελευκω τω βαϲι λει :",
+          "translation": "\"Being loyal to the king's interests, I've come to inform you that many thousands of private funds are deposited in the temple treasury in Jerusalem.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "τουτων εκαϲτα ‾̷‾ γνουϲ ο απολλω νιοϲ · τον μεν ϲιμω να τηϲ ειϲ τον βα ϲιλεα κηδεμονι αϲ επαινει . προϲ δε τον ϲελευκον α> ναβαϲ κατεμη> νυϲε τον των χρη ματων θηϲαυρον",
+          "translation": "When Apollonius learned all this, he praised Simon for his concern for the king and went up to Seleucus to report the matter.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ελαβεν την πε ρι αυτων εξουϲι α : και ταχυ ειϲ την πα τριδα ημων μετα του καταρατου ϲι μωνοϲ και βαρυ τατου ϲτρατου >",
+          "translation": "He obtained authority over these funds, then quickly came to our homeland with the accursed Simon and an army.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "προελθων προϲελθων ταιϲ του βαϲιλεωϲ εν τολαιϲ ηκειν ελε γεν οπωϲ τα ϊδιω τικα του γαζοφυ λακιου λαβοι χρη ματα ·",
+          "translation": "Advancing, he said he'd come with the king's orders to take the private funds from the treasury.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και του εθνουϲ προϲ τον λογον > ϲχετλιαζοντοϲ αντιλεγοντοϲ τε · πανδινον ειναι νοηϲαντεϲ ει οι ταϲ παρακαταθηκαϲ οι πιϲτευϲαντεϲ τω ϊερω θηϲαυρω ϲτερηθηϲονται · ωϲ οιον τε ην εκω λυον ˙",
+          "translation": "When the people objected and protested, he warned them — if they didn't hand them over, they'd face danger.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "μετα απει λων δε ο απολλω νιοϲ απηει ειϲ το ϊερον ˙",
+          "translation": "So Apollonius went to the temple with threats.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "των δε γε ραιων μετα γυναι κων και παιδι ω εν τω ϊερω ϊκετευ ϲαντων τον θν ϋπεραϲπιϲαι του ϊερου καταφρονου μενου του τοπου",
+          "translation": "The priests, along with women and children, begged God in the temple to defend the holy place against the despicable lawbreaker.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ανιοντοϲ τε μετα καθωπλιϲμενηϲ τηϲ ϲτρατιαϲ του απολλωνιου προϲ την των χρημα των αρπαγην ουρανοθεν αγγε λοι προυφανηϲ α προυφανηϲ α εφϊπποι περιαϲτρα πτοντεϲ τοιϲ ο> πλοιϲ και πολυν φοβον τε τε τε και τρομον ενϊ ε τεϲ",
+          "translation": "As Apollonius came up with his armed forces to seize the money, angels on horseback appeared from heaven, flashing with weapons.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-4-10-angels",
+              "text": "Divine intervention by angelic horsemen parallels 2 Maccabees 3:24-26.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "original": "καταπεϲων δε τοι ημιθανηϲ ο απολλωνιοϲ ε πι τον παμφυλ ο του ϊερου περιβο λον ταϲ χειραϲ εξε τεινεν ειϲ τον ου ρανον και μετα δα κρυων δακρυων τουϲ εβραι ουϲ παρεκαλει ο> πωϲ περι αυτου > προϲευξαμενοι τον ουρανιον εξευ μενιϲωνται ϲτρα τον ·",
+          "translation": "Falling down half-dead, Apollonius stretched out his hands to heaven and begged the priests — ",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ελεγεν γαρ ημαρ τηκωϲ ωϲτε και α ποθανειν αξιοϲ ϋ παρχειν παϲιν τε ανοιϲ ϋμνηϲιν ϲω θειϲ την του ϊερου τοπου μακαριοτη τα ˙",
+          "translation": "saying he had sinned and deserved to die, and that if he were saved, he'd sing the praises of the temple to everyone.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "τουτοιϲ ϋπαχθειϲ τοιϲ λογοιϲ ονειαϲ ο αρχϊερευϲ καιπερ αλλωϲ ευλαβηθειϲ μηποτε νομιϲει εν ο βαϲιλευϲ ϲε> λευκοϲ εξ ανθρω πινηϲ επιβουληϲ και μη θειαϲ δικηϲ ανηρηϲθαι τον α πολλωνιον · ηϋξα το περι αυτου ·",
+          "translation": "Moved by these words, Onias the high priest — though otherwise cautious — prayed for him, so that King Seleucus wouldn't think Apollonius was killed by human treachery.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ο μεν παραδοξωϲ διαϲωθειϲ ωχετο δηλωϲων τω βα ϲιλει τα ϲυμβαν> τα αυτω :",
+          "translation": "And so, having been miraculously saved, he left to report to the king what had happened to him.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "τελευτηϲαντοϲ δε ϲελευκου του > βαϲιλεωϲ · διαδεχε ται την αρχην ϋιοϲ ο ϋϊοϲ αυτου αντιοχοϲ ο επιφανηϲ ˙ ανηρ ϋπερηφανοϲ και δεινοϲ ·",
+          "translation": "When King Seleucus died, his son Antiochus Epiphanes succeeded to the throne — an arrogant and terrible man.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-4-15-antiochus",
+              "text": "Antiochus IV Epiphanes — the central villain of the Maccabean narratives.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "original": "οϲ καταλυ ϲαϲ τον ονειαν τηϲ αρχϊερωϲυνηϲ ϊα ϲονα τον αδελφ ο αυτου κατεϲτη> ϲεν αρχϊερεα",
+          "translation": "He removed Onias from the high priesthood and appointed Jason, Onias's brother, as high priest.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ϲυν θεμενοϲ ϲυνθεμενον δωϲειν ει επιτρεψειεν αυ τω την αρχην κα τ ενιαυτον χειλια /γ εξακοϲια εξηκον τα ταλαντα :",
+          "translation": "Jason agreed to pay three thousand six hundred sixty silver talents annually if he were allowed to hold the office.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ο δε επετρεψεν αυ τω και αρχϊεραϲθαι και αφηγειϲθαι του εθνουϲ",
+          "translation": "He granted him both the high priesthood and leadership of the nation.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και εξεδι ητηϲεν το εθνοϲ και εξεπολιτευϲ ε εξεπολιτευϲ ε επι παϲαν παρανο μιαν",
+          "translation": "And Jason led the people astray and corrupted them into every kind of lawlessness.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ωϲτε μη μο νον επ αυτη τη α κρα τηϲ πατριδοϲ ημων γυμναϲι ο καταϲκευαϲαι · αλλα και καταλυϲαι τ η του ϊερου κηδεμο νιαν :",
+          "translation": "So much so that he not only built a gymnasium at the very citadel of our homeland, but also abolished the temple service.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "εφ οιϲ αγανακτη ϲαϲα η θεια δικη > αυτον αυτοιϲ τον αντιοχον επολε μηϲεν ˙",
+          "translation": "At this, divine justice grew angry and made Antiochus himself their enemy in war.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "επειδη γαρ πο λεμων ην κατ αι γυπτον πτολε> μαιω ηκουϲεν τε οτι φημηϲ διαδο θειϲηϲ περι του τε αυτον ωϲ ενι μαλιϲτα οι ϊερο ϲολυμειται χαιροι εν · ταχεωϲ επ αυτουϲ ανεζευξεν",
+          "translation": "For while he was at war with Ptolemy in Egypt, he heard that a rumor had spread that he was dead, and that the people had rejoiced.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και ωϲ επορθηϲεν αυτουϲ δογμα εθετο οπωϲ ει τιϲ αυτων φα> νοιεν τω πατριω πολιτευομενοι νομω θανοιεν",
+          "translation": "And so he destroyed them and issued a decree: if anyone of them was found living by the ancestral law, they would die.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και επει κατα μηδε να μηδενα τροπον ϊϲχυ ε καταλυϲαι δια τ ω δογματων την > του εθνουϲ ευνο μιαν αλλα παϲαϲ ταϲ εαυτου απειλαϲ και τιμωριαϲ εωρα καταλυομεναϲ ·",
+          "translation": "And since he couldn't by his decrees destroy the nation's loyalty to the law, he unleashed his punishments on each individual.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "ωϲ τε και γυναικαϲ ο τι περιετεμον τα > παιδια μετα των βρε φων κατακρημνι ϲθηναι προειδυϊ αϲ οτι τουτο πειϲ ο ται :",
+          "translation": "So women who circumcised their children were thrown down cliffs — knowing beforehand what would happen.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "επει ουν τα δο γματα ‾̷‾ αυτου κατε φρονειτο ϋπο του λαου αυτοϲ δια βαϲα νων ενα εκαϲτον του εθνουϲ ηναγ καζεν μιαρων απο γευομενουϲ τρο φων εξομνυϲθαι τον ϊουδαϊϲμον :",
+          "translation": "Since his decrees were despised by the people, he personally tortured every member of the nation.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "προκαθιϲαϲ γε τοι μετα των ϲυνεδρ ω ο τυραννοϲ αντι οχοϲ ˙ επι τινοϲ ϋ ψηλου τοπου και των ϲτρατευμα των αυτω παρεϲτη κοτων κυκλοθ ε ενοπλων ˙",
+          "translation": "The tyrant Antiochus took his seat with his councilors on a high place, surrounded by his armed forces.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-5-1-trial",
+              "text": "The trial scene is modeled on Greek courtroom rhetoric — the tyrant as prosecutor, Eleazar as defendant.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "παρεκε λευεν τοιϲ δορυφο ροιϲ ενα εκαϲτον εβραιον τ ω εβραιων επιϲπαϲθαι και κρεων ϋει ω και ϊδωλοθυτ ω ϊδων̣οθυτ ω αναγκαζειν απο γευεϲθαι ·",
+          "translation": "He ordered his guards to seize each Hebrew by force and force them to eat pork and food sacrificed to idols.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ει δε τιϲ τινεϲ μη θελοιεν μιαρο φαγηϲαι τουτουϲ τρο χιϲθενταϲ αναιρε θηναι :",
+          "translation": "If anyone refused to eat defiling food, they were to be broken on the wheel and executed.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "πολλων δε ϲυναρπαϲθεντ ω ειϲ πρωτοϲ εκ τηϲ αγεληϲ ονοματι ε λεαζαροϲ ˙ το γενοϲ ϊερευϲ την επιϲτη μην νομικοϲ και την ηλικιαν προη κων και πολλοιϲ των περι τον τυ> ραννον δια την η λικιαν γνωριμοϲ . παρηχθη πληϲι ο πληϲι ο αυτου :",
+          "translation": "When many had been seized, first from the group came a man named Eleazar, a priest by birth, educated in the law, and advanced in age.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και αυτον ‾̷‾ ϊδων ο αντιοχοϲ εφη ˙",
+          "translation": "Seeing him, Antiochus said,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εγω πρεϲβυ τα πριν αρξαϲθαι > των κατα ϲου βαϲα νων ϲυμβουλευ> ϲαιμ αν ϲοι ταυτα · οπωϲ απογευϲαμε νοϲ των ϋειων ϲω ζοιο ·",
+          "translation": "\"Old man, before I begin torturing you, I'd advise you: taste the pork and save yourself.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "αιδουμαι γαρ ϲου την ηλικιαν και την πολιαν η μετα τοϲουτον ε χρονον ου > μοι δοκειϲ φιλο ϲοφειν τη ϊουδαι ων χρωμενοϲ θρη ϲκια ˙",
+          "translation": "For I respect your age and your gray hair. Having had them so long, you don't seem to me to be philosophizing well by keeping the Jewish religion.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "δια τι γαρ τηϲ φυϲεωϲ κεχαριϲμε νηϲ κε [1 chars] αριϲμενηϲ καλλιϲτην τ η τουδε τουδε του ζωου ϲαρ κοφαγιαν βδελυτ τη ˙",
+          "translation": "For why, when nature has granted you the finest meat of this animal, do you reject it?",
+          "footnotes": [
+            {
+              "id": "4-maccabees-5-8-pork",
+              "text": "Eating pork was prohibited by Leviticus 11:7 and was a defining test of Jewish identity under persecution.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "και γαρ ανοητ ο τουτο το μη απολαυ ειν των χωριϲ ονει δουϲ ηδεων και α δικον αποϲτρεφε ι αποϲτρεφεϲθ(αι) ταϲ τηϲ φυϲεωϲ χα ριταϲ ˙",
+          "translation": "For it's foolish not to enjoy pleasures that bring no shame, and it's wrong to reject nature's gifts.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ϲυ δε μοι και ανοητοτερον ποι ηϲειν δοκειϲ ει κε νοδοξων περι το α ληθεϲ ετι καμου κα ταφρονηϲειϲ επι τη ϊδια τιμωρια >",
+          "translation": "But you seem to me to be doing something even more foolish if you hold to empty boasting about the truth and despise me even to your own harm.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ουκ εξϋπνωϲειϲ απο τηϲ φλυαρου φλοιαρου φιλοϲοφιαϲ ϋμων και αποϲκεδαϲειϲ των λογιϲμων ϲου τον ληρον και αξιον̣ αξιον τηϲ ηλικιαϲ αναλα βων νουν φιλοϲο φηϲειϲ την του ϲυμ φεροντοϲ ϲυμφεροντοϲ αληθει α αληθει α",
+          "translation": "Won't you wake up from your foolish philosophy, scatter the nonsense from your reasoning, and adopt a mind worthy of your age?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και προϲκυνηϲαϲ μου την φιλανθρω πον παρηγοριαν οι κτειρηϲειϲ το ϲεαυ του γηραϲ ˙",
+          "translation": "Bow to my merciful persuasion and have pity on your old age.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και γαρ ε θυμηθητι ωϲ ει και τιϲ εϲτιν τηϲδε τηϲ > θρηϲκειαϲ υ̇μων εποπτικη δυναμιϲ ϲυνγνωμονηϲει εν ϲοι επι παϲη δι α ναγκην παρανομι α γινομενη ˙",
+          "translation": "For consider: even if there is some overseeing power of your religion, it would pardon you for transgressing under compulsion.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "τουτον τον τροπ ο επι την εχθεϲμ ο εκθεϲμ ο ϲαρκοφαγιαν επο τρυνοντοϲ του > τυραννου λογον ητηϲεν ο ελεαζαροϲ ·",
+          "translation": "As the tyrant urged him in this way to eat unlawful meat, Eleazar asked for permission to speak.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και λαβων του λε γειν εξουϲιαν · ηρξα το δημηγορειν ου τωϲ :",
+          "translation": "Given permission to speak, he began to address them thus:",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ημειϲ αντιο χε ‾̷‾ θειω πεπειϲμε νοι νομω πολιτευ εϲθαι ουδεμιαν ουδεμιαν α ναγκην βιαιοτερ α βιαιοτερ α ειναι νομιζομεν τηϲ προϲ τον νομ ο νομ ο ημων ευπειθειαϲ ·",
+          "translation": "\"We, Antiochus, having been persuaded to live by God's law, consider no compulsion more powerful than our obedience to the law.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-5-16-eleazar-speech",
+              "text": "Eleazar's defense speech is a rhetorical set-piece, blending Stoic self-mastery with Jewish law-observance.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "original": "διο δη κατ ουδενα τροπον παρανομε ι αξιουμεν ˙",
+          "translation": "So under no circumstances do we think it right to break the law.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "καιτοι ει κατα αληθειαν μη ην ο νομοϲ η ημ ω ωϲ ϋπολαμβανειϲ θειοϲ αλλωϲ δε ενο μιζομεν αυτον ειναι θειον ουδε > ουτωϲ εξον ην ημ ι ημ ι την επι τη ευϲεβια δοξαν ακυρωϲαι ·",
+          "translation": "And yet, even if our law weren't truly divine as we believe, but we merely thought it was, we still couldn't act shamelessly.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "μη μεικραν ουν ειναι νομιϲηϲ ταυ την ει μιαροφαγη αμαρτιαν :",
+          "translation": "Don't think it's a small sin to eat defiling food.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "το γαρ επι μικροιϲ και μεγαλοιϲ παρα νομειν ϊϲοδυνα μον εϲτιν ˙",
+          "translation": "Transgressing in small matters and great ones carries equal force.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-5-20-small-great",
+              "text": "The argument that small and great transgressions are equally serious reflects a strict Jewish legal principle.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "original": "δι εκα τερου γαρ ωϲ ομοι ωϲ ο νομοϲ ϋπερη φανειται ˙",
+          "translation": "For in either case, the law is equally despised.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "χλευα> ζειϲ δε δε ημων τ η φιλοϲοφιαν ωϲ περ ου μετα ευλο γιϲτιαϲ εν αυτη βι ουντων ˙",
+          "translation": "You mock our philosophy as if we didn't live with reason in it.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "ϲωφρο ϲυνην τε γαρ ημαϲ εκδιδαϲκει ˙ ωϲτε παϲων των ηδο νων και επιθυμι ω επιθυμι ω κρατειν και ανδρι αν εκδιδαϲκειν εξαϲκει ˙ ωϲτε παντα πον ο πον ο εκουϲιωϲ ϋπομε νειν",
+          "translation": "It teaches us self-control, so that we master all pleasures and desires; and it trains us in courage, so that we willingly endure every pain.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και δικαιοϲυ νην παιδευει ωϲ τε δια παντων τ ω τ ω ηθων ϊϲονομει ϊϲονομειν και ευϲεβειαν εκδι δαϲκει ω˙ϲτε μον ο τον οντα θν θν ϲεβε ι ϲεβε ι μεγαλοπρεπωϲ :",
+          "translation": "It teaches justice, so that in all our dealings we act fairly; and it instructs us in piety, so that we worship the only living God.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "διο διο ου μιαροφαγου μεν · πιϲτευοντεϲ γαρ θυ καθεϲταναι τον νομον οιδαμ ε οιδαμ ε οτι κατα φυϲιν η μιν ϲυνπαθη νο μοθετων ο του > κοϲμου κτιϲτηϲ",
+          "translation": "Therefore we don't eat defiling food. For believing the law was established by God, we know that the Creator of the world, in giving the law, has sympathy with our nature.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "τα μεν οικειωθη ϲομενα ημων > ταιϲ ψυχαιϲ επετρε ψεν εϲθιειν · τα δε εναντιωθηϲομε να εκωλυϲεν ϲαρκο φαγειν ϲαρκοφαγειν ·",
+          "translation": "He has permitted us to eat what is suitable for our souls, but forbidden us to eat meats that would be harmful.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "τυραννικ ο δε δε ου μονον αναγ καζειν ημαϲ μια ροφαγειν αλλα κ(αι) παρανομειν οπωϲ παρανομειν αλλα κ(αι) εϲθιειν οπωϲ τη εκθιϲτη εϲχιϲτη ημ ω μιαροφαγια ταυ τη επεγγελαϲηϲ",
+          "translation": "A tyrant has no power to force us not only to eat defiling food, but also to transgress the law in any way.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "αλλ ου γελαϲειϲ κα τ εμου τουτον τ ο γελωτα",
+          "translation": "But you won't get this laugh out of me.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "ουδε ου μα τουϲ ϊερουϲ των προγο νων περι το φυ λαξαι τον νομον ορκουϲ ου παρηϲω ·",
+          "translation": "No, by the sacred oaths of my ancestors to keep the law, I won't betray it.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "ουδ αν εκκοψειαϲ μου τα ομματα και τα ϲπλαγχνα μ(ου) τηξειϲ τηξειαϲ ·",
+          "translation": "Not even if you gouge out my eyes and burn out my entrails.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "ουχ ουτωϲ ειμι γερων εγω κ(αι) ανανδροϲ ωϲτε μοι δια την ευϲεβει α μη νεαζειν τον λο γιϲμον ˙",
+          "translation": "I'm not so old and cowardly that my reason wouldn't stay young for the sake of piety.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "προϲ ταυτα τροχουϲ ευτρεπιζε και το πυρ εκφυϲα ϲφοδροτερον ˙",
+          "translation": "So prepare your wheels and fan the fire hotter.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "ουχʼ ουτωϲ οικτειρο μαι το εμαυτου γηραϲ · ωϲτε δι εμαυ του τον πατριον καταλυϲαι νομ ο νομ ο ·",
+          "translation": "I don't pity my old age so much that I'd break the ancestral law for my own sake.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "original": "ου ψευϲομαι ϲε παι δευτα νομε ˙ ουδε εξομουμαι ϲε φιλη εγκρατεια ˙",
+          "translation": "I won't deceive you, O Law that trained me; I won't abandon you, beloved self-control.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "original": "ουδε καταιϲχυνω ϲε φι λοϲοφε λογε ˙ ουδε εξαρνηϲομαι ϲε ϊερωϲυνη τιμια κ(αι) νομοθεϲιαϲ επι ϲτημη ˙",
+          "translation": "I won't shame you, philosophic Reason; I won't deny you, honored Priesthood and knowledge of the Law.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "original": "ουδε μιανει μιανειϲ μου το ϲεμνον γη ρωϲ ϲτομα ˙ ουδε ουδε νο μιμου βιου ηλικι α ηλικι α",
+          "translation": "You won't defile my mouth's sacred old age or my life of lawful dignity.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "original": "αγνον δε με οι πατε ρεϲ ειϲδεξονται προϲδεξονται μη φοβηθεντα ϲου > ταϲ μεχρι θανατου αναγκαϲ ·",
+          "translation": "My fathers will receive me pure, not having feared your threats of death.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "original": "αϲεβων μεν γαρ τυραννη ϲειϲ · των δε εμ ω ϋπερ τηϲ ευϲεβιαϲ λογιϲμων ουτε λο γοιϲ δεϲποϲειϲ ου τε δι εργων :",
+          "translation": "You will tyrannize the impious, but you won't master my reasoning about piety by your words or your deeds.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "τουτον τον τροπ ο αντιρητορευϲαντ οϲ αντιρρητορευϲαντοϲ ταιϲ του τυρ α νου παρηγοριαιϲ · παραϲταντεϲ οι δο ρυφοροι πικρωϲ εϲυραν επι τα βαϲα νιϲτηρια τον ελε αζαρον ·",
+          "translation": "After Eleazar had spoken against the tyrant's persuasion, the guards who were standing by dragged him roughly to the torture instruments.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και πρωτ ο πρωτ ο μεν περιεδυϲαν τον γεραιον ενκο ϲμουμενον τη πε ρι την ευϲεβιαν ευ ϲχημοϲυνη ·",
+          "translation": "First they stripped the old man — who was adorned with the dignity of piety.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "επει τα περιαγκωνιϲ α τεϲ εκατερωθεν · μα ϲτιξιν κατηκιζ ο κατηκιζ ο",
+          "translation": "Then, tying his arms on both sides, they flogged him with whips.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "πιϲθητι ταιϲ του βαϲιλεωϲ εντολαιϲ ετερωθεν κηρυ κοϲ επιβοωντοϲ :",
+          "translation": "\"Obey the king's commands!\" a herald shouted from one side.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ο δε μεγαλοφρων και ευγενηϲ ωϲ α ληθωϲ ελεαζαροϲ · ωϲπερ εν ονειρω βαϲανιζομενοϲ κατ ουδενα τροπ ο τροπ ο μετετρεπετο ·",
+          "translation": "But the high-minded, truly noble Eleazar, as if being tortured in a dream, didn't change his stance at all.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "αλ λα ϋψηλουϲ ανα τειναϲ ειϲ ουραν ο τουϲ οφθαλμουϲ απεξαινετο ταιϲ μαϲτιξιν ταϲ ϲαρ καϲ ο γερων · και > κατερριτο τω αι ματι και τα πλευρα πλευραϲ κατετιτρωϲκετο ·",
+          "translation": "Instead, raising his eyes to heaven, the old man let his flesh be torn away by the whips, drenched in blood, and his sides were cut open.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-6-6-athlete",
+              "text": "Athletic imagery (boxing, wrestling) pervades the narrative — the martyr as an athlete of piety.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "original": "και πιπτων ειϲ το εδαφοϲ απο του μη φερειν το ϲω μα ταϲ αλγηδοναϲ ορθον ορθον ειχεν και ακλεινη τον λογι ϲμον",
+          "translation": "Falling to the ground because his body couldn't bear the pain, he kept his reason upright and unshaken.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "λαξʼ γε τοι τ ω πικρων τιϲ δορυ φορων δορυφορων ειϲ τουϲ κενεωναϲ εναλ λομενοϲ ετυπτ ε ετυπτ ε οπωϲ εξανιϲτατο εξανιϲταιτο πιπτων",
+          "translation": "One of the cruel guards kicked him in the side and struck him to make him get up when he fell.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ο δε ϋ πεμενε τουϲ πο νουϲ και περιεφρο νει τηϲ αναγκηϲ και διεκαρτερει > τουϲ αικιϲμουϲ",
+          "translation": "But he endured the pains, despised the compulsion, and persevered through the tortures.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "κ(αι) καθαπερ γενναιοϲ αθλητηϲ τυπτομε νοϲ ενικα τουϲ βα ϲανιζονταϲ ο γερ ω .",
+          "translation": "Like a noble athlete being beaten, the old man conquered his torturers.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ϊδρων γε τοι το προ ϲωπον και επαϲθμαι νων ϲφοδρωϲ και υ̇π αυτων των βα ϲανιζοντων εθαυ μαζετο τη ευψυ χια",
+          "translation": "Sweat streaming down his face, gasping heavily, he was admired even by his torturers for his courage.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "οθεν τα μεν ε λεωντεϲ τα του γη ρωϲ αυτου ·",
+          "translation": "Some of them, pitying his old age,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "τα δε εν ϲυνπαθεια την ϲυ νηθειαν τηϲ ϲυνηθειαϲ οντεϲ > τα δε εν θαυμαϲμω τηϲ καρτεριαϲ προϲ ϊοντεϲ αυτω τινεϲ του βαϲιλεωϲ ελεγ ο",
+          "translation": "and from sympathy with their shared humanity, and others in admiration of his endurance, approached him,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "τι τι τοιϲ κακοιϲ τουτοιϲ ϲεαυτον απολλειϲ αλογιϲτωϲ ελεαζαρ ελεαζαρε ελεαζαρ ·",
+          "translation": "saying: \"Why are you destroying yourself so pointlessly?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ημειϲ μεν τοι των ηψημενων βρω ματων παραθηϲο μεν ˙ ϲυ δε υ̇ποκρι νομενοϲ αποκρινομενοϲ υ̇ποκρινομενοϲ των ϋ ειων απογευεϲθαι ϲωζοιο ˙",
+          "translation": "We'll bring you cooked meat — pretend to eat the pork and save yourself.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ο ελεα ζαροϲ ωϲπερ πικρο τερον δια τηϲ ϲυμ βουλιαϲ αικιϲθειϲ ανεβοηϲεν ·",
+          "translation": "But Eleazar, as if tortured more bitterly by this advice, cried out,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "μη ου τωϲ κακωϲ φρονη ϲαιμεν οι αβρααμ παιδεϲ · ωϲτε μαλα κοψυχηϲανταϲ α> πρεπεϲ ημιν δραμα ϋποκριναϲθαι",
+          "translation": "\"May we children of Abraham never think so basely as to play-act an unseemly role through cowardice.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και γαρ αλογιϲτον ει προϲ α ληθειαν ζηϲαντεϲ ζηϲανταϲ τον μεχρι γηρωϲ βι ο βι ο και την επ αυτω δο ξαν νομιμωϲ φυ λαϲϲοντεϲ φυλαξαντεϲ · νυν με ταβαλοιμεθα",
+          "translation": "For it would be irrational if, having lived in truth all the way to old age, guarding the lawful reputation of our gray hair,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και αυ τοι μεν ημειϲ γενω μεθα τοιϲ νεοιϲ αϲε βειαϲ τυποϲ · ϊνα πα ραδιγμα γενωμεθα τηϲ μιαροφαγιαϲ ·",
+          "translation": "we should now become a pattern of impiety for the young, setting an example of eating defiling food.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "αιϲχρον δε ει επιβι ωϲομεν ολιγον χρο νον και τουτον κα ταγελωμενοι υ πο παντων επι δειλια",
+          "translation": "It would be shameful if we live on a little longer and be laughed at by everyone as cowards.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και υ̇πο μεν του τυ ραννου καταφρονη θωμεν ωϲ ανανδροι · τον δε θειον ημων νομον μεχρι θανα του μη προαϲπιϲαιμ ε προαϲπιϲαιμ ε ·",
+          "translation": "We'd be despised by the tyrant as cowards, and we wouldn't have protected our divine law even to death.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ϋμειϲ μεν ω αβρααμ παιδεϲ ευγενωϲ ϋ περ τηϲ ευϲεβειαϲ τε λευτατε ˙",
+          "translation": "You children of Abraham, die nobly for piety!",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "οι δε του τυ ραννου δορυφοροι τι μελλετε",
+          "translation": "You guards of the tyrant, why are you waiting?",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "προϲ ταϲ αναγκαϲ ˙ ουτωϲ > μεγαλοφρονουν τα αυτον ϊδοντεϲ και μηδε προϲ τον τ [1 chars] οικτειρμον αυτ ω μεταβαλλομενον επι το πυρ αυτον α νηγον",
+          "translation": "Seeing him so high-minded and not yielding even to pity, they brought him to the fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "ενθα κα κοτεχνων οργαν ω καταφλεγοντεϲ > αυτον υπεριπτοϲ α υπεριπτ ο και δυϲωδειϲ χυλουϲ ειϲ τουϲ μυκτηραϲ αυτου κατεχεον ·",
+          "translation": "There, burning him with the most hateful instruments, they poured foul-smelling liquids into his nostrils.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "ο δε μεχρι των οϲτε ων ηδη ηδη κεκαυμενοϲ και μελλων λιπο θυμειν ανετεινε τα ομματα προϲ τον θν και ειπεν",
+          "translation": "But he, already burned to the bone and about to lose consciousness, lifted his eyes to God and said,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "ϲυ οι ϲθα θε θε παρον μοι ϲωζεϲθαι βαϲανοιϲ καυϲτικαιϲ απο> θνηϲκω δια τον νομον ·",
+          "translation": "\"You know, God, that though I could save myself, I'm dying in these burning tortures for the law.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "ϊλεωϲ γε νου τω εθνει ϲου αρκεϲθειϲ τη ημε τερα ϋπερ αυτων δικη",
+          "translation": "Be merciful to your people. Let our punishment be enough for them.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-6-28-ransom",
+              "text": "Eleazar's prayer echoes Isaiah 53 and the concept of vicarious atonement — his death is a purification for the people.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "original": "καθαρϲιον αυ των ποιηϲον το εμ ο αιμα · και αντιψυχ ο αυτων λαβε την εμην μην ψυχην ·",
+          "translation": "Make my blood their purification, and take my life as a ransom for theirs.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "και ταυτα ειπων ο ϊεροϲ ανηρ ευγενωϲ ταιϲ βαϲανοιϲ ενα πεθανεν και μεχρι των του θανατου βαϲανων αντεϲτη τω λογιϲμω δια τ ο νομον :",
+          "translation": "After saying this, the holy man died nobly by the tortures, standing firm even under the pains of death.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "ομολογου μενωϲ ‾̷‾ ουν δεϲπο τηϲ των παθων εϲτιν ο ευϲεβηϲ λο γιϲμοϲ ·",
+          "translation": "So it's agreed: reverent reason is master of the passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "ει γαρ τα πα θη του λογιϲμου κεκρατηκει του τοιϲ αν απεδομην την τηϲ επικρα> τιαϲ μαρτυριαν",
+          "translation": "For if the passions had mastered reason, I would have attributed to them this power of mastery.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "νυ νϊ δε του λογιϲμου τα παθη νικηϲαντοϲ αυτω προϲηκοντωϲ την τηϲ ηγεμονιαϲ προϲνεμομεν ε ξουϲιαν",
+          "translation": "But now, since reason conquered the passions, we rightly assign to it the authority of leadership.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "original": "και δικαι ο εϲτιν ομολογειν η μαϲ το κρατοϲ ειναι του λογιϲμου οπου γε και των εξωθεν αλγηδονων επι> κρατει επει και γελοι ον",
+          "translation": "And it's right for us to admit that reason rules — since it prevails even over external pains.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "original": "και ου μονον > των αλγηδονων ε πιδικνυμι κρατε ι κρατε ι τον λογιϲμον · αλλα και των ηδονων κρατειν και μηδεν αυταιϲ υ̇πεικειν >",
+          "translation": "And I'm demonstrating that reason not only masters pains, but also over pleasures.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ωϲπερ γαρ ο αριϲτοϲ κυβερνητηϲ ο του πρϲ πρϲ ημων ελεαζα ρου λογιϲμοϲ πη> δαλιουχων την τηϲ ευϲεβιαϲ ναυνʼ εν τω των παθων πε λαγει",
+          "translation": "For like the best pilot, the reason of our father Eleazar steered the ship of piety",
+          "footnotes": [
+            {
+              "id": "4-maccabees-7-1-ship",
+              "text": "The ship-of-state/steersman metaphor is common in Greek philosophy; here applied to reason guiding piety through suffering.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "καταικιζομε νοϲ τυραννου απει λαιϲ και καταντλου μενοϲ ταιϲ των βα ϲανων τρικυμιαιϲ",
+          "translation": "while being battered by the tyrant's threats and flooded by the storm-waves of tortures.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "κατ ουδενα τροπ ο τροπ ο ετρεψε τουϲ τηϲ ευ ϲεβειαϲ οιακαϲ · εωϲ ου επλευϲεν επι τ ο τηϲ αθανατου νικηϲ λιμενα ˙",
+          "translation": "In no way did he turn the rudder of piety until he sailed into the harbor of immortal victory.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ουχ ουτωϲ πολιϲ πολλοιϲ και ποικιλοιϲ μηχα> νημαϲιν αντεϲχε ποτε πολιορκου μενη ˙ ωϲ ο παναγι οϲ εκεινοϲ την ϊε ραν ψυχην αικιϲμοιϲ και ϲτρεβλαιϲ πυρ πολουμενοϲ ενι κηϲεν τουϲ πολι ορκουνταϲ δια τον ϋπεραϲπιζοντα τηϲ ευϲεβειαϲ λογιϲμ ο λογιϲμ ο",
+          "translation": "No city ever withstood so many and varied siege-engines as that most holy man",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ωϲπερ γαρ προκρημν ο ακραν την εαυτου διανοιαν ο πηρ ελε αζαρʼ εκτειναϲ περι εκλαϲεν τουϲ επι μαινομενουϲ τ ω παθων κλυδωναϲ ·",
+          "translation": "For stretching out his mind like a high cliff, father Eleazar shattered the insane waves of the tortures.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ω αξιε τηϲ ϊερωϲυ> νηϲ ϊερευ · ουκ εμια ναϲ τουϲ ϊερουϲ ο> δονταϲ · ουδε την θε οϲεβιαν και καθαρι ϲμον χωρηϲαϲαν γαϲτερα εκοινωϲαϲ μιαροφαγια ˙",
+          "translation": "O worthy of the priesthood, faithful priest! You didn't defile your sacred teeth, nor did you profane your piety.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ω ϲυμ φωνε νομου και φιλοϲοφε θειου βιου ˙",
+          "translation": "O harmonious with the law, philosopher of the divine life!",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "τοιουτουϲ δει ειναι τουϲ δημιουργουν ταϲ τον νομον ϊδι ω αιματι και γενναι ω ϊδρωτι τοιϲ μεχρι θανατου παθεϲιν ϋπεραϲπιζονταϲ ·",
+          "translation": "Such should be those who administer the law, sealing it with their own blood and noble sweat, even to death.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ϲυ πε ρ πε ρ την ευνομι αν ημων δια των ϋπομονων ειϲ δοξ α δοξ α εκυρωϲαϲ και την αγιαϲτιαν απαϲτιαν ϲεμνολο γηϲαϲ ου κατελυϲαϲ και δια των εργων επιϲτοποιηϲαϲ τουϲ τηϲ θειαϲ φιλοϲο φιαϲ ϲου λογουϲ ·",
+          "translation": "You, father, confirmed our law-abiding conduct through your endurance and glorified the holy service.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ω βα ϲανων βιαιοτερε γερ ω γερ ω · και πυροϲ ευτονωτε ρε πρεϲβυ ˙ πρεϲβυτα ˙ και παθ ω παθ ω μεγιϲτε βαϲιλευ ελε αζαρʼ",
+          "translation": "O more violent than tortures, stronger than fire, greatest among the passions, O elder!",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ωϲπερ γαρ ο π ηρ πη ρ α αρων τω θυμιατηριω καθωπλιϲμενοϲ δια του εθνοπληθουϲ εθνοπληθουϲ επιτρεχων τον ενπυριϲμον ενικηϲ ε ενικηϲ ε τον αγγελον .",
+          "translation": "For just as father Aaron, armed with the censer, ran through the multitude of the people and conquered the fiery angel,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ουτωϲ ο ααρωνιδηϲ ελεαζαρʼ δια του πυροϲ ϋπερ τηκομενοϲ ου μετε τραπη τον λογιϲμ ο λογιϲμ ο",
+          "translation": "so the descendant of Aaron, Eleazar, though being consumed by the fire, did not turn aside his reason.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "καιτοι το θαυμαϲι ωτατον γερων ων λελυμενων μεν ηδη των του ϲωματοϲ το νων · περικεχαλαϲμε νων δε των ϲαρκ ω · κεκμηκοτων δε κ(αι) των νευρων ανενε αϲεν",
+          "translation": "And most amazingly, though an old man with loosened bodily sinews, relaxed muscles, and weakened nerves,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "τω πνι π ν ι δια του λογιϲμου και τω ϊϲα κιω λογιϲμω την πο λυκεφαλον ϲτρεβλ α ενικηϲεν ˙",
+          "translation": "by the Spirit of reason and by Isaac-like reasoning, he conquered the many-headed rack.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-7-14-isaac",
+              "text": "Isaac is invoked as the model of willing sacrifice (Genesis 22).",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "original": "ω μακαρι ου γηρωϲ και ϲεμνηϲ πολιαϲ και βιου νομι μου ον πιϲτη θανα του ϲφραγιϲ ετελειω ϲεν ˙",
+          "translation": "O blessed old age, reverend gray hair, and life of law — which the seal of a faithful death perfected!",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ει δε τοινυν γερ ω ανηρ των μεχρι θανα του βαϲανων περιε φρονει δι ευϲεβει α ευϲεβει α · ομολογουμενωϲ · ηγεμων εϲτιν τ ω παθων ο ευϲεβηϲ λο γιϲμοϲ ·",
+          "translation": "If, then, an old man despised tortures to the point of death for piety, we must agree that devout reason masters the passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ϊϲωϲ δʼ αν ει> ποιεν τινεϲ των παθων ου παντεϲ περικρατουϲιν οτι ουδε παντεϲ φρο νιμον εχουϲιν τ ο τ ο λογιϲμον ·",
+          "translation": "Perhaps some might argue that not everyone masters the passions, since not everyone has prudent reason.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "αλλ οϲοι τηϲ ευϲεβιαϲ προνο ουϲιν εξ οληϲ καρδι αϲ ουτοι μονοι δυν α ται δυν α ται κρατειν των τηϲ ϲαρκοϲ παθων",
+          "translation": "But those who care for piety with their whole heart — these alone can master the passions of the flesh.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "πι> ϲτευοντεϲ οτι θω θω ουκ αποθνηϲκουϲ ι αποθνηϲκουϲ ι ωϲπερ ουδε οι πατρι αρχαι ημων αβρααμ και ϊϲαακ και ϊακωβ αλλα ζωϲιν θω",
+          "translation": "Believing that they don't die to God, just as our patriarchs Abraham, Isaac, and Jacob didn't die, they live to God.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ουδ ε ουν εναντιουται το φαινεϲθαι τιναϲ παθοκρατειϲθαι η δια δια τον αϲθενη λο γιϲμον",
+          "translation": "So the fact that some are overpowered by their passions doesn't contradict the argument — it's because of their weak reason.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "επει τιϲ προϲ ολον τον τηϲ φιλο ϲοφιαϲ κανονα φι λοϲοφων και πεπι ϲτευκωϲ θω",
+          "translation": "For what person who philosophizes according to the full standard of philosophy and trusts in God",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "και ει δωϲ οτι δια την αρε την παντα πον ο ϋπομενειν μακαρι ον εϲτιν ουκ αν πε ρικρατηϲειεν των παθων δια την θε οϲεβειαν ·",
+          "translation": "and knows that it's blessed to endure every pain for virtue — wouldn't master the passions?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "μονοϲ γαρ ϲοφοϲ και ανδρειοϲ εϲτιν ο των παθ ω κϲ ·",
+          "translation": "For only the wise and courageous person is master of the passions.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "δια τουτο γε τοι και μιρακιϲκοι τω τηϲ ευϲεβειαϲ λογι ϲμω φιλοϲοφο υ τεϲ χαλεπωτερων βαϲανιϲτηριων ε πεκρατηϲαν :",
+          "translation": "That's precisely why even very young men, philosophizing with the reason of piety, endured even harsher tortures.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "επειδη γαρ κατα την πρωτην πειραν ε νικηθη περιφανωϲ ο τυραννοϲ μη δυνη θειϲ αναγκαϲαι γε ροντα μιαροφαγη ϲαι · τοτε δη δη ϲφοδρα περιπαθωϲ εκελευϲ ε εκελευϲ ε αλλουϲ εκ τηϲ λειαϲ των εβραιων αγαγε ι αγαγε ι · και ει μεν μιαροφα γηϲαιεν απολυειν φαγονταϲ · ει δ δʼ αντι λεγοιεν πικροτερ ο βαϲανιζειν :",
+          "translation": "For when the tyrant was clearly defeated in his first attempt, being unable to force an old man to eat defiling food,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ταυτα διαταξαμενου του τυραννου παρη ϲαν αγομενοι μετα γεραιαϲ μητροϲ ζ α δελφοι καλοι τε και αιδημονεϲ αιδημονεϲ · και γεν ναιοι · και εν παντι χαριεντεϲ ·",
+          "translation": "he ordered his guards to forcibly bring seven brothers along with their aged mother — handsome, modest, noble, and graceful.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-8-3-seven-brothers",
+              "text": "The seven brothers and their mother are the central martyrs of the narrative, mirroring 2 Maccabees 7.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "original": "ουϲ ϊδων ο τυραννοϲ · καθα περ εν χορω μεϲ η την μητερα περιεχονταϲ ηϲθε το επ αυτοιϲ και τηϲ ευπρεπειαϲ εκπλα γειϲ και τηϲ ευγε> νειαϲ προϲεμειδια ϲεν αυτοιϲ · και πλη ϲιον καλεϲαϲ εφη ˙",
+          "translation": "When the tyrant saw them surrounding their mother like a chorus, he was pleased with them and their splendid appearance.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ω νεανιαι φιλοφρο νωϲ εγω καθ ενοϲ εκαϲτου ϋμων θαυ μαζω το καλλοϲ κ(αι) το πληθοϲ τοϲουτ ω αδελφων υ̇περτι μων · ου μονον ϲυμ βουλευω μη μανη ναι την αυτην τω βαϲανιϲθεντι προβαϲανιϲθεντι γερ ο τι μανιαν · αλλα και παρακαλω ϲυνειξ α ταϲ μοι τηϲ εμηϲ α πολαυειν φιλιαϲ ·",
+          "translation": "\"Young men,\" he said kindly, \"I admire the beauty of each one of you, and I respect such a number of brothers.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-8-5-tyrant-speech",
+              "text": "Antiochus's speech uses typical Hellenistic rhetorical appeals — promises of honor, friendship, and power.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "δυναιμην δ αν ωϲ περ κολαζειν τουϲ απειθουνταϲ μου τοιϲ επιταγμαϲιν · ουτω και ευεργετε ι ευεργετε ι τουϲ ευπειθουν> ταϲ μοι ˙",
+          "translation": "Just as I can punish those who disobey my orders, so I can also reward those who obey.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "πιϲτευϲατε ουν και αρχαϲ επι των εμων πραγματ ω ︴ ηγεμονικαϲ λημ ψεϲθαι αρνηϲαμε νοι αρνηθεντεϲ τον πατριον ϋμων τηϲ πολιτι αϲ θεϲμον",
+          "translation": "Trust me, then, and you'll receive positions of authority in my administration — if you renounce the ancestral law.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και λα βοντεϲ ελληνικου βιου και μεταδιαι τηθεντεϲ εντρυ φηϲατε ταιϲ νεοτη ϲιν ϋμων",
+          "translation": "Adopt the Greek way of life, change your customs, and enjoy your youth.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "επει ε αν οργιλωϲ με δι αθηϲθαι δια τηϲ α πιθιαϲ αναγκαϲετε με επι διναιϲ κολα ϲεϲιν ενα εκαϲτον ϋμων δια των βαϲα νων απολεϲε απολεϲαι",
+          "translation": "For if you provoke me by your disobedience, you'll force me to destroy each one of you with terrible punishments.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "κατε λεηϲαται ουν εαυτουϲ ουϲ και ο πολεμιοϲ εγωγε και τηϲ ηλι κιαϲ και τηϲ ευμορ φιαϲ οικτιρομαι",
+          "translation": "Have pity on yourselves — even I, your enemy, take pity on your youth and beauty.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ου δαλογιειϲθαι διαλογιειϲθαι του το οτι ουδεν υ μιν απιθηϲαϲιν πλην του μετα ϲτρεβλ ω ϲτρεβλ ω αποθανιν αποκι ται ·",
+          "translation": "Consider this: if you disobey, nothing awaits you but death by torture.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ταυτα δε λεγων ‾̷‾ εκελευϲεν ειϲ το εμ προϲθεν τιθεναι τα βαϲανιϲτηρια ο πωϲ και δια του φο βου πιϲιεν αυτουϲ μιαιροφαγηϲαι μιαροφαγηϲαι",
+          "translation": "Saying this, he ordered the instruments of torture to be brought forward so that fear would persuade them.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ωϲ δε τροχλουϲ τροχουϲ τε και αρθρεμβολαϲ αρθρεμβολα ϲτρεβλωτηρια τε κ(αι) τροχαντηρια τροχαντηραϲ και καταπελταϲ και λε βηταϲ τηγανα τε κ(αι) δακτυληθραϲ και χιραϲ ϲιδηραϲ και ϲφηναϲ και τα ζω πυρα του πυροϲ οι δορυφοροι προ εθεϲαν · ϋπολαβ ω ο τυραννοϲ εφη ˙",
+          "translation": "Wheels, joint-dislocators, racks, catapults, caldrons, pans, finger-screws, iron hands, wedges, and bellows were displayed.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "μιρακια φοβηθη τε και ην ϲεβεϲθαι δικην ϊλεωϲ ϋμ ι ϋμ ι εϲται δι αναγκην παρανομηϲαϲιν ˙",
+          "translation": "\"Young men, be afraid!\" the tyrant said. \"The justice you worship will be merciful to you if you transgress under compulsion.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "οι δε ακουϲαντεϲ ε παγωγα και ορων τεϲ δινα · ου μον ο μον ο ουκ εφοβηθηϲαν ˙ αλλα και αντεφιλο ϲοφηϲαν τω τυρ α νω τυρ α νω και δια τηϲ ευ λογιϲτιαϲ την τυρ α νιδα τυρ α νιδα αυτου κατελυ ϲαν ˙",
+          "translation": "But hearing his persuasive words and seeing the terrifying instruments, they not only weren't afraid, but they also answered the tyrant with philosophy.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "καιτοι λογιϲω μεθα ει διλοψυχοι τινεϲ ηϲαν εν αυ τοιϲ και ανανδροι ποιοιϲ αν εχρηϲαν το λογοιϲ · ουχι τουτοιϲ",
+          "translation": "Let's consider: if some of them had been faint-hearted or cowardly, what words would they have used? Wouldn't these be the ones?",
+          "footnotes": [
+            {
+              "id": "4-maccabees-8-16-hypothetical",
+              "text": "The author imagines what cowardly brothers would say — a rhetorical figure (ethopoeia).",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "original": "ω ταλανεϲ ημι ημιϲ ημιϲ κ(αι) λιαν ανοητοι βαϲι λεωϲ ημαϲ καλουν τοϲ και επι ευεργεϲια παρακαλουντοϲ η ει πιϲθιημεν αυτω",
+          "translation": "\"O wretched and utterly foolish we are! When the king calls us and invites us to kindness,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "τι βουλημαϲιν κενοιϲ εαυ τουϲ ευφρενουμεν ευφρενομεν και θανατηφορον απιθιαν τολμωμ ε",
+          "translation": "why do we delight ourselves with empty opinions and dare a death-bringing disobedience?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ου φοβηθηϲομε θα ανδρεϲ αδελφοι τα βαϲανιϲτηρια κ(αι) λογιουμεθα ταϲ τ ω τ ω βαϲανων απιλαϲ και φευξομεθα τ η τ η κενοδοξιαν ταυτ η ταυτ η και ολεθροφορ ο ολεθροφορ ο αλαζονιαν ˙",
+          "translation": "Won't we fear the instruments of torture, brothers, and consider these threats of pain, and flee?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ελεη ϲωμεν ταϲ εαυτ ω ηλικιαϲ και κατοι κτιρωμεν το τηϲ μητροϲ γηραϲ",
+          "translation": "Let's have pity on our own youth and show compassion for our mother's old age.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "κ(αι) ενθυμηθωμεν οτι απιθουντεϲ τε θνηξομεθα",
+          "translation": "And let's consider that if we disobey, we'll die.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ϲυν γνωϲεται δε ημ ι ημ ι και η θια δικη δι α ναγκην τον βαϲι λεα φοβηθιϲιν",
+          "translation": "Divine justice will pardon us for fearing the king under compulsion.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "τι εξαγομεν εαυτουϲ του ηδιϲτου βιου κ(αι) αποϲτερουμεν εαυτουϲ του γλυκε οϲ κοϲμου",
+          "translation": "Why do we banish ourselves from this sweet life and deprive ourselves of this delightful world?",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "μη βι αζωμεθα την αναγ κην μηδε κενοδο ξηϲωμεν επι τη ε αυτων ϲτρεβλη",
+          "translation": "Let's not force necessity, nor vainly glory in our own torture.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "ου δʼ αυτοϲ ο νομοϲ ε κουϲιωϲ ημαϲ θα νατοι φοβηθενταϲ τα βαϲανιϲτηρια",
+          "translation": "Not even the law itself would willingly put us to death for fearing the instruments of torture.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "ποθεν ημ ι ημ ι η τοϲαυτη εντετηκε φιλονικια και η θα νατηφοροϲ αρεϲκι καρτερια παρον με τα αταραξιαϲ ζην τω βαϲιλει πιϲθεν τεϲ πιϲθενταϲ",
+          "translation": "Where does this great love of strife come from in us? And this death-bringing endurance, when we can live without worry?",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "αλλα τουτων ου δεν ειπον οι νεα νιαι βαϲανιζεϲθαι μελλοντεϲ · ουδε ε νεθυμηθηϲαν",
+          "translation": "But the young men, about to be tortured, said none of these things nor even thought them.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "ηϲ α ηϲ α γαρ μελλοντεϲ πε ριφρονεϲ τα αντεϲ των παθων και αυτοκρα τορεϲ των αλγηδο νων",
+          "translation": "For they were despisers of the passions and masters of pains.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "ωϲτε αμα παυ ϲαϲθαι τον τυραν νον ϲυμβουλευ ο τα ϲυμβουλευ ο τα αυτοιϲ μιαιροφα γηϲαι παντεϲ απο μιαϲ φωνηϲ ο(μου) ωϲπερʼ απο τηϲ αυ τηϲ ψυχηϲ ειπον ·",
+          "translation": "So as soon as the tyrant stopped advising them, they all said with one voice, as if from one soul:",
+          "footnotes": [
+            {
+              "id": "4-maccabees-8-29-one-voice",
+              "text": "\"One voice, as if from one soul\" — the brothers' unity is a recurring theme, emphasizing their harmony.",
+              "type": "interpretation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "τι μελλειϲ μελλειϲ ω τυραν νε ετοιμοι γαρ εϲμ ε εϲμ ε ω τυραννε αποθνη ϲκιν η παραβαιν ι παραβαιν ι ταϲ πατρωουϲ ημ ω ημ ω εντολαϲ",
+          "translation": "\"What are you waiting for, tyrant? We're ready to die rather than break the ancestral commandments.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "αιϲχυνο μεθα γαρ τουϲ προ γονουϲ ημων ει κοτωϲ ει μη τη του νομου ευπιθια ϲυμ βουλω και μωϋϲει χρηϲαιμεθα",
+          "translation": "We'd be ashamed of our ancestors if we didn't obey the law.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ϲυμ βουλε τυραννε πα ρανομιαϲ · μη ημαϲ μειϲων υ περ αυτουϲ ελεα ·",
+          "translation": "Advise us of lawless acts, tyrant — but don't expect mercy greater than our loyalty.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "χαλεπωτερ ο χαλεπωτερ ο γαρ αυτου του του θα νατου νομιζομ ε ειναι ϲου τον επι τη παρανομω ϲω τηρια ημων ελε ο ·",
+          "translation": "For we consider your unlawful mercy more bitter than death.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "εκφοβιϲ δε ημαϲ τ ο τ ο δια των βαϲαν ω θανατον ημιν απι λων ωϲπερ ουχι προ βραχεωϲ παρ ε λεαζαρουʼ μαθων",
+          "translation": "You try to scare us with your threats of death by torture, as if you hadn't learned anything from Eleazar.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ει δʼ οι γεροντεϲ τ ω τ ω ευβραιων εβραιων εβραιων δια την ευϲεβιαν και βαϲα νιϲμουϲ υ πομι ναντεϲ ευϲεβηϲ α ευϲεβηϲ α αποθανοιμεν αν δικαιοτερον ημιϲ οι νεοι ταϲ βαϲα νουϲ των ϲων α ναγκων ϋπερει δοτεϲ ουϲ ϋπερειδοντεϲ αϲ και ο παι δευτηϲ ημων γερ ω γερ ω ενικηϲεν",
+          "translation": "If the elders of the Hebrews endured tortures for piety, we younger ones would die even more bravely.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "πιραζε τοιγαρουν τυραννε και ταϲ ημων ψυ χαϲ ει θανατωϲειϲ δια την ευϲεβιαν μη νομιϲηϲ ημαϲ βλαπτιν βαϲανι ζων ·",
+          "translation": "Go ahead, tyrant, test our souls too — if you kill us for piety, don't think you're harming us.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ημειϲ μεν γαρ δια τηϲδε τηϲ κακοπαθιαϲ και ϋπομονηϲ τα τηϲ αρετηϲ αθλα εξομ ε εξομ ε και εϲομεθα παρα τω θω θ ω διο δι ον και ταυ τα παϲχομεν ·",
+          "translation": "For we, through this suffering and endurance, will obtain the rewards of virtue and will be with God, for whom we suffer.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ϲυ δε δια την ημων μι εφονιαν αυταρκη καρτερηθϲειϲ καρτερηϲειϲ ϋπο τηϲ θιαϲ δικηϲ αιω νιον βαϲανον δι α πυροϲ",
+          "translation": "But you, for our murder, will suffer eternal punishment by divine justice.\"",
+          "footnotes": [
+            {
+              "id": "4-maccabees-9-9-eternal-punishment",
+              "text": "The belief in post-mortem punishment for tyrants and reward for martyrs reflects developed Jewish eschatology.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "ταυτα αυτ ω αυτ ω ειποντων ου μο νον ωϲ κατα απι θουντων εχαλε παινεν ο τυραν νοϲ · αλλα και ωϲ κατ αχαριϲτων κατα αχαριϲτων ωργιϲθη",
+          "translation": "When they said this, the tyrant was enraged — not only at them for disobeying, but also at himself.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "οθεν τ ο τ ο πρεϲβυτατον αυτ ω κελευϲθεντεϲ πα ρηγον οι ϋπαϲπι ϲται · και διαρρηξαν τεϲ τον χιτωνα δι εδηϲαν ταϲ χειραϲ αυτου και τουϲ βρα χειοναϲ ϊμαϲιν εκατερωθεν ˙",
+          "translation": "So at his command, the guards brought forward the eldest, tore off his tunic, and bound his hands on both sides with thongs.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ωϲ δε τυπτοντεϲ ταιϲ μαϲτιξιν εκοπιαϲ α μηδεν ανυοντεϲ ανεβαλλον ανελαβον αυτον περι τον τροχον",
+          "translation": "When they grew tired of beating him with whips and accomplishing nothing, they hoisted him onto the wheel.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "περι ον κατατινο μενοϲ ο ευγενηϲ νεανιαϲ εξαρθροϲ εγεινετο",
+          "translation": "Stretched around it, this noble young man was dislocated.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και κατα παν μελοϲ κλωμε νοϲ εκακηγορι λεγ ω λεγ ω",
+          "translation": "With every limb being broken, he said, cursing:",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "τυραννε μιαρωτα τε και τηϲ ουρανιου δικηϲ εχθρε και ω μοφρων · ουκ αν δροφονηϲαντα με τουτον τον τρο πον βαϲανιζειϲ ου δε αϲεβηϲαντα · αλ λα θιου νομου προ αϲπιζοντα ·",
+          "translation": "\"Most polluted tyrant, enemy of heavenly justice, and savage-minded — I didn't commit murder.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και τ ω τ ω δορυφορων λεγον των ομολογηϲον φαγειν οπωϲ απαλ λαγηϲ των βαϲαν ω βαϲαν ω ·",
+          "translation": "When the guards said, \"Agree to eat, so you can be released from the tortures,\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ο δε ειπεν ουχ ου τωϲ ϊϲχυροϲ ϊϲχυροτερϲ υ μ ω υ μ ω ιϲχυρ ο τροχοϲ εϲτ ι εϲτ ι · ω μιαροι διακονοι ωϲτε μου τον λογι ϲμον αγξαι · τεμνε τε μου τα μελη · και πυρουτε μου ταϲ ϲαρ καϲ και ϲτρεβλου τε τα αρθρα",
+          "translation": "he said, \"The wheel isn't strong enough to gag me, you vile servants.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "δια παϲ ω γαρ ϋμαϲ πιϲω των βαϲανων οτι μο νοι παιδαιϲ εβραι ων υ περ αρετηϲ ειϲ ι ανικητοι ·",
+          "translation": "For I'll convince you through all your tortures that only the children of the Hebrews are invincible for virtue.\"",
+          "footnotes": [
+            {
+              "id": "4-maccabees-9-18-invincible",
+              "text": "The claim that Hebrews alone are invincible for virtue inverts the Greek stereotype of Jewish stubbornness.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "original": "και ταυ τα ειπων λεγοντι υ̇πεϲτρω ϲαν πυρ και το διε ρεθιζον τον τροχ ο και προϲεκατετι νον ˙",
+          "translation": "Saying this, they spread fire under him, stoking the wheel, intensifying it.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "εμολυνετο δε παντοθεν αιματι ο τροχοϲ και ο ϲω ροϲ τηϲ ανθρακιαϲ τοιϲ των ϊχωρων εϲβεννυτο ϲταλαγ μοιϲ · και περι τουϲ αξοναϲ του οργανου περιερεον αι ϲαρ κεϲ",
+          "translation": "The wheel was drenched with blood on all sides, and the heap of coals was extinguished by the drops of gore.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και περιτετμη μενον ηδη εχων το των οϲτεων πηγμα ο μεγαλοφρ ω μεγαλοφρ ω και αβρααμʼ υ ϊοϲ αβρααμια̣ιοϲ αβρααμια̣ιοϲ νε ανιαϲ ουκ εϲτενα",
+          "translation": "Already his bones were stripped bare — this high-minded son of Abraham.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "αλλ ωϲπερ εν πυρι μεταϲχηματι ζομενοϲ ειϲ αφθαρ ϲιαν ϋπεμινεν ευ γενωϲ ταϲ ϲτρεβλαϲ",
+          "translation": "But as if transformed by fire into immortality, he nobly endured the rackings.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-9-22-transformation",
+              "text": "\"Transformed by fire into immortality\" — Stoic and Platonic language merged with Jewish martyr theology.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "original": "μιμηϲαϲθαι με α δελφοι λεγων μη μου τον αιωνα λι ποτακτηϲητε μηδε εξομοϲηϲθαι μου την τηϲ ευψυχιαϲ α δελφοτητα",
+          "translation": "\"Imitate me, brothers,\" he said. \"Don't leave me in this contest, nor renounce my courageous brotherhood.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "ϊεραν και ευγενη ϲτρατι αν εϲτρατευϲαϲθε πε ρι τηϲ ευϲεβιαϲ · δι ηϲ ϊλεωϲ η δικαια και πατριοϲ η ημων προ νοια τω εθνι γενη θιϲα τιμωρηϲειεν τον αλαϲτορα τυραν νον ˙",
+          "translation": "You've fought a sacred and noble campaign for piety. Through it, may divine justice be merciful to our people.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "και ταυτα ειπ ω ειπ ω ο ϊεροπρεπηϲ νεανι αϲ απερηξεν απερρηξεν την ψυ χην ˙",
+          "translation": "Saying this, the saintly young man breathed his last.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "θαυμαϲαντ ω δε παν·των την καρτεροψυχιαν αυ του ηγονʼ οι δυρορυ φοροι δορυφοροι τον καθ ηλι κιαν του πρεϲβυτε ρου δευτερον και ϲι δηρεαϲ ϲιδηραϲ εναρμοϲα μενοι χειραϲ οξεϲι τοιϲ ονυξι οργανω και καταπελτη προϲ εδηϲαν αυτον",
+          "translation": "As everyone marveled at his strength of soul, the guards brought the next one in age.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "ωϲ δʼ ει φαγιν βουλοι το πριν βαϲανιζε ϲθαι πυνθανομε νοι και την ευγενη γνωμην ακουϲαν τεϲ ειλκυϲαν",
+          "translation": "When they asked if he'd eat before being tortured, and heard his noble answer, they dragged him to the instruments.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "απο τ ω τενοντων ταιϲ ϲι δηραιαιϲ ϲιδηραιϲ χερϲιν επιϲπαϲαμενοι μεχρι των γενει ω την ϲαρκα παϲαν και την τηϲ κεφα ληϲ δοραν οι παρ δαλεοι παρδαλαιοι θηρεϲ απε ϲυρον ˙ ο δε ταυτην βαρεωϲ την αλγη δονα καρτερων ελε γεν",
+          "translation": "With iron hands, they tore all the flesh from his sinews up to his chin, and then scalped him.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "ωϲ ηδυϲ παϲ θα νατου τροποϲ δια την πατριον ημ ω ημ ω ευϲεβιαν ˙ εφη τε προϲ τον τυρανν ο",
+          "translation": "\"How sweet every form of death is for our ancestral piety!\" he said to the tyrant.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "ου δοκειϲ παντ ω παντ ω ωμοτατε τυραννε πλεον εμου ϲε βα ϲανιζεϲθαι ορων ϲου νικωμενον τον τηϲ τυραννιδοϲ υ̇ περηφανον λογιϲμ ο λογιϲμ ο υ πο τηϲ δια την ευ ϲεβιαν ημων υ πο μονηϲ ·",
+          "translation": "\"Don't you think, most savage tyrant, that you're being tortured more than I, as you see your tyrannical arrogance defeated by my endurance?",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "εγω μεν γαρ ταιϲ δια την αρετ η αρετ η ηδοναιϲ τον πο νον επικουφιζο μαι ˙",
+          "translation": "For I lighten the pain through pleasures that come from virtue.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "ϲυ δε εν ταιϲ τηϲ αϲεβειαϲ απιλαιϲ βαϲανιζη ουκ εκ φευξη δε μιαρωτα τε τυραννε τα ταϲ τηϲ θιαϲ οργηϲ δικαϲ",
+          "translation": "But you are tortured by the threats of your own impiety. You won't escape, most polluted tyrant, the punishments of divine wrath.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "κ(αι) τουτου τον αοιδι τ θανατον καρτερηϲαντοϲ ο τριτοϲ ηγετο πα ρακαλουμενοϲ πολ λα απο υπο πολλων ο πωϲ απογευϲαμε νοϲ ϲωζοιτο",
+          "translation": "After he had nobly endured his celebrated death, the third was led in, receiving many appeals.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ο δε αναβοηϲαϲ εφη αγνοειται οτι ο αυ τοϲ με τοιϲ αποθα νουϲιν εϲπιρεν πα τηρ και η αυτη μη τηρ εγεννηϲεν κ(αι) επι τοιϲ αυτοιϲ ανε τραφην δογμαϲιν ·",
+          "translation": "But he cried out and said: \"Don't you know that the same father fathered me as those who died, and the same mother gave birth to me?",
+          "footnotes": [
+            {
+              "id": "4-maccabees-10-2-same-father",
+              "text": "The brothers emphasize their shared parentage to strengthen their solidarity in resistance.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "ουκ εξομνυμαι την ευγενη τηϲ α δελφοτητοϲ ευγενι αν",
+          "translation": "I won't renounce the noble brotherhood.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "οι δε πικρωϲ ενεγʼ καντεϲ την παρρη ϲιαν του ανδροϲ αρθρεμβολοιϲ ορ γανοιϲ ταϲ χειραϲ αυ του και τουϲ ποδαϲ εξηρθρουν και εξ αρ μων αναμοκλευ ο τεϲ αναμοχλευ ο τεϲ εξεμελιζον",
+          "translation": "Bitterly angered by the man's boldness, they dislocated his hands and feet with joint-displacing tools.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και τουϲ δακτυλουϲ και τουϲ βραχειοναϲ και τα ϲκελη και τουϲ αγκω ναϲ περιεκλων",
+          "translation": "They broke his fingers, arms, legs, and elbows.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "κ(αι) κατα μηδενα μηδενα τροπ ο τροπ ο ϊϲχυϲαντεϲ ϊϲχυοντεϲ αυτον αγξαι περιλυϲαντεϲ τα οργανα περιϲυραντεϲ το δερμα ϲυν ακραιϲ ταιϲ των δακτυλων κορυφαιϲ απεϲκυ θιζον",
+          "translation": "Unable to kill him in any way, they removed the instruments and skinned him alive.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ευθεωϲ η γον επι τον τροχ ο περι ον εκ ϲπονδυ λων εκμελιζομε νοϲ εωρα ταϲ εαυτου ϲαρκαϲ περιλακιζο μεναϲ και κατα ϲπλαγ χνων ϲταγοναϲ αι ματοϲ απορεουϲαϲ ·",
+          "translation": "Straight away they brought him to the wheel, on which, being unjointed limb from limb, he saw his own flesh being torn to shreds and streams of blood flowing from his entrails.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "μελλων δε απο θνηϲκειν εφη ˙",
+          "translation": "As he was about to die, he said,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "η μιϲ μεν ω μιαρω τατε τυραννε δια παιδιαν και αρετ η θυ ταυτα παϲχομεν ·",
+          "translation": "\"We suffer this willingly for education and virtue, most polluted tyrant.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ϲυ δε δια την αϲεβι αν και μιεφονιαν ακαταλυτουϲ καρ τερηϲειϲ βαϲανουϲ ︴",
+          "translation": "But you, for your impiety and bloodthirstiness, will endure unending torments.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και τουτου θαν ο τοϲ αδελφοπρε πωϲ τον τεταρτ ο επεϲπωντο λεγ ο τεϲ",
+          "translation": "When he died in a manner worthy of his brothers, they dragged the fourth forward, saying,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "μη μανηϲ και ϲυ τοιϲ αδελφοιϲ ϲου την αυτην μανι α αλλα πιϲθειϲ τω βαϲιλει ϲωζε ϲεαυ τον ·",
+          "translation": "\"Don't share the same madness as your brothers, but obey the king and save yourself.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ο δε αυτω αυτοιϲ εφη ˙ ουχ ουτωϲ καυϲτι κωτερον εχετε κα τ εμου το πυρʼ ωϲτε με διλανδρηϲαι ·",
+          "translation": "But he said to them: \"You don't have fire hot enough to make me play the coward.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "μα τον μακαριον των αδελφων μου θα νατον · και τον αι ωνιον του τυραν νου ολεθρον και τον ολεθρον αϊδι ο των ευϲεβων βι ουκ αρνηϲομαι την ευγενη αδελ φοτητα",
+          "translation": "By the blessed death of my brothers, by the eternal destruction of the tyrant, and by the everlasting life of the pious, I won't renounce the noble brotherhood.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "επινοει τυραννε βαϲανουϲ ϊνα και δι αυτων μαθηϲ οτι αδελ φοϲ ειμι · των προ βαϲανιϲθεντων :",
+          "translation": "Invent tortures, tyrant, so that through them you may learn I'm a brother of those already tortured.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ταυτα δε ακουϲαϲ ο αιμοβοροϲ και φονιωδηϲ φονωδηϲ και παμμιαρωτατοϲ αντιοχοϲ εκε λευϲεν την γλωτ ταν αυτου εκτεμνε ι εκτεμε ι εκτεμε ι ·",
+          "translation": "Hearing this, the bloodthirsty, murderous, utterly polluted Antiochus ordered his tongue to be cut out.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-10-17-tongue-cut",
+              "text": "Cutting out the tongue was a real Hellenistic torture; it also symbolizes silencing praise of God.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "original": "ο δε εφη κανʼ αφε ληϲ το τηϲ φωνηϲ οργανον · και ϲιω πωντων ακου ει ο θϲ θϲ",
+          "translation": "But he said: \"Even if you remove the organ of speech, God hears even those who are silent.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ι δου ϊδου προκε χαλαϲται η γλωϲ ϲα τεμνε ˙ ου γαρ πα ρα τουτο τον λογιϲμ ο ημων γλωττοτο μηϲειϲ ·",
+          "translation": "Look — my tongue is hanging out; cut it off! You won't silence our reason by cutting off our tongue.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ηδεωϲ ϋ περ του τ θυ τα του ϲωματοϲ βελη μελη ακρωτηριαζομε θα ·",
+          "translation": "Gladly we offer the body's limbs for torture.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ϲε δε ταχεωϲ μετελευϲεται ο θϲ · την γαρ των θιων υ μνον με λωδαν υ μνων μελωδον γλωττ α εκτεμνειϲ",
+          "translation": "God will soon overtake you, for you're cutting out the tongue that sang hymns of praise to God.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ωϲ δε και ουτοϲ ταιϲ βαϲανοιϲ καται κιϲθειϲ εναπε θανεν · ο πεμπτοϲ παρε πηδηϲεν λεγων ˙",
+          "translation": "When this one too had died, broken by the tortures, the fifth sprang forward, saying,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ου μελλω τυραν νε προϲ τον υ περ τηϲ αρετηϲ βαϲανι ϲμον",
+          "translation": "\"I'm not delaying, tyrant, for the torture contest for virtue.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "αυτοϲ δʼ α π εμαυτου παρηλ θον οπωϲ καμε κατακτιναϲ περι πλειονων αδι κηματων τη ε πουρανιω δικη δωϲειϲ τιμωρι αν ·",
+          "translation": "I've come of my own accord, so that killing me too, you'll owe the heavenly justice a greater penalty for more crimes.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ω μιαρωτατε και μιϲανθρωπε ˙ τι δραϲανταϲ η μαϲ τουτον τον τροπον πορθειϲ ·",
+          "translation": "O most polluted and misanthropic one! What have we done that you treat us this way?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "οτι τον παντ ω κτιϲτην ευϲεβου μεν και κατα τ ο εναρετον αυτου ζωμεν νομον ˙",
+          "translation": "Because we worship the Creator of all and live according to His virtuous law?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "αλλα ταυτα τιμ ω ου βαϲανων ειϲ ι αξια ·",
+          "translation": "But these things deserve honor, not tortures.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "τοιαυτα δε λεγοντα οι δορυ φοροι δηϲαντεϲ αυτον εικον ειλκον ε πι τον καταπελ την",
+          "translation": "As he said this, the guards bound him and dragged him to the catapult.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εφ ον δηϲ α τεϲ δηϲ α τεϲ αυτον επι τα γονατα και ταυ τα ποδαγραιϲ ϲι δηραιϲ εφορμα ϲαντεϲ εφαρμοϲαντεϲ την οϲ φυν αυτου περι τροχιαιον ϲφη να κατεκαμψαν περι ον ολοϲ πε ρι τον τραχηλον ϲκοπιου ϲκορπιου τροπον ανακλωμενοϲ εξεμελιζετο",
+          "translation": "Tying him to it by his knees and fastening them with iron fetters, they bent his back over the wheel's spoke, and his whole body was disjointed.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-11-10-catapult",
+              "text": "The catapult (καταπέλτης) was an actual torture device — a rack that stretched the body.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "original": "κα τα τουτον τον τρο πον και το πνα ϲτε νοχωρουμενοϲ και το ϲωμα αγχο μενοϲ",
+          "translation": "In this way, with his breath constricted and his body squeezed,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "καλαϲ ελε γεν ακων · ω τυ ραννε χαριταϲ η μιν χαριζη δια γ ε ναιοτερων πο νων ˙ επιδιξαϲθαι παρεχων τηϲ την ειϲ τον νομον ημων καρτεριαϲ καρτεριαν",
+          "translation": "he said — though it was against his will: \"Tyrant, you grant us splendid favors, allowing us to show our endurance through nobler pains.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "τελευτηϲαντοϲ δε και τουτου ο εκτοϲ ηγετο μιρακιϲκοϲ οϲ πυνθανομε νου του τυραν νου ει βουλοιτο φαγων απολυε ϲθε ο δε εφη",
+          "translation": "When this one also died, the sixth was brought forward — a young man who, when the tyrant asked if he wanted to eat and be saved,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "εγω μεν την ηλικι αν τη ηλικια των αδελφ ω ειμι νεωτεροϲ · τη δε διανοια ηλικιωτηϲ ·",
+          "translation": "said: \"I'm younger than my brothers in age, but equal in mind.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ειϲ ταυτα γαρ γεννη θεντεϲ και ανα τραφεντεϲ ϋπερ των αυτων και αποθνηϲκειν οφιλομεν ομοι ωϲ ·",
+          "translation": "For being born and raised for the same cause, we must also die in the same way.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ωϲτε ει ϲοι δοκει βαϲανιζε ι μη μιαιροφαγουν τα βαϲανιζειν βαϲανιζε βαϲανιζε",
+          "translation": "So if you decide to torture me for not eating defiling food — torture me!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ταυ τα ειποντα παρηγ ο επι τον τροχον",
+          "translation": "When he said this, they brought him to the wheel.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ε φ ου κατατινομενοϲ επιμελωϲ εκμελωϲ και εκϲπ ο δυλιζομενοϲ ϋπε καιετο πυρι",
+          "translation": "Stretched upon it with care, dislocated, and roasted over fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και οβε λιϲκουϲ οξειϲ πυρωϲαντεϲ τοιϲ νωτοιϲ προϲεφε ρον και τα πλευρα διαφθειραντεϲ αυ του και τα ϲπλαγχνα διϊκεον διεκεον",
+          "translation": "They heated sharp spits and applied them to his back, piercing his sides and burning his entrails.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ο δε βαϲα νιζομενοϲ ω ϊε ροπρεπουϲ αγω νοϲ ελεγον ελεγεν εφ ον δια την ευϲεβιαν ειϲ γυμναϲιαν πο νων αδελφοι το ϲουτοι κληθεντεϲ ουκ ενικημεν ενικηθημεν ·",
+          "translation": "But as he was being tortured, he said: \"O reverent contest, for which piety has trained us to endure pain!",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ανικητοϲ γαρ ε ϲτιν τυραννε η ευϲεβηϲ επιϲτη μη",
+          "translation": "For reverent knowledge is invincible, tyrant.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "καλοκαγαθι α καθωπλιϲμε νοϲ τεθνηξομαι καγω μετα των αδελφων μου ·",
+          "translation": "Armed with nobility, I too will die with my brothers.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "μεγαν ϲοι και αυ τοϲ προϲβαλλ ω αλαϲτορα καινουρ γε των βαϲαν ω και πολεμιε των αληθωϲ ευ ϲεβουντων",
+          "translation": "I also bring upon you a great avenger, O inventor of new tortures and enemy of the truly pious.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-11-23-avenger",
+              "text": "The martyr invokes divine vengeance against the tyrant — a common motif in Maccabean literature.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "original": "εξ μιρακια καταλε λυκαμεν ϲου τ η τυραννιδα",
+          "translation": "We six young men have destroyed your tyranny.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "το γαρ μη δυνηθηναι ϲε μεταπειϲαι τον λογιϲμον η μων μητε βιαϲα ϲθαι προϲ την μιαιροφαγιαν ου καταλυϲειϲ · εϲτιν ϲου",
+          "translation": "For your inability to change our reason or force us to eat defiling food — doesn't this destroy you?",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "το πυρ ϲου ψυχρον ημ ι και απονοι οι κα ταπελται και αδυ νατοιϲ αδυνατοϲ η βια ϲου ·",
+          "translation": "Your fire is cold to us, your catapults are painless, and your violence is powerless.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "ου γαρ τυραννου αλλα θειου νομου προεϲτηκαϲιν η μων οι δορυφοροι δια τουτο ανει κητον εχομεν τον λογιϲμον",
+          "translation": "For it's not the tyrant's guards but God's law that protects us. That's why we have invincible reason.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ωϲ δε και αυτοϲ μα καριωϲ απεθαν ε καταβληθειϲ ειϲ λε βητα · ο εβδομοϲ παρεγινετο παν των νεωτεροϲ ·",
+          "translation": "When he too had died blessedly, thrown into the caldron, the seventh, the youngest of all, came forward.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ο κατοικτιραϲ ο τυ ραννοϲ καιπερ δι νωϲ ϋπο των α δελφων αυτου κακιϲθειϲ ορων η δη τα δεϲμα περι κειμενον πληϲι ετερον αυτον με τεπεμψατο και παρηγορειν επει ρατο λεγων",
+          "translation": "The tyrant, though fiercely angered by his brothers, took pity on him when he saw him already in bonds, and brought him closer.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "τηϲ μ ε των αδελφων ϲου απονοιαϲ το τελοϲ ο ραϲ ˙ δια γαρ απιϲτι αν απιτιαν ϲτρεβλωθεντεϲ τεθνεαϲιν",
+          "translation": "\"You see the end of your brothers' madness. For through disobedience they've been tortured to death.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ϲυ δε ει μεν μη πιϲθειϲ ταλαϲ βαϲανιϲθειϲ και αυτοϲ τεθνη ξη προ οραϲ ωραϲ ·",
+          "translation": "If you don't obey, you too will be tortured and die, miserable one.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "πιϲθειϲ δε φιλοϲ εϲη και των επι τηϲ βαϲι λιαϲ αφηγηϲη πραγματων ·",
+          "translation": "But if you obey, you'll be my friend and ruler of my affairs.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ταυτα παρακαλ ω την μητερα του παι δοϲ μετεπεμψα το οπωϲ αυτην εαυτην ελεηϲαϲα τοϲου των υϊων ϲτερη θειαν ϲτερηθειϲαν παρορμη ϲειεν επι την ϲω τηριον ευπιθι α τον περιλιπομε νον ˙",
+          "translation": "While urging him like this, he also sent for the boy's mother, so that pitying so many sons, she'd turn him to obedience.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ο δε τηϲ μρϲ τη εβραϊδι φωνη προτρεψαμενηϲ αυτον ωϲ ερουμ ε ερουμ ε μετα μικρον ϋϲτε ρον",
+          "translation": "But after the mother urged him in Hebrew, he said after a short pause:",
+          "footnotes": [
+            {
+              "id": "4-maccabees-12-7-hebrew",
+              "text": "The mother speaks in Hebrew (Aramaic), suggesting private communication away from Greek-speaking guards.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "original": "λυϲατε με φη ϲιν ειπω τω βαϲι λει και τοιϲ ϲυν αυ τω φιλοιϲ παϲιν ˙",
+          "translation": "\"Untie me so I can speak to the king and all his friends.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "οι δε χαρεντεϲ μαλιϲτα επι τη ε παγγελια του παι δοϲ · ταχεωϲ ελυ ϲαν αυτον",
+          "translation": "Overjoyed at the boy's promise, they quickly untied him.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και δρα μων επι πληϲι ο των τηγανων ·",
+          "translation": "Running to the pans nearby,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "α νοϲιε φηϲιν και παντων αϲεβεϲτα τε πονηρων · ουκ η δεϲθηϲ παρα του θυ λαβων τα αγαθα και την βαϲιλιαν τουϲ θεραπονταϲ αυ του κατακτειναι κατακτειναϲ και τουϲ τηϲ ευϲεβει αϲ αϲκηταϲ ϲτρε βλωϲαι",
+          "translation": "he said: \"Impious and most profane of all the wicked! Weren't you ashamed to receive good things from God and rule His kingdom?",
+          "footnotes": [
+            {
+              "id": "4-maccabees-12-11-tyrant-rebuke",
+              "text": "The youngest brother's rebuke is the most direct — he names the tyrant's ingratitude to God.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "original": "ανθ ων ταμιευϲεται ϲε η δι κη πυκνοτερω και αιωνιω πυρι και βαϲανοιϲ αι ειϲ ο λον τον αιωνα ου κ ανηϲουϲιν ϲε",
+          "translation": "So justice will store up for you more intense and eternal fire and torments that will never let you go for all eternity.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ου κ ηδεϲθηϲ ανθρω ποϲ ων θηριωδε ϲτατε τουϲ ομοιο παθειϲ και εκ τ ω αυτων γεγονοταϲ ϲτοιχιων γλωτ τοτομηϲαι και του τον κατακαυϲαϲ τ ο τροπον βαϲανιζει βαϲανιϲαι ·",
+          "translation": "Weren't you ashamed, you most bestial of humans, to cut out the tongues of those who share your nature and elements?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "αλλ οι μεν ευγε νωϲ αποθανον τεϲ επληρωϲαν την ειϲ τον θν ευϲε βιαν ˙ ϲυ δε κακωϲ οιμωξειϲ τουϲ τηϲ αρετηϲ αγωνι ϲταϲ αναιτιωϲ αποκτιναϲ ·",
+          "translation": "They, by dying nobly, fulfilled their piety toward God. But you will wail bitterly.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-12-14-eternal-fire",
+              "text": "The contrast between the martyrs' temporary pain and the tyrant's eternal fire is a key theological point.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "original": "οθ ε και αυτοϲ απο θνηϲκειν μελ λων εφη εφη ·",
+          "translation": "Thus, as he was about to die himself, he said:",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ουκ α παυτομολωʼ τηϲ των παιδων αδελφων μου αρι ϲτιαϲ ·",
+          "translation": "\"I'm not deserting the excellence of my brothers.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "επικαλουμαι δε τον πατρω ο θν οπωϲ ι λεωϲ γενηται τω εθνι ημων ·",
+          "translation": "I call on the God of our fathers to be merciful to our nation.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ϲε δε και εν τω νυν βιω κ(αι) κ(αι) θανοντα τιμω ρηϲετε τιμωρηϲεται ·",
+          "translation": "You He will punish both in this life and after death.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και ταυτα κατευξαμενοϲ · ε αυτον ερειψε κα τα των τηγανων και ουτωϲ απε δωκεν το π να",
+          "translation": "After this prayer, he threw himself into the pans, and so gave up his spirit.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-12-19-self-sacrifice",
+              "text": "The youngest brother throws himself into the pans — an act of supreme courage and agency.",
+              "type": "interpretation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ει δε τοι νυν των μεχρι θανατου πονων ϲϋπερεφροϲαν ϋπερεφρονηϲαν οι επτα αδελφοι ˙ ϲυνο μολογειται παν ταχοθεν οτι αυτο δεϲποτοϲ εϲτιν των παθων ο ευ ϲεβηϲ λογιϲμοϲ",
+          "translation": "If, then, the seven brothers scorned pains even to death, it's universally agreed that devout reason masters the passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ει γαρ ωϲπερ γαρ ει τοιϲ παθεϲι δουλωθεντεϲ εμιεροφαγηϲαν ελεγαμεν αν του τοιϲ αυτουϲ νενι κηϲθαι ·",
+          "translation": "For if they'd been enslaved to their passions and eaten defiling food, we'd say they'd been conquered by them.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "νυνει δε ουχ ουτωϲ · αλλα τω επαινουμενω παρα θυ λογιϲμω περιεγενοντο των παθων ·",
+          "translation": "But in fact, they conquered the passions through reason that's praised by God.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ων ουκ εϲτιν παρει διν την ηγεμονι αν τηϲ διανοιαϲ : επεκρατηϲαν γαρ και παθουϲ και πονων",
+          "translation": "There's no overlooking the mind's leadership — for they mastered both passions and pains.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "πωϲ ο υ ουκ εϲτιν τουτοιϲ την τηϲ ευλογι ϲτιαϲ πανθοκρα τιαν παθοκρατιαν παθοκρατιαν ομολογειν · οι των μεν γαρ δι α πυροϲ αλγηδον ω ουκ απεϲτραφηϲ α επεϲτραφηϲ α :",
+          "translation": "How can we not admit that these men had mastery of the passions through right reasoning, since they didn't give way to the pains even to the point of death?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "καθαπερ γαρ προ βληταιϲ λιμεν ω πυργοι ταϲ των κυματων απει λαϲʼ ανακοπτον γαληνον πα ρεχουϲι τοιϲ ειϲ πλεουϲι τον ορ μον ·",
+          "translation": "Just as breakwaters and towers in harbors cut short the threats of waves and make calm for those sailing,",
+          "footnotes": [
+            {
+              "id": "4-maccabees-13-6-harbor",
+              "text": "The harbor breakwater metaphor is a Stoic image for reason's power against emotional storms.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "original": "ουτωϲ η επτα πυργοϲ των νεα νιϲκων ευλογι ϲτια τον τηϲ ευϲε βιαϲ οχυρωϲαϲα λιμενα · την των παθων ενεικη ϲε κολαϲιν ·",
+          "translation": "so the seven-towered right reason of the young men, fortifying the harbor of piety, conquered the assault of the passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ϊερον γαρ ευϲεβιαϲ ϲτη ϲαντεϲ χορον παρεθαρϲυνον αλληλουϲ λεγον τεϲ ·",
+          "translation": "Setting up a sacred chorus of piety, they encouraged each other, saying,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "αδελφικωϲ αποθανωμεν αδελφοι περι του νομου · μιμηϲω μεθα τουϲ τριϲ τουϲ επι τηϲ αϲϲυριαϲ νεανιϲκουϲ · οι τηϲ ϊϲοπολιτι δου καιομενηϲ ϊϲοπολιτιδοϲ καμεινου κατεφρονηϲαν :",
+          "translation": "\"Let's die as brothers for the law! Let's imitate the three young men in Assyria.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-13-9-three-young",
+              "text": "Refers to Hananiah, Azariah, and Mishael in the fiery furnace (Daniel 3).",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "μη διλανδρηϲω μεν προϲ την τηϲ ευϲεβιαϲ επιδι ξιν ·",
+          "translation": "Let's not play the coward in demonstrating piety.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ο μεν θαρρι αδελφε ε λεγεν · ο δε ευγε νωϲ καρτερηϲον ·",
+          "translation": "One said: 'Be brave, brother!' Another: 'Endure nobly!'",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ο δε καταμνη ϲθειϲ ελεγεν · μνηϲθητε πο θεν εϲται η τινοϲ πατροϲ χειρι ϲφα γιαϲθηναι δια την ευϲεβιαν ϋπεμι νεν ϊϲακʼ ϊϲαακʼ ·",
+          "translation": "And another, remembering: 'Remember where we come from, and whose hand our father held to be sacrificed for piety.'",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ειϲ δε ε καϲτοϲ αλληλουϲ ομου παντεϲ εφορωντεϲ φε δροι και μαλα θαρ ραλεοι · εαυτουϲ ελεγον τω θω α φιερωϲωμεν · εξ οληϲ τηϲ καρ διαϲ τω δοντι ταϲ ψυχαϲ και χρηϲω μεν τη περι τον νο μον φυλακη τα ϲω ματα ·",
+          "translation": "Each and every one of them, looking at each other — bright and very cheerful — said: 'Let's dedicate ourselves to God.'",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "μη φοβηθω μεν τον δοκουν τα αποκτεννειν ·",
+          "translation": "\"Let's not fear the one who seems to kill.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "μεγαϲ γαρ ψυχηϲ α γων και κινδυνοϲ εν αιωνι αιωνιω βαϲανω κειμενοϲ τοιϲ πα ραβαϲι παραβαινουϲι την εντο λην του θυ",
+          "translation": "For great is the struggle of the soul, and eternal torment awaits those who transgress God's commandment.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "καθο πλιϲωμεθα τοι γαρουν την του θιου λογιϲμου πα θοκρατιαν ˙",
+          "translation": "Let's arm ourselves with the divine reason's mastery of the passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ουτω γαρ θανονταϲ η μαϲ αβρααμʼ · και ϊϲακ ϊϲαακʼ και ι ακωβʼ υ ποδεξονται · και παντεϲ οι πατερεϲ επαινεϲουϲιν",
+          "translation": "For if we die like this, Abraham, Isaac, Jacob, and all the fathers will welcome us.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και ενι εκαϲτω των αποϲπωμενων αυτω αυτων αδελφων . ελεγον οι περιλει πομενοι · μη κα ταιϲχυνηϲ ημαϲ αδελφε · μηδε ψευ ϲη τουϲ προαπο θανονταϲ ημων αδελφουϲ ·",
+          "translation": "To each brother being taken away, those left behind said: 'Don't shame us!'",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ουκ α γνοειται δε τα τηϲ αδελφοτητοϲ φιλ τρα · απερʼ η θεια και πανϲοπφοϲ πανϲοφοϲ προ νοια δια πατερ ω τοιϲ γεννωμε νοιϲ εμεριϲεν · και δια τηϲ μη τρωαϲ φυτευϲαϲα αγαϲτροϲ γαϲτροϲ γαϲτροϲ ·",
+          "translation": "You know the bonds of brotherly love, which divine and all-wise Providence gave through fatherhood, and implanted through the mother's womb.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "εν η τ ο τ ο ϊϲον αδελφοι κατοικηϲαντεϲ χρονον · και εν τω αυτω χρονω πλαϲθεντεϲ και απο του αυτου αι ματοϲ αυξηθεν τεϲ · και δια τηϲ αυ τηϲ ψυχηϲ τελε ϲφορηθεντεϲ ·",
+          "translation": "In which the brothers spent equal time, and in the same time were formed, and from the same blood grew, and through the same seed were conceived.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-13-20-brotherly-love",
+              "text": "The extended description of brotherly love mirrors ancient philosophical discussions of friendship (φιλία).",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "original": "και δια των ϊϲων αποτεχθεντεϲ χρονων · και απο των αυτων γαλα κτοτροφουντεϲ γαλακτοποτουντεϲ πηγων · αφ ω ϲυνϲτρεφονται εναγκαλιϲματ ω φιλαδελφων φιλαδελφοι ψυ χαι",
+          "translation": "And after equal time being born, they drank from the same springs of milk.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "και αυξονται ϲφοδροτερον δι α ϲυντροφιαν και τηϲ καθ ημε ραν ϲυνηθιαϲ και τηϲ αλληϲ παιδι αϲ και τηϲ ημε τεραϲ εν νομω θυ αϲκηϲεωϲ :",
+          "translation": "They grew stronger through companionship, daily association, and common education and discipline.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "ουτωϲ δη τοιν υ καθεϲτηκυ ι ηϲ ϲυνπαθουϲ τηϲ φιλαδελφιαϲ · οι επτα αδελφοι ϲ υ παθεϲτερον εϲ χον προϲ αλλη λουϲ ·",
+          "translation": "Thus, with brotherly love established so sympathetically, the seven brothers had even greater affection for each other.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "νομω γαρ τω αυτω παιδευ θεντεϲ · και ταϲ αυ ταϲ εξαϲκηϲαν τεϲ αρεταϲ · και τω δικαιω ϲυϲτρα φεντεϲ ϲυντραφεντεϲ βιω · μαλ λον εαυτουϲ ηγα πων ˙",
+          "translation": "For being educated in the same law, practicing the same virtues, and raised together in righteousness, they loved each other all the more.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "η γαρ ομο ζηλια τηϲ καλο καγαθιαϲ επετι νεν αυτω την προϲ αλληλουϲ ευνοιαν και ο μονοιαν :",
+          "translation": "For their shared zeal for nobility intensified their goodwill and harmony toward each other.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "ϲυν γαρ τη ευϲεβεια την ποθινοτεραν αυτοιϲ εαυτοιϲ κατεϲκευ αζον την φιλαδελ φιαν ·",
+          "translation": "Together with piety, they made their brotherly love even more desirable.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "αλλ ομωϲ και περ τηϲ φυϲεωϲ και τηϲ ϲυνηθιαϲ και των τηϲ αρετηϲ ηθων · τα τηϲ αδελ φοτητοϲ αυτοιϲ φιλτρα ϲυναυξαν των ϲυναυξοντων ανεϲχοντο δια την ευϲεβιαν τουϲ αδελφουϲ · οι υ πολιπομενοι τουϲ κατοικτιζο μενουϲ ορωντεϲ μεχρι θανατου βαϲανιζομενουϲ ·",
+          "translation": "Yet despite nature, habit, and virtuous character, the bonds of brotherhood among them were strong.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "προϲετι και επι τον αικιϲμον επο τρυνοντεϲ · ωϲ μη μονον των αλ γηδονων περι φρονηϲαι αυτουϲ · αλλα και τηϲ των αδελφων φιλα δελφιαϲ παθων κρατηϲαι :",
+          "translation": "Moreover, they urged each other on to torture, so that they not only despised the pains, but also conquered the affections of brotherly love.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ω βαϲιλεων βαϲι λογιϲμοι βαϲιλι κωτεροι · και ελευ θερων ελευθε ρωτεροι :",
+          "translation": "O reason, more royal than kings and freer than the free!",
+          "footnotes": [
+            {
+              "id": "4-maccabees-14-2-apostrophe",
+              "text": "An apostrophe (direct address) to reason — heightens rhetorical intensity.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "ω ϊεραϲ και ευαρ μοϲτου περι τηϲ ϊεραϲ ευϲεβιαϲ των επτα αδελφων ϲυμ φωνιαϲ",
+          "translation": "O sacred and harmonious symphony of the seven brothers for piety!",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ουδειϲ εκ των επτα μι ρακιων εδιλια ϲεν · ουδε προϲ τον θανατον ω κνηϲεν ·",
+          "translation": "None of the seven young men wavered or hesitated in the face of death.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "αλλα π α τεϲ ωϲπερ επ α θαναϲιαϲ οδον τρεχοντεϲ · επι τον δια των βα ϲανων θανατ ο εϲπευδον ·",
+          "translation": "On the contrary, as if running the road to immortality, they hurried toward death by torture.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "καθα περʼ αι χειρεϲ και οι ποδεϲ ϲυμφω νωϲ τοιϲ τηϲ ψυ χηϲ αφηγημαϲιν κινουνται . ουτωϲ οι ϊεροι μιρακεϲ εκεινοι · ωϲ υ πο ψυχηϲ αθανατου τηϲ ευϲεβιαϲ προϲ τον υ περ αυτηϲ ϲυνεφωνηϲαν θανατον ˙",
+          "translation": "Just as hands and feet move in harmony with the soul's commands, so these holy young men agreed to death for piety's sake.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ω πανʼα γιε ϲυμφωνων αδελφων εβδο μαδαϲ εβδομαϲ · καθαπερ γαρ επτα τηϲ κο ϲμοποι ι αϲ ημε ραι περι την ευϲε βιαν ·",
+          "translation": "O all-holy concord of harmonious brothers — a seven! For as the seven days of creation surround the cosmos,",
+          "footnotes": [
+            {
+              "id": "4-maccabees-14-7-seven-days",
+              "text": "The seven brothers are linked to the seven days of creation — cosmic significance.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "original": "ουτω ουτωϲ περι την εβδομαδαν εβδομαδα χορευοντεϲ οι μιρακεϲ εκυκλο υ · τον των βαϲα νων φοβον κα ταλυοντεϲ ·",
+          "translation": "so the young men, dancing around the seven, surrounded and conquered the fear of tortures.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "νυν ημιϲ ακουοντεϲ την θλιψιν των νεανιων εκιν ω φριττομεν ˙ οι δε ου μονον ορων τεϲ · αλλ ουδε μο νον ακουοντεϲ τον παραχρημα απειληϲ λογον ˙ αλλα και παϲχον τεϲ ενεκαρτερο υ και τουτο ταιϲ δια του πυροϲ οδυναιϲ ˙",
+          "translation": "Now when we hear of the young men's affliction we shudder, but they not only saw it — they endured it with courage.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ωνʼ τι αν γενοιτο ε πανγελτερον επαλγεϲτερον ˙ ο ξεια γαρ και ϲυν τομοϲ ουϲα η του πυροϲ δυναμιϲ ταχεωϲ διελυ εν τα ϲωματα :",
+          "translation": "What could be more painful? For the sharp and quick power of fire swiftly dissolves bodies.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και μη θαυμαϲτ ο ηγειϲθαι · ει ο λογιϲ μοϲ περιεκρατη ϲε των ανδρων εκεινων εν τοιϲ βαϲανοιϲ οπου γε και γυναικοϲ νουϲ πολυτρο πωτερων · υ περε φρονηϲεν αλγη δονων ˙",
+          "translation": "And don't be surprised if reason mastered those men in tortures, since even",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "η μητηρ γαρ των επτα νε ανιϲκων ϋφη νεγκεν εκινων ϋπηνεγκεν ταϲ εφ ε νι εκαϲτω των τεκνων ϲτρε βλαϲ ˙",
+          "translation": "the mother of the seven young men bore the tortures inflicted on each of her children.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "θεωρειτε δε πωϲ πολυπλο κοϲ εϲτιν η τηϲ φιλοτεκνιαϲ ϲτορ γη · ελκουϲα παν τα προϲ την των τεκν ω ϲπλαγχνων ϲυν παθιαν",
+          "translation": "See how complex is the affection of parental love, drawing everything toward sympathy for one's children.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ομπου οπου γε και τα αλογα ζω α ομοιαν την ειϲ τα εξ αυτων γεν νωμενα ϲυμ παθιαν και ϲτορ γην εχει τοιϲ αν θρωποιϲ",
+          "translation": "Even irrational animals have similar sympathy and affection for their offspring.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-14-14-animals",
+              "text": "The extended argument from animal behavior (birds, bees) is drawn from natural philosophy.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "original": "και γαρ των πετηνων τα μεν ημερα · κατα ταϲ οικιαϲ οροφυτουντα · προϲαϲπιζει προαϲπιζει τ ω νεοττων ·",
+          "translation": "Among birds, the tame ones nesting in houses defend their young.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "τα δε κατα κορυφαϲ ο ρεων και φαραγ γων · απορρωγαϲ και δενδρων ο παϲ και ταϲ του των ακραϲ εννοϲ ϲοποιηϲομενα εννοϲϲοποιουμενα αποτικτι · και τ ο προϲιοντα κω λυει ·",
+          "translation": "Others on mountain peaks, in ravines, hollows of trees, and their tops, lay eggs and nest.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ει δε και μη δυ ναιτο δυναιντο κωλυειν περιπταμενα περιειπταμενα κυκλοθεν αυτ ω αργουντα αλγουντα τη ϲτορ γη ανακαλου μενα τη ϊδια φω νη καθ ο δυναν ται · βοηθι βοηθιν τοιϲ τεκνοιϲ",
+          "translation": "And even if they can't prevent it, they fly around them in circles, distressed by affection for their young.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και τι δι δια την των την δια των αλο γων ζωων επι δικνυναι την προϲ τα τεκνα ϲυμπα θιαν",
+          "translation": "Why is it necessary to demonstrate the sympathy for children through irrational animals?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "οπου γε και μελιϲϲαι περι τον τηϲ κηρογονιαϲ καιρον επαμυ νονται τουϲ προϲ ϊονταϲ · και καθα περ ϲιδηρω τω κεντρω πληϲϲου ϲι τουϲ προϲ ι ον ταϲ τη νοϲϲια αυ των · και απαμυ νουϲιν εωϲ θα νατου",
+          "translation": "Even bees, during the season of honey-making, ward off attackers and sting like iron.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "αλλ ουχι τη την αβρααμʼ ομο ψυχον των νε ανιϲκων μητε ρα μετεκινηϲεν ϲυμπαθια τεκν ω",
+          "translation": "But the sympathy for children didn't move the one-souled mother of the young men — she who shared Abraham's soul.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ω λογιϲμε τεκν ω παθων τυραν νε και ευϲεβια μητρι τεκνων ποθεινοτερα",
+          "translation": "O reason, tyrant over the passions of children! And piety, more desirable to a mother than her children!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "μητηρ · δυειν προκειμενων ˙ ευϲεβιαϲ και τηϲ επτα ϋϊων ϲω τηριαϲ προκαιρου προϲκαιρου · κατα την του τυ ραννου προϲχεϲ ι υ̇ποϲχεϲ ι προϲχεϲ ι",
+          "translation": "A mother of two choices set before her — piety and the temporary safety of seven sons — chose piety according to God's command.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-15-2-two-choices",
+              "text": "The mother's choice between piety and sons echoes the Greek theme of a tragic dilemma.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "την ευϲεμιαν ευϲεβ̣ιαν μαλλον ηγαπη ϲαϲ ηγαπηϲεν την ζωϲαν ειϲ αιωνιαν ζω ην κατα θν :",
+          "translation": "She loved piety more, which lives to eternal life with God.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ω τι να τροπον ηθο λογηϲαιμι φιλο τεκνα γονεων παθη ψυχηϲ τε και ορ [1 chars] ηϲακ μορφηϲ μορφηϲ ο μοιοτητα ειϲ μι κρον παιδοϲ χα ρακτηρα θαυμαϲι ον εναποϲφρα γιζομεν εναποϲφραγιζον μαλιϲτα δια το των παθ ω τοιϲ γεννηθιϲ ι γεννηθιϲ ι ταϲ μητεραϲ τ ω παθων καθεϲτα ναι ϲυμπαθεϲ τεραϲ ·",
+          "translation": "In what way could I describe the love parents have for their children, a wonderful imprint of sympathy in the soul?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "οϲω γαρ και αϲθενεϲτεραν αϲθενεϲτεραι και πολυγονω τεραι ϋπαρχου ϲιν αι μητερεϲ τοϲουτω μαλλ ο μαλλ ο ειϲιν φιλοτε κνωτεραι",
+          "translation": "For the weaker and more childbearing mothers are, the more they love their children.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "παϲων δε παϲων δε̣ των μητερων εγενετο η των επτα μητηρ φιλοτεκνωτερα ητιϲ επτα κυοφορι αιϲ την προϲ αυ τουϲ επιφερομε νην επιφυτευομενη φιλοϲτορ γιαν ·",
+          "translation": "Of all mothers, the mother of seven was the most loving — who through seven pregnancies fostered affection for them.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και δια πολ λαϲ ταϲ καθ εκα ϲτον αυτων ω διναϲ · ηναγκα ϲμενη την ειϲ αυ τουϲ εχειν ϲυμ παθιαν",
+          "translation": "And through many birth-pangs for each of them, she was compelled toward sympathy for them.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "δια τον προϲ τον θν φο βον · ϋπερειδεν την των τεκν ω προϲκαιρον ϲω τηριαν",
+          "translation": "Yet because of her fear of God, she disregarded the temporary safety of her children.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ου μην δε αλλα και δια την καλοκαγαθιαν των υ̇ϊων και τ η τ η προϲ τον νομ ο αυτων ευπιθι αν μιζον μιζω την εν αυ τοιϲ εϲχεν ειχεν φιλο ϲτοργιαν ·",
+          "translation": "Moreover, because of the noble character of her sons and their obedience to the law, she loved them even more.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και οι δικαιοι τε γαρ ηϲαν και ϲω φρονεϲ και ανδρι οι · και μεγαλο ψυχοι · και φιλα δελφοι και φιλο μητορεϲ ουτωϲ · ωϲτε και μεχρι θανατου τα νο μιμα φυλαϲϲ ο τεϲ φυλαϲϲ ο ταϲ πιθεϲθαι αυτη ·",
+          "translation": "For they were righteous, self-controlled, courageous, magnanimous, brother-loving, and devoted to their mother even to death.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "αλλ ομωϲ καιπερ τοϲουτων οντ ω των περι την φι λοτεκνιαν ειϲ ϲυμ παθιαν ελκον των την μητερα ˙ εφ ουδενοϲ αυτ ω τον λογιϲμον αυϲτηϲ αυτηϲ · αι πανποι κιλοι βαϲανοι ι ϲχυ ϲαν μετατρεψαι ·",
+          "translation": "Yet even so, with all these things drawing the mother to sympathy, she didn't change her mind.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "αλλα και καθ ε να παιδα και ο μου πανταϲ η μη τηρ . επι τον τηϲ ευϲεβιαϲ προε τρεπετο θανα τον ·",
+          "translation": "But the mother urged each child and all together toward death for piety.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ω φυϲιϲ ϊερα και φιλτρα γονε ων · και γεννη μαϲι φιλοϲτοργε και τροφεια και μητερων αδα μαϲτη αδαμαϲτα παθη",
+          "translation": "O sacred nature and love of parents, tender affection for children, nurture, and unbreakable maternal bonds!",
+          "footnotes": [
+            {
+              "id": "4-maccabees-15-13-apostrophe-mother",
+              "text": "Direct address to nature and motherly love — the author's most emotional rhetorical passage.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "original": "κα θενα ϲτρεβλου μενον και φλε γομενον ορωϲα · μητηρʼ ου μετε βαλλετο δια την ευϲεβιαν ·",
+          "translation": "Seeing each one tortured and burned, the mother didn't change her mind for piety's sake.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ταϲ ϲαρ καϲ των τεκν ω τεκν ω εωρα περι το πυρ τηκομεναϲ · και τουϲ των ποδ ω και χειρων δα κτυλουϲ επι γηϲ περονταϲ ϲπειρονταϲ · και ταϲ των κεφα λων μεχρι των περι τα γενια ϲαρ καϲ ωϲπερ προϲ ωτια προϲωπια προκειμε ναϲ ·",
+          "translation": "She saw her children's flesh melting in the fire, the fingers of hands and feet scattered on the ground, and the flesh of their heads peeled down to the chins like masks.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ω πικροτερ ω νυν πονων πι ραθιϲα μητηρʼ η περ των επ αυτοιϲ ωδινων :",
+          "translation": "O mother, tried now by more bitter pains than birth-pangs!",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ω μο νη γυναι την ευ ϲεβιαν ολοκλη ρον αποκυηϲαϲα ·",
+          "translation": "O woman, you alone brought forth piety whole!",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ου μετετρεψεν ϲε ο πρωτοτοκοϲ αποπνεων · ουδε δευτεροϲ ειϲ ϲε οικτρον βλε πων εν βαϲανοιϲ ου τριτοϲ αποψυ χων ˙",
+          "translation": "The firstborn breathing his last didn't move you, nor the second looking pitifully at you in torture, nor the third.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ουδε τουϲ ο φθαλμουϲ ενοϲ εκαϲτου θεω ρουϲα ταυρηδον επι των βαϲα νων ορωνταϲ τον αυτον εαυτων αικι ϲμον και τουϲ μυ κτηραϲ προϲη μιουμενουϲ τ ο θανατον αυτ ω · ουκ εκλαυϲαϲ",
+          "translation": "You saw the eyes of each one, looking fiercely at their own tortures.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ε πι ϲαρξιν τεκν ω τεκν ω εωρακαϲ ορωϲα ορωϲα ϲαρκαϲ τεκνων αποκε κομμεναϲ αποκεομεναϲ και επι χερϲιν χειραϲ αποτεμνομεναϲ · και επι κεφαλαιϲ κεφαλαϲ αποδι ροτομουμεναϲ · και επι νεκρουϲ νεκροιϲ νεκροιϲ νεκρουϲ πιπτ ο ταϲ · και πολυαν δριον ορωϲα τ ω τεκνων χοριον χοριδιον δια των βαϲα νων ουκ εδακρυ ϲαϲ ˙",
+          "translation": "You saw the flesh of your children cut off and scattered on the ground.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ουχ ουτωϲ ει ρηνιοι ϲειρηνιοι μελωδι οι μελωδιαι · ουδε κυκνιοι προϲ φιληκοϊ α φωναι · τουϲ ακου ονταϲ εφελκον ται · ωϲ τεκνων φωναι μετα βα ϲανων μητερα φωνουντων ·",
+          "translation": "Not so enchanting are Sirens' songs or swans' voices to hearers.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "πη λικαιϲ και ποϲαιϲ τοτε η μητηρʼ τ ω υ̇ϊων βαϲανιζο μενων τροχοιϲ και καυτηριαιϲ καυτηριοιϲ ε βαϲανιζετο βαϲα νοιϲ ·",
+          "translation": "How great and many tortures the mother then suffered as her sons were racked on wheels and burned with fire!",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "αλλα τα ϲπλαγ χνα αυτηϲ ευϲε βηϲ λογιϲμοϲ εν αυτοιϲ τοιϲ παθεϲιν ανδρ ι ωϲαϲ · επετεινεν̣ την προϲκαιρο ν φιλοτεκνιαν παρϊδιν ·",
+          "translation": "But devout reason strengthened her guts in the very midst of passions, intensifying her temporary disregard for love of children.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "καιπερ επτα τεκνων ορω ϲα απωλιαν · και την των τεκν ω ϲτρεβλων πολυ τροπον ποικιλι αν αϲ ᾶϲ απαϲαϲ παϲαϲ η γεννεα μητηρ εξελυϲεν δια την προϲ τον θν πι ϲτιν ˙",
+          "translation": "Though she saw the destruction of seven children and the manifold variety of their tortures, she bore it all nobly.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "καθαπερ εν βουλευτηριω τηϲ αυτηϲ ψυχηϲ τη εαυτηϲ ψυχη δι νουϲ ορωϲα ϲυμ βουλουϲ φαϲιν φυϲιν φυϲιν τε και γενεϲιν · και φιλοτεκνιαν και τεκνων ϲτρεβλαϲ ·",
+          "translation": "As in a council chamber of her own soul, seeing counselors — nature, family, love of children —",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "δυο ψηφουϲ κρα τουϲα μητηρ θα νατηφορον τε και ϲωτηριον ϋπερ τεκνων",
+          "translation": "holding two votes as a mother — one death-bringing, one saving — for her children,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "ουκ εγνω την ϲωζου ϲαν επτα υϊουϲ προϲ ολιγον χρονον ϲωτηριαν",
+          "translation": "she didn't choose the salvation that would save seven sons for a short time.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "αλλα τηϲ θεοϲεβι αϲ θεοϲεβουϲ αβρααμ καρτε ριαϲ η θυγατηρʼ ε μνηϲθη :",
+          "translation": "But that daughter of Abraham remembered Abraham's godly endurance.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-15-28-abraham-daughter",
+              "text": "The mother is called \"daughter of Abraham\" — her faith links her to the patriarch.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "original": "ω μητηρ εθνουϲ · εκδικε του νομου και υ περα ϲπιϲτρια τηϲ ευϲε βιαϲ · και του δια ϲπλαγχνων αγω νοϲ αθλοφορε :",
+          "translation": "O mother of the nation, avenger of the law, champion of piety, and bearer of the contest of the heart!",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "ω αρρενων προϲ καρτεριαν γεν ναιοτερα · και αν δρων προϲ υ πο μονην ανδριω τερα ·",
+          "translation": "O more noble than males in endurance, and more courageous than men in perseverance!",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "καθαπερ γαρ η νωε κιβωτοϲ . εν τω εθνοπλη θει κατακλυϲμω κοϲμοφορουϲα καρτερωϲ υ πεμι νεν τουϲ κλυδω ναϲ ·",
+          "translation": "For just as Noah's ark, carrying the world's seed through the flood of many peoples, stoutly endured the waves,",
+          "footnotes": [
+            {
+              "id": "4-maccabees-15-31-noah-ark",
+              "text": "Noah's ark as a type of endurance through chaos — the mother as a new ark preserving the nation.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 32,
+          "original": "ουτωϲ ϲυ η νομοφυλαξʼ παν ταχοθεν εν τω των παθων περι αντλουμενη κατα κλυϲμω · και καρ τεροιϲ ανεμοιϲ . ταιϲ των υϊων βα ϲανοιϲ ϲυνεχο μενη · γενναιωϲ υ πεμιναϲ τουϲ ϋ περ τηϲ ευϲεβειαϲ χειμωναϲ ˙",
+          "translation": "so you, guardian of the law, battered on all sides by the flood of passions and violent storm-winds, endured nobly.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ει δε τοινυν και γυνη και γερεα και ε πτα παιδων μη τηρʼ ϋπεμινεν ταϲ μεχρι θανατου βα ϲανουϲ των τεκν ω τεκν ω ορωϲα ˙ ομολογου μενωϲ · αυτοκρα τωρʼ εϲτιν των πα θων ο ευϲεβηϲ λο γιϲμοϲ ·",
+          "translation": "If, then, a woman, advanced in age and mother of seven sons, endured seeing her children tortured to death, it's agreed that devout reason masters the passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "απεδιξα ουν οτι ου μον ο ανδρεϲ των παθ ω εκρατηϲαν · αλλα και γυνη των με γιϲτων βαϲανων ϋπερεφρονηϲεν",
+          "translation": "So I've proved that not only men mastered the passions, but also a woman scorned the greatest tortures.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ουχ ουτωϲ οι περι δανιηλ λε ο τεϲ ηϲαν αγριοι ˙ ου δε η μιϲαηλʼ εκφλε γομενη καμινοϲ · λαβροτατω πυρι . ωϲ η τηϲ φιλοτεκνι αϲ περιεκεεν εκι νην φυϲιϲ ορωϲ α αυτην αυτηϲ ουτωϲ ποι κιλωϲ βαϲανιζο μενουϲ τουϲ επτα υ ϊουϲ ·",
+          "translation": "The lions around Daniel weren't so fierce, nor the furnace of Mishael burning so intensely, as the mother's natural love burned within her.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-16-3-daniel",
+              "text": "The mother's love is compared to Daniel's lions and the furnace — natural affection as fierce as wild beasts.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "original": "αλλα τω λο γιϲμω τηϲ ευϲεβι αϲ κατεϲβεϲεν τα τοϲαυτα και τηλι καυτα παθη η μη τηρ ·",
+          "translation": "But by the reason of piety, she quenched such great passions.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και γαρ τουτο ε πιλογιϲαϲθαι οτι διλοψυχοϲ ει η ην γυ νη · καιπερ μητηρ ουϲα · ωλυφερετο ωλοφυρετο αν επ αυτοιϲ και ϊ ϲωϲ αν ταυτα ειπ ε :",
+          "translation": "For consider: if the woman, though a mother, had been faint-hearted, she would have lamented over them.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ω μελεα εγωγε κ(αι) πολλακιϲ τριϲαθλι α · ητιϲ επτα παιδαϲ τεκουϲα · ουδε ενοϲ μητηρ γεγενημαι :",
+          "translation": "\"Wretched me, and thrice miserable in many ways! I gave birth to seven sons, but I'm not the mother of even one.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-16-6-false-lament",
+              "text": "The hypothetical lament shows what the mother could have said — she rejects it entirely.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "original": "ω ματαιοι επτα κυοφορειαι και ανωνητοι · αι ε πτα δεκαμηνοι . και ακαρποι τιθη νιοι . και ταλαιπω ροι γαλακτοτροφι αι ·",
+          "translation": "O fruitless seven pregnancies, seven ten-month periods without benefit, barren nursing, and miserable cares!",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ματην δε εφ υ μινʼ ω παιδεϲ πολ λαϲ ϋπεμινα ω διναϲ · και χαλε πωτεραϲ φρον τιδαϲ ανατροφηϲ :",
+          "translation": "In vain, my children, I endured many birth-pangs and the harder anxieties of raising you.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ω των εμων παιδων · οι μεν αγαμοι · οι δε γη μαντεϲ ανωνη τοι · ουκ οψομαι ϋ μων τεκνα · ου δε μαμμη κληθι ϲα · μακαριϲθηϲο μαι :",
+          "translation": "O my children — some unmarried, others married without issue! I won't see your children, nor be called grandmother.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ω η πολυπαιϲ και καλλιπεϲ · εγω γυνη χηρα και μο νη πολυθρηνοϲ ·",
+          "translation": "O I who had many beautiful children — now a widow and alone, full of mourning!",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ουδ αν ουδε αν ουδ αν αποθανω . θαπτοντα των υϊων εξω τινα ·",
+          "translation": "Nor when I die will I have a son to bury me.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "αλλα τουτων τουτω τουτω τω θρηνω ˙ ουδενα ωλοφυρετο η ϊε ρα και θεοϲεβηϲ μητηρʼ · ουδ ϊνα μη αποθανωϲ ι αποθανωϲ ι απετρεπεν αυτ ω τινα · ωϲ ουδε απο θνηϲκοντων ε λυπηθη ·",
+          "translation": "But the holy and godly mother didn't lament with this lament, nor did she beg any to avoid death.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "αλλ ωϲ περʼ εχουϲα αδαμ α τινον τον νουν · και ειϲ αθαναϲι α ανατικτουϲα τον των υϊων αριθμ ο · μαλλον υ περ τηϲ ευϲεβιαϲ επι τον θανατον αυτουϲ προετρεπετο ϊ κετευουϲα ˙",
+          "translation": "On the contrary, as if she had an adamantine mind, and giving birth anew to the number of her sons for immortality, she urged them even more to die for piety.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ω μη τηρʼ δι ευϲεβιαν θυ μητηρ και ευ ϲτρατιαϲ ϲτρατιωτι πρεϲ βυτι · και γυναι δι α καρτεριαν · και τυραννον ενικη ϲαϲ · και εργοιϲ δυ νατωτερα · και λο γοιϲ ευρεθηϲ αν δροϲ ·",
+          "translation": "O mother, soldier of God for piety, elder and woman, through endurance and perseverance!",
+          "footnotes": [
+            {
+              "id": "4-maccabees-16-14-soldier",
+              "text": "The mother as a soldier of God — military metaphor applied to a woman was intentionally striking.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "original": "και γαρ οτε ϲυνελημφθηϲ μετα των παιδ ω · ϊϲτηκιϲ τον ελεα ζαρον ορωϲα βα ϲανιζομενον . και ελεγεν ελεγεϲ τοιϲ παιϲ ι εν τη εβραιδι φω νη ·",
+          "translation": "For when she was captured along with her children, standing and watching Eleazar being tortured, she said,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ω παιδεϲ · γεν ναιοϲ αγων · εφ ο κληθεντεϲ · ϋπερ τηϲ διαμαρτυριαϲ του εθνουϲ εναγω νιϲαϲθαι προθυ μωϲ υ περ του πα τρωου νομου ·",
+          "translation": "\"Children, it's a noble contest to which you're called. Hasten to contend eagerly for the testimony of our nation.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και γαρ αιϲχρον ˙ τον μεν γεροντα του τον υ πομιναι ταϲ δια την ευϲεβιαν αλγηδοναϲ · ϋμαϲ δε τουϲ νεανιϲκουϲ καταπληγηναι τουϲ καταπλαγηναι ταϲ βαϲανουϲ ˙",
+          "translation": "For it's shameful that this old man endures pains for piety, while you young men shrink from the tortures.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "αναμνη ϲθητε δε δια οτι διοτι δι α τον θν του κοϲμ(ου) ˙ μετελαβετε ˙ και του βιου απελαυϲε τε ˙",
+          "translation": "Remember that you came to share in God's world and enjoy life.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και δια τουτο ο φιλεται παντα ϋπο μιναι πονον δια τον θν ·",
+          "translation": "Therefore you must endure every pain for God.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "διο δι ον και ο πηρ ημων αβρααμʼ ε ϲπευδεν τον εθνο πατορα υ̇ϊον ϲφαγι αϲαι ϊϲακʼ ϊϲαακʼ και την πατρωα πατρωαν χειρα ξιφη φορον καταφερο μενην επ αυτον . ουκ επηξεν επτηξεν :",
+          "translation": "That's why our father Abraham rushed to sacrifice his son Isaac, our forefather, and didn't shrink.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και δα νιηλʼ ο δικαιοϲ ειϲ λεονταϲ εβληθη · και ανανιαϲʼ και α ζαριαϲʼ και μιϲαηλʼ · ειϲ καμινον πυροϲ απεϲφενδονηθη ϲαν · και υ πεμιναν δια τον θν ˙",
+          "translation": "Daniel the righteous was thrown to the lions, and Hananiah, Azariah, and Mishael into the furnace of fire.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-16-21-daniel-three",
+              "text": "Standard exemplars of Jewish fidelity under persecution (Daniel 3, 6).",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "original": "και υ μιϲ ουν την αυτην πιϲτ ι προϲ τον θν εχον τεϲ · μη χαλεπαινε ται :",
+          "translation": "You too, having the same faith in God, shouldn't be troubled.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "αλογιϲτον γαρ ειδοταϲ ευϲεβι α · μη αντιταϲϲεϲθαι τοιϲ πονοιϲ ·",
+          "translation": "For it's irrational for those who know piety not to stand up against pains.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "δια του των των λογων η ε πταμητωρʼ επταμητηρʼ επταμητωρʼ ενα εκα ϲτον των υ̇ϊων παρακαλουϲα · απο θανιν επιϲεν μαλ λον · η παραβηναι την εντολην του θυ ·",
+          "translation": "With these words, the mother of seven urged each son to die rather than transgress God's command.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "ετι οτι δε και ταυτα ει δοτεϲ · οτι οι οποι δια τ ο θν αποθνηϲκον τεϲ ζωϲιν τω θω ωϲπερ αβρααμʼ και ϊϲακʼ ϊϲαακʼ · και · κ(αι) παντεϲ οι πατριαρ χαι ·",
+          "translation": "Moreover, they knew that those who die for God live to God, as Abraham, Isaac, Jacob, and all the patriarchs.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ελεγον δε και των δορυφορων τινεϲ οτι ωϲ οτε εμελ λεν ϲυλλαμβανε ϲθαι και αυτη προϲ θανατον · ϊνα μη ψαυϲειεν τιϲʼ του ϲω ματοϲ αυτηϲ εαυ την ερειψε κατα τηϲ πυραϲ ·",
+          "translation": "Some of the guards said that when she too was about to be seized for death, she threw herself into the fire so no one would touch her body.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ω μητηρ ϲυν ε πτα παιϲιν κατα λυϲαϲα την του τυ ραννου βιαν · ακυρω ϲαϲα ταϲ κακαϲ επι νοιαϲ αυτου · και δι ξαϲα την τηϲ πιϲτε ωϲ γενναιοτητα :",
+          "translation": "O mother, who with seven children destroyed the tyrant's violence, annulled his evil plans, and demonstrated the nobility of faith!",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "καθαπερ γαρ ϲυ ϲτεγη επι τουϲ ϲτυλουϲ τ ω παιδων γενναιωϲ ϊδρυμενη · ακλινη ακλινηϲ ϋ πηνεγκαϲ τον δια των βαϲανων ϲιϲμ ο :",
+          "translation": "For like a roof firmly set on the pillars of her children, you unshakably endured the earthquake of tortures.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-17-3-roof-pillars",
+              "text": "The mother as roof on the pillars of her children — architectural metaphor for family solidarity.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "original": "θαρρει τοιγαρουνʼ ω μητηρ ϊεροψυχε · την ελπιδα τηϲ υ πο μονηϲ βεβαιαν ε χουϲα προϲ τον θν ˙",
+          "translation": "Take courage, then, O mother of holy soul, having the firm hope of endurance toward God.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ουχ ουτωϲ ουχ ου τωϲ ϲεληνη καθ ου ρανον εν ϲυν αϲτροιϲ ϲε μνη καθεϲτηκ ε · ωϲ ϲυ τουϲ ι ϲαϲτερουϲ ϊϲαϲτερουϲ επτα παιδαϲ φωτα γωγηϲαϲα · προϲ τ η ευϲεβιαν εντιμοϲ καθεϲτηκαϲ θ ω . κ(αι) εϲτηριϲαι εν ϲυν αυτοιϲ εν ουρανοιϲ ·",
+          "translation": "Not so majestic is the moon in heaven with stars, as you, having lit the way for the seven stars of your children, shine reverently.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ην γαρ η παιδοποιϊα ϲου α πο αβρααμ του πρϲ ·",
+          "translation": "For your childbearing was from Abraham, our father.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ει δε δε εξον ημιν η ωϲ ωϲπερ επι τινοϲ ζω γραφηϲαι την τηϲ ευ ϲεβιαϲ ϲου ϊϲτορι α · ουκ αν εφριττον οι θεωρουντεϲ · ορ ω τεϲ μρα επτα τεκν ω δι ευϲεβιαν ποικι λαϲ βαϲανουϲ μεχρι θανατου γιγνομεναϲ ϋπο μιναϲαν :",
+          "translation": "If it were possible for us to paint the story of your piety, the onlookers wouldn't shudder.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και γαρ αξι ονʼ ην · και επ αυτου του επιταφιου ανα γραψαι και ταυτα τοιϲ απο του εθνουϲ ειϲ μνιαν λεγομενα",
+          "translation": "For it's worthy to inscribe on your tomb these words as a memorial for the people:",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ενταυθα ενταυθοι ενταυθα γερων · ϊερευϲ και γυνη γερεα και ε ζ παιδεϲ ενκεκηδε υ ται δια τυραννον τυραννου βιαν την εβραιων πολι τιαν καταλυϲαι θελ ο ταϲ θελ ο τοϲ",
+          "translation": "\"Here an elder priest, an aged woman, and seven children are buried through the violence of a tyrant.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "οι και εξεδικηϲ α το γενοϲ ειϲ θν αφο ρωντεϲ και μεχρι θανατου ταϲ βαϲανουϲ υ πομιναντεϲ ·",
+          "translation": "They vindicated the nation, looking to God, and enduring tortures even to death.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "αλη θωϲ γαρʼ ην αγων θιοϲ ο δι αυτων γεγενημε νοϲ ·",
+          "translation": "Truly it was a divine contest that was fought through them.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ηθλοθετι γαρ τοτε αρετη δι υ πομο νηϲ το νικοϲ ειϲ αφθαρ ϲιαν αυτηϲ αφθαρϲια εν ζωη πολυχρονιω ˙",
+          "translation": "For virtue, through endurance, offered the prize of victory for incorruptibility in everlasting life.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-17-12-prize",
+              "text": "Athletic contest imagery culminates here — the martyr's death as winning the victor's crown of immortality.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "original": "ελεα ζαρ προηγωνιτο δε προηγωνιζετο ˙ η δε μητηρ των επτα παι δων ενηθλι · οι δε ε πτα αδελφοι ηγω νιζοντο ˙",
+          "translation": "Eleazar began the contest; the mother of seven sons competed; and the seven brothers contended.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ο τυραννοϲ αντηγωνιζετο ˙ ο δε κοϲμοϲ και ο τ ω α νων βιοϲ εθεωρι :",
+          "translation": "The tyrant opposed, and the world and human life watched.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "θεοϲεβια δε ενικα ˙ τουϲ εαυτηϲ αθληταϲ ϲτεφανουϲα ·",
+          "translation": "Piety won, crowning her own athletes.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "τινεϲ δε ουκ εθαυμαϲαν τουϲ τηϲ θιαϲ νομο θεϲια αθλητεϲ νομοθεϲιαϲ αθληταϲ · τινεϲ ουκ εξεπλαγηϲαν",
+          "translation": "Who didn't marvel at the athletes of divine legislation? Who wasn't amazed?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "αυτοϲ γε τοι ο τυραννοϲ και ολον το ϲυμβουλι ον εθαυμαϲαν εξεθαυμαϲαν αυτ ω την αρετην και την ϋπομονην ·",
+          "translation": "The tyrant himself and his whole council marveled at their virtue and endurance,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "δι ην κ(αι) τω θιω νυν παρεϲτη καϲιν θρονω · και τ ο μακαριον βιουϲιν αι ωνα ·",
+          "translation": "through which they now stand by the divine throne and live the blessed age.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και γαρ φηϲιν ο μωϋϲηϲ και παντεϲ οι ηγιαϲμενοι υ πο ταϲ χιραϲ ϲου ·",
+          "translation": "For Moses says: 'And all the sanctified are under Your hands.'",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και αυτοι ο υ αγιαϲθεντεϲ δια τον θν τετιμ η ται τετιμ η ται · ου μονον ταυτη τη τιμη · αλλα και τω δι αυτουϲ το εθνοϲ η μων τουϲ πολεμιουϲ μη επικρατηϲαι ·",
+          "translation": "And they, sanctified through God, have been honored — not only with this honor, but also with the honor of being chosen by God.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "κ(αι) τον τυραννον τιμω ρηθηναι και την πα τριδα καθαριϲθηναι · ωϲπερʼ αντιψυχον γεγοναϲ γεγονοταϲ τηϲ του εθνουϲ αμαρτιαϲ ·",
+          "translation": "And the tyrant was punished and the homeland purified, as they became a ransom for the nation's sin.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "και τηϲ δια του αι ματοϲ των ευϲεβ ω εκινων · και του ι λα ϲτηριου του θανατου αυτων · η θεια προνοι α προκακωθεντα τον ιϲλ ʼ διεϲωϲεν :",
+          "translation": "Through the blood of these pious ones and their atoning death, divine Providence saved Israel.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-17-22-atonement",
+              "text": "The martyrs' deaths as atoning sacrifice for the nation — a key theological claim of 4 Maccabees.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "original": "προϲ γαρ την ανδρι α αυτων τηϲ αρετηϲ κ(αι) την επι ταιϲ βαϲανοιϲ ϋπομονην ο τυρ α νοϲ αφιδων ˙ ανεκη ρυξεν ο αντιοχοϲ τοιϲ ϲτρατιωταιϲ αυ του · ειϲ ϋποδιγμα τ η εκινων υ πομον η",
+          "translation": "For seeing their virtue and their endurance under tortures, the tyrant looked on them with admiration.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "εϲχεν τε αυτουϲ γ ε ναιουϲ και ανδριουϲ · ειϲ πεζομαχιαν κ(αι) πολιορκιαν · και εκ πορθηϲαϲ · ενικηϲ ε πανταϲ τουϲ πολεμι ουϲ ·",
+          "translation": "He held them to be noble and courageous — for infantry battle and siege — and by conquering them, he was conquered.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ω των αβρααμι θιων αβρααμιαι ω ϲπερματων α πογονοι παιδεϲ ϊϲ δραηλιται πιθεϲθε πιθεϲθαι τω νομω τουτω κ(αι) παντα τροπον ευϲε βιτε ˙",
+          "translation": "O descendants of Abraham's divine seed, children of Israel, obey this law and be pious in every way.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "γινωϲκοντεϲ · οτι των παθων εϲτ ι ο ευϲεβηϲ λογιϲμοϲ · και ου μο νον των ενδοθ ε · αλλα και των εξωθ ε πονων ·",
+          "translation": "Knowing that devout reason masters the passions — not only internal ones, but also external.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ανθ ων δια την ευϲεβιαν προεμενοι τα ϲωμα τα τοιϲ πονοιϲ · εκι νοι · ου μονον υ πο τ ω α νω ν α νω ν εθαυμαϲθηϲ α · αλλα και θιαϲ μερι δοϲ κατηξιωθηϲ α ·",
+          "translation": "Therefore, for piety's sake, they gave their bodies to suffering — and were approved not only by people, but also deemed worthy of a divine portion.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και δι αυτουϲ ειρη νευϲεν το εθνοϲ ˙ κ(αι) την ευνομιαν την̣ επι τηϲ πατριδοϲ α νανεωϲαμενοι · εκπεπορθηκαν εκπεπολιορκηκαν τουϲ πολεμιουϲ",
+          "translation": "Through them the nation found peace; renewing the law-abiding conduct in the homeland, they utterly destroyed their enemies.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "κ(αι) ο τυραννοϲ αντιοχοϲ και επι γηϲ τετιμω ρηται · και αποθαν ω κολαζεται ˙ ωϲ γαρ ου δεν ουδαμωϲ ι ϲχυ ϲεν αναγκαϲαι τουϲ ϊ εροϲολυμειταϲ αλ λοφυλειϲαι και τ ω πατριων εκζητη θηναι εθων εκδιαιτηθηναι τοτε απαραϲ απο των ϊεροϲολυ μων εϲτρατευϲεν επι περαϲ περϲαϲ",
+          "translation": "And the tyrant Antiochus was punished on earth and is tormented in death. For in no way did he escape divine justice.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ελεγεν δε η μητηρʼ των παι δων και ταυτα τα δι καιωματα τοιϲ τε κνοιϲ ·",
+          "translation": "The mother of the children also spoke these righteous teachings to them:",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "οτι εγω εγενη θην παρθενοϲ α γνη · ουδε ϋπερεβ η πατρικον οικον ˙ ε φυλαϲϲον δε την οι κοδομουμενην πλευραν ˙",
+          "translation": "\"I was a pure virgin, and I didn't leave my father's house. I guarded the rib that was built into a woman.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-18-7-virginity",
+              "text": "The mother's speech about her virginity reflects traditional Jewish sexual ethics and the value of lineage.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "original": "ουδε εφθι ρεν με λυμεων ερη μιαϲ · φθορευϲ εν πε διω · ουδε ελυμηνατο μου τα αγνα τηϲ παρ θενιαϲ λυμαιων · α πατητηϲ απατηϲʼ οφιϲ ·",
+          "translation": "No destroyer of the desert, no seducer in the field, defiled me; nor did the destructive serpent defile my virginity.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "εμι να δε χρονον ακμηϲ ϲυν ανδρι · τουτων δε ενηλικων γενομε νων ετελευτηϲεν ο πηρ αυτων · μακαρι̣οϲ δε μ ε εκινοϲ · τον γαρ τηϲ ευτεκνιαϲ βιον επιζη τηϲαϲ επιζηϲαϲ · τον τηϲ ατεκνι αϲ ουκ ωδυνηθη κ(αι)ρ ο :",
+          "translation": "I remained with my husband during my prime. When these sons grew up, their father died — blessed was he!",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "οϲ εδιδαϲκεν ϋμαϲ ε τι ων ϲυν ϋμιν · τον νομον κ(αι) τουϲ προφη ταϲ",
+          "translation": "He taught you, while he was still with you, the law and the prophets.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "τον αναιρεθεντα αβελʼ υ πο κα ι νʼ ανε γινωϲκεν τε ϋμιν κ(αι) τον ολοκαρπουμεν ο ϊϲακʼ ϊϲαακʼ · και τον εν φυ λακη ϊωϲηφʼ .",
+          "translation": "He read to you about Abel killed by Cain, about Isaac offered as a whole burnt offering, and about Joseph in prison.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ελεγεν δε υ μιν τον ζηλωτ η φινεεϲ · εδιδαϲκεν τε υ μαϲ τουϲ εν πυρι ανανιαν · και αζαρι α μιϲαηλʼ",
+          "translation": "He told you about Phinehas the zealot; he taught you about Hananiah, Azariah, and Mishael in the fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "εδοξαζεν δε και τον εν λακκω λεοντων δανιηλʼ ονʼ εμακαριζεν",
+          "translation": "And he praised Daniel in the lions' den — blessing him.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "υ πε μιμνηϲκεν δε υ μαϲ και την ηϲαϊα γραφ η τον λεγοντα την λεγου̣ϲαν καν δια πυροϲ ειϲελθηϲ προϲελθηϲ · φλοξ ου κατακαυϲει ϲε",
+          "translation": "He reminded you of Isaiah's writing, which says: 'Even if you pass through fire, the flame won't burn you.'",
+          "footnotes": [
+            {
+              "id": "4-maccabees-18-14-isaiah",
+              "text": "Allusion to Isaiah 43:2 — a promise of divine protection through trial.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "original": "τον υ μνογραφον ε μελωδι υ μιν δαδ · λεγοντα · πολλαι αι θλι ψειϲ των δικαιων ˙",
+          "translation": "He sang the psalmist David to you, saying: 'Many are the afflictions of the righteous.'",
+          "footnotes": [
+            {
+              "id": "4-maccabees-18-15-psalm",
+              "text": "Quoting Psalm 34:19 (LXX 33:20) — the righteous suffer many afflictions.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "original": "τον ϲαλωμωντα πα ροιμιαζεν ϋμιν λεγ ο τα · ξυλον ζωηϲ εϲτ ι τοιϲ ποιουϲιν αυτου το θελημα",
+          "translation": "He quoted Solomon's proverb: 'It is a tree of life for those who do God's will.'",
+          "footnotes": [
+            {
+              "id": "4-maccabees-18-16-proverbs",
+              "text": "Proverbs 3:18 — the law as a tree of life.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "original": "τον ϊεζε κιηλʼ επιϲτοποιει τ ο λεγοντα ˙ ει ζηϲεται τα οϲτα τα ξηρα ταυτα :",
+          "translation": "He confirmed Ezekiel's word: 'Shall these dry bones live?'",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ωδην μεν γαρ ην εδι δαϲκεν μωϋϲηϲ ου κ επελαθετο διδαϲκ ω την λεγουϲαν ˙",
+          "translation": "He didn't forget the song that Moses taught, which says:",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "εγω α ποκτενω και ζην ποιηϲω · αυτη η ζω̣η ϋμων και η μακ ρο τηϲ των ημερων ˙",
+          "translation": "'I kill and I make alive. This is your life and the length of your days.'",
+          "footnotes": [
+            {
+              "id": "4-maccabees-18-19-song",
+              "text": "Deuteronomy 32:39, 47 — from the Song of Moses, emphasizing God's sovereignty over life and death.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "original": "ω π ι κραϲ τηϲ τοτε ημεραϲ και ου πικραϲ · οτι̣ πι κροϲ ελληνων ω τυραννοϲ πυρ πυροιϲ ϲβεϲαϲ φλεξαϲ λεβηϲιν ωμοιϲ και ζεουϲι θυμοιϲ α γαγων · επι τον κα ταπελτην και παλ ι τουϲ βαϲανουϲ αυτου ταϲ επι τουϲ επτα παιδαϲ τηϲ αβρααμει τιδοϲ ·",
+          "translation": "O bitter day, and yet not bitter! For the bitter Greek tyrant, extinguishing fire with fire, burned in flames.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και των ομμα των ταϲ κοραϲ λ επη ρωϲεν · και γλωϲϲ α γλωϲϲαϲ εξετεμεν και βαϲα νοιϲ ποικιλαιϲ απε κτινεν ·",
+          "translation": "He blinded the pupils of eyes, cut out tongues, and killed with various tortures.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ϋπερ ωνʼ η θια δικη μετηλθ ε · και μετελευϲεται τον αλαϲτορα τυρ α νον ·",
+          "translation": "For these crimes divine justice pursued and will pursue the accursed tyrant.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "οι δε αβρααμι αιοι παιδεϲ ϲυν τη α θλοφορω μητρι ει ειϲ π ρω ν χορον ευαγ γελιζονται ϲυναγελαζονται ψυχαϲ αγναϲ και̣ αθ λοφο ρουϲ αθ ανα τουϲ απειληφοτ̣ε̣ϲ παρα του θυ",
+          "translation": "But the children of Abraham, with the prize-winning mother, are gathered together in the chorus of the fathers, receiving holy souls from God.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "ω η δοξα ε ι̣ϲ̣ τουϲ αιωναϲ των αιωνων αμην ⌇﹏",
+          "translation": "To Him be glory forever and ever. Amen.",
+          "footnotes": [
+            {
+              "id": "4-maccabees-18-24-doxology",
+              "text": "The doxology closes the work, showing its use in liturgical or communal reading.",
+              "type": "cultural-context"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

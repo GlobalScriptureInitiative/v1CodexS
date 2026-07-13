@@ -1,0 +1,1514 @@
+{
+  "book": "Tobit",
+  "slug": "tobit",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 0,
+          "original": "",
+          "translation": "[No text preserved for the prologue.]",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "No text preserved for the prologue.",
+              "id": "tob-0-0-missing-text"
+            },
+            {
+              "id": "tob-0-0-missing-text",
+              "text": "No text preserved for the prologue.",
+              "type": "missing-text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "βιβλοϲ λογων τω βειθ του τωβιηλʼ του ανανιηλ του αδουηλ του γαβαηλ του ραφαηλ του ρα γουηλ εκ του ϲπερ ματοϲ αϲιηλ εκ φυ ληϲ νεφθαλειμʼ",
+          "translation": "Book of the words of Tobit, son of Tobiel, son of Ananiel, son of Aduel, son of Gabael, son of Raphael, son of Raguel, from the seed of Asiel, of the tribe of Naphtali.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "οϲ ηχμαλωτευθη εν ταιϲ ημεραιϲ ε νεμεϲϲαρου του βαϲιλεωϲ των αϲ ϲυριων εκ θιϲβηϲ η εϲτιν εκ δεξιων κυδιωϲ τηϲ νεφθα λειμ εν τη ανω γα λειλαια ϋπερανω αϲϲηρ οπιϲω δυ> ϲμων ηλιου εξ α ριϲτερων φογωρ",
+          "translation": "He was taken captive in the days of Shalmaneser king of Assyria, from Thisbe, which is south of Kadesh in Naphtali, in Upper Galilee above Asher.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "εγω τωβειθ οδοιϲ αληθειαϲ επορευ ομην και εν δικαι οϲυναιϲ παϲαϲ > ταϲ ημεραϲ τηϲ > ζωηϲ μου και ε λεημοϲυναϲ πολ λαϲ εποιηϲα τοιϲ αδελφοιϲ μου κ(αι) τω εθνει μου τοιϲ πορευθειϲιν με τ εμου εν τη αιχμα λωϲια ειϲ την χω ραν των αϲϲυρι ω ειϲ νινευη",
+          "translation": "I, Tobit, walked in the ways of truth and in righteousness all the days of my life, and I performed many acts of charity to my brothers and my nation who had gone with me into captivity to Nineveh in the land of the Assyrians.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ο> τε ημην εν τη χω ρα μου εν γη ϊϲραηλ και οτε ημην νε οϲ παϲα η φυλη > νεφθαλειμ του πατροϲ μου απε ϲτηϲαν απο του οικου δαυειδ του πατροϲ μου και α πο ϊερουϲαλημ > πολεωϲ τηϲ εκ πα ϲων φυλων ιϲλ ειϲ το θυϲιαζειν παϲαιϲ φυλαιϲ ιϲλ και ηγιαϲθη ο να οϲ τηϲ καταϲκη> νωϲεωϲ του θυ : και ωκοδομηθη εν αυτη ειϲ παϲαϲ ταϲ γενεαϲ του αι ωνοϲ",
+          "translation": "When I was in my own country, in the land of Israel, while I was still a young man, the whole tribe of my father Naphtali broke away from the house of David and from Jerusalem. But I alone went frequently to Jerusalem for the feasts.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "παντεϲ οι αδελφοι ου παντεϲ οι αδελφοι μου παϲαι αι φυλαι αι ϲυναποϲτα ϲαι εθυον τη βααλʼ τη δαμαλι και ο οικοϲ νεφθαλειμ του πατροϲ μου > εθυϲιαζον εκει> νοι τω μοϲχω ον εποιηϲεν ϊεροβε αμ ο βαϲιλευϲ ιϲ λ εν δαν επι παν> των ορεων τηϲ > γαλειλαιαϲ",
+          "translation": "All my brothers and the tribes that joined together offered sacrifices to the calf, but the house of my father Naphtali and I did not.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "καγω μονωτατοϲ επο ρευομην πολλα κιϲ ειϲ ϊεροϲολυμα εν ταιϲ εορταιϲ > καθωϲ γεγραπται εν παντι ιϲλ εν > προϲταγματι αιω νιω ταϲ απαρχαϲ και τα πρωτογενη ματα και ταϲ δε καταϲ των κτη νων και ταϲ πρω τοκουραϲ των προ βατων εχων απε τρεχον ειϲ ϊερο ϲολυμα",
+          "translation": "I alone went frequently to Jerusalem for the feasts, as it is written for all Israel by an everlasting decree. I went with the firstfruits and the tithes of my produce and the first shearings.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και εδιδο υ αυτα τοιϲ ϊερευϲ ι τοιϲ υϊοιϲ ααρων προϲ το θυϲιαϲτη ριον παντων των γενηματων και την δεκα την του οινου κ(αι) του ϲιτου του ϲιτου κ(αι) του οινου και ελαι ων ελαιου και ροων και των ϲυκων κ(αι) των λοιπων κρο δρυων ακροδρυων τοιϲ υϊοιϲ εδιδο̣υ̣ν τοιϲ υϊοιϲ λευει τοιϲ θεραπου ϲιν εν ι λμ και τ η δεκατην την δευ τεραν απεδεκατι ζον αργυριω των εξ ετων και επο ρευομην και εδα πανων αυτα εν ιερουϲαλημ καθ ε καϲτον ενιαυτον",
+          "translation": "I gave them to the priests, the sons of Aaron, for the altar. I gave the tithe of grain, wine, fruit, oil, and pomegranates to the sons of Levi who ministered in Jerusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και εδιδουν αυτα τοιϲ ορφανοιϲ και ταιϲ χηραιϲ και > προϲηλυτοιϲ τοιϲ προϲκειμενοιϲ τοιϲ υϊοιϲ ιϲλ ειϲε φερον και εδιδο υ αυτοιϲ εν τω τρι τω ετει και ηϲθιο μεν αυτα κατα το προϲταγμα το > προϲτεταγμεν ο περι αυτων εν τω νομω μωϲη και κατα ταϲ εντολαϲ αϲ ενετειλατο δεβ βωρα η μητηρ ανα νιηλ του πατροϲ ημων οτι ορφα κατελιπεν με ο πατηρ και α πεθανεν ˙",
+          "translation": "For six years I gave these, and in the seventh I distributed them to the orphans, widows, and converts who attached themselves to the sons of Israel.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και οτε εγεθην εγενηθην ανηρ ελαβον γυναικα εκ του ϲπερματοϲ τηϲ πατριαϲ ημ ω και εγεννηϲα εξ αυτηϲ υϊον και ε καλεϲα το ονομα αυτου τωβιαν >",
+          "translation": "When I became a man, I took a wife from our family, and I had a son by her, and I named him Tobias.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "μετα το αιχμαλω τιϲθηναι με ειϲ αϲ ϲυριουϲ και οτε η χμαλωτιϲθην ειϲ νινευη επορευ ομην επορευομην ειϲ νινευη και παντεϲ οι αδελφοι μου κ(αι) οι εκ του γενουϲ μου ηϲθιον εκ τ ω αρτων των εθν ω",
+          "translation": "After I was taken captive to Assyria and came to Nineveh, all my brothers and those of my family ate the food of the nations.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "εγω δε ϲυνετηρη ϲα την ψυχην μου μη φαγειν εκ τ ω αρτων των εθν ω",
+          "translation": "But I kept myself from eating the bread of the nations.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και οτε εμεμνη μην του θυ μου εν ολη ψυχη μου",
+          "translation": "And I remembered the Lord with all my soul.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και εδωκεν μοι ο ϋψιϲτοϲ χαριν κ(αι) μορφην ενωπι ον ενεμεϲϲαρου και ηγοραζον αυτω παντα τα προϲ τ η χρηϲιν",
+          "translation": "The Most High gave me favor and good appearance before Shalmaneser, and I bought for him everything he needed.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και επορευ ομην ειϲ μηδιαν και ηγοραζον αυ τω εκειθεν εωϲ αυτον αποθανε ι και παρεθεμην γα βηλω γαβαηλω βαλλαντια τω αδελφω τω γα βρει εν τη χωρα τηϲ μηδιαϲ αργυριου ταλαντα δεκα ˙",
+          "translation": "I went to Media and bought for him there until he died. I entrusted bags of silver worth ten talents to my cousin Gabael, son of Gabri, in Rages of Media.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και οτε απεθανεν ενε μαϲϲαρ και εβαϲι> λευϲεν ϲενναχη ρειμ υϊοϲ αυτου αντ αυτου και αι οδοι τηϲ μηδειαϲ απεϲτηϲαν και ουκετι ηδυναϲθ η πορευθηναι [1 chars] ευθηναι ειϲ τ η μηδιαν",
+          "translation": "When Shalmaneser died and his son Sennacherib reigned in his place, the roads of Media became unsafe, and I could no longer go there.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και εν ταιϲ η μεραιϲ ενεμεϲϲα ρου ελεημοϲυναϲ πολλαϲ εποιηϲα > τοιϲ αδελφοιϲ μου τοιϲ εκ του γενουϲ μου",
+          "translation": "In the days of Shalmaneser I performed many acts of charity for my brothers.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "τουϲ αρτουϲ μου εδιδουν τοιϲ πεινωϲιν · και ϊ ματια τοιϲ γυμνοιϲ και ει τινα των εκ του εθνουϲ μου ε θεωρουν τεθνηκο τα και ερριμμενον οπιϲω του τειχουϲ νινευη εθαπτ ο αυτον",
+          "translation": "I gave my bread to the hungry and my clothes to the naked. If I saw anyone of my people dead and thrown behind the wall of Nineveh, I buried him.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και ει τινα απεκτεινεν ϲεν ναχηρειμ ο βαϲιλευϲ οτε α> πηλθεν φευγων εκ τηϲ ϊουδαιαϲ ε ημεραιϲ τηϲ κριϲε ωϲ ηϲ εποιηϲεν εξ αυτου ο βαϲιλευϲ > του ουρανου περι > των βλαϲφημι ω ων εβλαϲφημη ϲεν εθαψα πολλουϲ γαρ απεκτεινεν εν τω θυμω αυτου εκ των υϊων ιϲλ και εκλεπτον τα ϲωματα αυτων και εθαπτον και εζητηϲεν αυτα ϲενναχηρειμ και ουχ ευρεν αυτα",
+          "translation": "If King Sennacherib killed anyone when he fled from Judea — in the days of the judgment he executed — I buried them, for in his rage he killed many. The bodies were searched for by the king, but they were not found.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και επορευθη ειϲ > τιϲ των εκ τηϲ νι νευη και ϋπεδει ξεν τω βαϲιλει πε ρι εμου οτι εγω θα πτω αυτουϲ και εκρυβην και οτε επεγνων οτι εγνω περι εμου ο βαϲιλευϲ και οτι ζητουμαι του αποθανειν ε φοβηθην και απε δραϲα",
+          "translation": "One of the Ninevites went and told the king about me — that I was burying them — so I hid. When I learned they were searching for me to kill me, I was afraid and fled.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και ηρπαγη παντα οϲα ϋπηρ χεν μοι και ου κα τελιφθη μοι ου δεν ο ουκ ανελημ φθη ειϲ το βαϲιλει κον πλην ανναϲ τηϲ γυναικοϲ μου και τωβια του υ ι ου μου",
+          "translation": "All my property was seized and nothing was left to me except my wife Anna and my son Tobias.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και ου διηλθ ο ημεραι τεϲϲερα> κοντα ν εωϲ ου α πεκτειναν αυτον οι δυο ϋιοι αυτου και εφυγεν εφυγον ειϲ τα ορη αραρατ και εβα ϲιλευϲεν ϲαχερδο νοϲ υϊοϲ αυτου μετ αυτον και ετα ξεν αχειχαρον αχειαχαρον αχειχαρον τ ο αναηλ τον του α δελφου μου υϊ ο επι παϲαν την εκ λογιϲτιαν τηϲ βα ϲιλειαϲ αυτου και αυτοϲ ειχεν την εξουϲιαν επι παϲ α την διοικηϲιν",
+          "translation": "Not fifty days passed before two of his sons killed him and fled to the mountains of Ararat. Then his son Esarhaddon reigned in his place, and he appointed Ahikar, my brother's son, over all the accounts of his kingdom.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "τοτε ηξιωϲεν αχει χαροϲ περι εμου > και κατηλθον ειϲ την νινευη αχει χαροϲ γαρ ην ο αρχι οινοχοοϲ και επι του δακτυλιου και διοικητηϲ και εκ λογιϲτηϲ επι ϲεννα χηρειμ βαϲιλεωϲ βαϲιλεα > αϲϲυριων και κατε ϲτηϲεν αυτον ο ϲα χερδονοϲ εκ δευτε ραϲ η ην δε εξαδελφοϲ μου και εκ τηϲ ϲυγ γενιαϲ μου",
+          "translation": "Ahikar spoke on my behalf, and I returned to Nineveh. Ahikar had been chief cupbearer and keeper of the signet ring and administrator under Sennacherib king of Assyria, so Esarhaddon reappointed him. He was my nephew.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ε πι ϲαρχεδονοϲ βα ϲιλεωϲ κατηλθ ο ειϲ τον οικον μου και απεδοθη μοι η γυνη μου αννα και τωβιαϲ ο ϋιοϲ μου και εν τη πεν τηκοϲτη τηϲ εορ τηϲ ημων η εϲτιν αγια εβδομαδων εγενηθη μοι αριϲτ ο καλον και ανεπε ϲα του αριϲτηϲαι",
+          "translation": "Under King Esarhaddon, I returned home and my wife Anna was restored to me, along with my son Tobias. At our Festival of Weeks, a good dinner was prepared for me.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "κ(αι) παρετεθη μοι η τρα πεζα και παρετε θη μοι οψαρια πλει ονα και ειπα τω τω βεια τω υϊω μου παιδιον βαδιζε κ(αι) ον αν ευρηϲ πτωχ ο των αδελφων ημ ω εκ νινευητων αιχμαλωτων οϲ μεμνηται εν ολη καρδια αυτου και α γαγε αυτον και φα γεται κοινωϲ μετ ε μου και ϊδε ϊδου προϲμε νω ϲε παιδιον με χρι του ϲε ελθειν",
+          "translation": "I sat down to eat, and the table was set with many dishes. I said to my son, 'Go and bring whatever poor person you can find among our people in Nineveh who remembers the Lord with all their heart, and let them share this meal with me.'",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και επορευθη τω βιαϲ ζητηϲαι τινα πτωχον των α> δελφων ημων και επιϲτρεψαϲ λε γει πατερ και ειπα αυτω ϊδου εγω παι διον και αποκρι θειϲ ειπεν πατερ ϊδου ειϲ εκ του ε θνουϲ ημων πε φονευται και ερ ριπται εν τη αγορα και αυτοθι νυν ε ϲτραγγαληται",
+          "translation": "Tobias went to find a poor person from our people and returned saying, 'Father!' I answered, 'Here I am, my child.' He said, 'One of our people has been murdered and thrown into the marketplace.'",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και αναπηδηϲαϲ αφηκα το αριϲτ ο πριν η γευϲαϲθαι με αυτου και αναι ρουμαι αυτον εκ τηϲ πλατειαϲ και ειϲ εν των οικιδι ων εθηκα μεχρι του τον ηλιον δυ ειν και θαψω αυ τον ˙",
+          "translation": "I jumped up, leaving my dinner untouched, took the body from the street, and placed it in one of the rooms until sunset when I could bury it.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "επιϲτρεψαϲ ουν ελουϲαμην και ηϲθιον τον αρτον μετα πεν θουϲ",
+          "translation": "After burying him, I washed and ate my bread in sorrow.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και εμνη ϲθην του ρηματοϲ του προφητου ο ϲα ελαληϲεν αμωϲ επι βαιθηλ λεγ ω ϲτραφηϲονται ϋ μων αι εορται ειϲ πενθοϲ και παϲαι αι οδοι ϋμων ειϲ > θρηνοϲ και εκλαυ ϲα",
+          "translation": "I remembered the word of the prophet Amos, how he spoke against Bethel: 'Your feasts will be turned into mourning, and all your songs into lamentation.' And I wept.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και οτε εδυ ο η λιοϲ ωχομην κ(αι) ορυξαϲ εθαψα αυ τον",
+          "translation": "When the sun set, I went and dug a grave and buried him.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και οι πληϲι ο μου κατεγελων λεγοντεϲ ου φο βειται ουκετι η> δη γαρ επεζητη θην επεζητηθη του φονευ θηναι περι του πρα γματοϲ τουτου και απεδρα και πα λιν ϊδου θαπτει > τουϲ νεκρουϲ",
+          "translation": "My neighbors mocked me, saying, 'He is no longer afraid! He was hunted for this very thing, and he had to flee. Yet here he is, burying the dead again!'",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και αυτη τη νυκτι ε λουϲαμην και ειϲ ηλθον ειϲ την αυ λην μου και εκοι μηθην παρα τον τοιχον τηϲ αυληϲ και το προϲωπον μου ανακεκαλυμ μενον δια το καυ μα",
+          "translation": "That same night, I washed and went into my courtyard and lay down by the wall. My face was uncovered because of the heat.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ουκ ηδειν οτι ϲτρουθια εν τω τοιχω επανω μου ειϲιν και εκαθιϲ ε το αφοδευμα αυτ ω ειϲ τουϲ οφθαλ> μουϲ μου θερμον και επηγαγεν λευ κωματα και επο ρευομην προϲ τουϲ ϊατρουϲ θεραπευ θηναι και οϲω ε νεχρειοϲαν με > τα φαρμακα τοϲου τω μαλλον εξετυ φλουντο οι οφθαλ μοι μου τοιϲ λευ κωμαϲιν μεχρι > του αποτυφλωθη ναι και ημην αδυ νατοϲ τοιϲ οφθαλ μοιϲ ετη τεϲϲερα και παντεϲ οι αδελ φοι μου ελυπουν το περι εμου και α χειαχαροϲ ετρε> φεν με ετη δυο > προ του αυτον βα διϲαι ειϲ την ελυ μαϊδα",
+          "translation": "I did not know that sparrows were perched on the wall above me. Their warm droppings fell into my eyes, and white films formed. I went to the physicians, but they could not heal me. Ahikar supported me until he went to Elymais.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και εν τω χρονω ε κεινω αννα η γυ νη μου ηριθευετο εν τοιϲ εργοιϲ τοιϲ γυναικιοιϲ",
+          "translation": "In those days, my wife Anna worked as a weaver in the women's quarters.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και α πεϲτελλε τοιϲ κυ ριοιϲ αυτων και α πεδιδουν αυτη > τον μιϲθον και ε τη εβδομη του δυ ϲτρου εξετεμε τ ο ϊϲτον και απεϲτει λεν αυτον τοιϲ κυ ριοιϲ και εδωκαν αυτη τον μιϲθον παντα και εδωκ α αυτη εφ εϲτια ερι φον εξ αιγων",
+          "translation": "She would send the finished work to the owners, and they paid her wages. On the seventh day of Dystros, she cut a piece of cloth and sent it to them, and they paid her everything they owed, giving her a young goat for her dinner.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και οτε ειϲηλθεν προϲ με ο εριφοϲ ηρξα το κραζειν και ε> καλεϲα αυτην κ(αι) ειπα ποθεν το ε ριφιον τουτο > μηποτε κλεψιμαι ον εϲτιν αποδοϲ αυτο τοιϲ κυριοιϲ αυτου ου γαρ εξου ϲιαν εχομεν ημειϲ φαγειν ουδεν κλε ψιμαιον",
+          "translation": "When she came home, the goat began to bleat. I called her and said, 'Where did you get this goat? It must be stolen! Return it to its owners, for we have no right to eat stolen goods.'",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και λεγει μοι αυτη δοϲει δε δοται μοι επι τω μιϲθω και ουκ ε> πιϲτευον αυτη και ελεγον αποδου ναι τοιϲ κυριοιϲ και προϲηρυθρι ω χαριν τουτου προϲ αυτην ειτα αποκριθειϲα λε γει μοι και που ει ϲιν αι ελεημοϲυναι ϲου που ειϲιν αι δικαιοϲυναι ϲου ϊδε ϊδου ταυτα μετα ϲου γνωϲτα εϲτιν",
+          "translation": "She said, 'It was given to me as a gift on top of my wages.' But I did not believe her, and I insisted she return it to its owners. At this, she was embarrassed and said, 'Where are your acts of charity now? Where is your righteousness? Everyone knows what you have suffered!'",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και περιλυποϲ γενο μενοϲ τη ψυχη > και ϲτεναξαϲ εκλαυ ϲα και ηρξαμην > προϲευχεϲθαι με τα ϲτεναγμων",
+          "translation": "Grieved in spirit, I groaned and wept and began to pray with sighs.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "δικαιοϲ ει κε και π α τα τα εργα ϲου δικαια και παϲαι αι οδοι > ϲου ελεημοϲυνη και αληθεια ˙ ϲυ κρι νειϲ τον αιωνα ·",
+          "translation": "'Righteous are you, Lord. All your works are righteous. All your ways are mercy and truth. You judge the world.'",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και νυν ϲυ κε μνη ϲθητι μου και επι βλεψον ˙ και μη με εκδικηϲηϲ ταιϲ α μαρτιαιϲ μου · και εν τοιϲ αγνοημα ϲιν μου και των πατερων μου ˙ οι ημαρτον εναντι ϲου",
+          "translation": "'Now, Lord, remember me and look upon me. Do not punish me for my sins and my ignorances and those of my fathers, for we have sinned before you.'",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και παρηκου ϲα παρηκουϲαν των εντολων ϲου ˙ και εδωκαϲ ημαϲ ειϲ αρπαγ η και αιχμαλωϲι α και θανατον · και ειϲ παραβολην κ(αι) λαλημα και ονειδι ϲμον εν παϲιν τοιϲ εθνεϲιν εν οιϲ η μαϲ διεϲκορπιϲαϲ ˙",
+          "translation": "'We disobeyed your commands, and you gave us over to plunder, captivity, and death, to be a byword and a taunt among the nations where you scattered us.'",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και νυν πολλαι ϲου αι κριϲειϲ ϋπαρχου ϲιν αληθιναι αι οδοι ϲου ποι ηϲαι εξ εμου περι των αμαρτιων μου κ(αι) των πρων μου οτι ουκ εποιηϲαμ ε ταϲ εντολαϲ ϲου και ουκ επορευθη μεν αληθινωϲ ε νωπιον ϲου",
+          "translation": "'Now, Lord, your judgments are many and true. Deal with me according to my sins and those of my fathers, for we did not keep your commandments and did not walk in truth before you.'",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και νυν κατα το αρε> ϲτον ϲου ποιηϲον ︴ μετ εμου και επι ταξον αναλαβειν το π ν α μου εξ εμου οπωϲ απολυθω α> πο προϲωπου τηϲ γηϲ και γενωμαι γη διο λυϲιτελει μοι αποθανειν μαλλ ο η ζην οτι ονειδιϲμουϲ ψευδειϲ ηκουϲα κ(αι) λυπη πολλη μετ ε μου κε επιταξον οπωϲ απολυθω α πο τηϲ αναγκηϲ ταυτηϲ απολυϲον με ειϲ τον τοπον τον αιωνιον και > μη αποϲτρεψηϲ το προϲωπον ϲου κε απ εμου διο λυ ϲιτελει μοι αποθα νειν μαλλον η βλε πειν αναγκην πολ λην εν τη ζωη μου και μη ακουειν ο νειδιϲμουϲ",
+          "translation": "'Now, do with me as pleases you. Command my spirit to be taken from me, that I may depart from the face of the earth and become dust. For it is better for me to die than to live, because I have heard false insults and there is great sorrow in me. Command that I be released from this distress to the everlasting place. Do not turn your face from me.'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εν τη ημερα ταυτη ϲυνεβη ϲαρρα τη θυ γατρι ραγουηλ του εν εκβατανοιϲ τηϲ μηδειαϲ και αυτ η ακουϲαι ονιδιϲμουϲ υπο μιαϲ των παι διϲκων του πατροϲ εαυτηϲ",
+          "translation": "On the same day, it happened to Sarah, daughter of Raguel, in Ecbatana of Media, that she also heard insults from one of her father's maids.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "διοτι ην > εκδεδομενη αν δραϲιν επτα και α> ϲμοδεοϲ το δαιμο νιον το πονηρον απεκτεννεν αυ τουϲ πριν η γενε> ϲθαι αυτουϲ μετ αυ τηϲ καθαπερ απο δεδιγμενον εϲτ ι ταιϲ γυναιξιν και ειπεν αυτη η > παιδιϲκη ϲυ ει η α ποκτεννουϲα τουϲ ανδραϲ ϲου ϊδου η δη απεκδεδοϲαι ε πτα ανδραϲιν και ε νοϲ αυτων ουκ ω νομαϲθηϲ",
+          "translation": "For she had been given to seven husbands, and Asmodeus the evil demon killed them before they could be with her as is customary with wives. The maid said to her, 'You are the one who kills your husbands! Look, you have already been given to seven, and you have not been named after any of them.'",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "τι ημαϲ μαϲτιγοιϲ περι τ ω ανδρων ϲου οτι α> πεθανον βαδιζε μετ αυτων και μη ϊδοιμεν υϊον ϲου μη δε θυγατερα ειϲ τον αιωνα",
+          "translation": "'Why do you beat us because of your husbands? If they died, go with them! May we never see a son or daughter of yours!'",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εν τη ημερα εκεινη ελυπηθη εν τη ψυ χη και εκλαυϲεν κ(αι) αναβαϲα ειϲ το ϋπε ρωον του πατροϲ αυτηϲ ηθεληϲεν απαγξαϲθαι και πα λιν ελογιϲατο και > λεγει μηποτε ονει διϲωϲιν τον π ρ α μου και ερουϲιν > αυτω μια ϲοι ϋπηρ χεν θυγατηρ αγαπη τη και αυτη απηγ ξατο απο των κα κων και καταξω το γηραϲ του πατροϲ μου μετα λυπηϲ > ειϲ αδουϲ αδου χρηϲιμω τερον μοι εϲτιν μη απαγξαϲθαι αλ λα δεηθηναι του κυ οπωϲ αποθανω και μηκετι ονιδι ϲμουϲ ακουϲω εν τη ζωη μου",
+          "translation": "On that day she was deeply grieved in spirit. She wept and went up to her father's upper room and wanted to hang herself. But she thought better of it and said, 'What if they disgrace my father and say, \"You had one beloved daughter, and she hanged herself because of her troubles\"? I would bring my father in his old age to Hades. It is better I not hang myself, but ask the Lord to let me die, so I need no longer hear insults in my life.'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "εν αυτω τω καιρω διαπεταϲαϲα ταϲ > χειραϲ προϲ την θυ ριδα εδεηθη και ει πεν ˙ ευλογητοϲ ει θεε ελεημων και ευλογητον το ο> νομα ϲου ειϲ τουϲ αιωναϲ ˙ και ευλο γηϲατωϲαν ϲε π α τα τα εργα ϲου ειϲ τον αιωνα ˙",
+          "translation": "At that moment, she spread out her hands toward the window and prayed: 'Blessed are you, merciful God, and blessed is your holy and honorable name forever. Let all your works praise you forever.'",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ν υ επι ϲε το προϲωπ ο μου και τουϲ οφθαλ μουϲ μου ανεβλε ψα ˙",
+          "translation": "'Now, I lift my face and my eyes to you.'",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ειπον απολυθη ναι με απο τηϲ γηϲ και μη ακουειν με μηκετι ονιδιϲμουϲ .",
+          "translation": "'Command that I be released from the earth, so I no longer hear insults.'",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ϲυ γινωϲκειϲ δε> ϲποτα οτι καθαρα ειμι απο παϲηϲ α> καθαρϲιαϲ ανδροϲ ˙",
+          "translation": "'You know, Master, that I am pure from any impurity with a man.'",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ουχι εμολυνα μου το ονομα ˙ και ουδε το ονομα του πατροϲ μου εν τη γη τηϲ αιχμαλω ϲιαϲ μου ˙ μονογε νηϲ ειμι τω πατρι μου · και ουκ ου υπαρ χει αυτω ετερον > τεκνον ϊνα κληρο νομηϲη αυτον ˙ ουδε αδελφοϲ αυ τω εγγυϲ ουτε ϲυγ γενηϲ αυτω ϋπαρ χει ϊνα ϲυντηρη ϲω αυτην εμαυτην αυτω γυ ναικα ˙ ηδη απωλ ο το μοι επτα και ϊνα τι μοι εϲτιν ετι ζ η · και ει μη ϲοι δοκει αποκτειναι με κ α νυν ειϲακουϲον ονειδιϲμον μου +",
+          "translation": "'I have not defiled my name or my father's name in the land of my captivity. I am my father's only child. He has no other child to bury him, and no brother or relative for whom I should keep myself. I have lost seven husbands. Why should I live? But if it does not please you to kill me, Lord, look upon me with favor and let me hear no more insults.'",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "εν αυτω τω καιρω ειϲηκουϲθη η προϲ ευχη αμφοτερων ενωπιον τηϲ δο ξηϲ του θυ ˙",
+          "translation": "At that very time, the prayer of both of them was heard in the presence of the glory of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και απε ϲταλη ραφαηλ ϊα ϲαϲθαι τουϲ δυο ˙ τωβειν απολυϲαι τα λευκωματα απο των οφθαλμων αυ του · ϊνα ϊδη τοιϲ το φωϲ του θυ ˙ και ϲαρρα τη ϲαρραν τη ϲαρραν την του ραγουηλ δουναι αυ την τωβεια τω ϋιω τωβειθ γυναικα > και λυϲαι αϲμοδαι ο το δαιμονιον το πονηρον απ αυτηϲ διοτι τωβια επιβαλ λει κληρονομηϲαι αυτην παρα πανταϲ τουϲ θελονταϲ λα βειν αυτην εν εκεινω τω καιρω επεϲτρεψεν τω> βειθ απο τηϲ αυληϲ ειϲ τον οικον αυτου και ϲαρρα η του ρα> γουηλ και αυτη κα τεβη εκ του ϋπερωου ˙",
+          "translation": "Raphael was sent to heal them both: to remove the white films from Tobit's eyes so he could see the light of God, and to give Sarah, daughter of Raguel, as a wife to Tobias son of Tobit, and to bind Asmodeus the evil demon. For Tobias was entitled to inherit her above all who wished to marry her. At that same time, Tobit returned from the courtyard into his house, and Sarah, daughter of Raguel, came down from her upper room.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "εν τη ημερα εκεινη εμνηϲθη τωβειθ του αργυριου ο παρε θετο γαβαηλω εν ραγοιϲ τηϲ μηδιαϲ",
+          "translation": "On that day, Tobit remembered the silver he had entrusted to Gabael in Rages of Media.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ειπεν εν τη > καρδια αυτου ϊδου εγω ητηϲαμην > θανατον τι ουχι καλω τωβιαν τ ο υϊον μου και ϋπο δειξω αυτω περι του αργυριου του του πριν αποθα> νειν με",
+          "translation": "He said to himself, 'I have asked for death. Why not call my son Tobias and tell him about the silver before I die?'",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εκαλεϲεν τω βειαν τον υϊον αυ του · και ηλθεν προϲ αυτον και ειπεν αυτω θαψον με καλωϲ και τιμα την μητερα ϲου και μη εγκαταλι πηϲ αυτην παϲαϲ ταϲ ημεραϲ τηϲ ζω ηϲ αυτηϲ και ποι ει το αρεϲτον ενω πιον αυτηϲ και μη λυπηϲηϲ το π ν α αυ τηϲ αυτηϲ εν παντι πρα γματι",
+          "translation": "He called his son Tobias, who came to him. He said, 'Bury me properly. Honor your mother and do not abandon her all the days of your life. Do what pleases her and do not grieve her.'",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "μνηϲθητι αυτηϲ παιδιον οτι κινδυνουϲ πολλουϲ εωρακεν επι ϲοι ε τη κοιλια αυτηϲ κ(αι) οταν αποθανη θα ψον αυτην παρ ε μοι εν ενι ταφω",
+          "translation": "'Remember, my child, that she faced many dangers for you when you were in her womb. When she dies, bury her beside me in the same grave.'",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και παϲαϲ ταϲ ημε ραϲ ϲου παιδιον του κυ μνημονευε > και μη θεληϲηϲ α μαρτειν και παρα βηναι ταϲ εντολαϲ αυτου δικαιοϲυναϲ ποιει παϲαϲ ταϲ η> μεραϲ τηϲ ζωηϲ > ϲου και μη πορευ θηϲ ταιϲ οδοιϲ τηϲ αδικιαϲ",
+          "translation": "'My child, remember the Lord all your days. Do not sin or break his commandments. Do righteousness all your days and do not walk in the ways of injustice.'",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "διοτι οι ποι ουντεϲ αληθιαν ευ οδωθηϲονται εν τοιϲ εργοιϲ αυτων",
+          "translation": "'For if you do what is true, your deeds will prosper.'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και παϲιν τοιϲ ποι ουϲιν δικαιοϲυν η",
+          "translation": "'Give alms from all your possessions to all who do righteousness.'",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "δωϲει κϲ αυτοιϲ > βουλην αγαθην και ον αν θελη κϲ ταπεινοι εωϲ αδου κατωτατω και ν υ παιδιον μνημο νευε ταϲ εντολαϲ ταυταϲ και μη εξα λιφθητωϲαν εκ τηϲ καρδιαϲ ϲου",
+          "translation": "'The Lord will give them good counsel. The Lord can humble to the depths of Hades and raise up. Now, my child, remember these commandments and do not let them be blotted from your heart.'",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και νυν παιδιον υποδικνυω ϲοι οτι δεκα ταλαντα αργυριου παρεθε> μην γαβαηλω τω του γαβρει εν αργοιϲ τηϲ μηδειαϲ",
+          "translation": "'Now, my child, I tell you that I entrusted ten talents of silver to Gabael son of Gabri, in Rages of Media.'",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και > μη φοβου παιδιον οτι επτωχευϲαμ ε ϋπαρχει ϲοι πολλα αγαθα εαν φοβηθηϲ τον θν και φυγηϲ > απο παϲηϲ αμαρτι αϲ και ποιηϲηϲ τα αγαθα ενωπιον > κυ του θ υ ϲου",
+          "translation": "'Do not fear, my child, that we have become poor. You have great wealth if you fear God, flee from all sin, and do what is pleasing before him.'",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "τοτε αποκριθειϲ > τωβιαϲ ειπεν τω βειθ τω πατρι αυτου παντα οϲα εντεταλ ϲαι μοι ποιηϲω πα τερ",
+          "translation": "Tobias answered his father Tobit, 'I will do everything you have commanded me, father.'",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "πωϲ δε δυνηϲο μαι αυτο λαβειν παρʼ αυτου και αυτοϲ > ου γινωϲκει με κ(αι) εγω ου γινωϲκω αυτον τι ϲημειον δω αυτω και επι> γνω με και πιϲτευ ϲη μοι και δω μοι το αργυριον και ταϲ οδουϲ ταϲ ειϲ μη> δειαν ου γινωϲκω του πορευθηναι εκει",
+          "translation": "'But how can I get the silver from him? He does not know me, and I do not know him. What sign should I give him so he will recognize me? I do not know the way to Media.'",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "τοτε αποκριθειϲ τω βειθʼ ειπεν τωβια τω ϋιω αυτου χει ρογραφον αυτου εδωκεν μοι και > χειρογραφον εδω κα αυτω και διειλ ο ειϲ δυο και ελαβομ ε εκατεροϲ εν και ε θηκα μετα του αρ γυριου και νυν ϊδου ετη εικοϲι αφ ου > παρεθεμην το αρ γυριον τουτο εγω και νυν παιδιον ζητηϲον ϲεαυτω ανθρωπον πιϲτ ο οϲ πορευϲεται με τα ϲου και δωϲομ ε αυτω μιϲθον εωϲ οτου ελθηϲ και λα βε παρ αυτου το αρ γυριον τουτο",
+          "translation": "Tobit said to his son Tobias, 'He gave me his written bond, and I gave him mine. I divided it in two, and we each kept one part. I put the money with his half. Now, twenty years have passed since I entrusted the silver. So, my child, find a trustworthy man to go with you, and we will pay him when you return. Go and get the silver from Gabael.'",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "εξηλθεν δε τωβιαϲ ζητηϲαι ανθρωπ ο οϲ πορευϲεται με τ αυτου ειϲ μηδι α οϲ εμπειρει τηϲ ο δου και εξηλθεν και ευρεν ραφαηλ τον αγγελον εϲτη κοτα απεναντι αυ του και ουκ εγνω ο τι αγγελοϲ του θυ εϲτιν",
+          "translation": "Tobias went to find a man who knew the way to Media and would travel with him. He found Raphael the angel standing in his path, but he did not know he was an angel of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ειπεν αυ τω ποθεν ει νεανι ϲκε ˙ και ειπεν αυτω εκ των υϊων ιϲλ των αδελφων ϲου και εληλυθα ωδε εργατευεϲθαι και ειπεν αυτω ε> πιϲτη την οδον > πορευθηναι ειϲ > μηδιαν",
+          "translation": "Tobias said to him, 'Where are you from, young man?' He answered, 'I am one of the sons of Israel, your brothers, and I have come here to find work.' Tobias said, 'Do you know the way to Media?'",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ειπεν [1 chars] ω αυτω ναι πολλακ [1 chars] ω πολλακιϲ εγω εκει και εμ πειρω και επιϲτα μαι ταϲ οδουϲ πα ϲαϲ πλεονακιϲ ε> πορευθην ειϲ μη διαν και ηυλιζο> μην παρα γαβαηλω τω αδελφω ημ ω τω οικουντι εν εκ βατανοιϲ τηϲ μη> δειαϲ και απεχει ο δον ημερων δυο τεταγμενων απο εκβατανων ειϲ γαρραϲ κεινται γαρ εν τω [1 chars] ειϲ γαρραϲ κεινται γαρ εν τω ορει εκβατανα εν μεϲω τω πεδιω",
+          "translation": "Raphael said, 'Yes, I have been there many times. I know all the roads well. I have often traveled to Media and stayed with Gabael our brother, who lives in Rages of Media. It is a two-day journey from Ecbatana to Rages, for both are in the mountains.'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ειπεν αυτω μι νον με νεανιϲκε μεχρι οτου ειϲελ θων ϋποδειξω > τω πατρι μου χρει αν γαρ εχω ϊνα βα διϲηϲ μετ εμου κ(αι) δωϲω ϲοι τον μι> ϲθον ϲου",
+          "translation": "Tobias said, 'Wait for me, young man, until I tell my father. I need you to travel with me, and I will pay you.'",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ειπεν αυτω ϊδου εγω προϲκαρτερω μονον μη χρονι ϲηϲ ˙",
+          "translation": "Raphael said, 'I will wait. Just do not take too long.'",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και ειϲελθ ω τωβειαϲ ϋπεδειξ ε τωβειθ τω πρι αυ του και ειπεν αυ> τω ϊδου ανθρωπ ο ευρον των αδελ φων ημων των υϊων ιϲλ και ειπεν αυτω κα λεϲον μοι τον αν θρωπον οπωϲ επι γνω τι το γενοϲ αυ του και εκ ποιαϲ φυ ληϲ εϲτιν και ει πι ϲτοϲ εϲτιν ϊνα πο ρευθη μετα ϲου > παιδιον",
+          "translation": "Tobias went in and told his father Tobit, 'I have found a man from our brothers, the sons of Israel.' He said, 'Call him to me so I can learn what tribe he is from and whether he is trustworthy to go with you, my child.'",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και εξηλθεν τωβει αϲ και εκαλεϲεν αυ τον και ειπεν αυτω νεανιϲκε ο π η ρ > καλει ϲε και ειϲηλθεν προϲ αυτον και εχαιρε τιϲεν αυτον τω> βειθ πρωτοϲ ˙ και ει πεν αυτω χαιρειν ϲοι πολλα γενοιτο και αποκριθειϲ τω βειθ ειπεν αυτω τι μοι ετι ϋπαρχει χαιρειν και εγω αν θρωποϲ αδυνατοϲ τοιϲ οφθαλμοιϲ κ(αι) ου βλεπω το φωϲ του ουρανου αλλ ε τω ϲκοτει κειμαι ωϲπερ οι νεκροι οι μηκετι θεωρουν τεϲ το φωϲ ζων ε γω εν νεκροιϲ ειμι φωνην ανθρω> πων ακουω και αυτουϲ αυτοϲ ου βλεπω και ειπεν αυτω θαρ ϲει εγγυϲ παρα τω θω ϊαϲαϲθαι ϲε θαρϲει ˙ ︴ και ειπεν αυτω τω βειθ τωβειαϲ ο ϋιοϲ μου θελει πορευθη ναι ειϲ μηδιαν ει > δυνηϲη ϲυνελθε ι αυτω και αγαγειν αυτον και δωϲω ϲοι τον μιϲθον ϲου και ειπεν αυτω δυ νηϲομαι πορευθη ναι μετ αυτου και επιϲταμαι εγω ταϲ οδουϲ παϲαϲ και > πολλακιϲ ωχομ η ειϲ μηδειαν και δι ηλθον παντα τα πεδια αυτηϲ και τα ορη και παϲαϲ ταϲ οδουϲ αυτηϲ εγω γινωϲκω ˙",
+          "translation": "Tobias went out and called him: 'Young man, my father is calling for you.' So he came to him, and Tobit greeted him first.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ειπεν αυτω αδελ φε ποιαϲ πατριαϲ ει και εκ ποιαϲ φυληϲ ϋποδειξον μοι α> δελφε",
+          "translation": "Tobit said to him, 'Brother, what family and tribe are you from? Tell me, brother.'",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ειπεν τι χρειαν εχειϲ φυληϲ ˙ και > ειπεν αυτω βουλο μαι γνωναι τα κατʼ αληθεραν τινοϲ ει αδελφε και τι το ο νομα ϲου",
+          "translation": "Raphael said, 'Why do you need to know my tribe?' Tobit said, 'I want to know the truth: whose son are you, brother? What is your name?'",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και ειπεν αυτω ε γω αζαριαϲ ανανι ου του μεγαλου > των αδελφων > ϲου ˙",
+          "translation": "Raphael said, 'I am Azariah, son of Ananiah the Great, one of your brothers.'",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ειπεν αυ τω ϋγιαινων ελ θοιϲ και ϲωζομε νοϲ αδελφε και > μη μοι πικρανθηϲ αδελφε οτι την α ληθειαν εβουλο> μην γνωναι και την πατριαν ϲου και ϲυ τυγχανειϲ αδελφοϲ ων και εκ γενεαϲ καληϲ και αγαθηϲ ει ϲυ εγινω ϲκον ανανιαν και ναθαν τουϲ δυο υϊουϲ ϲεμελιου του μεγαλου και > αυτοι ϲυνεπορευ οντο μοι ειϲ ιλμ και προϲεκυνο υ μετ εμου εκει και ουκ επλανηθηϲ α οι αδελφοι ϲου α θρωποι αγαθοι ˙ εκ ριζηϲ αγαθηϲ ει ϲυ και χαιρων ελθοιϲ",
+          "translation": "Tobit said, 'May you come in good health, brother! Do not be offended with me, brother, for I wanted to know the truth about your family. You turn out to be a brother, from a good and noble family. I know Ananiah and Nathan, the two sons of Shemaiah the Great. They went with me to Jerusalem and worshiped with me there. They did not stray. Your relatives are good men. You come from a good root.'",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ειπεν αυτω ε γω ϲοι διδωμι μιϲθ ο την ημεραν δραχμ η και τα δεοντα ϲοι ομοιωϲ τω υϊω μου",
+          "translation": "Tobit said, 'I will pay you a drachma a day, the same expenses as for my son. Go with my son, and I will add to your wages.'",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και πορευθητι με τα του υϊου μου κ(αι) ετι προϲθηϲω ϲοι τω μιϲθω",
+          "translation": "Raphael said, 'I will travel with him. Do not fear. We will leave in good health and return to you in good health, for the road is safe.'",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και ειπεν αυτω ο τι πορευϲομαι με τ αυτου και μη φο βηθηϲ ϋγιαινον τεϲ απελευϲομε θα και ϋγιαινον> τεϲ επιϲτρεψομ ε προϲ ϲε διοτι η ο> δοϲ αϲφαληϲ και ειπεν αυτω ευ λογια ϲοι γενοιτο αδελφε και εκαλε ϲεν τον υϊον αυ του και ειπεν αυτω παιδιον ετοιμαϲ ο τα προϲ την οδον και εξελθε μετα του αδελφου ϲου και ο θϲ ο εν τω ουρα νω διαϲωϲαι ϋμαϲ εκει και αποκατα> ϲτηϲαι ϋμαϲ προϲ εμε ϋγιαινονταϲ και ο αγγελοϲ αυτου ϲυνοδευϲαι υμιν μετα ϲωτηριαϲ > παιδιον και εξηλθεν πορευ θηναι την οδον > αυτου και εφιλη> ϲεν τον π ρ α αυτου και την μητερα και ειπεν αυτω τω βειθ πορευου ϋγι αινων",
+          "translation": "Tobit said, 'Bless you, brother!' Then he called his son and said, 'My child, prepare what you need for the journey, and go with your brother. May God in heaven keep you safe and bring you back to me in good health. May his angel go with you, my child.'",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και εκλαυϲεν η μ η ρ αυτου και ειπεν προϲ τωβειθ τι οτι απε ϲτειλαϲ το παιδι ο μου ουχι αυτοϲ ραβδοϲ τηϲ χειροϲ ημων εϲτιν και αυ τοϲ ειϲπορευεται κ(αι) εκπορευεται ενω πιον ημων",
+          "translation": "Tobias left to begin the journey, and he kissed his father and his mother. Tobit said to his mother, 'Do not worry.'",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "αργυρι ον τω αργυριω μη φθαϲαι αλλα περιψη μα του παιδιου η> μων γενοιτο",
+          "translation": "But she began to weep and said to Tobit, 'Why have you sent my child away? Is he not the staff of our hands, going in and out before us?'",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ωϲ γαρ δεδοται ζην ημιν παρα του κυ τουτο ϊκανον ημιν",
+          "translation": "'Do not let silver rule over silver! Let it be rubbish compared to my child!'",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και ειπεν αυτη μη λογον εχε ϋγιαιν ω πορευϲεται το παι διον ημων και ϋ γιαινων ελευϲε> ται προϲ ημαϲ και οι οφθαλμοι ϲου ο ψονται εν τη ημε ρα η αν ελθη προϲ ϲε ϋγιαινων",
+          "translation": "'For our life from the Lord is sufficient for us.'",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "μη λογον εχε μη φο βου περι αυτων αδελφη αγγελοϲ γαρ αγαθοϲ ϲυνε> λευϲεται αυτω και ευοδωθηϲεται η οδοϲ αυτου και ϋπο ϲτρεψει ϋγιαινων",
+          "translation": "Tobit said to her, 'Do not worry. Our child will leave in good health and return to us in good health, and your eyes will see him on the day he returns to you in good health.'",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και εϲιγηϲεν κλαι ουϲα ‾̷‾",
+          "translation": "'Do not worry about them, sister. A good angel will go with him. His journey will prosper, and he will return in good health.'",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και εξηλθεν το παι διον και ο αγγελοϲ μετ αυτου και ο κυ ων εξηλθεν μετʼ αυτου και επορευ θη μετ αυτων κ(αι) επορευθηϲαν αμ φοτεροι και ετυ> χεν αυτοιϲ νυξ μια και ηϋλιϲθη ϲαν επι του τιγρι δοϲ ποταμου",
+          "translation": "The boy and the angel set out, and the dog went with them and followed. They traveled together, and the first night they camped by the Tigris River.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και κατεβη το παιδι ο περινιψαϲθαι τουϲ ποδαϲ ειϲ τον τι> γριν ποταμον και αναπηδηϲαϲ ϊχθυϲ μεγαϲ εκ του ϋδατοϲ εβουλετο καταπε ι τον ποδα του παι δαριου και απο του φοβου εκραξ ε",
+          "translation": "The boy went down to wash his feet in the Tigris. A large fish leaped from the water and tried to swallow his foot. The boy cried out.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ο αγγελοϲ τω παιδαριω ειπεν επιλαβου και εγ> κρατηϲ του ϊχθυ οϲ γενου και εκρα τηϲεν το παιδαρι ον του ϊχθυοϲ κ(αι) ανηνεγκεν αυτ ο επι την γην",
+          "translation": "The angel said to the boy, 'Grab the fish and hold it fast!' The boy grabbed the fish and hauled it onto the bank.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ειπεν αυτω ο αγγελοϲ αναϲχι ϲον τον ϊχθυν κ(αι) εξελε την χολην και την καρδιαν και το ηπαρ αυτου και αποθεϲ αυτα μετα ϲαυτου και τα εγκατα εκβαλε εϲτιν γαρ ειϲ φαρ μακον χρηϲιμον η χολη και η καρ δια και το ηπαρ αυ του",
+          "translation": "The angel said, 'Cut the fish open and take out its gall, heart, and liver. Set them aside, but discard the entrails, for its gall, heart, and liver are useful as medicine.'",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και αναϲχι> ϲαϲ το παιδαριον τον ϊχθυν ϲυνη γαγεν την χολην και την καρδιαν > και το ηπαρ και ω πτηϲεν του ϊχθυ οϲ και εφαγεν και αφηκεν εξ αυτου ηλιϲμενον ˙",
+          "translation": "The boy cut open the fish and collected its gall, heart, and liver. He roasted some of the fish and ate it, and set some aside salted. They continued together until they approached Media.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ε πορευθηϲαν αμ> φοτεροι κοινωϲ εωϲ ηγγιϲαν ειϲ μηδιαν",
+          "translation": "The boy asked the angel, 'Brother Azariah, what medicine is in the fish's heart, liver, and gall?'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και τοτε ηρωτηϲ ε το παιδαριον τον αγγελον και ειπεν αυτω αζαρια αδελ φε τι το φαρμακ ο εν τη καρδια και τω ηπατι του ϊχθυοϲ και εν τη χολη",
+          "translation": "He said, 'If you burn the heart and liver of the fish as incense before a man or woman troubled by a demon or evil spirit, the affliction will flee and never return.'",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ειπεν αυτω η καρ δια την καρδιαν και το ηπαρ αυ του του ϊχθυοϲ καπνι ϲον καπνιϲαι ενωπιον αν θρωπου η γυναι κοϲ ω απαντημα δαιμονιου η πνϲ πονηρου και φευ ξεται απ αυτου > παν απαντημα κ(αι) ου μη μεινωϲιν με τ αυτου ειϲ τον αιω να",
+          "translation": "'As for the gall, anoint the eyes of a person with white films, blow on the films, and the eyes will be healed.'",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και η χολη ενχρει ϲαι ανθρωπου ο> φθαλμουϲ ὁυ λευ κωματα ανεβηϲ α επ αυτων εμφυ ϲηϲαι επ αυτουϲ ε πι των λευκωμα των και ϋγιαινου ϲιν:",
+          "translation": "When they entered Media and approached Ecbatana,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και οτε ειϲηλ θεν ειϲ μηδειαν κ(αι) ηδη ηγγιζεν ειϲ εκβατανων",
+          "translation": "Raphael said to the boy, 'Brother Tobias.' He answered, 'Here I am.' Raphael said, 'Tonight we must stay at the house of Raguel. He is your relative, and he has a daughter named Sarah.'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "λεγει ραφαηλ τω παιδα ριω τωβεια αδελ φε και ειπεν αυτω ιδου εγω και ειπ ε αυτω εν τοιϲ ρα> γουηλου την νυ κτα ταυτην δει η μαϲ αυλιϲθηναι και ο ανθρωποϲ ϲυγγενηϲ ϲου ε> ϲτιν και εϲτιν αυ τω θυγατηρ η ονο μα ϲαρρα",
+          "translation": "'He has no son or daughter except Sarah alone. You are her closest relative, more than any other man. You have the right to inherit her and to marry her. Ask her father for her, and he will give her to you as a wife.'",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ϋϊοϲ > αρϲην ουδε θυγατηρ υπαρχει αυτω πλ η ϲαρραϲ μονηϲ και ϲυ εγγιϲτα αυτηϲ ει παρα πανταϲ > ανθρωπουϲ κλη ρονομηϲαι αυτ η και τα οντα τω > πατρι αυτηϲ ϲοι δικαιουται κληρο νομηϲαι και το κο ραϲιον φρονιμ ο και ανδρειον και > καλον λειαν και ο πατηρ αυτηϲ κα λοϲ",
+          "translation": "'Then, according to the law of Moses, the marriage is valid. The Father in heaven will grant it. Raguel cannot refuse to give her to you, for no other man is entitled.'",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και ειπεν δε δικαιωται ϲοι λα> αυτην και α κουϲον μου αδελ φε και λαληϲω τω πατρι περι του κο ραϲιου την νυκτα ταυτην ϊνα λημ ψομεθα ϲοι αυτην νυμφην και οτ α επιϲτρεψωμεν εκ ραγουηλ ποιηϲο μεν τον γαμον αυ τηϲ και επιϲταμαι οτι ου μη δυνηθη ραγουηλ κωλυϲαι αυτην απο ϲου η εγγυαϲθαι ετερω οφειληϲιν θανα τον κατα την κριϲ ι τηϲ βιβλου μωυϲε ωϲ και δια το γινω ϲκειν οτι ϲυ κλη> ρονομια καθηκει λαβειν αυτην την την θυ γατερα αυτου πα> ρα παντα ανθρωπ ο και νυν ακουϲον μου αδελφε και λα ληϲωμεν περι του κοραϲιου την νυ κτα ταυτην και > μνηϲτευϲομεθα ϲοι αυτην και οτ α επιϲτρεψωμεν εκ ραγων λημψομε θα αυτην και απα ξωμεν αυτην μεθʼ ημων ειϲ τον οικ ο ϲου",
+          "translation": "Tobias said to Raphael, 'Brother Azariah, I have heard that she has already been given to seven husbands and they died in the bridal chamber. No one could approach her because the demon killed them.'",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "τοτε αποκριθειϲ τω βειαϲ ειπεν τω ρα φαηλ αζαρια αδελ φε ηκουϲα οτι ε> πτα ηδη εδθη εδοθη αν δραϲιν και απεθα νον εν τοιϲ νυμ φωϲιν αυτων τ η νυκτα οποτε ειϲε πορευοντο προϲ αυτην και απεθνη ϲκον και ηκουϲα λεγοντων αυτ ω οτι δαιμονιον α ποκτεννει αυτουϲ",
+          "translation": "'Now I am afraid. The demon does not harm her, but it kills any man who tries to approach her. I am my father's only child. I am afraid I might die and bring my father and mother down to Hades in grief over me. They have no other son to bury them.'",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και νυν φοβουμαι εγω οτι αυτην ουκʼ αδικει αλλ οϲ αν θε ληϲη εγγιϲαι αυτηϲ αποκτεννει αυτ ο μονογενηϲ ειμι τω πατρι μου μη α ποθανω και κατα ξω την ζωην του πατροϲ μου και τηϲ μητροϲ μου μετ ο δυνηϲ επ εμοι ειϲ τον ταφον αυτ ω και υϊοϲ ετεροϲ ουκ υπαρχει αυτοιϲ ϊνα θαψη αυτουϲ",
+          "translation": "Raphael said, 'Do you not remember your father's command to take a wife from your father's house? Now listen to me, brother. Do not worry about the demon. Take her.'",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και λεγει αυτω ου > μεμνηϲαι ταϲ εν τολαϲ του πατροϲ ϲου οτι ενετειλατο ϲοι λαβειν γυναι κα εκ του οικου του πατροϲ ϲου και ν υ ακουϲον μου αδελ φε και μη λογον ε χε του δαιμονιου τουτου και λαβε κ(αι) γινωϲκω εγω οτι την νυκτα ταυτ η δοθηϲεται ϲοι γυνη",
+          "translation": "'When you enter the bridal chamber, take some of the fish's liver and heart and place them on the incense embers. The smell will spread, and the demon will smell it, flee, and never come near her again.'",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και οταν ειϲελθηϲ ειϲ τον νυμφωνα λαβε εκ του ηπα> τοϲ του ϊχθυοϲ κ(αι) την καρδιαν και επιθεϲ επι την τε φραν των θυμια ματων και η οϲμη πορευϲεται και ο ϲφρανθηϲεται το δαιμονιον και φευ ξεται και ουκετι μη φανη περι αυ την τον παντα αιωνα",
+          "translation": "'Before you consummate the marriage, both of you must get up and pray, asking the Lord of heaven to show you mercy and salvation. Do not be afraid. She was destined for you from eternity. You will save her, and she will go with you. I presume you will have children by her.'",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και οταν > μελληϲ γινεϲθαι μετ αυτηϲ εξεγερ θητε πρωτον αμ φοτεροι και προϲ ευξαϲθε και δεη θητε του κυ του ουρανου ϊνα ελε οϲ γενηται και ϲω τηρια εφ υμαϲ κ(αι) μη φοβου ϲοι γαρ εϲτιν μεμεριϲμε νη προ ου του αιωνοϲ και ϲυ αυτην ϲω ϲειϲ και μετα ϲου πορευϲεται και ϋ πολαμβανω οτι εϲονται ϲοι εξ αυ τηϲ παιδια και εϲ ο ται ϲοι ωϲ αδελφοι μη λογον εχε",
+          "translation": "When Tobias heard Raphael's words and learned she was his relative from his father's family, he loved her deeply and was completely drawn to her.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και οτε ηκουϲεν > τωβειαϲ των λογ ω ραφαηλ και οτι εϲτ ι αυτω αδελφη εκ του ϲπερματοϲ του οικου του πατροϲ αυτου λειαν ηγα> πηϲεν αυτην και η καρδια αυτου ε κολληθη ειϲ αυτ η",
+          "translation": "When Tobias heard Raphael's words and learned that she was his relative from his father's family, he loved her very much and his heart was drawn to her.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και οτε ειϲηλθεν ειϲ εκβατανα λε> γει αυτω αζαρια αδελφε απαγαγε με ευθειαν προϲ ραγουηλ τον αδελ φον ημων και α πηγαγεν αυτον ειϲ τον οικον ρα γουηλου και ευρ ο αυτον καθημεν ο παρα την θυραν > τηϲ αυληϲ και εχαι ρετιϲαν αυτον > πρωτοι και ειπ ε αυτοιϲ χαιρετε > πολλα αδελφοι και καλωϲ ηλθα> τε ϋγιαινοντεϲ και ηγαγεν αυτουϲ ειϲ τον οικον αυ του",
+          "translation": "When they entered Ecbatana, Tobias said, 'Brother Azariah, take me straight to our brother Raguel.' So he brought him to Raguel's house, and they found him sitting at the courtyard gate. They greeted him first.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ειπεν εδνα τη γυναικι αυτου ωϲ ομοιοϲ ο νεα νιϲκοϲ ουτοϲ τω βια τω αδελφω μου",
+          "translation": "Raguel said to his wife Edna, 'This young man looks just like my brother Tobit!'",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ηρωτηϲεν αυ τουϲ εδνα και ειπ ε αυτοιϲ ποθεν εϲτε αδελφοι και ειπαν αυτη εκ των υϊων νεφθα λειμ ημειϲ των > αιχμαλωτιϲθεν των εν νινευη",
+          "translation": "Edna asked them, 'Where are you from, brothers?' They said, 'We are from the tribe of Naphtali, among the captives of Nineveh.'",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ειπεν αυτοιϲ > γινωϲκετε τωβε ι τον αδελφον ημ ω και ειπαν αυτη γι νωϲκομεν ημειϲ αυτον ·",
+          "translation": "She said, 'Do you know our brother Tobit?' They said, 'We know him.'",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ειπεν > αυτοιϲ υγιαινει · και ειπαν αυτη ϋγι αινει και ζη και ει πεν τωβειαϲ ο π η ρ μου εϲτιν",
+          "translation": "She said, 'Is he well?' They said, 'He is alive and well.' Tobias said, 'He is my father.'",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ανε πηδηϲεν ραγουηλ και κατεφιληϲεν αυτον και εκλαυ ϲεν και ελαληϲεν και ειπεν αυτω ευ λογια ϲοι γενοιτο παιδιον ο του κα λου και αγαθου π ρ ϲ ω ταλαιπωρων > κακων οτι ετυ> φλωθη ανηρ δικαι οϲ και ποιων ελε ημοϲυναϲ και επι πεϲων επι τον τρα χηλον τωβεια του αδελφου αυτου ε κλαυϲεν",
+          "translation": "Raguel jumped up and kissed him and wept. He said, 'Blessings on you, my child! Your father is a good and noble man. What a tragedy that such a righteous and charitable man should go blind!' He fell on the neck of his brother Tobias and wept.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και εδνα η γυνη αυτου εκλαυ ϲεν αυτον και ϲαρ ρα η θυγατηρ αυτ ω εκλαυϲεν και αυτη",
+          "translation": "His wife Edna wept over him, and their daughter Sarah also wept.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και εθυϲεν κρει ο εκ προβατων και ϋπεδεξατο αυτουϲ προθυμωϲ",
+          "translation": "Raguel killed a ram from the flock and warmly welcomed them.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και ο τε ελουϲαντο και ενιψαντο και ανε πεϲαν δειπνηϲαι ειπεν τωβειαϲ τω ραφαηλ αζαρια α δελφε ειπον ραγου ηλ οπωϲ δω μοι > ϲαρραν την αδελ φην μου",
+          "translation": "After they washed and bathed and sat down to dinner, Tobias said to Raphael, 'Brother Azariah, ask Raguel to give me my sister Sarah.'",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ηκου ϲεν ραγουηλ τον λογον και ειπεν τω παιδι φαγε και πιε και ηδεωϲ γενου την νυκτα ταυτ η ου γαρ εϲτιν ανοϲ ω καθηκει λαβειν ϲαρραν την θυγατε ρα μου πλην ϲου > αλελφε ωϲαυτωϲ δε και εγω ουκ εχω εξουϲιαν δουναι αυτην ετερω αν> δρι πλην ϲου οτι ϲυ εγγιϲτα μου και μα λα την αληθειαν ϲοι υποδειξω παι διον",
+          "translation": "Raguel heard this and said to the young man, 'Eat, drink, and enjoy yourself tonight. No one except you, brother, has the right to take my daughter. I cannot give her to any other man, for you are my closest relative. But I must tell you the truth, my child.'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "εδωκα αυτ η ζ ανδραϲιν των α δελφων ημων κ(αι) παντεϲ απεθαν ο την νυκτα οποτε ειϲεπορευοντο > προϲ αυτην και ν υ παιδιον φαγε και πιε και κϲ ποιηϲει εν υμιν",
+          "translation": "'I have given her to seven husbands of our brothers, and they all died on the night they approached her. Now, my child, eat and drink. The Lord will act on your behalf.'",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ειπεν τωβειαϲ ου μη φαγω εντευ θεν ουδε μη πιω πι [1 chars] > εωϲ αν διαϲτηϲηϲ τα προϲ εμε και ειπεν αυτω ρα> γουηλ οτι ποιω κ(αι) αυτη διδοται ϲοι κατα την κριϲιν τηϲ βιβλου μωϋϲε ωϲ και εκ του ουρα νου κεκριται ϲοι > δοθηναι κομιζου την αδελφην ϲου · απο του νυν ϲυ α> δελφοϲ ει αυτηϲ και αυτη αδελφη ϲου δεδοται ϲοι α πο τηϲ ϲημερον > και ειϲ τον αιωνα και ο κϲ του ουρανου ευοδωϲει υμαϲ > παιδιον την νυ> κτα ταυτην και ποι εφ υμαϲ ελεοϲ και ειρηνην",
+          "translation": "Tobias said, 'I will neither eat nor drink until you settle this matter with me.' Raguel said, 'I will do it. According to the law of Moses, she is given to you. Heaven has ordained that you take her. Take your sister.'",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και εκαλεϲεν ραγου ηλ ϲαρραν την θυ γατερα αυτου και > ηλθεν προϲ αυτον και λαβομενοϲ τηϲ χειροϲ αυτηϲ παρε δωκεν αυτην αυ τω και ειπεν κομι ϲε κατα τον νομ ο και κατα την κριϲ ι την γεγραμμενην εν τη βιβλω μωϋ ϲεωϲ δουναι ϲοι τ η γυναικα εχε και α> παγε προϲ τον πα τερα ϲου ϋγιαιν ω και ο θϲ του ουρα νου ευοδωϲαι ϋμ ι ειρηνην",
+          "translation": "Raguel called his daughter Sarah, and she came. He took her hand and gave her to Tobias, saying, 'Take her. According to the law of Moses, take her as your wife. Lead her safely to your father.' And he blessed them.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και εκαλεϲεν την μητερα αυτηϲ και ειπεν ενεγκειν βι βλιον και εγραψ ε ϲυνγραφην βιβλιου ϲυνοικηϲεωϲ και ωϲ διδωϲιν αυτ η αυτω γυναικα κα τα την κριϲιν του μωυϲεωϲ νομου απ εκεινου ηρξαν το φαγειν και πε ι",
+          "translation": "He called her mother and told her to bring writing materials. He wrote a marriage contract, stating that he gave her to him as wife according to the law of Moses.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και εκαλεϲεν ραγου ηλʼ εδναν την γυ ναικα αυτου και > ειπεν αυτη αδελ φη ετοιμαϲον το ταμειον το ετερ ο και ειϲαγαγε αυτ η εκει",
+          "translation": "Afterward, they began to eat and drink.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και βαδιϲαϲα εϲτρωϲεν ειϲ το ταμειον ωϲ ειπ ε αυτη και ηγαγεν αυτην εκει και ε> κλαυϲεν περι αυ> τηϲ και απεμαξατο τα δακρυα και ειπ ε αυτη",
+          "translation": "Raguel called his wife Edna and said, 'Sister, prepare the other bedroom and lead her there.'",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "θαρϲει θυγα τερ ο κϲ του ουρανου δωη ϲοι χαραν αν τι τηϲ λυπηϲ ϲου θαρϲει θυγατερ κ(αι) εξηλθεν",
+          "translation": "She did as he said and led her there. Sarah wept, but Edna wiped away her tears and said:",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και οτε ϲυνετελε ϲαν το του φαγειν κ(αι) πειν ηθεληϲαν > κοιμηθηναι και απηγαγον τον νε ανιϲκον και ειϲη γαγον αυτον ειϲ το ταμιον ˙",
+          "translation": "After they finished eating and drinking and wanted to sleep, they led the young man into the bedroom.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ε> μνηϲθη τωβειαϲ των λογων ραφαηλ και ελαβεν το ηπαρ του ϊχθυοϲ και τ η καρδιαν εκ του βαλ λαντιου ου ειχεν και επεθηκεν ε πι την τεφραν > του θυμιαματοϲ",
+          "translation": "Tobias remembered Raphael's words. He took the fish's liver and heart from his bag and placed them on the incense embers.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και η οϲμη του ϊ χθυοϲ εκωλυϲεν και απεδραμεν το δαιμονιον ανω ειϲ τα μερη αιγυ> πτου και βαδιϲαϲ ραφαηλ ϲυνεπο διϲεν αυτον εκει και επεδηϲεν πα ραχρημα παρ̣ραχρημα παραχρημα",
+          "translation": "The smell of the fish drove the demon away, and it fled to the remotest parts of Egypt. Raphael bound it there and subdued it immediately.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και εξηλ θον και απεκλει ϲαν την θυραν > του ταμειου και ηγερθη τωβειαϲ απο τηϲ κλεινηϲ και ειπεν αυτη α δελφη αναϲτηθι προϲευξωμεθα κ(αι) δεηθωμεν του > κυ ημων οπωϲ > ποιηϲη εφ ημαϲ ελεοϲ και ϲωτη ριαν",
+          "translation": "Then they went out and closed the bedroom door. Tobias rose from the bed and said to Sarah, 'Get up, sister. Let us pray and ask the Lord to grant us mercy and salvation.'",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ανεϲτη και ηρξαντο προϲ ευχεϲθαι και δεη θηναι οπωϲ γενη ται γγενηται αυτοιϲ ϲωτηρια και ηρξατο λεγειν ευλογητοϲ ει ο θϲ > των πατερων η μων και ευλογη τον το ονομα ϲου ειϲ πανταϲ τουϲ αιωναϲ τηϲ γενε αϲ ˙ ευλογηϲατω ϲαν ϲε οι ουρανοι και παϲα η κτιϲιϲ ϲου ειϲ πανταϲ τουϲ αιωναϲ ˙",
+          "translation": "She got up, and they began to pray and ask for deliverance. He began to say: 'Blessed are you, God of our fathers, and blessed is your name forever. Let the heavens and all your creation bless you forever.'",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ϲυ εποιη ϲαϲ τον αδαμ και εποιηϲαϲ αυτω βο ηθον ϲτηριγμα ευαν την γυναικα αυτου και εξ αμφο τερων εγενηθη το ϲπερμα των αν θρωπων και ϲυ ει παϲ οτι ου καλον ειναι τον ανθρω πον μονον ποι ηϲωμεν αυτω βο ηθον ομοιον αυ τω",
+          "translation": "'You made Adam and gave him Eve as a helper and support. From the two of them came the human race. You said, \"It is not good for man to be alone; let us make a helper like him.\"'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και νυν ουχι δια πορνιαν εγω λαμβανω την α δελφην μου ταυ την αλλ επ αλη> θειαϲ ˙ επιταξον ελεηϲαι με και αυ την και ϲυνκατα γηραϲαι κοινωϲ ˙",
+          "translation": "'Now, Lord, I do not take this sister of mine out of lust, but in truth. Command that she and I may grow old together.'",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ειπαν μεθ εαυ των αμην αμην",
+          "translation": "They both said together, 'Amen, amen.'",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και εκοιμηθηϲ α την νυκτα",
+          "translation": "Then they slept through the night.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και αναϲταϲ ραγου ηλ εκαλεϲεν τουϲ οικεταϲ μεθ εαυτου και ωχοντο και ωρυξαν ταφον ειπεν γαρ μηποτε αποθανη και γενω μεθα καταγελωϲ και ονειδιϲμοϲ",
+          "translation": "Raguel got up and called his servants. They went and dug a grave, for he said, 'Perhaps he has died, and we will become an object of mockery and ridicule.'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και οτε ϲυνετελε ϲαν ορυϲϲοντεϲ τον ταφον ηλθ ε ραγουηλ ειϲ τον οι κον ˙ και εκαλεϲ ε την γυναικα αυ του",
+          "translation": "When they finished digging the grave, Raguel went into the house and called his wife.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ειπεν απο ϲτειλον μιαν τ ω παιδιϲκων και ειϲ ελθουϲα ϊδετω ει ζη και ει τεθνηκ ε οπωϲ αν θαψω μεν αυτον οπωϲ μηδειϲ γνω",
+          "translation": "He said, 'Send one of the maids to see if he is alive, so we can bury him if he is dead, and no one will know.'",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και απεϲτειλαν την παιδιϲκην κ(αι) ηψαν τον λυχν ο και ηνοιξαν τ η θυραν και ειϲηλ θεν και ευρεν αυ τουϲ καθευδον ταϲ και ϋπνουν ταϲ κοινωϲ",
+          "translation": "The maid lit a lamp, opened the door, and went in. She found them sleeping together.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ε ξελθουϲα η παιδι ϲκη ϋπεδειξεν αυ τοιϲ οτι ζη και ου κακον εϲτιν",
+          "translation": "She came out and told them, 'He is alive, nothing is wrong!'",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ευλογηϲαν τ ο θν του ουρανου και ειπαν ευλογη τοϲ ει θεε εν παϲη ευλογια καθαρα ευλογειτωϲαν ϲε ειϲ πανταϲ τουϲ αιωναϲ",
+          "translation": "They blessed the God of heaven, saying: 'Blessed are you, God, with every pure blessing. Let them bless you forever.'",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ευλο γητοϲ ει οτι ευφρα ναϲ με και ουκ εγε νετο καθωϲ ϋπε νοουν αλλα κατα το πολυ ελεοϲ ϲου εποιηϲαϲ μεθ η μων",
+          "translation": "'Blessed are you, for you have brought me joy. It has not happened as I feared, but you have dealt with us according to your great mercy.'",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και ευλογη> τοϲ ει οτι ηλεηϲαϲ δυο μονογενειϲ ποιηϲον αυτοιϲ δεϲποτα ελεοϲ κ(αι) ϲωτηριαν και ϲ υ τελεϲον την ζω η αυτων μετ ευφρο ϲυνηϲ και ελεου",
+          "translation": "'Blessed are you, for you have shown mercy to two only children. Grant them, Master, mercy and salvation, and bring their lives to completion in joy and mercy.'",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "τοτε ειπεν τοιϲ οι κεταιϲ αυτου χω ϲαι τον ταφον προ του ορθρον γενε ϲθαι:",
+          "translation": "Then Raguel told his servants to fill in the grave before dawn.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και τη γυναι κι ειπεν ποιηϲαι αρτουϲ πολλουϲ > και ειϲ το βουκολι ον βαδιϲαϲ ηγαγ ε βοαϲ δυο και κριουϲ τεϲϲαρεϲ και ειπ ε ϲυντελειν αυτουϲ και ηρξαντο παρα ϲκευαζειν",
+          "translation": "He told his wife to bake many loaves. He went to the herd and brought two oxen and four rams and told them to prepare a feast.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και εκαλεϲεν τωβει αν και ειπεν αυτω δεκα τεϲϲαρων η μερων ου μη κει νηθηϲ εντευθ ε αλλ αυτου μενειϲ εϲθων και πειν ω παρ εμοι και ευφρα νειϲ την ψυχην τηϲ θυγατροϲ μου την κατωδυνω μενην",
+          "translation": "He called Tobias and said, 'You must not leave here for fourteen days. Stay and eat and drink with me, and cheer up my daughter's distressed soul.'",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και οϲα > μοι ϋπαρχει λαμ βανε αυτοθεν το ημιϲυ και ϋπαγε ϋ γιαινων προϲ τ ο πατερα ϲου και το αλλο ημιϲυ οταν αποθανω εγω τε και η γυνη μου ϋ μετερον εϲτιν > θαρϲει παιδιον ε γω ϲου ο πατηρ κ(αι) εδνα η μητηρ ϲου και παρα ϲου εϲμ ε ημειϲ και τηϲ αδελ φηϲ ϲου απο του νυν εϲμεν ειϲ τ ο αιωνα θαρϲει παι διον",
+          "translation": "'Take half of everything I own and go in peace to your father. The other half will be yours when I and my wife die.'",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "τοτε εκαλεϲεν τω βειαϲ ραφαηλ και ειπεν αυτω",
+          "translation": "Tobias called Raphael and said to him:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "αζαρια αδελφε παραλαβε μετα ϲεαυτου τεϲ ϲαρεϲ οικεταϲ και καμηλουϲ δυο και πορευθητι ειϲ ρα γαϲ και ηκε παρα γα βαηλω και δοϲ αυ τω το χειρογραφ ο κ(αι) κομιϲε το αργυρι ον και παραλαβε αυτον μετα ϲου > ειϲ τουϲ γαμουϲ",
+          "translation": "'Brother Azariah, take four servants and two camels and go to Rages. Go to Gabael, give him the bond, and get the silver. Bring him back to the wedding.'",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "",
+          "translation": "The text is fragmentary here.",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Fragmentary, text unclear.",
+              "id": "tob-9-3-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "original": "ϲυ γαρ γινωϲκειϲ οτι εϲται αριθμ ω ο πατηρ ταϲ ημε ραϲ και εαν χρονι ϲω ημεραν μιαν λυπηϲω αυτον λει αν και θεωρειϲ τι ωμοϲεν ραγουηλ και ου δυναμαι πα ραβηναι τον ορκ ο αυτου",
+          "translation": "'You know that my father is counting the days, and if I delay even one day, I will grieve him deeply. You see what Raguel has sworn, and I cannot break his oath.'",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και επορευθη ραφα ηλ και οι τεϲϲαρεϲ οικεται και αι δυο καμηλοι ειϲ ραγαϲ τηϲ μηδιαϲ και η ϋλιϲθηϲαν παρα γαβαηλω και εδω κεν αυτω το χει ρογραφον αυτου και ϋπεδειξεν αυ τω περι τωβειου του υϊου τωβειθ οτι ελαβεν γυναι κα και οτι καλει αυ τον ειϲ τον γαμ ο και αναϲταϲ παρη ριθμηϲεν αυτω τα θυλακια ϲυν > ταιϲ ϲφραγιϲιν κ(αι) ϲυνεθηκαν αυτα",
+          "translation": "Raphael went with the four servants and two camels to Rages of Media and stayed with Gabael. He gave him the bond, and Gabael gave him the bags of silver sealed with the signet ring.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ωρθριϲαν κοι> νωϲ και ειϲηλθ ο ειϲ τον γαμον κ(αι) ειϲηλθον ειϲ τα ραγουηλ και ευρ ο τωβειαν ανακει μενον και ανε> πηδηϲεν και ηϲπα ϲατο αυτον και ε κλαυϲεν και ευλο γηϲεν αυτον και ειπεν αυτω καλε και αγαθε ανδροϲ καλου και αγαθου δικαιου και ελεη μοποιου δωη ϲοι κϲ ευλογιαν ουρα νου και τη γυναι κι ϲου και τω π ρ ι ϲου και τη μητρι τηϲ γυναικοϲ ϲου ευλογητοϲ ο θϲ οτι ειδον τωβειν τ ο ανεψιον μου ομοι ον αυτω:",
+          "translation": "They got up early and went together to the wedding feast. When they arrived at Raguel's, they found Tobias reclining at table. He jumped up and greeted Gabael, who wept and blessed him.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "εκαϲτ η δε ημεραν εξ ημε ραϲ ελογιζετο τω βειθ ταϲ ημεραϲ ε ποϲαιϲ πορευϲεται και εν ποϲαιϲ επι ϲτρεψει και οτε > ϲυνετελεϲθηϲ α αι ημεραι και ο υϲ αυτου ου παρην",
+          "translation": "Day by day, Tobit calculated the time needed for the journey and the return. When the days were completed and his son had not arrived,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ειπεν μηποτε κα τεϲχεθη εκει η μη ποτε απεθανεν ο γαβαηλ και ουδειϲ αυτω διδωϲιν το αργυριον",
+          "translation": "he said, 'Perhaps he has been detained there, or perhaps Gabael has died and no one gives him the silver.'",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ηρξα το λυπειϲθαι ˙",
+          "translation": "He began to grieve.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και αννα η γυνη αυ του λεγει απωλε το το παιδιον μου και ουκετι ϋπαρ> χει εν τοιϲ ζωϲιν και ηρξατο κλαιε ι και θρηνειν περι του υϊου αυτηϲ και ειπεν",
+          "translation": "His wife Anna said, 'My child has perished and is no longer among the living.' She began to weep and mourn for her son.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ουαι μοι τεκνον οτι αφη κα ϲε πορευθηναι το φωϲ των οφθαλ μων μου",
+          "translation": "'Woe to me, my child! Why did I let you go, you light of my eyes?'",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και τωβειθʼ ελεγεν αυτη ϲειγα μη λο γον εχε αδελφη > ϋγιαινει και μαλα > περιϲπαϲμοϲ αυτοιϲ εγενετο εκει και ο ανθρωποϲ ο πορευ θειϲ μετ αυτου πι ϲτοϲ εϲτιν και ειϲ των αδελφων ημ ω μη λυπου περι αυ> του αδελφη ηδη > παρεϲται ˙",
+          "translation": "Tobit would say to her, 'Be quiet, sister. Do not worry. He is well. They must have had some business there. The man who went with him is trustworthy and a relative. Do not grieve over him, sister. He will be here soon.'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ειπεν αυτω ϲειγα απ εμου και μη με πλανα απωλετο το παιδιον μου και εκπηδηϲαϲα πε ριεβλεπετο την > οδον η ωχετο ο ϋϊοϲ αυτηϲ καθ η μεραν και ουκ ε> πειθετο ουδενι και οτε εδυ ο ηλιοϲ ειϲπορευομενη εθρηνει και εκλαι εν την νυκτα ο λην και ουκ ειχ ε ϋπνον",
+          "translation": "But she would answer, 'Leave me alone. Do not deceive me. My child is dead.' Every day she would rush out to watch the road by which her son had left. She would not listen to anyone.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και οτε ϲυνετελε ϲθηϲαν αι δεκα > τεϲϲαρεϲ ημεραι του γαμου αϲ ωμο ϲεν ραγουηλ ποι> ηϲαι τη θυγατρι > αυτου ειϲηλθεν προϲ αυτον τωβει αϲ και ειπεν εξαπο ϲτειλον με γινω ϲκω γαρ εγω οτι ο πατηρ μου και η > μητηρ μου ου πι ϲτευουϲιν οτι ο> ψονται με ετι και νυν αξιω ϲε π ε ρ > οπωϲ εξαποϲτει ληϲ με και πορευθω προϲ τον π ρ α μου ηδη ϋπεδειξα ϲοι ωϲ αφηκα αυτ ο",
+          "translation": "When the fourteen days of the wedding feast that Raguel had sworn to keep for his daughter were completed, Tobias went to him and said, 'Send me away, for my father and mother have given up hope of ever seeing me again.'",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και ειπεν ραγουηλ τω τωβεια μειν ο παιδιον μεινον μετ εμου και εγω αποϲτελλω αγγε λουϲ προϲ τωβειν τον πατερα ϲου κ(αι) ϋποδειξουϲιν αυ> τω περι ϲου και ειπεν αυτω μη δαμωϲ αξιω ϲε οπωϲ εξαποϲτειληϲ με εντευθεν προϲ > τον πατερα μου",
+          "translation": "Raguel said to Tobias, 'Stay with me, my child. I will send messengers to your father Tobit to tell him you are well.'",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και αναϲταϲ ραγου ηλ παρεδωκεν τω βεια ϲαρραν την > γυναικα αυτου κ(αι) το ημιϲυ παντ ω των ϋπαρχοντ ω αυτω παιδαϲ και > παιδιϲκαϲ βοαϲ κ(αι) προβατα ονουϲ > και καμηλουϲ ϊμα τιϲμον και αργυρι ο και ϲκευη",
+          "translation": "But Tobias said, 'No. Send me back to my father.'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και εξα πεϲτειλεν αυτουϲ ϋγιαινονταϲ και ηϲπαϲατο αυτον και ειπεν αυτω ϋ γιαινε παιδιον ϋ γιαινων υπαγε ο κϲ του ουρανου ευοδωϲαι ϋμαϲ και ϲαρραν την γυναι κα ϲου και ϊδοιμι ϋ μων παιδια προ του αποθανειν με",
+          "translation": "So Raguel gave Tobias his wife Sarah and half of everything he owned, slaves, cattle, money, and goods.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ειπεν ϲαρρα τη θυ γατρι αυτου ϋπα γε προϲ τον πεν> θερον ϲου οτι απο του νυν αυτοι γο νειϲ ϲου ωϲ οι γ ε νηϲαντεϲ ϲε βαδι ζε ειϲ ειρηνην > θυγατερ ακουϲαι μι ϲου αγαθην ακο ην εωϲ ζω ˙ και απʼ αϲπαϲμενοϲ α πελυϲεν αυτουϲ",
+          "translation": "He blessed them and sent them off, saying, 'May the Lord of heaven give you success, my children, before I die.'",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και εδνα λεγει τω βια τεκνον και α δελφε ηγαπημε νε αποκαταϲτη> ϲαι ϲε κϲ και ϊδοι μι ϲου τεκνα εωϲ ζω και ϲαρραϲ τηϲ θυγατροϲ μου προ του με αποθανε ι ενωπιον του κυ παρατιθεμαι ϲοι την θυγατερα μου εν παραθηκη μη λυπηϲηϲ αυτην παϲαϲ ταϲ ημεραϲ τηϲ ζωηϲ ϲου παι διον ειϲ ειρηνην απο του νυν εγω ϲου μητηρ και ϲαρ ρα αδελφη ευοδω θειημεν παντεϲ εν τω αυτω παϲαϲ ταϲ ημεραϲ εν τη ζωη ημων και > κατεφιληϲεν αμ φοτερουϲ και απε ϲτειλεν ϋγιαιν ο ταϲ:",
+          "translation": "He said to his daughter Sarah, 'Go to your father-in-law, for from now on they are your parents as much as those who gave you birth. Go in peace. I hope to hear good reports about you while I live.' He kissed them and sent them away.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και απηλθεν τωβι αϲ απο ραγουηλ ϋ γιαινων και χαι ρων και ευλογ ω τω κω του ουρα νου και τηϲ γηϲ τω βαϲιλει των > παντων οτι ευ οδωκεν την ο> δον αυτου και ει πεν αυτω ευοδω θη ϲοι τιμαν αυ τουϲ παϲαϲ ταϲ η μεραϲ τηϲ ζωηϲ αυτων",
+          "translation": "Edna said to Tobias, 'Beloved child and brother, may the Lord bring you back. May I live to see your children by my daughter Sarah before I die. I entrust my daughter to you. Do not cause her grief.' Tobias accepted this from his mother-in-law. He kissed her and left.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ωϲ ηγγιϲαν ειϲ καϲερειν η εϲτιν κατεναντι νινευη ειπεν ραφαηλʼ",
+          "translation": "As they approached Kaserin, which is opposite Nineveh, Raphael said:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ϲυ γινωϲκειϲ πωϲ α φηκαμεν τον πα τερα ϲου",
+          "translation": "\"You know how we left your father.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "προδραμω μεν τηϲ γυναικοϲ ϲου και ετοιμαϲω μεν την οικιαν εν ω ερχονται",
+          "translation": "'Let us run ahead of your wife and prepare the house while the others are coming.'",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "κ(αι) επορευθηϲαν αμ φοτεροι κοινωϲ και ειπεν αυτω λα βε μετα χειραϲ τ η χολην και ϲυνηλ θεν αυτοιϲ ο κϲ εκ των οπιϲω αυτου και του υϊου αυτηϲ",
+          "translation": "So both of them went together, and Raphael said, 'Take the gall in your hand.' The dog ran behind them.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και αννα εκαθητο περιβλεπομενη την οδον του ϋϊου αυτηϲ",
+          "translation": "Anna was sitting watching the road for her son.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και προϲε νοηϲεν αυτον ερ χομενον και ειπ ε τω πατρι αυτου ϊ δου ο ϋϊοϲ ϲου ερχε ται και ο ανθρωποϲ ο πορευθειϲ μετ αυ του:",
+          "translation": "She saw him coming and said to his father, 'Look, your son is coming, along with the man who went with him.'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ραφαηλ ειπεν > τωβεια προ του εγ γιϲαι αυτον προϲ τον επιϲτα μαι οτι οι οφθαλ μοι αυτου ανεω χθηϲονται",
+          "translation": "Raphael said to Tobias, 'Before he approaches, know that your father's eyes will be opened.'",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ενπλα ϲον την χολην > του ϊχθυοϲ ειϲ τουϲ οφθαλμουϲ αυτου και αποϲτυψει το φαρμακον και απο λεπιϲει τα λευκω ματα απο των ο> φθαλμων αυτου και αναβλεψει ο πατηρ ϲου και ο ψεται το φωϲ:",
+          "translation": "'Smear the fish's gall on his eyes. The medicine will sting and peel the white films from his eyes, and your father will regain his sight.'",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και ανεδραμεν και επε πεϲεν επι τον τρα χηλον του υϊου αυ τηϲ και ειπεν αυ τω ειδον ϲε παιδι ο απο του νυν απο θανουμαι και εκλαυ ϲεν",
+          "translation": "Anna ran and threw her arms around her son's neck and said, 'I have seen you, my child! Now I am ready to die.' And she wept.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ανεϲτη τω βειϲ και προϲεκο πτεν τοιϲ ποϲιν και εξηλθεν τ η θυραν τηϲ αυληϲ",
+          "translation": "Tobit got up and stumbled toward the courtyard door.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και εβαδιϲεν τωβει αϲ προϲ αυτον και η χολη του ϊχθυ οϲ εν τη χειρι αυ του και ενεφυϲη ϲεν ειϲ τουϲ οφθαλ μουϲ αυτου και ε λαβετο αυτου και ειπεν θαρϲει π ε ρ και επεβαλεν το > φαρμακον επ αυτ ο και επεδωκεν",
+          "translation": "Tobias went to him with the fish's gall in his hand. He blew into his eyes and took hold of him and said, 'Take courage, father.' Then he applied the medicine and waited.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και απελεπιϲεν εκατε ραιϲ ταιϲ χερϲιν αυ του απο των κανθ ω των οφθαλμων αυτου",
+          "translation": "With both hands he peeled away the white films from the corners of his eyes.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και επεϲεν επι τον τραχηλον αυτου και εκλαυϲ ε και ειπεν αυτω ει δον ϲε τεκνον το φωϲ των οφθαλ> μων μου",
+          "translation": "Tobit fell on his son's neck and wept. He said, 'I see you, my child, light of my eyes!'",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ειπ ε ευλογητοϲ ο θϲ κ(αι) ευλογητον το ο νομα το μεγα αυ του και ευλογημε νοι παντεϲ οι αγ γελοι οι αγιοι αυτου γενοιτο το ονο μα το μεγα αυτου εφ ημαϲ και ευλο γητοι παντεϲ οι αγ γελοι ειϲ πανταϲ > τουϲ αιωναϲ οτι αυ τοϲ εμαϲτειγωϲεν με και ϊδου βλεπω τωβειαν τον υϊον μου:",
+          "translation": "He said: 'Blessed be God! Blessed be his great name! Blessed be all his holy angels! May his great name be upon us! Blessed be all his angels forever!'",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ειϲηλθεν τω> βειαϲ χαιρων και ευλογων τον θν εν ολω τω ϲωματι αυτου και επεδει ξεν τωβειαϲ τω > πατρι αυτου οτι ευοδωθη η οδοϲ αυτου και οτι ενη νοχεν αργυριον και ωϲ ελαβεν ϲαρ ραν την θυγατερα ραγουηλ γυναικα και οτι ϊδου παρα γινεται και εϲτιν ϲυνεγγυϲ τηϲ πυ ληϲ νινευη",
+          "translation": "Tobias went in rejoicing and blessing God with his whole being. He told his father that his journey had been successful, that he had brought the silver, that he had married Sarah daughter of Raguel, and that she was approaching the gate of Nineveh.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ε ξηλθεν ειϲ απαν τηϲιν τηϲ νυμφηϲ αυτου χαιρων και ευλογων τον προϲ την πυλην νινευη ˙ και ϊδον τεϲ αυτον οι εν > νινευη πορευο μενον και διαβαι νοντα αυτον πα ϲη τη ϊϲχυει αυτου και ϋπο μηδενοϲ χειραγωγουμεν ο εθαυμαϲαν και τωβειθ εξωμο λογειτο εναντι ο αυτων οτι ηλεη ϲεν αυτον ο θϲ κ(αι) οτι ηνοιξεν τουϲ οφθαλμουϲ αυ> του",
+          "translation": "Tobit went out to meet his daughter-in-law at the gate of Nineveh, rejoicing and blessing God. When the people of Nineveh saw him walking with all his strength, they were amazed.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και ηγγιϲεν τωβειθ ϲαρρα τη γυναικι τωβια του υϊου αυτου > και ευλογηϲεν αυ την και ειπεν αυ τη ειϲελθοιϲ υγι αινουϲα θυγατερ και ευλογητοϲ ο θϲ ϲου οϲ ηγαγεν ϲε προϲ ημαϲ θυ> γατερ και ευλογη μενοϲ ο πατηρ ϲου κ(αι) η μηρ ϲου και ευλογημενοϲ τωβειαϲ ο ϋιοϲ μου και ευλογημενη ϲυ θυγατερ ειϲελ θε ειϲ την οικιαν ϲου ϋγιαινουϲα εν ευλογια και χα ρα ειϲελθε θυγατερ",
+          "translation": "Tobit blessed Sarah, his son's wife, and said to her, 'Welcome, daughter! Blessed be your God who has brought you to us, my daughter. Blessed be your father and your mother. Blessed be my son Tobias. Blessed be you, my daughter. Enter your home in good health, with blessing and joy. Enter, my daughter.'",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "εν τη ημερα ταυτη εγενετο χαρα πα ϲιν τοιϲ ϊουδαιοιϲ τοιϲ ουϲιν εν νι νευη",
+          "translation": "On that day there was great joy among all the Jews in Nineveh.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και παρεγε νοντο αχεικαρ αχειαχαροϲ > και ναβαδʼ οι εξαδελ φοι ο εξαδελφοϲ αυτου χαιρ ο τεϲ χαιρ ο τεϲ προϲ τωβειν",
+          "translation": "Ahikar and his nephew Nadab came rejoicing to Tobit's house.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και οτε επετελεϲθη > ο γαμοϲ εκαλεϲ ε τωβειθ τωβειαν τον υϊον αυτου και ειπεν αυτω > παιδιον ορα δου ναι τον μιϲθον τω ανθρωπω τω πορευθεντι με> τα ϲου προϲθειναι αυτω ειϲ τον μι ϲθον ·",
+          "translation": "When the wedding was over, Tobit called his son Tobias and said to him, 'My child, see that you pay the wages to the man who went with you, and add something extra.'",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ειπεν αυτω πατερ ποϲ ο αυτω δωϲω τον μιϲθον ου βλαπτο μαι διδουϲ αυτω το ημιϲυ των ϋ παρχοντων ω ενηνοχεν μετʼ εμου",
+          "translation": "Tobias said, 'Father, how much should I give him? It would not hurt me to give him half of everything he brought back with me.'",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "εμε αγιοχ ε ϋγιαινοντα ˙ και την γυναικα μου εθεραπευϲεν · κ(αι) το αργυριον ηνεγ κεν μετ εμου κ(αι) ϲε εθεραπευϲεν ποϲον αυτω ετι δω μιϲθον",
+          "translation": "'He brought me back safely. He healed my wife. He brought the silver with me. He healed you. How much extra should I give him?'",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ειπεν αυτω τω βειϲ δικαιουται αυ τω [1 chars] τω παιδιον λαβε ι το ημιϲυ παντ ω ων εχων ηλθεν",
+          "translation": "Tobit said, 'My child, he deserves to receive half of everything he brought.'",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και εκαλεϲεν αυτ ο και ειπεν λαβε το ημιϲυ παντων ω εχων ηλθεϲ ειϲ τον μιϲθον ϲου > και ϋπαγε ϋγιαιν ω :",
+          "translation": "So Tobias called Raphael and said, 'Take half of everything you brought back as your wages, and go in peace.'",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "τοτε εκαλεϲεν τουϲ δυο κρυπτωϲ και ειπεν αυτοιϲ τον θν ευλογειτε · και αυτω εξομολο γειϲθε ενωπιον παντων των ζ ω των α εποιηϲεν μεθ υμων αγαθα του ευλογειν και ϋμνειν το ονο> μα αυτου · τουϲ λο γουϲ του θυ ϋπο δικνυτε παϲιν α θρωποιϲ εντιμωϲ · και μη οκνειτε εξο μολογειϲθαι αυτω · +",
+          "translation": "Then Raphael called the two of them privately and said: 'Bless God and give thanks to him in the presence of all the living for the good he has done for you. Bless and sing praise to his name.'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "μυϲτηριον βαϲι λεωϲ κρυπτειν καλον · τα δε εργα του θυ εξομολογει ϲθαι και ανακαλυ πτειν ˙ και εξομο λογειϲθε εντιμωϲ · το αγαθον ποιειτε και κακον ουχ ευ> ρηϲει ϋμαϲ ·",
+          "translation": "'It is good to keep the secret of a king, but to reveal and confess the works of God is honorable. Do good, and evil will not overtake you.'",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "αγαθ ο προϲευχη μετα α ληθειαϲ . και ελεη> μοϲυνη μετα δι καιοϲυνηϲ μαλλ ο η πλουτοϲ μετα α δικιαϲ ˙ καλον ποι ηϲαι ελεημοϲυν η μαλλον η θηϲαυρι ϲαι χρυϲιον ˙",
+          "translation": "'Prayer with truth is good, and almsgiving with righteousness is better than wealth with injustice. It is better to give alms than to store up gold.'",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ελεημο ϲυνη εκ θανατου ρυεται ˙ και αυτη α> ποκαθαιρει παϲ α αμαρτιαν ˙ οι ποιο υ τεϲ ελεημοϲυν η χορταϲθηϲονται ζωηϲ ·",
+          "translation": "'Almsgiving rescues from death and purges every sin. Those who give alms will be satisfied with life.'",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "οι ποιουν τεϲ αμαρτιαν και αδικιαν πολεμιοι ειϲιν τηϲ εαυτων ψυχηϲ ˙",
+          "translation": "'Those who commit sin and injustice are enemies of their own souls.'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "παϲαν τ η αληθειαν ϋμιν > ϋποδειξω . και ου μη κρυψω αφ υμ ω παν ρημα ηδη ϋ μιν ϋπεδειξα και ειπον ˙ μυϲτηρι ο βαϲιλεωϲ καλον > κρυψαι · και τα εργα του θυ ανακαλυπτε ι ενδοξωϲ ˙",
+          "translation": "'I will tell you the whole truth and hide nothing from you. I have already told you: it is good to keep the secret of a king, but the works of God are to be revealed with honor.'",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και νυν οτε προϲηυξω και ϲαρρα εγω προϲηγα γον το μνημοϲυ νον τηϲ προϲευ χηϲ υμων ενωπι ον τηϲ δοξηϲ κυ και οτε εθαπτεϲ τουϲ νεκρουϲ ωϲαυ τωϲ",
+          "translation": "'Now, when you and Sarah prayed, I brought the remembrance of your prayer before the glory of the Lord. When you buried the dead, I was with you.'",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και οτε ουκ ω κνηϲαϲ αναϲτη> ναι και καταλιπε ι ϲου το αριϲτον και ωχου και περιεμ ϲτειλεϲ τον νεκρ ο τοτε απεϲταλμαι επι ϲε πειραϲαι ϲε",
+          "translation": "'When you did not hesitate to get up and leave your dinner to bury the dead, I was sent to test you.'",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και αμα απεϲταλ κεν με ο θϲ ϊαϲα> ϲθαι και ϲαρραν την νυμφην ϲου",
+          "translation": "'At the same time, God sent me to heal you and your daughter-in-law Sarah.'",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "εγ̣ω εγω ειμι ραφαηλ ειϲ των επτα αγ γελων οι παρεϲτη καϲιν και ειϲπο> ρευονται ενωπι ον τηϲ δοξηϲ",
+          "translation": "'I am Raphael, one of the seven angels who stand and enter before the glory of the Lord.'",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και εταραχθηϲαν οι δυο και επεϲαν επι προϲωπον > αυτων και εφο> βηθηϲαν",
+          "translation": "The two of them were shaken and fell on their faces, overcome with fear.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και ειπεν αυτοιϲ > μη φοβειϲθε ειρη νη ϋμιν τον θν ευλογειτε ειϲ παν τα τον αιωνα",
+          "translation": "Raphael said to them, 'Do not be afraid. Peace be with you. Bless God forever.'",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "εγω οτε ημην > μεθ υμων ουχι τη εμη χαριτι ημ η μεθ υμων αλλα > τη θεληϲει του θυ · αυτον ευλογειτε κατα παϲαϲ ταϲ η μεραϲ αυτω ϋμνει τε",
+          "translation": "'When I was with you, it was not by my own will but by God's will. Bless him all your days, sing praise to him.'",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και θεωρειτε με οτι ουκ εφαγον ουθεν αλλα ορα> ϲιϲ ϋμιν εθεωρει το ˙",
+          "translation": "'You saw that I ate nothing — it was only a vision you perceived.'",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και νυν ευλο γειτε επι τηϲ γηϲ κν και εξομολο γειϲθε τω θω ϊδου εγω αναβαι νω προϲ τον απο ϲτειλαντα με γραψατε παντα ταυτα τα ϲυμβαν τα ϋμιν και ανεβη: ‾̷‾",
+          "translation": "'Now bless the Lord on earth and give thanks to God. I am ascending to the one who sent me. Write down everything that has happened.'",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και ανεϲτηϲαν και ουκετι ηδυ ναντο ϊδειν αυτ ο",
+          "translation": "They stood up, but they could no longer see him.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "και ηυλογουν > και υμνουν τον θν . και εξωμολο γουντο αυτω επι τα εργα αυτου τα > μεγαλα ταυτα ωϲ ωφθη αυτοιϲ αγ γελοϲ θυ",
+          "translation": "They blessed and praised God, giving thanks for these great works, because an angel of God had appeared to them.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ειπ ε",
+          "translation": "Tobit said:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ευλογητοϲ ο θϲ ο ζων ειϲ τον αιω να και η βαϲιλεια αυτου οτι αυτοϲ μαϲτειγοι και ελεα καταγει εωϲ αδου κατωτατω τηϲ γηϲ και αυτοϲ ανα γει εκ τηϲ απωλει αϲ τηϲ μεγαληϲ κ(αι) ουκ εϲτιν ουδεν ο εκφευξεται τ η χειρα αυτου ˙",
+          "translation": "'Blessed be the living God forever, and his kingdom. For he scourges and shows mercy. He leads down to Hades, to the depths of the earth, and he brings up from the great destruction. Nothing escapes his hand.'",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "εξο> μολογειϲθε αυτω οι υϊοι ιϲλ ενωπι ο των εθνων οτι αυ τοϲ διεϲπειρεν ϋ μαϲ εν αυτοιϲ",
+          "translation": "'Give thanks to him, sons of Israel, in the presence of the nations, for he has scattered you among them.'",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και εκει ϋπεδειξεν υ μιν την μεγαλω ϲυνην αυτου και ϋψουτε αυτον ε> νωπιον παντοϲ ζωντοϲ καθοτι > αυτοϲ ημων κϲ ε ϲτιν και αυτοϲ θϲ ημων και αυτοϲ πατηρ ημων και > αυτοϲ θϲ ειϲ παν> ταϲ τουϲ αιωναϲ >",
+          "translation": "'There he showed you his greatness. Exalt him in the presence of every living being, for he is our Lord and God. He is our Father forever.'",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "μαϲτειγωϲει ϋμαϲ επι ταιϲ αδικιαιϲ υ μων και πανταϲ ϋμαϲ ελεηϲει εκ π α των των εθνων οπου αν διαϲκορ> πιϲθητε εν αυτοιϲ",
+          "translation": "'He will scourge you for your injustices, but he will have mercy on you all, from all the nations wherever you have been scattered.'",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "οταν επιϲτρεψη τε προϲ αυτον εν ολη τη καρδια ϋμ ω και εν ολη τη ψυ χη ϋμων ποιηϲαι ενωπιον αυτου αληθειαν τοτε ε πιϲτρεψει προϲ ϋ μαϲ και ου μη κρυ ψη το προϲωπον αυτου αφ υμων ουκετι ·",
+          "translation": "'When you turn to him with all your heart and all your soul, to do what is true before him, then he will turn to you and no longer hide his face from you.'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και νυν θε αϲαϲθε α εποιηϲ ε μεθ υμων και ε ξομολογηϲαϲθε αυτω εν ολω τω > ϲτοματι ϋμων > και ευλογηϲατε τ ο κν τηϲ δικαιοϲυνηϲ και ϋψωϲατε τον βαϲιλεα των αιων ω",
+          "translation": "'Now see what he has done for you, and give thanks to him with your whole mouth. Bless the Lord of righteousness and exalt the King of the ages.'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και παλιν η ϲκηνη ϲου οικοδομηθη ϲεται ϲοι μετα χα ραϲ",
+          "translation": "'Your tabernacle will be rebuilt for you with joy.'",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ευφραναι ε ϲοι πανταϲ τουϲ αι χμαλωτουϲ και α γαπηϲαι εν ϲοι παν ταϲ τουϲ ταλαιπω ρουϲ και παϲαϲ ταϲ γενεαϲ του αιωνοϲ",
+          "translation": "'He will rejoice over you. All your captives will be gathered. He will love all who are afflicted in you for all generations forever.'",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "φωϲ λαμπρον λαμ ψει ειϲ παντα τα πε ρατα τηϲ γηϲ εθνη πολλα μακροθεν και κατοικιει παν των των εϲχατ ω τηϲ γηϲ προϲ το ονο μα το αγιον ϲου κ(αι) τα δωρα αυτων εν ταιϲ χερϲιν αυτων εχοντεϲ τω βαϲιλει του ουρανου γενε αι γενεων δωϲου ϲιν εν ϲοι αγαλλια μα και ονομα τηϲ εκλεκτηϲ ειϲ ταϲ γενεαϲ του αιωνοϲ",
+          "translation": "'A bright light will shine to all the ends of the earth. Many nations will come to you from far away, from all the ends of the earth, to your holy name.'",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "επικαταρατοι π α τεϲ οι ερουϲιν λογ ο ϲκληρον επικατα ρατοι εϲονται παν τεϲ οι καθαιρουν> τεϲ ϲε και καταϲπ ω τεϲ τα τειχη ϲου και παντεϲ οι ανατρε ποντεϲ τουϲ πυρ> γουϲ ϲου και εμπυ ριζοντεϲ ταϲ οικη ϲειϲ ϲου και ευλο> γητοι εϲονται π α τεϲ ειϲ τον αιωνα οι φοβουμενοι ϲε",
+          "translation": "'Cursed are all who speak a harsh word against you. Cursed are all who tear you down and destroy your walls. Blessed are all who build you up.'",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "τοτε πορευθητι και αγαλλιαϲαι προϲ τουϲ υϊουϲ των δικαι ω οτι παντεϲ επιϲυνα χθηϲονται και ευ λογηϲουϲιν τον κν του αιωνοϲ · μακαριοι οι αγαπ ω τεϲ ϲε και μακαριοι οι χαρηϲονται επι τη ειρηνη ϲου ˙",
+          "translation": "'Then rejoice and be glad for the sons of the righteous, for they will all be gathered together and bless the Lord of the ages. The blessed will love you.'",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και μακαριοι παν τεϲ οι ανθρωποι οι επι ϲοι λυπηθη ϲονται επι παϲαιϲ ταιϲ μαϲτιξιν ϲου οτι εν ϲοι χαρηϲ ο ται και οψονται πα ϲαν την χαραν ϲου ειϲ τον αιωνα η ψυ χη μου ευλογει > τον κν τον βαϲιλεα τον μεγαν",
+          "translation": "'Blessed are all who grieve over all your afflictions, for they will rejoice in you and see all your joy forever.'",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "οτι ϊε ρουϲαλημ οικοδο τη πο λει οικοϲ αυτου ειϲ πανταϲ τουϲ αιω ναϲ μακαριοϲ εϲο μαι αν γενηται το καταλιμμα του > ϲπερματοϲ μου ϊ δειν την δοξαν ϲου και εξομολογηϲα ϲθαι τω βαϲιλει του ουρανου και αι θυ ραι ϊερουϲαλημʼ ϲαπφειρω και ϲμα ραγδω οικοδομη θηϲονται και λι> θω τιμιω παντα τα τειχη ϲου οι πυρ γοι ϊερουϲαλημʼ χρυϲιω οικοδομη θηϲονται και οι προμαχωνεϲ αυ των χρυϲιω καθα ρω αι πλατειαι ιλμ ανθρακι ψηφολο γηθηϲονται και λι θω ϲουφειρ",
+          "translation": "'For Jerusalem will be built as his house for all the ages. How blessed I will be if the remnant of my seed remains to see your glory and praise the King of heaven!'",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και αι θυραι ϊερουϲαλημ ωδαϲ αγαλλιαματοϲ ερουϲιν και παϲαι αι οικιαι αυτηϲ ε> ρουϲιν αλληλουϊα ευλογητοϲ ο θϲ του ιϲλ και ευλογητοι ευλογηϲουϲιν το ονομα το αγιον ειϲ τον αιωνα και ετι",
+          "translation": "'The gates of Jerusalem will sing hymns of joy, and all her houses will sing, \"Alleluia!\" Blessed be the God of Israel, and the blessed will bless his holy name forever.'",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ϲυνετελεϲθη ϲαν οι λογοι τηϲ ε ξομολογηϲεωϲ τωβειθ",
+          "translation": "The words of Tobit's thanksgiving were completed.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και απεθα νεν εν ειρηνη ετ ω εκατον δωδεκα κ(αι) εταφη ενδοξωϲ εν νινευη και ξβ ετων ην οτε εγενε το αναπειροϲ τοιϲ οφθαλμοιϲ και με τα το αναβλεψαι αυ τον εζηϲεν εν αγα θοιϲ και ελεημοϲυ ναϲ εποιηϲεν και ετι προϲεθετο ευλογειν τον θν και εξομολογειϲθαι την μεγαλωϲυν η του θυ :",
+          "translation": "He died in peace at the age of one hundred twelve and was buried honorably in Nineveh. He was sixty-two years old when he lost his sight, and after his recovery he lived in prosperity, giving alms and always blessing God.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και οτε απε θνηϲκεν ‾̷‾ εκαλεϲ ε τωβειαν τον υϊον αυτου και ενετει λατο αυτω λεγων παιδιον απαγαγε > τα παιδια ϲου",
+          "translation": "When he was dying, he called his son Tobias and commanded him, saying: 'My child, take your children.'",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και α ποτρεχε ειϲ μηδει αν οτι πιϲτευω ε γω τω ρηματι του θυ επι νινευη α ελαληϲεν ναουμ οτι παντα εϲται > και απαντηϲει ε πι αθηρ και νινευη και οϲα ελαληϲαν οι προφηται του ι ϲ λ ουϲ απεϲτειλ ε ο θϲ παντα απαντη ϲει και ου μηθεν μη ουθεν ε λαττονωθη εκ π α των των ρηματ ω και παντα ϲυμβη ϲεται τοιϲ καιροιϲ αυτων και εν τη μηδεια εϲται ϲω τηρια μαλλον ηπερ εν αϲϲυριοιϲ και ε βαβυλωνι διο γινω ϲκω εγω και πιϲτευ ω οτι παντα α ειπ ο θϲ ϲυντελεϲθη ϲεται και εϲται και ου μη διαπεϲη ρη μα εκ των λογων και οι αδελφοι ημ ω οι κατοικουντεϲ εν τη γη ιϲ λ παντ ω λογιϲθηϲονται κ(αι) αιχμαλωτιϲθηϲ ο ται εκ τηϲ γηϲ τηϲ αγαθηϲ και εϲται παϲα η γη του ιϲλ ε ρημοϲ και ϲαμαρια και ιλμ εϲται ερη μοϲ και ο οικοϲ του θυ εν λυπη και καυ θηϲεται μεχρι χρο νου",
+          "translation": "'Hurry away to Media, for I believe the word of God against Nineveh, which Nahum spoke. Everything will come to pass. Everything will overtake Assyria and Nineveh. Everything the prophets of Israel spoke will come. Not a single word will fail.'",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και παλιν ελε ηϲει αυτουϲ ο θϲ κ(αι) επιϲτρεψει αυτουϲ ο θϲ ειϲ την γην > του ιϲλ και παλιν οικοδομηϲουϲιν τον οικον και ουχ ωϲ τον πρωτον εωϲ του χρονου ου αν πληρωθη ο χρονοϲ των καιρων και με τα ταυτα επιϲτρε ψουϲιν εκ τηϲ αιχμα λωϲιαϲ αυτων π α τεϲ και οικοδομη ϲουϲιν ι λ μ εντι μωϲ και ο οικοϲ του θυ εν αυτη οικοδο μηθηϲεται καθωϲ ελαληϲαν περι αυ τηϲ οι προφηται του ι ϲ λ",
+          "translation": "'God will again have mercy on them and bring them back to the land of Israel. They will rebuild the temple, but not like the first, until the time is fulfilled.'",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και παντα τα εθνη τα εν ολη τη γη παντεϲ επι ϲτρεψουϲιν και > φοβηθηϲονται > τον θν αληθινωϲ και αφηϲουϲιν π α τεϲ τα ειδωλα αυτ ω τουϲ πλανωνταϲ ψευδη την πλανη ϲιν αυτων και ευ λογηϲουϲιν τον θ ν του αιωνοϲ ε δικαιοϲυνη",
+          "translation": "'All the nations throughout the whole earth will turn and fear God in truth. They will all abandon their idols, which deceived them into false worship. They will bless the God of the ages in righteousness.'",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "παν τεϲ οι ϋϊοι του ιϲλ οι ϲωζομενοι εν ταιϲ ημεραιϲ εκει ναιϲ μνημονευ οντεϲ του θυ εν α ληθεια επιϲυνα χθηϲονται και η ξουϲιν ειϲ ιλμ κ(αι) οικηϲουϲιν τον αιωνα εν τη γη > αβρααμ μετα αϲφα λειαϲ και παραδο θηϲεται αυτοιϲ και χαρηϲονται οι αγαπωντεϲ τ ο θν επ αληθειαϲ και οι ποιουντεϲ την αμαρτιαν και την αδικιαν εκλι ψουϲιν απο παϲηϲ τηϲ γηϲ",
+          "translation": "'All the sons of Israel who are saved in those days, remembering God in truth, will be gathered together. They will go to Jerusalem and dwell forever in the land of Abraham. It will be given to them. Those who love God in truth will rejoice.'",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "",
+          "translation": "(Text fragmentary)",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "Fragmentary.",
+              "id": "tob-14-8-missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "και νυν παιδια ε γω ϋμιν εντελλο μαι δουλευϲατε τω θω εν αληθεια και ποιηϲατε το α ρεϲτον ενωπιον αυτου και τοιϲ > παιδιοιϲ ϋμων ενϋποταγηϲεται ποιειν δικαιοϲυ νην και ελεημο ϲυνην και ϊνα ω ϲιν μεμνημενοι του θυ και ευλογω ϲιν το ονομα αυτου εν παντι καιρω εν αληθεια και ολη τη ϊϲχυει αυτων και νυν ϲυ παιδι ο εξελθε εκ νινευη και μη μεινηϲ ω δε εν η αν ημερα θαψηϲ την μητε ρα ϲου μετ εμου αυτη τη ημερα μη αυλιϲθηϲ εν τοιϲ οριοιϲ αυτηϲ ορω γαρ οτι πολλη αδι> κια εν αυτη και δο λοϲ πολυϲ ϲυντε λειτε εν αυτη και ουκ αιϲχυνονται",
+          "translation": "'Now, my children, I command you: serve God in truth and do what is pleasing before him. Let your children be taught to do righteousness and give alms, to remember God and bless his name at all times.'",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ϊδε παιδιον οϲα να δαβʼ εποιηϲεν αχει καρω τω εκθρεψ α τι αυτον ουχι ζ ω κατηνεχθη ειϲ την γην και απεδω κεν ο θϲ την ατιμι αν κατα ποϲωπ ο προϲωπ ο αυτου και εξηλθ ε ειϲ το φωϲ αχικαροϲ και ναδαβ ειϲηλθ ε ειϲ το ϲκοτοϲ του αιωνοϲ οτι εζητη ϲεν αποκτειναι α χεικαρον εν τω ποι ηϲαι με ελεημο> ϲυνην εξηλθεν > εκ τηϲ πακιδοϲ παγιδοϲ του θανατου ην επη ξεν αυτω ναδαβ και ναδαβ επεϲεν ειϲ την πακιδα παγιδα του θανατου και απω λεϲεν αυτον",
+          "translation": "'Look, my child, at what Nadab did to Ahikar who raised him. Was he not brought down to the earth alive? God repaid the dishonor to his face. Ahikar came into the light, but Nadab entered the eternal darkness because he tried to kill Ahikar. Because he gave alms, he escaped the deadly trap that Nadab had set for him. Nadab fell into it and was destroyed.'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και > νυν παιδια ϊδετε τι ποιει ελεημοϲυ νη και τι ποιει αδι κια οτι αποκτεννει και ϊδου η ψυχη > μου εκλιπει και εθηκαν αυτ ο επι την κλινην και απεθανεν και εταφη ενδοξωϲ",
+          "translation": "'Now, my children, see what almsgiving does, and what injustice does — it kills. My life is fading away.' They laid him on the bed and he died. He was buried honorably.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και οτε απεθαν ε η μητηρ αυτου εθα ψεν αυτην τωβει αϲ μετα του πατροϲ αυτου και απηλθ ε αυτοϲ και η γυνη αυτου ειϲ μηδει α και ωκηϲεν εν εκ βατανοιϲ μετα ρα γουηλου του πεν θερου αυτου",
+          "translation": "When his mother died, Tobias buried her beside his father. Then he, his wife, and his children departed for Media and settled in Ecbatana with Raguel, his father-in-law.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και εγηροβοϲκηϲεν αυτουϲ εντιμωϲ και εθαψεν αυτουϲ εν εκβατανοιϲ > τηϲ μηδειαϲ και ε κληρονομηϲεν την οικιαν ραγου ηλου και τωβειθ > του πατροϲ αυτου",
+          "translation": "He treated his parents-in-law with honor in their old age and buried them in Ecbatana of Media. Tobias inherited the house of Raguel and of Tobit.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και απεθανεν ε των εκατον δεκα επτα ενδοξωϲ",
+          "translation": "He died at the age of one hundred seventeen, honored.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "κ(αι) ειδεν και ηκουϲ ε προ του αποθα νειν αυτον την απωλιαν νινευη και ειδεν την αι χμαλωϲιαν αυ> τηϲ αγομενην > ειϲ μηδειαν ην ηχμαλωτιϲεν α χιαχαροϲ ναβουχοδονοϲορ κ(αι) αϲουηροϲ ο βαϲι> λευϲ τηϲ μηδιαϲ και ευλογηϲεν τον θν εν παϲιν οιϲ εποιηϲεν ε> πι τουϲ ϋϊουϲ νι νευη και αθουρειαϲ αϲυεροϲ ε χαρη πριν του α> ποθανειν επι νι νευη και ευλογη ϲεν κν τον θν > ειϲ τουϲ αιωναϲ των αιωνων αμ η : ⌇﹏",
+          "translation": "Before he died, he saw and heard of the destruction of Nineveh. He saw its captivity being led into Media by the king of Media. He rejoiced over Nineveh before he died. Blessed be God forever.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "book": "Leviticus",
+  "slug": "leviticus",
+  "chapters": [
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 27,
+          "original": "ϲεται αυτουϲ ενο χοι ειϲιν ·",
+          "translation": "...they shall be guilty.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ειπεν κϲ προϲ μωυϲην λεγων ειπον τοιϲ ϊερευϲ ι τοιϲ υϊοιϲ ααρων λεγων και ερειϲ προϲ αυτουϲ εν ταιϲ εν ταιϲ ψυχαιϲ ου μιανθηϲονται ε τω εθνει αυτων",
+          "translation": "The Lord said to Moses, \"Speak to the priests, the sons of Aaron, and say to them: No one shall defile himself for a dead person among his people,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "α̣λλ η εν τω οικω οικιω τω εγγιϲτα αυτ ω επι πατρι αυτου και μη τρι αυτου κα̣ι επι υϊοιϲ αυτου κ̣αι̣ θ̣ υγα τ̣ραϲιν ε π αυτου επ αδελ̣φω̣",
+          "translation": "except for his close relatives: his mother, his father, his son, his daughter, and his brother,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "κ̣α̣ι̣ ε π αδελφη̣ π̣αρθε νω τη εγγιζουϲη αυτω τη μ̣η α̣νδρι ε πι τουτο̣ι̣ϲ μιαν θηϲε̣ται",
+          "translation": "and for his virgin sister who is near to him, who has not had a husband—for her he may defile himself.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ου μιαν θηϲεται εξαπινα εν τω λαω αυτου ειϲ βεβηλ̣ωϲιν αυτου",
+          "translation": "He shall not defile himself suddenly among his people, to profane himself.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "κ α ι̣ φαλα κρωμα ου ξυρη θηϲεϲθαι την κε φαλην επι νεκρω και την οψ ιν του πωγωνοϲ̣ ο υ̣ ξυ ρηθηϲονται ξυρηϲονται και επι ταϲ ϲαρκαϲ αυ των ου κατατεμου ϲιν εντομιδαϲ",
+          "translation": "They shall not shave bald patches on their heads for the dead, nor shall they shave the edge of their beard, nor make cuts in their flesh.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "α γιοι εϲονται τω θω αυτων και ου βεβηλωϲουϲιν το ονομα του θυ αυτων ταϲ γαρ θυ ϲιαϲ κυ δωρα τω του θυ αυτων αυτοι προϲφερουϲιν κ(αι) εϲονται αγιοι",
+          "translation": "They shall be holy to their God and not profane the name of their God, for they offer the Lord's offerings, the bread of their God. Therefore they shall be holy.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "γυναικα πορνην και βεβηλωμεν η ου λημψονται λημψενται λημψονται · και γυναικα εκβε βλημενην ϋπο ανδροϲ αυτηϲ ου λημψονται οτι αγι οϲ εϲτιν τω κω τω θω αυτου",
+          "translation": "They shall not take a woman who is a prostitute or profaned, nor shall they take a woman divorced from her husband, for the priest is holy to his God.",
+          "footnotes": [
+            {
+              "type": "variant",
+              "text": "The manuscript has repeated/corrected forms of 'they shall take' (λήμψονται).",
+              "id": "lev-21-7-variant"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "original": "και αγι αϲειϲ αυτον τα δω ρα κυ του θυ ϋμ ω ουτοϲ προϲφερει αγιοϲ εϲται ϲοι οτι αγι οϲ εγω κϲ ο αγιαζ ω αυτουϲ",
+          "translation": "You shall sanctify him, for he offers the bread of your God. He shall be holy to you, for I, the Lord who sanctifies you, am holy.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και θυγατηρ ανθρω που ϊερεωϲ εαν εκβεβηλωθη βεβηλωθη του εκπορνευϲαι το ονομα του πατροϲ αυτηϲ αυτη βεβη λοι επι πυροϲ κατα καυθ̣η̣ϲεται",
+          "translation": "If the daughter of a priest profanes herself by prostitution, she profanes the name of her father. She shall be burned with fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "κα ι ο ϊερευϲ ο μεγαϲ απο̣ των αδελφ ω αυτου του επικε χυμε̣ ν ου επι τη̣ν κεφ α λ̣ην του ελαι ου τ̣ο̣υ χυ και τετε λιωμενου ταϲ χειραϲ ενδυ ϲαϲθαι τα ϊματια την κεφαλην ου κ απομιτρωϲει αποκιδαρωϲει αποκιδαρωϲει και τα ϊματια αυτου ου δι αρρηξει",
+          "translation": "The high priest among his brothers, on whose head the anointing oil has been poured and who has been ordained to wear the garments, shall not uncover his head nor tear his garments.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "κ αι επι πα ϲη ψυχη τ ε τ̣ελευ τηκυϊα ουκ ειϲε λευϲεται επι πατρι αυτου ουδε επι μη τρι αυτου ου μιαν θηϲεται",
+          "translation": "He shall not go near any dead body, nor defile himself for his father or his mother.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και εκ τ ω αγιων ο̣υκ εξελευ ϲεται και ου βεβη λωϲει̣ τ̣ο ηγιαϲμεν ο του θυ αυτων αυτου οτι το αγιον ελαιον το χριϲτον του θυ επ αυτω εγ̣ω κϲ",
+          "translation": "He shall not leave the sanctuary nor profane the sanctuary of his God, for the consecration of the anointing oil of his God is upon him. I am the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ου τοϲ γυναικα παρθ̣ε̣ νον εκ του γενουϲ αυτου λημψεται",
+          "translation": "He shall take a wife who is a virgin from his own people.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "χηραν δε και εκβε και βεβηλωμενην και πορνην ταυ ταϲ ου λημψεται αλλ η παρθενον εκ του λαου γενουϲ αυτου λημψεται γυναι κα ·",
+          "translation": "He shall not take a widow, a divorced woman, a profaned woman, or a prostitute. He shall take a virgin from his own people as a wife.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ου βεβηλωϲι το ϲπερμα αυτου εν τω λαω αυτου εγω κϲ ο αγιαζ ω αυτον",
+          "translation": "He shall not profane his offspring among his people, for I am the Lord who sanctifies him.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ελαληϲεν ει̣πεν ει̣πεν κϲ προϲ μωυϲην λεγ ω",
+          "translation": "The Lord spoke to Moses, saying,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ειπον ααρων λεγων αν θρωποϲ εκ του γε νουϲ ϲου ειϲ ταϲ γε νεαϲ ϋμων τινι αν ῆ εν αυτω μω μοϲ ου προϲελευϲε ται προϲφερειν τα δωρα του θυ αυ του",
+          "translation": "\"Speak to Aaron, saying: No man from your descendants throughout your generations who has a blemish shall approach to offer the bread of his God.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "παϲ ανθρωποϲ ωϲ αν ῆ εν αυτω μωμοϲ ου προϲ ελε̣υϲεται ανθρω ποϲ̣ τυφλοϲ η χω λοϲ η κολοβοριν η ωτοτμητοϲ",
+          "translation": "No man who has a blemish shall approach—a blind man, a lame man, one with a mutilated nose or a disfigured face,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "η ανθρωποϲ ω εϲτ ι εϲται εν αυτω ϲυντριμ μα χειροϲ η ϲυν τριμμα ποδοϲ",
+          "translation": "or a man who has a broken hand or a broken foot,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "η κυρτοϲ η εφηλοϲ η πτιλλοϲ · τουϲ οφθαλμουϲ η αν θρωποϲ ω ο̣ϲ̣ ω αν ῆ εν αυτω ψωρα α γρια η λιχην η μο νορχιϲ",
+          "translation": "or a hunchback, or a man with a cataract, or a man with a disfigured eye, or a man with a malignant rash or scabs, or a man with crushed testicles.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "παϲ ανοϲ ω ε ϲτιν εν αυτω μω μοϲ εκ του ϲπερ ματοϲ ααρων του ϊερεωϲ ουκ εγγι ει του προϲενεγκ ι ταϲ θυϲιαϲ τω θω ϲου οτι μωμοϲ̣ ε̣ν αυτω τα δωρα του θυ αυτου ου προϲελευϲεται προϲ ενεγκειν",
+          "translation": "No man from the descendants of Aaron the priest who has a blemish shall come near to offer the Lord's offerings. Since he has a blemish, he shall not approach to offer the bread of his God.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "[1 chars] τα δωρα του θυ αυτου αγια τα αγια των αγιων · και απο των αγι ω φαγεται",
+          "translation": "He may eat the bread of his God, both the most holy and the holy things,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "πλην προϲ το καταπεταϲμα ου προϲελευϲεται και προϲ το θυϲι αϲτηριον ουκ εγ γιει οτι μωμον ε χει και ου βεβηλω ϲει το αγιον του θυ αυτου μου οτι εγω ειμι κϲ ο αγιαζ ω αυτουϲ ˙",
+          "translation": "but he shall not go near the veil nor approach the altar, because he has a blemish. He shall not profane my sanctuary, for I am the Lord who sanctifies them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και ελαληϲεν μω υϲηϲ προϲ ααρων και τουϲ υϊουϲ αυ του και προϲ παν ταϲ υϊουϲ ϊ η λ [1 chars]",
+          "translation": "So Moses spoke to Aaron and his sons and to all the sons of Israel.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ελαληϲεν κϲ προϲ μωϋϲην λε γων",
+          "translation": "The Lord spoke to Moses, saying,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ειπον ααρ ω και τοιϲ υϊοιϲ αυ του και προϲεχετω ϲαν απο των αγι ω των υϊων ϊ ϲ λ και ου βεβηλωϲουϲιν̣ το ονομα το αγι ον μου οϲα αυτοι α̣ γι α ζουϲιν μοι ε γω κϲ",
+          "translation": "\"Tell Aaron and his sons to be careful with the holy things of the sons of Israel, which they consecrate to me, so that they do not profane my holy name. I am the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ειπον αυτ̣ οιϲ ειϲ ταϲ γενε αϲ υ̣μ ω παϲ ανθρωποϲ οϲ α προελθη προϲελθη απο π α τοϲ του ϲπερματοϲ ϋμων προϲ τα α για οϲα αν αγιαζω ϲιν οι υϊοι ι ϲ λ τω κω και η ακαθαρ ϲια αυτου επ αυτω κ(αι) εξολοθρευθηϲε ται η ψυχη εκεινη απ εμου εγω κϲ ο θϲ ϋμων",
+          "translation": "Say to them: Throughout your generations, any man from among your descendants who approaches the holy things that the sons of Israel consecrate to the Lord while his uncleanness is upon him, that person shall be cut off from before me. I am the Lord your God.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ανθρωποϲ εκ ανο ϲ εκ του ϲπερματοϲ α αρων του ϊερεωϲ και ουτωϲ ουτοϲ η λεπρα λεπροϲ η γονορρυη γονορρυηϲ των αγιων ουκ εδεται εωϲ αν καθαριϲθη και ο απτομενοϲ παϲηϲ ακαθαρϲιαϲ ψυχηϲ η ανθρω ποϲ ω αν εξελθη εξ αυτου κοιτη ϲπερ ματοϲ",
+          "translation": "No man from the descendants of Aaron the priest who has leprosy or a discharge shall eat of the holy things until he is clean. Whoever touches anything made unclean by a dead person, or a man who has an emission of semen,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "η οϲτιϲ αν α ψηται παντοϲ ερ πετου ακαθαρτου ο μιανει αυτον η επανω επ ανω εν ω μι ανει αυτον κατα παϲαν ακαθαρϲι αν αυτου",
+          "translation": "or whoever touches any creeping thing that makes him unclean, or any person who makes him unclean, whatever his uncleanness—",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ψυχη η τιϲ εαν αψηται αυ των αυτου ακαθαρτοϲ εϲται εωϲ εϲπε ραϲ ουκ εδεται α πο των αγιων ε αν μη λουϲηται το ϲωμα αυτου ϋ δατι ϋδα",
+          "translation": "the person who touches any such thing shall be unclean until evening and shall not eat of the holy things unless he bathes his body in water.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και δυνη δυη ο η λιοϲ και καθαροϲ εϲται και τοτε φαγεται απο των αγιων οτι αρ τ̣οϲ αυτου εϲτε εϲτιν ·",
+          "translation": "When the sun sets he shall be clean, and afterward he may eat of the holy things, for they are his food.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "θνη ϲι μαιον και θηρι αλ ωτον ου φα γε ται θ̣νηϲιμα ιον μι ανθ̣ηναι αυτον εν αυτοιϲ . εγω κϲ ·",
+          "translation": "He shall not eat anything that dies naturally or is torn by wild animals, becoming unclean by them. I am the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και φυλαξονται τα φυλαγματα μου · ϊνα μη λαβωϲιν δι αυτα αμαρτιαν και αποθανωϲ ι δι αυτα εαν βεβη λωϲουϲιν αυτα ε γω κϲ ο θϲ ο αγια ζων αυτουϲ",
+          "translation": "They shall keep my charge, lest they bear sin for it and die because they profane it. I am the Lord who sanctifies them.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και παϲ αλλογε νηϲ ου φαγεται αγια παροικοϲ ϊερεωϲ η μιϲθωτοϲ ου φα γεται αγια :",
+          "translation": "No lay person shall eat the holy things. A sojourner of the priest or a hired servant shall not eat the holy things.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "εαν δε ϊερευϲ κτη ϲητε ψυχην εν κτητον αργυριου ουτοϲ τ ω αρτων αυτου και οι οικογενειϲ αυτου και ουτοι φαγονται των α γιων αυτου",
+          "translation": "But if a priest buys a slave with his money, that slave may eat of his bread, and those born in his house may eat of his bread.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και θυγατηρ αν θρωπου ϊερεωϲ εαν γενηται αν δρι αλλογενει αυτη των απαρ χων των αγι ω ου φαγεται",
+          "translation": "If a priest's daughter marries a layman, she shall not eat of the contribution of the holy things.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και θυγατηρ ι ερε ωϲ εαν γενηται χηρα η εκβεβλημε νη ϲπερμα δε μη ην η αυτη επανα ϲτρεψει επι τον οικον τον πατρι κον αυτηϲ κατα την νεοτητα αυτηϲ απο των αρτων του πατροϲ αυτηϲ φαγεται και παϲ αλλογενηϲ ο υ φα γεται απ αυτων",
+          "translation": "But if a priest's daughter becomes a widow or is divorced and has no child and returns to her father's house as in her youth, she may eat of her father's bread. But no lay person shall eat of it.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ο α νο ϲ οϲ αν φαγη αγια κατα α γνοιαν και προϲ θηϲει το επιπεμ πτον αυτου επ αυ το και δωϲει τω ι ερει το αγιον [1 chars] το αγιον",
+          "translation": "If a man eats a holy thing unintentionally, he shall add a fifth to its value and give the holy thing to the priest.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ου βεβηλουϲιν τα αγια των υϊων ι ϲλ α αυτοι αφαιρουϲ ι τω κω",
+          "translation": "They shall not profane the holy things of the sons of Israel, which they offer to the Lord,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και επαξου ϲιν εφ εαυτου εαυτουϲ α νομιαν πλημ μελιαϲ εν τω ε ϲθιειν αυτουϲ τα αγια των αγι ω αυτων οτι εγω κϲ ο αγια ζων αυτουϲ",
+          "translation": "and so bring upon themselves iniquity and guilt by eating their holy things. For I am the Lord who sanctifies them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και ελαληϲεν κϲ προϲ μωυϲην λεγων",
+          "translation": "The Lord spoke to Moses, saying,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "λαληϲον ααρων και τοιϲ υ ϊοιϲ αυτου και πα ϲη ϲυναγωγη ι ϲλ και ερειϲ προϲ αυ τουϲ · ανθρωποϲ ανθρωποϲ απο τ ω ϋϊων ι ϲ λ η των προϲηλυτων τ ω ϋϊων των προϲκει μενων προϲ αυ τουϲ εν ϊ ϲ λʼ οϲα οϲ αν προϲενεγκη τα δω ρα αυτου κατα πα ϲαν ομολογιαν αυτων η κατα παϲ α αιρεϲιν αυτων ο ϲα αν προϲενεγ κωϲιν τω θω κω ειϲ̣ ο̣ λοκαυτωμ̣α̣",
+          "translation": "\"Speak to Aaron and his sons and to all the congregation of Israel, and say to them: Any man from the house of Israel or from the sojourners in Israel who offers his offering, whether as a vow or as a freewill offering, which they offer to the Lord as a burnt offering,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "δεκτα ϋμειν αμωμα̣ αρ ϲενικα αρϲενια εκ των βου κολ̣ιων κα̣ι εκ τ ω προβατω ν και εκ των αιγων̣",
+          "translation": "it shall be acceptable for you—a male without blemish—from the cattle, the sheep, or the goats.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ο ϲα π α τα αν εχη μω̣μ ο εν αυτω ου π̣ροϲα ξουϲιν κω διοτι ου δεκτον εϲται υ μιν",
+          "translation": "You shall not offer anything that has a blemish, for it will not be acceptable for you.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και ανθρωποϲ οϲ αν πρ ο ϲενεγκη θυ ϲιαν̣ ϲ ωτηριου τω κω διαϲτιλαϲ ευ χην η κατα δι αιρεϲ ι αιρεϲ ι η εν ταιϲ εορταιϲ ϋ μων εκ των βου κολιων η εκ των προβατων αμω μον εϲται ειϲ δε κτον παϲ μωμοϲ ουκ εϲται εν αυτω",
+          "translation": "When a man offers a sacrifice of peace offering to the Lord to fulfill a vow or as a freewill offering from the herd or from the flock, it shall be without blemish to be accepted. There shall be no blemish in it.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "τυφλον ϲυντε τριμμενον η γλωϲ ϲοτμητον · η μυρ μηκιωντα η ψω ραγριωντα η λιχη ναϲ εχοντα ου προϲαξουϲιν ταυ τα τω κω και ειϲ καρ πωϲιν ολοκαρπωϲιν ου δωϲε τε επ απ αυτων επι το θυϲιαϲτηριον τω κω",
+          "translation": "You shall not offer to the Lord anything blind, injured, mutilated, having a wart, a malignant rash, or scabs. You shall not put any of these on the altar as a food offering to the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και μοϲχ ο η προβατον ωτοτ μητον η κολοβο κερκον ϲφαγια ποι ηϲειϲ αυτα ϲεαυτω ειϲ δε ευχην ϲου ου δεχθηϲεται",
+          "translation": "You may offer a bull or a lamb that has a limb too long or too short as a freewill offering, but for a vow it shall not be accepted.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "θλα διαν και εκτεθλιμ μενον και εκτο μιαν κ(αι) απεϲπαϲμε νον ου π̣ροϲ̣αξε ται αυτα τ̣ ω κ ω και επι τηϲ γ ηϲ υ̣μων ου ποιη̣ϲετε",
+          "translation": "You shall not offer to the Lord anything with testicles bruised, crushed, torn, or cut off. You shall not do this in your land.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "και εκ χειροϲ αλλογενουϲ ου προϲ̣οιϲεται τα δωρα του θυ υ μ ω απο παν̣τ̣ων του των οτι φθα̣ρτα φθα̣ρματα φθα̣ρματα εϲτ ι εν αυτοιϲ και μωμοϲ εν αυτοιϲ ου δεχθη ϲετε ταυ̣ τ α ϋμειν",
+          "translation": "Nor shall you offer as the bread of your God any of these things from a foreigner, because they are deformed and have a blemish. They shall not be accepted for you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "και ελαλ̣η̣ϲεν κϲ προϲ μω υ ϲην λεγων",
+          "translation": "The Lord spoke to Moses, saying,",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "μοϲχον η προβατ ο η αιγα ωϲ αν τεχθη κα ι εϲ τ̣αι επτα ημε ραϲ υ π̣ο την μητε ρα αυτο̣ υ τ̣η δε ημερα τη ογδοη και επεκει να δεχθηϲεται ειϲ δωρα καρπωμα τω κω",
+          "translation": "\"When a bull, a sheep, or a goat is born, it shall remain seven days with its mother, and from the eighth day onward it shall be acceptable as a food offering to the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "και μοϲχον και προ βατον αυτην και τα παι δια το παιδιον αυτηϲ ου ϲφα ξεται εν ημερα μια",
+          "translation": "You shall not slaughter a cow or a ewe and her young on the same day.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "εαν δε θυϲηϲ ευχ η θυϲιαν θυϲιαν ευχ η χαρμοϲυ νηϲ κω ειϲ δεκτον ϋμιν θυϲετε αυτο",
+          "translation": "When you sacrifice a thanksgiving offering to the Lord, you shall sacrifice it so that it may be acceptable for you.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "αυτη τη ημερα εκει νη ου βρωθηϲεται",
+          "translation": "It shall be eaten on that same day...",
+          "footnotes": [
+            {
+              "type": "missing-text",
+              "text": "The manuscript breaks off mid-verse.",
+              "id": "lev-22-30-missing-text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

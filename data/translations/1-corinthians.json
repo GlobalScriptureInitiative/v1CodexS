@@ -1,0 +1,2762 @@
+{
+  "book": "1 Corinthians",
+  "slug": "1-corinthians",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "παυλοϲ κλητοϲ απο ϲτολοϲ ιυ αυ χυ δια θε ληματοϲ θυ και ϲω ϲθενηϲ ο αδελφοϲ",
+          "translation": "Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "τη εκκληϲια του θυ τη ουϲη εν κοριν θω ηγιαϲμενοιϲ εν χω ιυ κλητοιϲ αγιοιϲ ϲυν παϲι τοιϲ επικαλουμενοιϲ το ονομα του κυ ημων ι υ χυ εν π α τι τοπω αυτων τε και ημων",
+          "translation": "To the church of God that is in Corinth — those sanctified in Christ Jesus, called to be holy, together with all those everywhere who call on the name of our Lord Jesus Christ, both their Lord and ours:",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "χαριϲ ϋμιν και ειρη νη απο θυ πρϲ ημ ω και κυ ιυ χυ",
+          "translation": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ευχαριϲτω τω θω μ(ου) παντοτε περι υ μ ω επι τη χαριτι του θυ τη δοθιϲη υ μιν ε χω ιυ",
+          "translation": "I always thank my God for you because of the grace of God that was given to you in Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "οτι εν παντι επλουτιϲθητε εν ε ν εν αυτω εν παντι λογω και παϲη γνω ϲει",
+          "translation": "For in him you have been enriched in every way — in all speech and all knowledge —",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "καθωϲ το μαρ τυριον του χυ εβε βαιωθη εν υμιν",
+          "translation": "just as the testimony about Christ was confirmed among you.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ωϲτε ϋμαϲ μη ϋϲτε ριϲθαι εν μηδενι χαριϲματι απεκδε χομενουϲ την α ποκαλυψιν του κυ ημων ιυ χυ",
+          "translation": "So you don't lack any spiritual gift as you eagerly wait for the revelation of our Lord Jesus Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "οϲ και βεβαιωϲει ϋμαϲ ε ωϲ τελουϲ ανεγ κλητουϲ εν τη η μερα του κυ ημ ω ιυ χυ οϲ και βεβαι ωϲει υ μαϲ εωϲ τε λουϲ ανεγκλητουϲ εν τη ημερα του κυ ημων ιυ χυ",
+          "translation": "He will also keep you firm to the end, so that you will be blameless on the day of our Lord Jesus Christ.",
+          "footnotes": [
+            {
+              "id": "1-corinthians-1-8-variant",
+              "text": "The manuscript appears to repeat this verse — a scribal duplication.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "πιϲτοϲ ο θϲ δι ου εκληθη τε ειϲ κοινωνιαν του υϊου αυτου ιυ χυ του κυ ημων",
+          "translation": "God is faithful, through whom you were called into fellowship with his Son, Jesus Christ our Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "παρακαλω δε υμαϲ αδελφοι δια του ο νοματοϲ του κυ η μων ιυ χυ ινα το αυτο λεγητε παν τεϲ και μη η εν υ μιν ϲχιϲματα ητε δε κατηρτιϲμενοι εν τω αυτω νοι κ(αι) εν τη αυτη γνωμη",
+          "translation": "I appeal to you, brothers and sisters, by the name of our Lord Jesus Christ, that all of you agree with one another and that there be no divisions among you, but that you be united in the same mind and the same purpose.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "εδηλωθη γαρ μοι περι ϋμων αδελ φοι μου ϋπο των χλοηϲ οτι εριδεϲ εν υμιν ειϲιν",
+          "translation": "For it has been reported to me about you, my brothers and sisters, by those from Chloe's household, that there are quarrels among you.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "λε γω δε τουτο οτι ε καϲτοϲ ϋμων λε γει εγω μεν ειμι παυλου · εγω δε απολ λω · εγω δε κηφα · εγω δε χυ",
+          "translation": "What I mean is this: each of you says, \"I follow Paul,\" or \"I follow Apollos,\" or \"I follow Cephas,\" or \"I follow Christ.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "μεμεριϲται ο χϲ μη παυλοϲ εϲταυ ρωθη ϋπερ ϋμ ω η ειϲ το ονομα παυ λου εβαπτιϲθητε",
+          "translation": "Is Christ divided? Was Paul crucified for you? Or were you baptized into the name of Paul?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ευχαριϲτω τω θω οτι ου δενα ϋμων εβα πτιϲα ει μη πριϲκ ο κριϲπ ο και γαϊον",
+          "translation": "I thank God that I baptized none of you except Crispus and Gaius,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ϊνα μη τιϲ ειπη οτι ειϲ το εμον ονομα εβα πτιϲθητε",
+          "translation": "so that no one can say that you were baptized into my name.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "εβαπτι ϲα δε και τον ϲτε φανα οικον λοι πον ουκ οιδα ει τι να αλλον εβαπτι ϲα",
+          "translation": "I also baptized the household of Stephanas; beyond that, I don't know if I baptized anyone else.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ου γαρ απεϲτιλεν με χϲ βαπτιζειν αλλα ευαγγελιζε ϲθε ουκ εν ϲοφι α λογου ϊνα μη κε νωθη ο ϲταυροϲ του χυ",
+          "translation": "For Christ didn't send me to baptize, but to preach the gospel — not with eloquent wisdom, so that the cross of Christ wouldn't be emptied of its power.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ο λογοϲ γαρ ο του ϲταυ ρου τοιϲ μεν απολ λυμενοιϲ μωρι α εϲτιν τοιϲ δε ϲω μενοιϲ ημιν δυ ναμιϲ θυ εϲτιν ·",
+          "translation": "For the message of the cross is foolishness to those who are perishing, but to us who are being saved it's the power of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "γεγραπται γαρ απο λω την ϲοφιαν των ϲοφων και τ η ϲυνεϲιν των ϲυνε των αθετηϲω",
+          "translation": "For it is written: \"I will destroy the wisdom of the wise, and I will set aside the understanding of the intelligent.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "που ϲοφοϲ που γραμματευϲ που ϲυνζητητηϲ του αιωνοϲ τουτου ουχι εμωρανεν ο θϲ την ϲοφιαν του κοϲμου τουτου ·",
+          "translation": "Where is the wise person? Where is the scholar? Where is the debater of this age? Hasn't God made the wisdom of this world foolish?",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "επιδη γαρ εν τη ϲο φια του θυ ουκ εγνω ο κοϲμοϲ δια τηϲ ϲοφιαϲ τον θν ευ δοκηϲεν ο θϲ δι α τηϲ μωριαϲ του κηρυγματοϲ ϲω τουϲ πιϲτευ ο ταϲ",
+          "translation": "For since in the wisdom of God the world through its wisdom didn't know God, God was pleased to save those who believe through the foolishness of what is preached.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "επειδη και ϊουδαι οι ϲημια αιτουϲ ι και ελληνεϲ ϲο φιαν ζητουϲιν",
+          "translation": "For Jews ask for signs and Greeks seek wisdom,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "η μειϲ δε κηρυϲϲο μεν χν εϲταυρω μενον ϊουδαιοιϲ μεν ϲκανδαλον εθνεϲιν δε μωρι αν",
+          "translation": "but we preach Christ crucified — a scandal to Jews and foolishness to Gentiles,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "αυτοιϲ δε τοιϲ κλητοιϲ ϊουδαιοιϲ τε και ελληϲιν χν θυ δυναμιν και θυ ϲοφιαν",
+          "translation": "but to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "οτι το μωρον του θυ ϲοφωτερον τ ω ανθρωπων εϲτ ι και το αϲθενεϲ του θυ ϊϲχυροτερον των ανθρωπων εϲτιν ·",
+          "translation": "For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "βλεπεται γαρ την κλη ϲιν υμων αδελ φοι οτι ου πολλοι ϲοφοι κατα ϲαρκα ου πολλοι δυνατοι · ου πολλοι ευγενιϲ",
+          "translation": "Brothers and sisters, look at your calling: not many of you were wise by human standards, not many were powerful, not many were of noble birth.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "αλλα τα μωρα του κοϲμου εξελεξα το ο θϲ ινα κατε ϲχυνη τουϲ ϲοφουϲ και τα αϲθενη του κοϲμου εξελεξα το ο θϲ ϊνα κατεϲχυ νη τα ϊϲχυρα",
+          "translation": "But God chose the foolish things of the world to shame the wise, and God chose the weak things of the world to shame the strong.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "και τα αϲθενη αγενη αγενη του κο ϲμου και τα εξουθε νημενα εξελεξα το ο θϲ και τα μη οντα ϊνα τα οντα καταρ γηϲη",
+          "translation": "God chose the lowly and despised things of the world — even the things that are not — to bring to nothing the things that are,",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "οπωϲ μη καυχηϲηται παϲα ϲαρξ ενωπιον του αυτου του θυ",
+          "translation": "so that no human being might boast before God.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "εξ αυτου δε υ μειϲ εϲτε εν χω ι υ οϲ ε γενηθη ϲοφια η μιν απο θυ δικαι οϲυνη τε και αγι αϲμοϲ και απολυ τρωϲιϲ",
+          "translation": "It is because of him that you are in Christ Jesus, who became for us wisdom from God — both righteousness and sanctification and redemption —",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "ϊνα καθωϲ γεγραπται ο καυχω μενοϲ εν κω καυ χαϲθω",
+          "translation": "so that, as it is written, \"Let the one who boasts boast in the Lord.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "καγω ελθων προϲ ϋμαϲ αδελφοι ηλ θον ου καθ υπερο χην λογου η ϲο φιαϲ καταγγελλ ω υμιν το μυϲτηρι ον μαρτυριον του θυ",
+          "translation": "When I came to you, brothers and sisters, I didn't come with impressive speech or wisdom as I announced to you the testimony of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ου γαρ ε κρινα ειδεναι τι εν υμιν ει μη ιν χν και τουτον εϲ ταυρωμενον",
+          "translation": "For I decided to know nothing among you except Jesus Christ — and him crucified.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "καγω εν αϲθενια και εν φοβω και ε τρομω πολλω ε γενομην προϲ ϋμαϲ",
+          "translation": "I came to you in weakness, in fear, and with much trembling.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ο λογοϲ μου και το κηρυγμα μου ουκ εν πιθοιϲ ανθρωπινηϲ ϲο φιαϲ λογοϲ λογοιϲ λογοιϲ αλλ εν αποδειξει πνϲ κ(αι) δυναμεωϲ",
+          "translation": "My message and my preaching weren't with persuasive words of wisdom, but with a demonstration of the Spirit and of power,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ϊνα η πιϲτιϲ υ μη η εν ϲοφια αν θρωπων αλλ εν δυναμι θυ",
+          "translation": "so that your faith wouldn't rest on human wisdom but on God's power.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ϲοφιαν δε λαλου μεν εν τοιϲ τελι οιϲ ϲοφιαν δε ου του αιωνοϲ τουτου ουδε των αρχον των του αιωνοϲ τουτου των καταρ γουμενων",
+          "translation": "Yet we do speak wisdom among the mature — but not the wisdom of this age or of the rulers of this age, who are passing away.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "αλλα λαλουμεν θυ ϲο φιαν εν μυϲτηρι ω την αποκεκρυμ μενην ην προω ριϲεν ο θϲ προ τ ω αιωνων ειϲ δο ξαν ημων",
+          "translation": "Instead, we speak God's wisdom in a mystery — the hidden wisdom that God determined before the ages for our glory.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ην ουδειϲ των αρ χοντων του αιω νοϲ τουτου εγνω κεν ει γαρ εγνωϲ α ουκ αν τον κν τηϲ δοξηϲ εϲταυρωϲ α",
+          "translation": "None of the rulers of this age understood it, for if they had, they wouldn't have crucified the Lord of glory.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "αλλα καθωϲ γεγρα πται α οφθαλμοϲ ουκ ειδεν και ουϲ ουκ ηκουϲεν και επι καρδιαν ανθρω που ουκ ανεβη α ητοιμαϲεν ο θϲ τοιϲ αγαπωϲιν αυτον",
+          "translation": "But as it is written: \"What no eye has seen, what no ear has heard, and what no human mind has conceived — these things God has prepared for those who love him.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ημιν δε απεκαλυ ψεν ο θϲ δια του πνϲ αυτου το γαρ πν α π α τα εραυνα και τα βαθη του θυ",
+          "translation": "But God has revealed these things to us through the Spirit. For the Spirit searches all things, even the deep things of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "τιϲ γαρ οιδεν αν θρωπων τα του ανθρωπου ει μη το πνα του ανου το εν αυτω ουτωϲ και τα του θυ ουδειϲ εγνωκεν ει μη το πν α του θυ",
+          "translation": "For who among people knows the thoughts of a person except the person's spirit within? In the same way, no one knows the thoughts of God except the Spirit of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ημιϲ δε ου το πνα του κοϲμου ελαβομεν αλλα το πνα το εκ του θυ ι να ειδωμεν τα υ πο του θυ χαριϲθ ε τα ημιν",
+          "translation": "We have not received the spirit of the world, but the Spirit who is from God, so that we may understand the things freely given to us by God.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "α και λαλουμεν ου κ εν διδακτοιϲ α θρωπινηϲ ϲοφι αϲ λογοιϲ αλλ [1 chars] λλ εν δι δακτοιϲ πνϲ πν ικοιϲ πν ικα ϲυνκρινον τεϲ",
+          "translation": "And we speak of these things, not with words taught by human wisdom, but with words taught by the Spirit, interpreting spiritual things to spiritual people.",
+          "footnotes": [
+            {
+              "id": "1-corinthians-2-13-missing-text",
+              "text": "Part of the text is fragmentary — a few letters are missing from the manuscript.",
+              "type": "missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "original": "ψυχικοϲ δε ανθρω ποϲ ου δεχεται τα του πνϲ του θυ μω ρια γαρ αυτω εϲτιν και ου δυναται γνω ναι οτι πν ικωϲ α νακρινεται ·",
+          "translation": "The natural person doesn't accept the things of the Spirit of God, for they're foolishness to him, and he can't understand them because they're spiritually discerned.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ο δε π ν ικοϲ ανα κρινει μεν παν τα αυτοϲ δε ϋπ ουδε νοϲ ανακρινεται",
+          "translation": "The spiritual person judges all things, but is himself subject to no one's judgment.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "τιϲ γαρ εγνω νουν κυ οϲ ϲυμβιβαϲει αυτον ημειϲ δε νουν χυ εχομεν",
+          "translation": "For \"who has known the mind of the Lord so as to instruct him?\" But we have the mind of Christ.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "καγω αδελφοι ου κ ηδυνηθην λα ληϲαι ϋμιν ωϲ πνι κοιϲ αλλ ωϲ ϲαρκι νοιϲ ωϲ νηπιοιϲ εν χω",
+          "translation": "Brothers and sisters, I couldn't speak to you as spiritual people but as worldly people — as infants in Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "γαλα ϋμαϲ ε ποτιϲα ου βρωμα ουπω γαρ εδυναϲθε αλλ ουδε ετι νυν δυναϲθε",
+          "translation": "I gave you milk to drink, not solid food, for you weren't ready for it. In fact, you're still not ready,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ετι γαρ ϲαρ κικοι εϲτε οπου γαρ εν υμιν ζηλοϲ και εριϲ ου χι ϲαρκικοι εϲτε και κατα ανθρω πον περιπατειτε",
+          "translation": "because you're still worldly. For since there is jealousy and strife among you, aren't you worldly and behaving like mere humans?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "οταν γαρ λεγη τιϲ ε γω μεν ειμι παυ λου ετεροϲ δε εγω απολλω ουκ ανο ι εϲτε ουχι ϲαρκικοι εϲται ·",
+          "translation": "For when one says, \"I follow Paul,\" and another, \"I follow Apollos,\" aren't you being merely human?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "τι τιϲ ουν εϲτ ι απολλωϲ τι τιϲ δε εϲτ ι παυλοϲ διακονοι δι ων επιϲτευϲατε και εκαϲτω ωϲ ο κϲ εδωκεν ·",
+          "translation": "What then is Apollos? And what is Paul? Servants through whom you came to believe — each as the Lord gave him his role.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εγω ε φυτευϲα απολλωϲ εποτιϲεν αλλα ο θϲ ηϋξανεν",
+          "translation": "I planted, Apollos watered, but God gave the growth.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ωϲτε ουτε ο φυτευ ων εϲτιν τι ουδε ουτε ο ποτιζων αλλ ο αυξανων θϲ",
+          "translation": "So neither the one who plants nor the one who waters is anything, but only God who gives the growth.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ο φυτευων δε και ο ποτιζων εν ειϲ ι εκαϲτοϲ δε τον ϊ διον μιϲθον λημ ψεται κατα τον ϊδι ον κοπον",
+          "translation": "The one who plants and the one who waters are one in purpose, and each will receive his own reward according to his own labor.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "θυ γαρ εϲμεν ϲυνερ γοι · θυ γεωργιον θυ οικοδομη εϲ τε",
+          "translation": "For we are God's coworkers; you are God's field, God's building.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "κατα την χαριν του θυ την δοθιϲ α μοι ωϲ ϲοφοϲ αρ χιτεκτων θεμε λιον εθηκα τεθικα αλλοϲ δε εποικοδομει εκαϲτοϲ δε βλεπε τω πωϲ εποικοδο μει",
+          "translation": "By the grace God gave me, I laid a foundation as a wise master builder, and someone else is building on it. But each person should be careful how they build.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "θεμελιον γαρ αλλον ουδειϲ δυ ναται θειναι παρα τον κειμενον ο ϲ εϲτιν ι ϲ χϲ",
+          "translation": "For no one can lay any foundation other than the one already laid, which is Jesus Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ει δε τιϲ εποικοδο μει επι τον θεμε λιον τουτον χρυϲιον αργυ ριον λιθουϲ τιμι ουϲ ξυλα χορτον καλαμην",
+          "translation": "If anyone builds on this foundation with gold, silver, precious stones, wood, hay, or straw,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "εκαϲτου το εργον φανερ ο γενηϲεται · η γαρ η μερα δηλωϲει οτι εν πυρι αποκαλυ πτεται και εκαϲτου το εργον οποιον εϲτιν το πυρ δοκι μαϲει",
+          "translation": "each one's work will become clear. For the day will reveal it, because it will be revealed with fire, and the fire will test what kind of work each has done.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ει τινοϲ το εργον μενει ο εποικο δομηϲεν μιϲθ ο λημψεται",
+          "translation": "If what someone has built survives, they will receive a reward.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ει τινοϲ το εργον κατακα ηϲεται ζημιωθη ϲεται αυτοϲ δε ϲω θηϲεται ουτωϲ δε ωϲ δια πυροϲ",
+          "translation": "If someone's work is burned up, they will suffer loss, but they themselves will be saved — yet as one escaping through fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ουκ οιδατε οτι ναοϲ θυ εϲτε και το πν α του θυ οικει εν υμ ι",
+          "translation": "Don't you know that you are God's temple and that God's Spirit lives in you?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ει τιϲ τον ναον του θυ φθειρει φθερει τουτον ο θϲ ο γαρ ναοϲ του θυ αγιοϲ εϲτιν οιτινεϲ εϲτε ϋμιϲ",
+          "translation": "If anyone destroys God's temple, God will destroy them. For God's temple is holy, and that's what you are.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "μηδειϲ εαυτον ε ξαπατατω ει τιϲ δοκει ϲοφοϲ ει ναι εν υμιν εν τω αιωνι τουτω μω ροϲ γενεϲθω ι να γενηται ϲοφοϲ",
+          "translation": "Let no one deceive themselves. If any of you thinks you are wise in this age, become a fool so that you may become truly wise.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "η γαρ ϲοφια του κοϲμ(ου) τουτου μωρια πα ρα τω θω εϲτιν γεγραπται γαρ ο δραϲ ϲομενοϲ τουϲ ϲο φουϲ εν τη πανουρ για αυτων",
+          "translation": "For the wisdom of this world is foolishness in God's sight. As it is written: \"He catches the wise in their own craftiness.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και πα λιν κϲ γινωϲκι τουϲ διαλογιϲμουϲ τ ω ϲοφων οτι ειϲιν ματαιοι",
+          "translation": "And again: \"The Lord knows the thoughts of the wise, that they are futile.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ωϲτε μη διϲ καυχαϲθω ε ν ανθρωποιϲ · παντα γαρ ϋμων εϲτιν ·",
+          "translation": "So let no one boast in human leaders. For all things are yours —",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ειτε παυλοϲ · ειτε απολλωϲ · ειτε κηφαϲ · ειτε κοϲμοϲ ειτε ζωη ειτε θανατοϲ · ειτε ενεϲτωτα · ειτε μελλοντα παντα ϋμων ·",
+          "translation": "whether Paul or Apollos or Cephas or the world or life or death or the present or the future — all things belong to you,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "ϋμειϲ δε χυ χϲ δε θυ",
+          "translation": "and you belong to Christ, and Christ belongs to God.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ουτωϲ ημαϲ λογι ζεϲθω ανθρωποϲ ωϲ ϋπηρεταϲ χ υ και οικονομουϲ μυϲτηριων θυ",
+          "translation": "Think of us this way: as servants of Christ and stewards of the mysteries of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ωδε λοιπον τι ζη τειτε εν τοιϲ οικο νομοιϲ ϊνα πιϲτοϲ τιϲ ευρεθη",
+          "translation": "In this case, stewards are required to be found trustworthy.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "εμοι δε ειϲ ελαχιϲτον εϲτιν ϊνα ϋφ υμ ω ανακριθω η ϋπο ανθρωπινηϲ η μεραϲ αλλ ουδε ε μαυτον ανακρι νω",
+          "translation": "To me it's a very small thing that I should be judged by you or by any human court. In fact, I don't even judge myself.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ουδεν γαρ εμαυ τω ϲυνοιδα αλλ ου κ εν τουτω δεδικ(αι) ωμαι ο γαρ δε ανακρι νων με κϲ εϲτιν",
+          "translation": "I'm not aware of anything against myself, but that doesn't mean I've been acquitted. The one who judges me is the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ωϲτε μη προ καιρου τι κρινεται εωϲ α ελθη ο κϲ οϲ και φωτιϲει τα κρυπτα του ϲκοτουϲ και φανερωϲει ταϲ βουλαϲ των καρ διων και τοτε ο ε παινοϲ γενηϲε ται εκαϲτω απο του θυ",
+          "translation": "So don't judge anything before the right time — wait until the Lord comes. He will bring to light what's hidden in darkness and reveal the motives of hearts. Then each person will receive their praise from God.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ταυτα δε αδελφοι με τεϲχηματιϲα ειϲ ε μαυτον και απολ λων απολλω δι ϋμαϲ ϊνα εν ημιν μαθητε το μη ϋπερ α γεγρα πτε φρονιν ϊνα μη ειϲ ϋπερ του ενοϲ φυϲιου ϲθαι κατα του ετε ρου",
+          "translation": "Brothers and sisters, I've applied these things to myself and Apollos for your benefit, so that you may learn from us not to go beyond what is written, and so that none of you will be puffed up in favor of one against another.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "τιϲ γαρ ϲε διακρινει τι δε εχειϲ ο ουκ ε λαβεϲ ει δε και ελα βεϲ τι καυχαϲαι ωϲ μη λαβων",
+          "translation": "For who makes you different from anyone else? What do you have that you didn't receive? And if you did receive it, why do you boast as though you hadn't?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ηδη κεκορεϲμενοι εϲτε ηδη επλουτη ϲατε χωριϲ ημων εβαϲιλευϲατε και οφελον γε εβαϲι λευϲατε ι να και η μιϲ ϋμιν ϲυνβαϲι λευϲωμεν",
+          "translation": "You're already full! You've already become rich! You've begun to reign without us — and I wish you really had begun to reign, so that we could also reign with you!",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "δοκω γαρ οτι ο θϲ ημαϲ τουϲ αποϲτολουϲ εϲχατουϲ απεδιξ ε ωϲ επιθανατιουϲ οτι θεατρον εγενη θημεν τω κοϲμω και αγγελοιϲ και α θρωποιϲ",
+          "translation": "For it seems to me that God has put us apostles on display at the end of the procession — like men condemned to die. We've become a spectacle to the whole world, to angels as well as to people.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ημειϲ μωροι δια χν ϋμειϲ δε φρονιμοι εν χω ημειϲ αϲθενειϲ ϋμειϲ δε ϊϲχυροι ϋμειϲ ενδοξοι ημειϲ δε ατιμοι",
+          "translation": "We are fools for Christ, but you're so wise in Christ! We are weak, but you're so strong! You're honored, but we're dishonored!",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "αχρι τηϲ αρτι ωραϲ και πινωμεν · και διψωμεν και γυμνιτευομ ε και κολαφιζομεθα · και αϲτατουμεν",
+          "translation": "Up to this very hour we're hungry and thirsty, we're poorly clothed, we're beaten, and we're homeless.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και κοπιωμεν · ερ γαζομενοι ταιϲ ϊδι αιϲ χερϲιν · λοιδορουμενοι ευλογουμεν διωκομενοι ανεχομεθα",
+          "translation": "We work hard with our own hands. When we're cursed, we bless; when we're persecuted, we endure it.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "δυϲφημουμενοι βλαϲφημουμενοι παρακαλουμεν ωϲ περικαθαρμα τα του κοϲμου εγε νηθημεν παν των περιψημα ε ωϲ αρτι ·",
+          "translation": "When we're slandered, we speak kindly. We've become the scum of the earth, the garbage of the world — right up to this moment.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ουκ εντρεπων υ μαϲ γραφω ταυτα αλλ ωϲ τεκνα μου αγαπητα νουθετ ω",
+          "translation": "I'm not writing this to shame you, but to warn you as my dear children.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "εαν γαρ μυριουϲ παιδαγωγουϲ εχη τε εν χω αλλ ου πολ λουϲ πατεραϲ εν γαρ χω ιυ δια του ευ αγγελιου εγω υ μαϲ εγεννηϲα",
+          "translation": "For though you might have ten thousand guardians in Christ, you don't have many fathers. For in Christ Jesus I became your father through the gospel.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "παρα καλω ουν υ μαϲ μιμηται μου γινε ϲθε ·",
+          "translation": "Therefore I urge you: imitate me.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "δια τουτο αυτο επεμψα ϋμιν τιμο θεον οϲ εϲτιν μου τεκνον αγαπητ ο και πιϲτον εν κω οϲ ϋμαϲ αναμνη ϲει ταϲ οδουϲ μου ταϲ εν χω ιυ καθωϲ πανταχου εν πα ϲη εκκληϲια διδα ϲκω",
+          "translation": "That's why I sent Timothy to you. He's my dear and faithful child in the Lord. He'll remind you of my ways in Christ Jesus, as I teach them everywhere in every church.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ωϲ μη ερχομενου δε μου προϲ υ μαϲ εφυϲιωθηϲαν τι νεϲ",
+          "translation": "Some of you have become arrogant, as if I weren't coming to you.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ελευϲομαι δε ταχεωϲ προϲ υμαϲ εαν ο κϲ θεληϲη και γνωϲομαι ου τον λογον των πε φυϲιωμενων αλλα την δυναμ ι",
+          "translation": "But I will come to you soon, if the Lord wills, and I'll find out not just the talk of these arrogant people but their power.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ου γαρ εν λογω η βαϲιλεια του θυ αλλ εν δυναμι",
+          "translation": "For the kingdom of God is not a matter of talk but of power.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "τι θελετε εν ραβδω ελθω προϲ ϋμαϲ η εν αγαπη πνι τε πραοτητοϲ",
+          "translation": "What do you prefer? Should I come to you with a rod, or with love and a gentle spirit?",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ακουετε ε ν υμιν πορνια και τοιαυτη πορνι α ητιϲ ουδε εν τοιϲ εθνεϲιν ονομαζεται ωϲτε γυ ναικα τινα του πα τροϲ εχιν",
+          "translation": "It's actually reported that there's sexual immorality among you — and of a kind that isn't even found among pagans: a man has his father's wife.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και υ μιϲ πεφυϲιωμενοι εϲτε και ουχι μαλ λον επενθηϲα τε ϊνα αρθη εκ με ϲου ϋμων ο το ερ γον τουτο πραξαϲ",
+          "translation": "And you're arrogant! Shouldn't you have been filled with grief instead, so that the one who did this would be removed from among you?",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "εγω μεν γαρ απ ω τω ϲωματι παρ ω δε τω πν ι ηδη κε κρικα ωϲ παρων τον ουτωϲ τουτο κατεργαϲαμενον",
+          "translation": "Even though I'm absent in body, I'm present in spirit. And I've already passed judgment on the one who did this, as if I were present.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "εν τω ονοματι του κυ ιυ χυ ϲυναχθ ε των ϋμων και του εμου πνϲ ϲυν τη δυναμι του κυ η μων ι υ",
+          "translation": "When you gather together in the name of our Lord Jesus Christ, and my spirit is present with the power of our Lord Jesus,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "παραδου ναι τον τοιουτ ο τω ϲατανα ειϲ ολε θρον τηϲ ϲαρκοϲ ϊνα το πν α ϲωθη εν τη ημερα του κυ ιυ",
+          "translation": "hand this man over to Satan for the destruction of the flesh, so that his spirit may be saved on the day of the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ου καλον το καυχη μα υ μων · ουκ οι δατε οτι μικρα ζυ μη ολον το φυρα μα ζυμοι",
+          "translation": "Your boasting isn't good. Don't you know that a little yeast leavens the whole batch of dough?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εκκα θαρατε ουν την παλαι αν ζυμην ϊνα η τε νεον φυραμα καθωϲ εϲτε αζυ μοι και γαρ το παϲχα η μων υπερ ημων ετυθη χϲ",
+          "translation": "Clean out the old yeast so that you can be a new batch of dough — and you really are unleavened. For Christ, our Passover lamb, has been sacrificed.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ωϲτε εορταζω μεν μη εν ζυμη παλαια μηδε εν ζυμη κακιαϲ και πονηριαϲ αλλ εν α ζυμοιϲ ειλικρινι αϲ και αληθιαϲ",
+          "translation": "So let's celebrate the festival, not with old yeast or with the yeast of malice and evil, but with unleavened bread of sincerity and truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "εγραψα ϋμιν εν τη επιϲτολη μη ϲυ ναναμιγνυϲθαι πορνοιϲ",
+          "translation": "I wrote to you in my letter not to associate with sexually immoral people.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ου παν τωϲ τοιϲ πορνοιϲ του κοϲμου τουτου η τοιϲ πλεονεκταιϲ και η αρπαξιν · η ει δωλολατραιϲ επει ωφιλετε αρα εκ του κοϲμου εξελθιν",
+          "translation": "I wasn't meaning the immoral people of this world, or the greedy, or swindlers, or idolaters — since then you'd have to leave the world entirely.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "νυνϊ νυν δε εγραψα υμ ι μη ϲυναναμιγνυ ϲθαι εαν τιϲ αδελ φοϲ ονομαζομενοϲ η πορνοϲ η πλεονεκτηϲ η ειδωλολατρηϲ η λοιδοροϲ η μεθυϲοϲ η αρπαξʼ τω τοιου τω μηδε ϲυνεϲθι ειν",
+          "translation": "But now I'm writing to you not to associate with anyone who claims to be a brother or sister but is sexually immoral, greedy, an idolater, verbally abusive, a drunkard, or a swindler. Don't even eat with such a person.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "τι γαρ μοι τουϲ εξω κρινειν ουχι τουϲ εϲω υ μειϲ κρινει τε κρινετε",
+          "translation": "What business is it of mine to judge those outside the church? Aren't you to judge those inside?",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "τουϲ δε εξω ο θϲ κρινει εξαρατε τον πονηρον ε ξ υμων αυτων",
+          "translation": "God will judge those outside. \"Expel the wicked person from among you.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "τολμα τιϲ ϋμων πραγμα εχων προϲ τον ετερον κρινε ϲθαι επι των αδι κων και ουχι επι των αγιων",
+          "translation": "When any of you has a dispute against another, do you dare to take it before the unrighteous for judgment instead of before the saints?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "η ουκ οιδατε οτι οι αγιοι τον κοϲμ ο κρινουϲιν και ει εν υμιν κρινεται ο κοϲμοϲ αναξιοι εϲτε κριτηριων ε λαχιϲτων",
+          "translation": "Or don't you know that the saints will judge the world? And if the world is to be judged by you, are you incompetent to handle trivial cases?",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ουκ οιδατε οτι αγγε λουϲ κρινουμεν μητι γε βιωτικα",
+          "translation": "Don't you know that we will judge angels — let alone ordinary matters?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "βιωτικα μεν ουν κριτηρια εαν εχη τε τουϲ εξουθενη μενουϲ εν τη εκ κληϲια τουτουϲ κα θιζετε",
+          "translation": "So if you have ordinary lawsuits, do you appoint as judges those who have no standing in the church?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "προϲ εντρο πην υ μιν λεγω ουτωϲ ουκ ενι εν υ μιν ουδειϲ ϲοφοϲ οϲ δυνηϲεται ανα κριναι διακριναι ανα μεϲ ο του αδελφου αυτου .",
+          "translation": "I say this to your shame. Is it really true that there's no one among you wise enough to settle a dispute between brothers?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "αλλα αδελφοϲ με τα αδελφου κρινε ται και τουτο επι απιϲτων",
+          "translation": "Instead, brother goes to court against brother — and before unbelievers at that!",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ηδη μεν ουν ολωϲ ητ τημα ϋμιν εϲτιν οτι κριμα εχετε με θ εαυτων δια τι ου χι μαλλον αδικειϲθε δια τι ουχι μαλλον αποϲτερειϲθε",
+          "translation": "The very fact that you have lawsuits among you is already a defeat for you. Why not rather be wronged? Why not rather be cheated?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "αλ λα ϋμειϲ αδικειτε και αποϲτερειτε και τουτο αδελφουϲ",
+          "translation": "Instead, you yourselves do wrong and cheat — and you do this to your own brothers and sisters!",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "η ουκ οιδατε οτι αδικοι θυ βαϲιλει αν ου κληρονο μηϲουϲιν μη πλαναϲθαι ουτε πορνοι ουτε ειδωλολατραι ουτε μοιχοι ουτε μαλακοι ουτε αρϲενοκοιται",
+          "translation": "Or don't you know that the unrighteous won't inherit the kingdom of God? Don't be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor passive homosexual partners, nor active homosexual partners,",
+          "footnotes": [
+            {
+              "id": "1-corinthians-6-9-interpretation",
+              "text": "The terms μαλακοί (malakoi) and ἀρσενοκοῖται (arsenokoitai) have been variously translated. Malakoi literally means \"soft\" and referred to the passive partner in homosexual acts; arsenokoitai refers to men who have sex with men. Some scholars debate whether these terms refer to specific practices or broader categories of sexual immorality.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "ουτε κλεπται ουτε πλεονεκται ου μεθυϲοι ου λοιδοροι ουχ αρπαγεϲ βαϲιλειαν θυ κλη ρονομηϲουϲιν",
+          "translation": "nor thieves, nor the greedy, nor drunkards, nor verbally abusive people, nor swindlers will inherit the kingdom of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ταυτα τινεϲ ητε αλλα απελουϲαϲθε αλλα ηγιαϲθητε αλλα εδικαιωθητε εν τω ονοματι του κυ ιυ χυ και εν τω πνι του θυ ημων",
+          "translation": "And that's what some of you used to be. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "παντα μοι εξεϲτ ι αλλ ου παντα ϲυμ φερει παντα μοι ε ξεϲτιν αλλ ουκ εγω εξουϲιαϲθηϲομαι ϋπο τινοϲ",
+          "translation": "\"Everything is permissible for me\" — but not everything is beneficial. \"Everything is permissible for me\" — but I won't be mastered by anything.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "τα βρωματα τη κοι λια και η κοιλια τοιϲ βρωμαϲιν ο δε θϲ και ταυτην και ταυ τα καταργηϲει το δε ϲωμα ου τη πορνια αλλα τω κω και ο κϲ τω ϲωματι",
+          "translation": "\"Food is for the stomach and the stomach for food\" — but God will do away with both of them. The body is not for sexual immorality but for the Lord, and the Lord is for the body.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ο δε θϲ και τον κν ηγειρεν και ημαϲ εξεγερει δια τηϲ δυ μεωϲ αυτου",
+          "translation": "By his power God raised the Lord, and he will also raise us.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ουκ οιδατε οτι τα ϲω ματα ημων υμων μελη χυ εϲτιν αραϲ ουν τα μελη του χυ ποιη ϲω πορνηϲ μελη μη γενοιτο",
+          "translation": "Don't you know that your bodies are members of Christ? Should I then take the members of Christ and unite them with a prostitute? Absolutely not!",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "η ουκ οιδατε οτι ο κολλωμενοϲ τη πορνη εν ϲωμα εϲτιν εϲονται γαρ φηϲιν οι δυο ειϲ ϲαρ κα μιαν",
+          "translation": "Or don't you know that anyone who joins himself to a prostitute becomes one body with her? For it says, \"The two will become one flesh.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ο δε κολ λωμενοϲ τω κω εν πνα εϲτιν",
+          "translation": "But whoever is joined to the Lord becomes one spirit with him.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "φευγετε την πορνι αν παν αμαρτημα ο εαν ποιηϲη αν θρωποϲ εκτοϲ του ϲωματοϲ εϲτιν ο δε πορνευων ειϲ το ϊδιον ϲωμα α μαρτανι",
+          "translation": "Flee from sexual immorality. Every other sin a person commits is outside the body, but the sexually immoral person sins against his own body.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "η ουκ οιδαται οτι το ϲωμα υμων ναοϲ του εν υμιν αγιου πνϲ εϲτιν ου εχε τε απο του θυ και ουκ ε ϲτε αυτων εαυτων",
+          "translation": "Or don't you know that your body is a temple of the Holy Spirit who is in you, whom you have from God, and that you don't belong to yourselves?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ηγορα ϲθητε γαρ τιμηϲ δοξαϲατε δη τον θν εν τω ϲωματι ϋ μων",
+          "translation": "For you were bought at a price. So honor God with your body.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "περι δε ων εγραψα τε καλον ανθρω πω γυναικοϲ μη απτεϲθαι",
+          "translation": "Now about the matters you wrote about: it's good for a man not to touch a woman.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "δια δε ταϲ πορνιαϲ εκαϲτοϲ την εαυ του γυναικα εχε τω και εκαϲτη τ ο ϊδιον ανδρα εχετω",
+          "translation": "But because of sexual immorality, each man should have his own wife, and each woman her own husband.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "τη γυναικι ο ανηρ την οφιλην απο διδοτω ομοιωϲ δε και η γυνη τω α δρι ·",
+          "translation": "The husband should fulfill his duty to his wife, and likewise the wife to her husband.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "η γυνη του ϊ διου ϲωματοϲ ου κ εξουϲιαζει αλλα ο ανηρ · ομοιωϲ δε και ο ανηρ του ϊδιου ϲωματοϲ ου κ εξουϲιαζει αλλα η γυνη",
+          "translation": "The wife doesn't have authority over her own body, but the husband does. And likewise, the husband doesn't have authority over his own body, but the wife does.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "μη αποϲτεριτε αλ ληλουϲ ει μητι α εκ ϲυμφωνου προϲ καιρον ινα ϲχολαϲητε τη νηϲτια κ(αι) τη προϲευχη και πα λιν επι το αυτο η τε ινα μη πιραζη ϋμαϲ ο ϲαταναϲ δι α την ακραϲιαν ϋ μων",
+          "translation": "Don't deprive each other — except perhaps by mutual consent and for a time, so that you can devote yourselves to prayer. Then come together again, so that Satan won't tempt you because of your lack of self-control.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "τουτο δε λεγω κατα ϲυγγνωμην ου κατ επιταγην",
+          "translation": "I say this as a concession, not as a command.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "θελω δε γαρ πανταϲ ανθρωπουϲ ειναι ωϲ και εμαυτον αλλ εκαϲτοϲ ϊδι ο εχει χαριϲμα εκ θυ ο οϲ μεν ουτωϲ ο οϲ δε ουτωϲ",
+          "translation": "I wish that all people were like me. But each has their own gift from God — one of one kind and another of a different kind.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "λεγω δε τοιϲ αγα μοιϲ και ταιϲ χη ραιϲ καλον αυτοιϲ εαν μινωϲιν ωϲ καγω",
+          "translation": "To the unmarried and to widows I say: it's good for them to stay single, as I am.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ει δε ουκ εγ κρατευονται γα μηϲατωϲαν γαρ εϲτιν γα μιν γαμηϲαι η πυρουϲθε",
+          "translation": "But if they can't control themselves, they should marry, for it's better to marry than to burn with passion.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "τοιϲ δε γεγαμηκο ϲιν παραγγελλω ουκ εγω αλλα ο κϲ γυναικα απο αν δροϲ μη χωριϲθη ναι",
+          "translation": "To the married I give this command — not I, but the Lord: a wife must not separate from her husband.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "εαν δε και χω ριϲθη μενετω α γαμοϲ η τω ανδρι καταλλαγητω κ(αι) ανδρα γυναικα μη αφιεναι",
+          "translation": "But if she does separate, she must remain unmarried or be reconciled to her husband. And a husband must not divorce his wife.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "τοιϲ δε λοιποιϲ λε γω εγω ουχ ο κϲ ει τιϲ αδελφοϲ γυναι κα εχει απιϲτον και αυτη ϲυνευδο κει οικειν μετ αυ του · μη αφιετω αυτην",
+          "translation": "To the rest I say — I, not the Lord: if a brother has an unbelieving wife and she consents to live with him, he must not divorce her.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και γυνη ει τιϲ εχει ανδρα απιϲτον και ουτοϲ ϲυνευ δοκει οικειν με τ αυτηϲ μη αφιε τω αυτον τον ανδρα",
+          "translation": "And if a woman has an unbelieving husband and he consents to live with her, she must not divorce him.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ηγιαϲται γαρ ο ανηρ ο απιϲτοϲ εν τη γυναικι και ηγια ϲται η γυνη η απι απιϲτοϲ εν τω αδελφω ανδρι επει αρα τα τεκνα ϋμων ακαθαρτα εϲτιν νυν δε αγι α εϲτιν",
+          "translation": "For the unbelieving husband is sanctified through his wife, and the unbelieving wife is sanctified through her believing husband. Otherwise your children would be unclean, but as it is, they are holy.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ει δε ο απιϲτοϲ χω ριζετε χωριζεϲθω ου δεδουλωται ο αδελφοϲ η η αδελ φη εν τοιϲ τοιου τοιϲ εν δε ειρηνη κεκλη κεν ϋμαϲ ημαϲ ο θϲ ·",
+          "translation": "But if the unbelieving partner leaves, let them go. In such cases the brother or sister is not bound. God has called us to live in peace.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "τι γαρ οιδαϲ γυναι ει τον ανδρα ϲωϲιϲ η τι οιδαϲ ανερ ει την γυναικα ϲω ϲειϲ",
+          "translation": "Wife, how do you know whether you'll save your husband? Husband, how do you know whether you'll save your wife?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ει μη εκαϲτω ωϲ μεμερικεν εμεριϲεν ο κϲ εκαϲτον ωϲ κεκληκεν ο θϲ ουτω ουτωϲ περιπατει τω και ουτωϲ εν πα ϲαιϲ ταιϲ εκκληϲι αιϲ · διαταϲϲομαι",
+          "translation": "Nevertheless, each person should live as the Lord has assigned, as God has called them. This is what I command in all the churches.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "περιτετμημενοϲ τιϲ εκληθη μη επι ϲπαϲθω · εν ακρο βυϲτια κεκληται τιϲ μη περιτεμνε ϲθω",
+          "translation": "Was someone already circumcised when called? He shouldn't try to undo it. Was someone uncircumcised when called? He shouldn't get circumcised.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "η περιτομη ουδεν εϲτιν και η ακροβυ ϲτια ουδεν εϲτιν αλλα τηρηϲιϲ εν τολων θυ .",
+          "translation": "Circumcision is nothing, and uncircumcision is nothing. What matters is keeping God's commands.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "εκαϲτοϲ εν τη κλη ϲει η εκληθη εν ταυτη μενετω",
+          "translation": "Each person should remain in the situation they were in when they were called.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "δουλοϲ εκληθηϲ μη ϲοι μελετω αλλ ει και δυναϲαι ελευθεροϲ γενε ϲθαι μαλλον χρη ϲαι",
+          "translation": "Were you a slave when called? Don't worry about it. But if you can gain your freedom, take advantage of it.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ο γαρ εν κω κληθειϲ δουλοϲ απελευθε ροϲ κυ εϲτιν · ομοι ωϲ ο ελευθεροϲ κληθειϲ δουλοϲ χ υ εϲτιν εϲτιν χ υ ·",
+          "translation": "For the slave who was called by the Lord is the Lord's freed person. Likewise, the free person who was called is Christ's slave.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "τιμηϲ η γοραϲθητε μη γει νεϲθε δουλοι αν θρωπων",
+          "translation": "You were bought at a price; don't become slaves of human beings.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "εκαϲτοϲ εν ω εκληθη αδελ φοι εν τουτω με νετω παρα θω",
+          "translation": "Brothers and sisters, each person should remain with God in the situation they were called.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "περι δε των παρθε νων επιταγην κυ ουκ εχω γνωμ η δε διδωμι ωϲ ηλε ημενοϲ υ πο κυ πιϲτοϲ ειναι",
+          "translation": "Now about virgins: I don't have a command from the Lord, but I give my opinion as one who by the Lord's mercy is trustworthy.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "νομι ζω ουν τουτο κα λον ϋπαρχειν δι α την ενεϲτωϲαν αναγκην οτι καλον ανθρωπω το ουτωϲ ειναι ·",
+          "translation": "I think then that because of the present crisis it's good for a person to stay as they are.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "δεδεϲε γυ ναικι μη ζητι λυ ϲιν λελυϲαι απο γυ ναικοϲ μη ζητι γυ ναικα",
+          "translation": "Are you bound to a wife? Don't seek a divorce. Are you free from a wife? Don't look for a wife.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "εαν δε και γαμηϲηϲ ουχ η μαρτεϲ και εαν γη μη η παρθενοϲ ου χ ημαρτεν · θλιψ ι δε τη ϲαρκι εξουϲ ι οι τοιουτοι εγω δε ϋμων φιδομαι",
+          "translation": "But if you do marry, you haven't sinned. And if a virgin marries, she hasn't sinned. Yet those who marry will have trouble in this life — and I'm trying to spare you.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "τουτο δε φημι αδελ φοι ο καιροϲ ϲυν νεϲταλμενοϲ εϲτ ι το λοιπον ϊνα και οι εχοντεϲ γυναι καϲ ωϲ μη εχον τεϲ ωϲιν ‾‾",
+          "translation": "I'm saying this, brothers and sisters: the time is short. From now on, those who have wives should live as though they didn't,",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "και οι κλαιοντεϲ ‾‾ ωϲ μη κλαιοντεϲ ‾‾ και οι χαιροντεϲ ‾‾ ωϲ μη χαιροντεϲ ‾‾ και οι αγοραζοντεϲ ‾‾ ωϲ μη κατεχοντεϲ ‾‾",
+          "translation": "those who mourn as though they weren't mourning, those who rejoice as though they weren't rejoicing, those who buy as though they didn't possess,",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "και οι χρωμενοι τον κοϲμον τω κοϲμω τουτω ωϲ μη καταχρω μενοι · παραγει γαρ το ϲχημα του κοϲ μου τουτου",
+          "translation": "and those who use the things of the world as though not absorbed by them. For the present form of this world is passing away.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "θελω δε ϋμαϲ αμε ριμνουϲ ειναι ο αγαμοϲ μεριμνα τα του κυ πωϲ αρε ϲη τω κω",
+          "translation": "I want you to be free from worries. The unmarried man is concerned about the Lord's affairs — how he can please the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "ο δε γα μηϲαϲ μεριμνα τα του κοϲμου πωϲ αρεϲη τη γυναικι",
+          "translation": "But the married man is concerned about the affairs of the world — how he can please his wife —",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "original": "και μεμεριϲται κ(αι) η γυνη η αγαμοϲ και η παρθενοϲ η αγαμοϲ μεριμνα τα του κυ ϊνα η αγια κ(αι) τω ϲωματι και τω π ν ι η δε γαμηϲαϲα μεριμνα τα του κο ϲμου πωϲ αρεϲη τω ανδρι",
+          "translation": "and his interests are divided. The unmarried woman or virgin is concerned about the Lord's affairs, so that she may be holy in both body and spirit. But the married woman is concerned about the affairs of the world — how she can please her husband.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "original": "τουτο δε προϲ το ϋμων αυτων ϲυμφορ ο ϲυμφερ ο λεγω ουχ ινα βροχ ο ϋμιν επιβαλω αλ λα προϲ το ευϲχη μον και ευπαρεδρ ο τω κω απεριϲπαϲτωϲ",
+          "translation": "I'm saying this for your own benefit, not to restrict you, but to promote what's proper and to help you be devoted to the Lord without distraction.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "original": "ει δε τιϲ αϲχημον ι επι την παρθενον αυτου νομιζει ε η ϋπερακμοϲ και ουτωϲ οφιλει γινεϲθε ο θελει ποι ειτω ουχ αμαρτα νει γαμιτωϲαν",
+          "translation": "If anyone thinks he's acting improperly toward his virgin daughter, and she's past the prime age for marriage, and it should happen — let them do as they wish. They haven't sinned; let them marry.",
+          "footnotes": [
+            {
+              "id": "1-corinthians-7-36-interpretation",
+              "text": "This verse is ambiguous in Greek. It could refer to a man and his fiancée (\"if anyone is acting improperly toward his betrothed\") or a man and his virgin daughter. The Codex Sinaiticus text supports either reading.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 37,
+          "original": "οϲ δε εϲτηκεν εν τη καρδια αυτου ε δραιοϲ εδραιοϲ εν τη καρδια αυτου μη εχων αναγκην εξουϲι αν δε εχει περι του ϊδιου θεληματοϲ και τουτο κεκρικ ε εν τη ϊδια καρδια τηριν την εαυτου παρθενον καλωϲ ποιηϲει",
+          "translation": "But the man who is firm in his heart — who isn't under compulsion but has control over his own will, and has decided in his heart to keep his virgin daughter unmarried — will do well.",
+          "footnotes": [
+            {
+              "id": "1-corinthians-7-37-interpretation",
+              "text": "This continues the ambiguity from verse 36 — it could refer to keeping one's fiancée or one's daughter.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 38,
+          "original": "ωϲτε και ο γαμιζων την εαυ του παρθενον κα λωϲ ποιει και ο ο δε μη γαμιζων εκγαμιζων κριϲ ϲον ποιηϲει",
+          "translation": "So then, he who marries his virgin does well, but he who doesn't marry her does even better.",
+          "footnotes": [
+            {
+              "id": "1-corinthians-7-38-interpretation",
+              "text": "Same ambiguity as vv. 36-37: could refer to giving a daughter in marriage or marrying one's betrothed.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 39,
+          "original": "γυνη δεδεται νομω εφ ο ϲον χρονον ζη ο ανηρ αυτηϲ ˙ εαν δε κοιμηθη ο ανηρ ελευθερα εϲτιν ω θελει γαμηθη ναι μονον εν κω",
+          "translation": "A wife is bound as long as her husband is living. But if her husband dies, she is free to marry anyone she wishes — only in the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "original": "μακαριωτερα δε εϲτιν εαν ουτωϲ μινη κατα την ε μην γνωμην δοκω δε καγω πν α θυ εχειν",
+          "translation": "But in my opinion she's happier if she stays as she is — and I think I also have the Spirit of God.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "περι δε των ϊδωλο θυτων οιδαμεν οτι παντεϲ γνω ϲιν εχομεν η γνω ϲιϲ φυϲιοι η δε α γαπη οικοδομει",
+          "translation": "Now about food sacrificed to idols: we know that \"we all have knowledge.\" Knowledge puffs up, but love builds up.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ει τιϲ δοκει εγνω κεναι τι ουπω ε γνω καθωϲ δει γνωναι",
+          "translation": "If anyone thinks they know something, they don't yet know as they ought to know.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ει δε τιϲ αγαπα τον θν ου τοϲ εγνωϲται υπ αυτου .",
+          "translation": "But if someone loves God, they are known by God.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "περι τηϲ βρωϲεωϲ ουν των ειδωλο θυτων οιδαμεν οτι ουδεν ειδωλ ο εν κοϲμω και οτι ουδιϲ θϲ ετεροϲ ει μη ειϲ",
+          "translation": "So about eating food sacrificed to idols: we know that an idol is nothing at all in the world, and that there is no God but one.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και γαρ ειπερ ειϲιν λεγομενοι θεοι ειτε εν ουρανω ειτε επι γηϲ ωϲπερ ειϲιν θεοι πολλοι και κυριοι πολλοι",
+          "translation": "For even if there are so-called gods, whether in heaven or on earth — as there are many so-called gods and many lords —",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "αλλ ημιν ειϲ θϲ ο πα τηρ εξ ου τα παντα και ημιϲ ειϲ αυτ ο και ειϲ κϲ ιϲ χϲ δι ου τα παντα και ημιϲ δι αυτου",
+          "translation": "yet for us there is one God, the Father, from whom all things come and we exist for him; and one Lord, Jesus Christ, through whom all things exist and we live through him.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "αλλ ουκ εν παϲιν η γνωϲιϲ τινεϲ δε τη ϲυνηθια ϲυνϊδηϲι ε ωϲ αρτι του ειδω λου ωϲ ειδωλο θυτον εϲτιν εϲθιουϲιν και η ϲυνιδηϲειϲ αυ των αϲθενηϲ ου ϲα μολυνεται",
+          "translation": "But not everyone has this knowledge. Some have been so used to idols that they still eat food as if it were really sacrificed to an idol, and their weak conscience is defiled.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "βρωμα δε υμαϲ ημαϲ ου παραϲτηϲει παρϊϲτηϲειν τω θω ουτε εαν φαγωμ ε περιϲϲευομεν ου τε εαν μη φαγω μεν",
+          "translation": "Food doesn't bring us closer to God. We're no worse off if we don't eat, and no better off if we do.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "βλεπετε δε μη πωϲ η εξουϲια ϋμων αυτη προϲκομμα γενηται τοιϲ αϲθε νεϲιν",
+          "translation": "But be careful that this freedom of yours doesn't somehow become a stumbling block to the weak.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εαν γαρ τιϲ ϊδη ϲε τ ο γνωϲιν εχοντα εχοντα γνωϲιν εν ιδωλιω κατα κειμενον ουχι η ϲυνϊδηϲειϲ αυτου αϲθενουϲ οντοϲ οικοδομηθηϲε ται ειϲ το τα ϊδωλο θυτα εϲθιειν",
+          "translation": "For if someone sees you, who have knowledge, dining in an idol's temple, won't their weak conscience be emboldened to eat food sacrificed to idols?",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "απολ λυται γαρ και απολλυται ο αϲθεν ω εν τη ϲη γνωϲει ο αδελφοϲ αδελφοϲ εν τη ϲη γνωϲει δι ον χϲ απεθανεν",
+          "translation": "So the weak person — a brother or sister for whom Christ died — is destroyed by your knowledge.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ουτωϲ δε αμαρτα νοντεϲ ειϲ τουϲ α δελφουϲ και τυπτ ο τεϲ αυτων την ϲυ νιδηϲιν αϲθενου ϲαν ειϲ χν αμαρτα νετε",
+          "translation": "When you sin against your brothers and sisters in this way and wound their weak conscience, you sin against Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "διοπερ ει βρωμα ϲκ α δαλιζει τον αδελ φον μου ου μη φα γω κρεαϲ κρεα ειϲ τον αιωνα ϊνα μη τ ο αδελφον μου ϲκ α δαλιϲω",
+          "translation": "Therefore, if food causes my brother or sister to fall, I'll never eat meat again, so that I don't cause them to fall.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ουκ ειμι ελευθεροϲ ουκ ειμι αποϲτολοϲ ουχι ιν τον κν η μων εορακα ου το εργον μου ϋμειϲ εϲτε εν κω",
+          "translation": "Am I not free? Am I not an apostle? Haven't I seen Jesus our Lord? Aren't you my work in the Lord?",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ει αλ λοιϲ ουκ ειμι απο ϲτολοϲ αλλα γε ϋ μιν ειμι η γαρ ϲφρα γιϲ μου τηϲ αποϲτο ληϲ ϋμειϲ εϲτε ε κω",
+          "translation": "Even if I'm not an apostle to others, I certainly am to you. For you are the seal of my apostleship in the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "η εμη απολογια τοιϲ εμε ανακρι νουϲιν εϲτιν αυτη",
+          "translation": "This is my defense to those who scrutinize me.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "μη ουκ εχομεν ε ξουϲιαν φαγειν και πιν πιϊν",
+          "translation": "Don't we have the right to eat and drink?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "μη ουκ ε χομεν εξουϲιαν αδελφην γυναι κα περιαγειν ωϲ και οι λοιποι απο ϲτολοι και οι αδελ φοι του κυ και κη φαϲ",
+          "translation": "Don't we have the right to take along a believing wife, as do the other apostles and the Lord's brothers and Cephas?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "η μονοϲ εγω και βαρναβαϲ ουκ ε χομεν εξουϲιαν μη εργαζεϲθαι",
+          "translation": "Or is it only Barnabas and I who don't have the right not to work for a living?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "τιϲ ϲτρατευεται ι δι οιϲ οψωνιοιϲ ποτε τιϲ φυτευει αμπε λωνα και τον καρ πον εκ του καρπου αυτου ουκ ε ϲθιει · η τιϲ ποιμαι νει ποιμνην και εκ του γαλακτοϲ τηϲ ποιμνηϲ ου κ εϲθιει",
+          "translation": "Who ever serves as a soldier at his own expense? Who plants a vineyard and doesn't eat its fruit? Who tends a flock and doesn't drink its milk?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "μη κατα ανθρωπον ταυτα λαλω η και ο νομοϲ ταυτα ου λε γει",
+          "translation": "Am I saying this based on human authority? Or doesn't the Law also say this?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "εν γαρ τω μω ϋϲεωϲ νομω γε γραπται ου φιμω ϲειϲ βουν αλοων τα μη των βοων μελει τω θω",
+          "translation": "For in the Law of Moses it's written: \"Don't muzzle an ox while it's treading out the grain.\" Is it really about oxen that God is concerned?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "η δι ημαϲ παντωϲ λεγει δι ημαϲ γαρ εγραφη οτι οφιλει επ ελπι δι επ ελπιδι οφιλει ο αροτριων αρο τριαν και ο αλο ω επ ελπιδι του με τεχειν τηϲ ελπιδοϲ αυτου μετεχιν επ ελπιδι",
+          "translation": "Doesn't he say this entirely for our sake? Yes, it was written for our sake, because the plowman should plow in hope, and the thresher thresh in hope of sharing in the harvest.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ει ημιϲ ϋμιν τα πν ι κα εϲπιραμεν μεγα ει ημιϲ ϋμ ω τα ϲαρκικα θεριϲο μεν",
+          "translation": "If we sowed spiritual things among you, is it too much if we reap material things from you?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ει αλλοι τηϲ ϋμων εξουϲιαϲ μετεχουϲιν ου ουχι μαλλον ημιϲ αλλ ουκ εχρηϲα μεθα τη εξουϲια ταυτη αλλα παντα ϲτεγομεν ϊνα μη τινα εκκοπην δωμεν τω ευαγ γελιω του χυ",
+          "translation": "If others share this right over you, don't we have an even stronger claim? But we didn't use this right. Instead, we endure everything so that we won't hinder the gospel of Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ουκ οιδατε οτι οι τα ϊερα εργαζομενοι τα εκ του ϊερου εϲ θιουϲιν οι τω θυ ϲιαϲτηριω παρε δρευοντεϲ προϲεδρευοντεϲ τω θυ ϲιαϲτηριω ϲυμμε ριζονται",
+          "translation": "Don't you know that those who work in the temple get their food from the temple, and those who serve at the altar share in what's offered on the altar?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ουτωϲ και ο κϲ διεταξεν τοιϲ το ευαγγελι ο καταγγελλουϲιν εκ του ευαγγελιου ζ η",
+          "translation": "In the same way, the Lord commanded that those who preach the gospel should receive their living from the gospel.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "εγω δε ου κεχρη μαι ουκ εχρηϲαμην ουδενι τουτ ω ουκ εγραψα δε ταυτα ϊνα ουτωϲ γενη ται εν εμοι καλ ο γαρ μοι μαλλον αποθανιν η το καυ χημα μου ουδιϲ ϊνα τιϲ κε νωϲει",
+          "translation": "But I haven't used any of these rights. And I'm not writing this so that someone will do this for me. I'd rather die than have anyone deprive me of my reason to boast.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "εαν γαρ ευαγγελιζω μαι ουκ εϲτιν μοι χαριϲ καυχημα αναγκη γαρ μοι επικειται ου αι γαρ δε μοι εϲτιν ε α μη ευαγγελιζω μαι",
+          "translation": "For if I preach the gospel, I have nothing to boast about, because I'm compelled to do it. Woe to me if I don't preach the gospel!",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ει γαρ εκων του το πραϲϲω μιϲθ ο εχω ει δε ακων οι κονομιαν πεπι ϲτευμαι",
+          "translation": "If I do this willingly, I have a reward; if unwillingly, I've been entrusted with a stewardship anyway.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "τιϲ ουν μου μοι εϲτιν ο μιϲθοϲ ινα ευαγ γελιζομενοϲ υ̣α̣γ̣γ̣ γελιζομενοϲ αδα πανον θηϲω το ευαγγελιον ειϲ το μη καταχρηϲαϲ θαι εν τη εξουϲι α μου εν τω ευαγ γελιω",
+          "translation": "What then is my reward? That when I preach, I may offer the gospel free of charge, and not make full use of my right in the gospel.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ελευθεροϲ γαρ ων εκ παντων παϲ ι εμαυτον εδου λωϲα ϊνα τουϲ πλι οναϲ κερδηϲω",
+          "translation": "For though I'm free from all people, I've made myself a slave to all, so that I might win more of them.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "κ(αι) εγενομην τοιϲ ϊ ουδαιοιϲ ωϲ ϊου δαιοϲ ϊνα ιουδαι ουϲ κερδηϲω τοιϲ ϋπο νομον ωϲ υπο νομον μη ων αυτοϲ ϋπο νομον ϊνα τουϲ ϋ πο νομον κερδηϲω",
+          "translation": "To the Jews I became like a Jew, to win Jews. To those under the law I became like one under the law — though I myself am not under the law — to win those under the law.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "τοιϲ ανομοιϲ ωϲ α νομοϲ μη ων ανο μοϲ θυ αλλ εννο μοϲ χυ ϊνα κερδα νω κερδηϲω τουϲ ανομουϲ",
+          "translation": "To those outside the law I became like one outside the law — though I'm not outside God's law but under Christ's law — to win those outside the law.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "εγενομην τοιϲ αϲθε νεϲιν ωϲ αϲθενηϲ ϊ να τουϲ αϲθενειϲ κερδηϲω τοιϲ παϲι παϲιν γεγονα ˙ παντα ινα παντωϲ τιναϲ ϲωϲω",
+          "translation": "To the weak I became weak, to win the weak. I've become all things to all people, so that by all means I might save some.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "παν τα δε ποιω δια το ευ αγγελιον ϊνα ϲυγ κοινωνοϲ αυτου γενωμαι",
+          "translation": "I do all this for the sake of the gospel, so that I may share in its blessings.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "ουκ οιδατε οτι οι ε ϲταδιω τρεχον τεϲ παντεϲ μεν τρεχουϲιν ειϲ δε λαμβανι το βραβι ο ουτωϲ τρεχετε ϊ να καταλαβητε",
+          "translation": "Don't you know that in a race all the runners run, but only one receives the prize? Run in such a way that you may win.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "παϲ δε ο αγωνιζο μενοϲ παντα εγ κρατευεται εκει νοι μεν ουν ϊνα φθαρτον ϲτεφα νον λαβωϲιν η μειϲ δε φθαρτ ο αφθαρτ ο",
+          "translation": "Every athlete exercises self-control in all things. They do it to receive a perishable crown, but we an imperishable one.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "εγω τοινυν ουτωϲ τρεχω ωϲ ουκ α δηλωϲ ουτωϲ πυ κτευω ωϲ ουκ α ερα δερων",
+          "translation": "So I run — not aimlessly. I box — not punching the air.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "αλλ υ πωπιαζω μου το ϲωμα και δου λαγωγω μη πωϲ αλλοιϲ κηρυξαϲ αυτοϲ αδοκιμοϲ γενωμαι",
+          "translation": "Instead, I discipline my body and keep it under control, so that after preaching to others I myself won't be disqualified.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ου θελω γαρ δε ϋμαϲ α γνοειν αδελφοι · οτι οι πατερεϲ η μων παντεϲ υ πο την νεφελην ηϲ α και παντεϲ δια τηϲ θαλαϲϲηϲ διηλθ ο",
+          "translation": "I don't want you to be ignorant, brothers and sisters: our fathers were all under the cloud and all passed through the sea.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και παντεϲ ειϲ τ ο μωϲην εβαπτιϲθη ϲαν εν τη νεφε λη και εν τη θαλαϲ ϲη",
+          "translation": "They were all baptized into Moses in the cloud and in the sea.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και παντεϲ πνι κον βρωμα το αυτο βρωμα πνι κον εφαγ ο",
+          "translation": "They all ate the same spiritual food,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και παντεϲ το αυ το πν ικον επιον πομα επινον γαρ εκ πν ικηϲ ακο λουθουϲηϲ πε τραϲ η πετρα δε ην ο χϲ",
+          "translation": "and they all drank the same spiritual drink. For they drank from the spiritual rock that followed them, and that rock was Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "αλλ ουκ ε τοιϲ πλειοϲιν αυ των ευδοκηϲεν ο θϲ κατεϲτρωθη ϲαν γαρ εν τη ερη μω",
+          "translation": "But God wasn't pleased with most of them, and they were struck down in the wilderness.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ταυτα δε τυποι η μων εγενηθηϲ α ειϲ το μη ειναι η μαϲ επιθυμηταϲ κακων καθωϲ κακεινοι επεθυ μηϲαν",
+          "translation": "These things happened as examples for us, so that we wouldn't crave evil things as they did.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "μηδε ειδωλολα τραι γινεϲθε κα θωϲ τινεϲ αυτ ω ωϲπερ γεγραπται εκαθιϲεν ο λαοϲ φαγειν και πιν κ(αι) ανεϲτηϲαν πεζ ι",
+          "translation": "Don't become idolaters as some of them were. As it is written: \"The people sat down to eat and drink and got up to indulge in revelry.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "μηδε πορνευωμ ε καθωϲ τινεϲ αυ των επορνευϲ α και επεϲαν επεϲαν εν μια ημερα εικοϲι τριϲ χιλιαδεϲ",
+          "translation": "Let's not commit sexual immorality as some of them did — and in one day twenty-three thousand fell.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "μηδε εκπιραζω μεν τον κν καθωϲ τινεϲ αυτων εξεπιραϲαν και υπο των οφε ων απωλλυντο",
+          "translation": "Let's not put Christ to the test as some of them did — and were destroyed by snakes.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "μηδε γογγυζωμ ε καθαπερ τινεϲ αυ των εγογγυϲαν και απωλοντο ϋπο του ολοθρευτου",
+          "translation": "And don't complain as some of them did — and were destroyed by the destroyer.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "παντα δε ταυτα τυ πικωϲ ϲυνεβαιν ε εκεινοιϲ εγραφη δε ειϲ προϲ νουθεϲιαν ημων ειϲ ουϲ τα τελη των αιων ω κατηντηκεν",
+          "translation": "These things happened to them as examples and were written down as warnings for us, on whom the ends of the ages have come.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ωϲτε ο δοκων εϲτα ναι βλεπετω μη πεϲη ·",
+          "translation": "So whoever thinks they stand firm should be careful not to fall.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "πιραϲμοϲ ϋμαϲ ουκ ειληφ ε ει μη ανθρωπινοϲ πιϲτοϲ δε ο θϲ οϲ ου κ εαϲει ϋμαϲ πιρα ϲθηναι υ περ ο δυ ναϲθαι αλλα ποι ηϲει ϲυν τω πιρα ϲμω και την εκ βαϲιν του δυναϲθαι υμαϲ ϋπενεγκειν",
+          "translation": "No temptation has overtaken you except what's common to humanity. God is faithful — he won't let you be tempted beyond what you can handle. He will also provide a way out with the temptation, so that you can endure it.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "διο περ αγαπητοι μου φευγετε απο τηϲ ϊ δωλολατριαϲ",
+          "translation": "Therefore, my dear friends, flee from idolatry.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ωϲ φρονιμοιϲ λε γω κρινατε ϋμαϲ ϋμειϲ ο φημι",
+          "translation": "I speak to you as sensible people; judge for yourselves what I'm saying.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "το ποτη ριον τηϲ ευλογι αϲ ο ευλογουμεν ουχι κοινωνιαϲ κοινωνια του αιματοϲ του χυ εϲτιν τον αρ τον ον κλωμεν ουχι κοινωνια του ϲωματοϲ του χυ εϲτιν",
+          "translation": "The cup of blessing that we bless — isn't it a sharing in the blood of Christ? The bread that we break — isn't it a sharing in the body of Christ?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "οτι ειϲ αρ τοϲ εν ϲωμα οι πολλοι εϲμεν οι γαρ παντεϲ εκ του ενοϲ αρτου μετε χομεν",
+          "translation": "Because there is one bread, we who are many are one body, for we all share in the one bread.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "βλεπετε τον ϊ η λ κατα ϲαρκα ουχ ουχι οι εϲθιοντεϲ ταϲ θυ ϲιαϲ κοινωνοι του θυϲιαϲτηριου ειϲ ι",
+          "translation": "Consider Israel according to the flesh: aren't those who eat the sacrifices participants in the altar?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "τι ουν φημι οτι ει δωλοθυτον εϲτ ι τι εϲτ ι η οτι ειδωλον τι εϲτ ι",
+          "translation": "What am I saying then? That food sacrificed to idols is anything, or that an idol is anything?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "αλλ οτι α θυουϲιν τα εθνη δαιμονι οιϲ και ου θω θυου ϲιν ου θελω δε υμαϲ κοινωνουϲ των δαιμονιων γει νεϲθαι",
+          "translation": "No, I'm saying that what the Gentiles sacrifice, they sacrifice to demons and not to God. And I don't want you to be participants with demons.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ου δυναϲθε ποτηριον κυ πιν ι και ποτηριον δαι μονιων ου δυνα ϲθε τραπεζηϲ κυ μετεχιν και τραπε ζηϲ δαιμονιων",
+          "translation": "You can't drink the cup of the Lord and the cup of demons. You can't share in the table of the Lord and the table of demons.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "η παραζηλουμεν τον κν μη ϊϲχυρο τεροι αυτου εϲμεν",
+          "translation": "Or are we provoking the Lord to jealousy? Are we stronger than he is?",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "παντα μοι εξεϲτιν αλ λ ου παντα ϲυμφε ρει · παντα μοι εξεϲτ ι αλλ ου παντα οικο δομει ·",
+          "translation": "\"Everything is permissible\" — but not everything is beneficial. \"Everything is permissible\" — but not everything builds up.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "μηδειϲ το εαυτου ζητειτω αλλα το του ετερου",
+          "translation": "No one should seek their own good, but the good of others.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "παν το εν μακελ λω πωλουμεν ο εϲθιετε μηδεν ανακρινοντεϲ δι α την ϲυνϊδηϲιν",
+          "translation": "Eat anything sold in the meat market without raising questions of conscience,",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "του κυ γαρ η γη και το πληρωμα αυτηϲ",
+          "translation": "for \"the earth is the Lord's, and everything in it.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "ει τιϲ καλει υ μαϲ των απιϲτων και θελεται πορευεϲθε παν το παρατιθε μενον υ μιν εϲ θιετε μηδεν ανα κρινοντεϲ δια τ η ϲυνϊδηϲιν",
+          "translation": "If an unbeliever invites you to a meal and you want to go, eat whatever is set before you without raising questions of conscience.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "εαν δε τιϲ ϋμιν ει πη τουτο ϊεροθυτ ο εϲτιν μη εϲ [1 chars] εϲθιετε δι εκεινον τον μη νυϲαντα και την ϲυνϊδηϲιν",
+          "translation": "But if someone says to you, \"This was offered in sacrifice,\" then don't eat it — for the sake of the one who informed you, and for the sake of conscience.",
+          "footnotes": [
+            {
+              "id": "1-corinthians-10-28-missing-text",
+              "text": "A few letters are missing from the manuscript at this point.",
+              "type": "missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "original": "ϲυνϊ δηϲιν δε λεγω ου χι την εαυτου αλλα την του ετερου ϊνατι γαρ η ελευθε ρια μου κρινεται ϋ πο αλληϲ ϲυνειδη ϲεωϲ",
+          "translation": "I'm talking about conscience — not your own, but the other person's. For why should my freedom be judged by someone else's conscience?",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "ει εγω χαρι τι μετεχω τι βλαϲ φημουμαι ϋπερ ου εγω ευχαριϲτω",
+          "translation": "If I participate with gratitude, why am I slandered because of something I give thanks for?",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "ειτε ουν εϲθιετε ει τε πινετε ειτε τι ποιειτε παντα ειϲ δοξαν θυ ποιειτε",
+          "translation": "So whether you eat or drink or whatever you do, do everything for the glory of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "απροϲκοποι και ϊουδαιοιϲ γεινε ϲθε γεινεϲθε και ϊουδαιοιϲ και ελληϲιν και τη εκκληϲια του θυ",
+          "translation": "Don't cause offense — whether to Jews or to Greeks or to the church of God —",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "καθωϲ κα γω παντα παϲιν αρεϲκω μη ζητ ω το εμαυτου ϲυμ φορον ϲυμφερον αλλα το τ ω πολλων ϊνα ϲω θωϲιν",
+          "translation": "just as I try to please everyone in everything I do, not seeking my own advantage but that of many, so that they may be saved.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "μιμηται μου γεινεϲθαι κα θωϲ καγω χυ",
+          "translation": "Imitate me, just as I also imitate Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "επαινω δε υ μαϲ ο τι παντα μου μεμνη ϲθαι και καθωϲ πα ραδεδωκα παρεδωκα ϋμιν ταϲ παραδοϲειϲ κατεχε τε",
+          "translation": "I praise you for remembering me in everything and for holding to the traditions just as I passed them on to you.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "θελω δε ϋμαϲ ειδε ναι οτι παντοϲ α δροϲ η κεφαλη ο χϲ εϲτιν κεφαλη δε γυναικοϲ ο ανηρ κεφαλη δε του χυ ο θϲ",
+          "translation": "But I want you to understand that Christ is the head of every man, and the man is the head of a woman, and God is the head of Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "παϲ ανηρ προϲευ χομενοϲ η προ φητευων κατα κε φαληϲ εχων καται ϲχυνει την κεφα λην αυτου",
+          "translation": "Every man who prays or prophesies with his head covered dishonors his head.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "παϲα δε γυνη προϲ ευχομενη η προ φητευουϲα ακατα καλυπτω τη κεφα λη καταιϲχυνει τ η κεφαλην αυτηϲ εν γαρ εϲτιν και το αυτο τη εξυρημενη",
+          "translation": "But every woman who prays or prophesies with her head uncovered dishonors her head — for it's the same as if her head were shaved.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ει γαρ ου κατακα λυπτεται γυνη κ(αι) κειραϲθω ει δε αι ϲχρον γυναικι το κειραϲθαι η ξυρα ϲθαι κατακαλυπτε ϲθω",
+          "translation": "For if a woman doesn't cover her head, she might as well cut off her hair. But since it's shameful for a woman to cut off her hair or shave her head, she should cover her head.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ανηρ μεν γαρ ουκ ο φιλει κατακαλυπτε ϲθαι την κεφαλ η εικων και δοξα θυ ϋπαρχων η γυνη δε δοξα ανδροϲ εϲ τιν",
+          "translation": "A man shouldn't cover his head, since he is the image and glory of God. But woman is the glory of man.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ου γαρ εϲτιν α νηρ εκ γυναικοϲ αλλα γυνη εξ ανδροϲ",
+          "translation": "For man didn't come from woman, but woman from man.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και γαρ ουκ εκτιϲθη ανηρ δια την γυ ναικα αλλα γυνη δια τον ανδρα",
+          "translation": "And man wasn't created for woman, but woman for man.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "δια τουτο οφιλει η γυνη εξουϲιαν εχε ι επι τηϲ κεφαληϲ δια τουϲ αγγελουϲ",
+          "translation": "For this reason a woman ought to have authority over her head, because of the angels.",
+          "footnotes": [
+            {
+              "id": "1-corinthians-11-10-cultural-context",
+              "text": "\"Because of the angels\" is a debated phrase. It may refer to the angels present in worship gatherings, or to the angels mentioned in Genesis 6 who were attracted to women, making the head covering a protective symbol.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "original": "πλην ουτε γυνη χωριϲ ανδροϲ ου τε ανηρ χωριϲ γυ ναικοϲ εν κω",
+          "translation": "Nevertheless, in the Lord woman is not independent of man, nor is man independent of woman.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ωϲ περ γαρ η γυνη εκ του ανδροϲ ουτωϲ και ο ανηρ δια τηϲ γυναικοϲ τα δε παντα εκ του θυ",
+          "translation": "For as woman came from man, so also man is born of woman. But everything comes from God.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "εν υμιν αυτοιϲ κρι νατε πρεπον εϲτ ι γυναικα ακατακα λυπτον τω θω προϲ ευχεϲθαι",
+          "translation": "Judge for yourselves: is it proper for a woman to pray to God with her head uncovered?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ουδε η φυϲιϲ αυτη διδα ϲκει ϋμαϲ οτι ανηρ μεν γαρ εαν κο μα ατιμια αυτω ε ϲτιν",
+          "translation": "Doesn't nature itself teach you that if a man has long hair, it's a disgrace to him?",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "γυνη δε εαν κομα δοξα αυτη ε ϲτιν οτι η κομη αντι περιβολαιου δεδοται αυτη",
+          "translation": "But if a woman has long hair, it's her glory. For her hair is given to her as a covering.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ει δε τιϲ δοκει φι λονικοϲ ειναι η μειϲ τοιαυτην ϲυ νηθιαν ουκ εχο μεν ουδε αι εκ κληϲιαι του θυ",
+          "translation": "If anyone wants to be argumentative about this, we have no such custom — nor do the churches of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "τουτο δε παραγγελ λων ουκ επαινω οτι ουκ ειϲ το κριϲ ϲον αλλ αλλα ειϲ το ηϲ ϲον ϲυνερχεϲθε",
+          "translation": "But in giving this instruction, I don't praise you, because your gatherings do more harm than good.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "πρωτον μεν γαρ ϲυ νερχομενων ϋ μων εν εκκλη ϲια ακουω ϲχιϲμα τα εν υμιν ϋπαρ χειν και μεροϲ τι πιϲτευω",
+          "translation": "First, I hear that when you come together as a church there are divisions among you — and I partly believe it.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "δει γαρ και αιρεϲιϲ εν υ μιν ειναι ϊνα οι δοκιμοι φανεροι γενωνται εν υ μιν",
+          "translation": "No doubt there have to be factions among you so that those who are genuine may be recognized.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ϲυνερχομενων ουν ϋμων επι το αυτο ουκ εϲτιν κυριακον διπν ο φαγει φαγειν",
+          "translation": "So when you come together, it's not really the Lord's Supper that you eat.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "εκαϲτοϲ γαρ το ϊδιον διπν ο προλαμβανει ε τω φαγιν και οϲ μεν πινα οϲ δε μεθυει",
+          "translation": "For as you eat, each of you goes ahead with your own meal, so that one goes hungry and another gets drunk.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "μη γαρ οικιαϲ ου κ εχετε ειϲ το εϲ θιειν και πινιν η τηϲ εκκληϲιαϲ του θυ καταφρονι τε και κατεϲχυνε τε τουϲ μη εχον ταϲ τι ειπω ϋμιν επαι νεϲω υ μαϲ εν του τω ουκ επαινω",
+          "translation": "Don't you have homes to eat and drink in? Or do you despise the church of God and humiliate those who have nothing? What should I say to you? Should I praise you? No, I won't praise you for this.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "εγω γαρ παρελαβ ο απο του κυ ο και πα ρεδωκα ϋμιν οτι ο κϲ ιϲ εν τη νυκτι η παρεδιδετο ε λαβεν αρτον",
+          "translation": "For I received from the Lord what I also passed on to you: that the Lord Jesus, on the night he was betrayed, took bread,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και ευχαριϲτηϲαϲ ε κλαϲεν και ειπ ε τουτο μου εϲτιν το ϲωμα το ϋπερ ϋμων κλωμενον τουτο ποι ειται ειϲ την ε μην αναμνηϲ ι",
+          "translation": "and after giving thanks, he broke it and said, \"This is my body, which is broken for you. Do this in remembrance of me.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "ωϲαυτωϲ και το ποτηριον μετα το διπνηϲαι λεγ ω τουτο το ποτηρι ον η καινη δια θηκη εϲτιν εν τω εμω αιματι τουτο ποιειτε ο ϲακιϲ εαν πινη τε ειϲ την εμην αναμνηϲιν",
+          "translation": "In the same way, after supper he took the cup, saying, \"This cup is the new covenant in my blood. Do this, whenever you drink it, in remembrance of me.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "οϲακιϲ γαρ εαν ε ϲθιητε τον αρτ ο τουτο τουτον και το πο τηριον [1 chars] τηριον τουτο πινητε τον θανατον του κυ καταγγελλετε αχρι αχριϲ ου αν ελθη",
+          "translation": "For whenever you eat this bread and drink this cup, you proclaim the Lord's death until he comes.",
+          "footnotes": [
+            {
+              "id": "1-corinthians-11-26-missing-text",
+              "text": "A few letters are missing from the manuscript at this point.",
+              "type": "missing-text"
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "original": "ωϲτε οϲ αν εϲθιη τον αρτον η πινη το ποτηριον του κυ αναξιωϲ του κυ ενοχοϲ εϲτε του ϲωματοϲ και του αιματοϲ του κυ",
+          "translation": "So whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the body and blood of the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "δοκιμαζετω δε ανθρωποϲ εαυ τον πρωτον και ουτωϲ εκ του αρτου εϲθιε τω και εκ του πο τηριου πινετω",
+          "translation": "Each one should examine themselves first, and then eat the bread and drink from the cup.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "ο γαρ εϲθιων και πινων αναξιωϲ κριμα εαυ τω εϲθιει και πι νι μη διακρινων το ϲωμα του κυ ·",
+          "translation": "For whoever eats and drinks without recognizing the body, eats and drinks judgment on themselves.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "δια τουτο εν ϋμιν πολλοι αϲθενιϲ και αρρωϲτοι και κοιμωνται ι κα νοι",
+          "translation": "That's why many among you are weak and sick, and some have died.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "ει δε γαρ εαυτουϲ διεκρινομεν ου κ αν εκρινομεθα",
+          "translation": "If we judged ourselves, we wouldn't be judged.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "κρινομενοι δε ϋπο του κυ παιδευ ομεθα ϊνα μη ϲ υ τω κοϲμω κατα κριθωμεν",
+          "translation": "But when we are judged by the Lord, we are disciplined so that we won't be condemned along with the world.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "ωϲτε αδελφοι μου ϲυνερχομενοι ειϲ το φαγιν αλ ληλουϲ εκδεχεϲθε",
+          "translation": "So, my brothers and sisters, when you come together to eat, wait for one another.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "original": "ει δε τιϲ πινα οικω εϲθιετω ϊνα μη ειϲ κριμα ϲυνερ χηϲθε τα δε λοι πα ωϲ αν ελθω διαταξομαι",
+          "translation": "If anyone is hungry, they should eat at home, so that when you gather it won't lead to judgment. I'll give instructions about the other matters when I come.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "περι δε των πν ικ ω αδελφοι ου θελω ϋμαϲ αγνοειν",
+          "translation": "Now about spiritual gifts, brothers and sisters: I don't want you to be ignorant.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "οι δατε οτι οτε εθνη ητε προϲ τα ϊδω λα τα αφωνα ωϲ αν ηγεϲθε απαγο μενοι",
+          "translation": "You know that when you were pagans, you were led astray to mute idols, however you were led.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "διο γνωρι ζω ϋμιν οτι ου διϲ εν πν ι θυ λαλ ω λεγει αναθεμα ιϲ και ουδιϲ δυναται ειπειν κϲ ιϲ ει μη εν πνι αγιω",
+          "translation": "So I want you to know that no one speaking by the Spirit of God says, \"Jesus is cursed,\" and no one can say, \"Jesus is Lord,\" except by the Holy Spirit.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "διαιρεϲειϲ δε χα ριϲματων ειϲιν το δε αυτο πν α",
+          "translation": "There are different gifts, but the same Spirit.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και διαιρεϲειϲ δι ακονιων ειϲιν και ο αυτοϲ κϲ",
+          "translation": "There are different ministries, but the same Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και διερεϲειϲ ε νεργηματων ειϲιν ο δε αυτοϲ εϲτιν θϲ ο ενεργων τα παντα εν παϲιν",
+          "translation": "There are different activities, but the same God works all of them in everyone.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εκαϲτω δε διδο ται η φανερωϲιϲ του πν ϲ προϲ το ϲυμφερον",
+          "translation": "To each person the manifestation of the Spirit is given for the common good.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ω μ ε γαρ δια του π ν ϲ δι δοται λογοϲ ϲο φιαϲ αλλω δε λο γοϲ γνωϲεωϲ κα τα το αυτο πν α ·",
+          "translation": "To one is given a message of wisdom through the Spirit, to another a message of knowledge by the same Spirit,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ε τερω δε πιϲτιϲ εν τω αυτω πν ι αλ λω δε χαριϲματα ϊαματων εν τω αυτω πν ι ·",
+          "translation": "to another faith by the same Spirit, to another gifts of healing by that one Spirit,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "αλλω δε ενεργηματα δυ ναμεων · αλλω δε προφητια · αλ λω δε διακριϲιϲ πν α των · ετερω δε γενη γλωϲϲων · αλλω δε ερμηνια γλωϲ ϲων",
+          "translation": "to another the working of miracles, to another prophecy, to another distinguishing between spirits, to another various kinds of tongues, and to another the interpretation of tongues.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "παντα δε ταυ τα ενεργι το εν και το αυτο π να διαιρο υ ϊδια εκαϲτω κα θωϲ βουλεται",
+          "translation": "All these are the work of one and the same Spirit, distributing them individually to each person as he chooses.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "καθαπερ γαρ το ϲω μα εν εϲτιν και μελη πολλα εχει παντα δε τα μελη λη του ϲωματοϲ του ενοϲ πολλα οντα εν εϲ τιν ϲωμα ουτωϲ και ο χϲ",
+          "translation": "For just as the body is one and has many parts, and all the parts of that body, though many, are one body — so also is Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και γαρ εν ε νι πν ι ημειϲ παν τεϲ ειϲ εν ϲωμα εβα πτιϲθημεν ειτε ϊουδαιοι ειτε ελληνεϲ ειτε δουλοι ειτε ελευθεροι και παντεϲ εν πν α εποτιϲθημεν",
+          "translation": "For we were all baptized by one Spirit into one body — whether Jews or Greeks, whether slaves or free — and we were all given one Spirit to drink.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και γαρ το ϲωμα ου κ εϲτιν εν μελοϲ αλλα πολλα ·",
+          "translation": "For the body is not one part but many.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "εαν ειπη ο πουϲ οτι ου ειμι χειρ ουκ ει μι εκ του ϲωματοϲ ου παρα τουτο ου κ εϲτιν ει̣μ̣ι εκ του ϲωμα τοϲ",
+          "translation": "If the foot says, \"Since I'm not a hand, I'm not part of the body,\" that doesn't make it any less a part of the body.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και εαν ειπη το ουϲ οτι ουκ ει μι οφθαλμοϲ ου κ ειμι εκ του ϲωμα τοϲ ου παρα τουτο ουκ εϲτιν εκ του ϲωματοϲ ·",
+          "translation": "And if the ear says, \"Since I'm not an eye, I'm not part of the body,\" that doesn't make it any less a part of the body.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ει ολ ο το ϲωμα οφθαλ μοϲ που η ακοη ει ολον ακοη που η οϲφρηϲιϲ",
+          "translation": "If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be?",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "νυν ϊ ‾‾ δε ο θϲ εθετο τα μελη εν εκαϲτ ο αυτων εν τω ϲω ματι καθωϲ ηθε ληϲεν",
+          "translation": "But in fact God has arranged the parts in the body, every one of them, just as he wanted them.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ει δε ην τα παντα εν με λοϲ που το ϲωμα",
+          "translation": "If they were all one part, where would the body be?",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "νυν δε πολλα μ ε μελη εν δε ϲωμα",
+          "translation": "As it is, there are many parts but one body.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ου δυναται δε ο ο φθαλμοϲ ειπιν τη χειρι χριαν ϲου ουκ εχω · η παλιν η κεφαλη τοιϲ ποϲιν χριαν υμ ω ουκ εχω",
+          "translation": "The eye can't say to the hand, \"I don't need you,\" nor can the head say to the feet, \"I don't need you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "αλλα πολλω μαλλ ο τα δοκουντα μελη του ϲωματοϲ αϲθε νεϲτερα υ παρχε ι αναγκαια εϲτιν",
+          "translation": "On the contrary, the parts of the body that seem to be weaker are actually necessary,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και α δοκουμεν ατιμοτερα ειναι του ϲωματοϲ του τοιϲ τιμην περιϲϲο τεραν περιτιθεμ ε και τα αϲχημονα ημων ευϲχημο ϲυνην περιϲϲοτε ραν εχει",
+          "translation": "and the parts we consider less honorable we clothe with greater honor, and our unpresentable parts are treated with greater modesty,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "τα δε ευϲχη μονα ημων ου χριαν εχει αλλα ο θϲ ϲυνεκερα ϲεν το ϲωμα τω ϋϲτε ρουμενω ϋϲτερουντι περιϲϲο τεραν δουϲ τιμ η",
+          "translation": "while our presentable parts don't need this treatment. But God has put the body together, giving greater honor to the parts that lacked it,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "ϊνα μη η ϲχιϲμα τα εν τω ϲωματι αλλα το αυτο ϋπε ρ αλληλων μερι μνωϲι τα μελη",
+          "translation": "so that there would be no division in the body, but that the parts would have equal concern for each other.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "και ειτε παϲχει εν μελοϲ ϲυνπαϲχει παντα τα μελη · ειτε δοξαζεται εν με λοϲ ϲυγχαιρει π α τα τα μελη",
+          "translation": "If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "ϋμειϲ δε εϲτε ϲω μα χυ και μελη εκ μερουϲ",
+          "translation": "Now you are the body of Christ, and each one of you is a part of it.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "και ουϲ μ ε εθετο ο θϲ εν τη εκ κληϲια πρωτον αποϲτολουϲ δευτερον προφηταϲ τριτον διδαϲκαλουϲ επειτα δυναμιϲ επειτα χαριϲμα τα ϊαματων αντιλημψειϲ κυβερνηϲιϲ γενη γλωϲ ϲων",
+          "translation": "And God has placed in the church first of all apostles, second prophets, third teachers, then miracles, then gifts of healing, helping, guiding, and different kinds of tongues.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "μη παντεϲ ‾‾ αποϲτολοι ‾‾ μη παντεϲ ‾‾ προφηται ‾‾ μη παντεϲ διδαϲκαλοι ‾‾ μη παντεϲ δυναμιϲ ‾‾",
+          "translation": "Are all apostles? Are all prophets? Are all teachers? Do all work miracles?",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "μη παντεϲ χαριϲμα τα εχουϲιν ϊαματ ω ‾‾ μη παντεϲ γλωϲϲαιϲ λαλουϲ ι ‾‾ μη παντεϲ διερμηνευουϲ ι ‾‾",
+          "translation": "Do all have gifts of healing? Do all speak in tongues? Do all interpret?",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "ζηλουτε δε τα χα ριϲματα τα μιζονα ‾‾ και ετι καθ υπερ βολην οδον ϋμ ι δικνυμι",
+          "translation": "Eagerly desire the greater gifts. And now I'll show you the most excellent way.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "εαν ταιϲ γλωϲϲαιϲ των α θρωπων λαλω κ(αι) των αγγελων αγα πην δε μη εχω γεγονα χαλκοϲ ηχων η κυμβαλον αλαλαζον",
+          "translation": "If I speak in the tongues of people and of angels, but don't have love, I've become a noisy gong or a clanging cymbal.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "κ(αι) εαν εχω προφητιαν κ(αι) ειδω τα μυϲτηρια παντα κ(αι) παϲαν την γνωϲ ι κ(αι) εαν εχω παϲαν την πιϲτιν ωϲτε ορη μεθιϲταναι αγαπην δε μη εχω ουθεν ειμι",
+          "translation": "If I have the gift of prophecy and understand all mysteries and all knowledge, and if I have all faith so that I can move mountains, but don't have love, I'm nothing.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εαν ψωμιϲω παντα τα ϋπαρχ ο τα μου και εαν πα ραδω το ϲωμα μου ϊνα καυχηϲωμαι αγαπην δε μη ε χω ουθεν ωφελου μαι",
+          "translation": "If I give away everything I own and hand over my body to be burned, but don't have love, I gain nothing.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "η αγαπη μακροθυμει χρηϲτευεται η αγαπη ου ζηλοι η αγαπη ου περπερευεται ου φυϲιουται",
+          "translation": "Love is patient, love is kind. Love isn't jealous, it doesn't brag, it isn't arrogant,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ουκ αϲχημονει ου ζητι τα εαυτηϲ ου παροξυνεται ου λογιζεται το κακ ο",
+          "translation": "it isn't rude, it isn't self-seeking, it isn't easily angered, and it keeps no record of wrongs.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ου χαιρει επι τη α δικια · ϲυγχαιρι δε τη αληθια",
+          "translation": "Love doesn't rejoice in injustice but rejoices in the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "παντα ϲτεγει παντα πιϲτευει παντα ελπιζει παντα ϋπομενει",
+          "translation": "It bears all things, believes all things, hopes all things, endures all things.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "η αγαπη ουδεπο τε πιπτει εκπιπτει ειτε δε προφητιαι καταργηθηϲονται ειτε γλωϲϲαι παυ ϲονται · ειτε γνωϲιϲ καταργηθηϲονται",
+          "translation": "Love never fails. But prophecies will pass away, tongues will cease, and knowledge will pass away.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "εκ μερουϲ γαρ γι νωϲκομεν και εκ μερουϲ προφη τευομεν ·",
+          "translation": "For we know in part and we prophesy in part,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "οταν δε ελθη το τελιον το εκ μερουϲ κα ταργηθηϲεται",
+          "translation": "but when the perfect comes, the partial will pass away.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "οτε ημην νηπιοϲ ελαλουν ωϲ νηπι οϲ · εφρονουν ωϲ νηπιοϲ ˙ ελογιζο μην ωϲ νηπιοϲ οτε δε γεγονα ανηρ κατηργηκα τα του νηπιου",
+          "translation": "When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became an adult, I put aside childish things.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "βλεπομεν γαρ αρ τι δι εϲοπτρου ε ν αινιγματι τοτε δε προϲωπον προϲ προϲωπον αρτι γινωϲκω εκ με ρουϲ το τοτε δε επιγνω ϲομαι καθωϲ και επεγνωϲθην",
+          "translation": "For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I will know fully, just as I've been fully known.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "νυνϊ δε μενει πιϲτιϲ ελπιϲ αγαπη τα τρια ταυτα μιζ ω δε τουτων η αγα πη",
+          "translation": "And now these three remain: faith, hope, and love. But the greatest of these is love.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "διωκετε την αγαπην ζηλουτε δε τα πν ι κα μαλλον δε ϊ να προφητευη τε",
+          "translation": "Pursue love and eagerly desire spiritual gifts, and especially that you may prophesy.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ο γαρ λαλων γλωϲϲη ουχ αν θρωποιϲ λαλει αλλα τω θω ουθιϲ γαρ ακουει πν ι δε λα λει μυϲτηρια",
+          "translation": "For the one who speaks in a tongue doesn't speak to people but to God, since no one understands them; they speak mysteries in the Spirit.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ο δε προφητευ ω ανθρωποιϲ λαλει οικοδομην και παρακληϲιν και παραμυθιαν",
+          "translation": "But the one who prophesies speaks to people for their upbuilding, encouragement, and comfort.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ο λαλων γλωϲϲη εαυτον οικοδομει ο δε προφητευ ω εκκληϲιαν οικο δομει",
+          "translation": "The one who speaks in a tongue builds up themselves, but the one who prophesies builds up the church.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "θελω δε πανταϲ ϋ μαϲ λαλιν γλωϲϲαιϲ μαλλον δε ϊνα προφητευητε μειζων δε γαρ ο προ φητευων η ο λα λων γλωϲϲαιϲ εκ τοϲ ︴ ει μη διερμη νευη ϊνα η εκκλη ϲια οικοδομην λαβη",
+          "translation": "I wish that all of you spoke in tongues, but even more that you prophesied. The one who prophesies is greater than the one who speaks in tongues, unless someone interprets so that the church may be built up.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "νυν δε αδελφοι ε αν ελθω προϲ ϋ μαϲ γλωϲϲαιϲ λα λων τι υμαϲ ω φεληϲω εαν μη ϋμιν λαληϲω εν αποκαλυψει η εν γνωϲει η εν προφητια η εν διδαχη",
+          "translation": "Now, brothers and sisters, if I come to you speaking in tongues, how will I benefit you unless I bring you some revelation, knowledge, prophecy, or teaching?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ομωϲ τα αψυχα φωνην διδοντα ειτε αυλοϲ ειτε κι θαρα · εαν διαϲτολ η τοιϲ φθογγοιϲ μη δω πωϲ γνωϲθη ϲεται το αυλουμε νον η το κιθαριζο μενον",
+          "translation": "Even lifeless instruments that produce sound — whether flute or harp — if they don't make a distinction between notes, how will what's played be recognized?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και γαρ ε αν αδηλον ϲαλπιγξ φωνην δω · τιϲ παραϲκευαϲεται ειϲ πολεμον",
+          "translation": "And if the trumpet sounds an unclear call, who will get ready for battle?",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ου τωϲ και ϋμιϲ δια τηϲ γλωϲϲηϲ ε α μη ευϲημον λογ ο δωτε πωϲ γνω ϲθηϲεται το λα λουμενον εϲε ϲθε γαρ ειϲ αερα λαλουντεϲ",
+          "translation": "So it is with you. Unless you speak intelligible words with your tongue, how will anyone know what you're saying? You'll be speaking into the air.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "τοϲαυ τα ει τυχοι γενη φωνων ειϲιν ε κοϲμω και ουδ ε αυτων αφωνον",
+          "translation": "There are many different languages in the world, and none is without meaning.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "εαν ο υ μη ειδω την δυ ναμιν τηϲ φω νηϲ εϲομαι τω λαλουντι βαρβα ροϲ και ο λαλων εν εμοι βαρβαροϲ",
+          "translation": "If I don't know the meaning of the language, I'll be a foreigner to the speaker, and the speaker will be a foreigner to me.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ουτωϲ και ϋμειϲ ε πι ζηλωται εϲτε πν ατων προϲ τ η οικοδομην τηϲ εκκληϲιαϲ ζητι τε ϊνα περιϲϲευητε",
+          "translation": "So it is with you. Since you're eager for spiritual gifts, seek to excel in building up the church.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "διο διοπερ ο λαλων γλωϲ ϲη προϲευχεϲθω ϊνα διερμηνευη",
+          "translation": "For this reason, the one who speaks in a tongue should pray that they may interpret.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "εαν γαρ γλωϲϲη το πν α μου προϲευ χεται ο δε νουϲ μου ακαρποϲ εϲτ ι",
+          "translation": "For if I pray in a tongue, my spirit prays but my mind is unfruitful.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "τι ουν εϲτιν προϲ ευξωμαι τω πν ι προϲευξομαι δε και τω νοι · ψαλω τω πν ι ψαλω δε και τω νοι",
+          "translation": "What then should I do? I'll pray with my spirit, but I'll also pray with my mind. I'll sing with my spirit, but I'll also sing with my mind.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "επει εαν ευλογηϲ ε πν ι ο αναπληρ ω τον τοπον του ϊδι ωτου πωϲ ερει το αμην επι τη ϲη ευ χαριϲτια επειδη τι λεγειϲ ουκ οιδεν",
+          "translation": "Otherwise, if you praise God in the Spirit, how can someone in the position of an outsider say \"Amen\" to your thanksgiving, since they don't know what you're saying?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ϲυ μεν γαρ καλωϲ ευχαριϲτιϲ αλλ ο ετεροϲ ουκ οικο δομειται",
+          "translation": "You may be giving thanks well, but the other person isn't built up.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ευχαριϲτω τω θω παντων ϋμων μαλλον γλωϲϲη λαλω",
+          "translation": "I thank God that I speak in tongues more than all of you.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "αλλ αλλ εν εκκληϲι α θελω πεντε λογουϲ τω νοϊ μου λαληϲαι ϊνα και αλλουϲ κα τηχηϲω η μυριουϲ λογουϲ εν γλωϲϲη",
+          "translation": "But in the church I'd rather speak five words with my mind to instruct others than ten thousand words in a tongue.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "αδελφοι μη παιδια γεινεϲθε ταιϲ φρε ϲιν αλλα τη κακια νηπιαζετε ταιϲ δε φρεϲιν τελειοι γι νεϲθε",
+          "translation": "Brothers and sisters, don't be childish in your thinking. Be infants in evil, but in your thinking be mature.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "εν τω νομω τι γεγρα πται οτι εν ετερο γλωϲϲοιϲ και εν χειλεϲιν ετερων λαληϲω τω λαω τουτω και ουδ ου τωϲ ειϲακουϲον ται μου λεγει κϲ",
+          "translation": "In the Law it is written: \"By people of strange tongues and by the lips of foreigners I will speak to this people, and even then they won't listen to me,\" says the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ωϲτε αι γλωϲϲαι ειϲ ϲημιον ειϲιν ου τοιϲ πιϲτευουϲιν αλλα τοιϲ απιϲτοιϲ η δε προφητια ου τοιϲ απιϲτοιϲ αλλα τοιϲ πιϲτευουϲιν",
+          "translation": "So tongues are a sign, not for believers but for unbelievers. Prophecy, however, is not for unbelievers but for believers.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "εαν ουν ϲυνελθη η εκκληϲια ολη ε πι το αυτο και π α τεϲ λαλωϲιν γλωϲ ϲαιϲ ειϲελθωϲιν δε ϊδιωται η απι ϲτοι ουκ ερουϲιν οτι μαινεϲθε",
+          "translation": "So if the whole church comes together and everyone speaks in tongues, and outsiders or unbelievers come in, won't they say you're out of your minds?",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "εαν δε παντεϲ προφητευωϲιν ειϲελθη δε τιϲ απι ϲτοϲ η ϊδιωτηϲ ελεγχεται ϋπο π α των ανακρινεται ϋπο παντων",
+          "translation": "But if everyone prophesies and an unbeliever or outsider comes in, they are convicted by all and called to account by all.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "τα κρυπτα τηϲ καρδι αϲ αυτου φανερα γεινεται και ουτωϲ πεϲων επι προϲω πον προϲκυνηϲει τω θω απαγγελλ ω οτι οντωϲ ο θϲ εν υ μιν εϲτιν",
+          "translation": "The secrets of their heart will be revealed, and they'll fall down and worship God, declaring, \"God is truly among you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "τι ουν εϲτιν αδελ φοι οταν ϲυνερ χηϲθε εκαϲτοϲ υμων ψαλμον εχει διδαχην εχει αποκαλυψιν εχει γλωϲϲαν εχει ερμηνιαν εχει παντα προϲ οικο δομην γινεϲθω",
+          "translation": "What then, brothers and sisters? When you come together, each of you has a hymn, a teaching, a revelation, a tongue, or an interpretation. Everything should be done for building up.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "ειτε γλωϲϲη τιϲ λαλι κατα δυο η το πλι ϲτον τριϲ και ανα μεροϲ και ειϲ διερ μηνευετω",
+          "translation": "If anyone speaks in a tongue, let there be two or at most three, each in turn, and let someone interpret.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "εαν δε μη η διερμηνευ τηϲ ϲιγατω εν εκ κληϲια εαυτω δε λαλειτω και τω θω",
+          "translation": "If there's no interpreter, let the speaker keep silent in the church and speak to themselves and to God.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "προφηται δε δυο η τριϲ λαλειτωϲαν και οι αλλοι δια κρινετωϲαν",
+          "translation": "Let two or three prophets speak, and let the others evaluate what's said.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "ε α δε αλλω αποκαλυ φθη οπθημενω καθημενω ο πρωτοϲ ϲιγατω",
+          "translation": "If a revelation comes to someone else who is sitting, the first speaker should stop.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "δυναϲθε γαρ καθ ε να παντεϲ προφη τευειν ϊνα παν τεϲ μανθανωϲ ι και παντεϲ παρα καλωνται",
+          "translation": "For you can all prophesy one by one, so that everyone may learn and everyone may be encouraged.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "και πνα τα προφητων προ φηταιϲ ϋποταϲϲε ται",
+          "translation": "The spirits of prophets are subject to the prophets.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "ου γαρ εϲτιν α καταϲταϲιαϲ ο θϲ αλλα ειρηνηϲ ωϲ εν παϲαιϲ ταιϲ εκ κληϲιαιϲ των αγι ων",
+          "translation": "For God is not a God of disorder but of peace — as in all the churches of the saints.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "original": "αι γυναικεϲ εν ταιϲ εκκληϲιαιϲ ϲιγατω ϲαν ου γαρ επιτρε πεται αυταιϲ λαλε ι αλλα ϋποταϲϲεϲθω ϲαν καθωϲ και ο νο μοϲ λεγει",
+          "translation": "Women should be silent in the churches, for they aren't permitted to speak. Instead, they should be in submission, as the Law also says.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "original": "ει δε τι μανθανειν μανθειν θελου ϲιν εν οικω τουϲ ι διουϲ ανδραϲ επε ρωτατωϲαν αιϲχρ ο γαρ εϲτι εϲτιν γυναικι γυναιξι λαλειν εν εκκληϲι α",
+          "translation": "If they want to learn about something, they should ask their own husbands at home. For it's shameful for a woman to speak in church.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "original": "η αφ υμων ο λογοϲ του θυ εξηλθεν η ειϲ ϋμαϲ μονουϲ κατηντηϲεν",
+          "translation": "Did the word of God originate with you? Or are you the only ones it has reached?",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "original": "ει τιϲ δοκει προφη τηϲ ειναι η πνι κοϲ επιγινωϲκετω α γραφω υ μιν οτι κυ εντολη εϲτιν εϲτιν εντολη",
+          "translation": "If anyone thinks they are a prophet or spiritual, they should acknowledge that what I'm writing to you is the Lord's command.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "original": "ει δε τιϲ αγνοει α γνοειται αγνοειτω",
+          "translation": "If anyone ignores this, they themselves will be ignored.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "original": "ωϲτε αδελφοι μου ζηλουτε το προ φητευειν και το λαλειν μη κωλυε τε γλωϲϲαιϲ",
+          "translation": "So, my brothers and sisters, eagerly desire to prophesy, and don't forbid speaking in tongues.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "original": "παν τα δε ευϲχημο νωϲ και κατα ταξ ι γινεϲθω",
+          "translation": "But everything should be done decently and in order.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "γνωριζω α δε υμ ι αδελφοι το ευαγγε λιον ο ευηγγελι ϲαμην ϋμιν ο κ(αι) παρελαβετε εν ω και εϲτηκατε",
+          "translation": "Now I want to remind you, brothers and sisters, of the gospel I preached to you, which you received and in which you stand firm.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "δι ου και ϲωζεϲθε τινι λογω ευηγγελιϲα μην υμιν ει κατε χετε εκτοϲ ει μη εικη επιϲτευϲατε",
+          "translation": "By this gospel you are being saved, if you hold firmly to the word I preached to you — unless you believed in vain.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "παρεδωκα γαρ υμ ι εν πρωτοιϲ ο και παρελαβον οτι χϲ απεθανεν ϋπερ των αμαρτιων ημων κατα ταϲ γρα φαϲ",
+          "translation": "For I passed on to you as of first importance what I also received: that Christ died for our sins according to the Scriptures,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και οτι εταφη και οτι εγηγερται τη ημερα τη τριτη κατα ταϲ γραφαϲ",
+          "translation": "that he was buried, that he was raised on the third day according to the Scriptures,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και οτι ωφθη κη φα επειτα τοιϲ ιβ",
+          "translation": "and that he appeared to Cephas, and then to the Twelve.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "επειτα ωφθη ε πανω πεντακο ϲιοιϲ αδελφοιϲ ε φαπαξ εξ ων οι πλι ονεϲ μενουϲιν εωϲ αρτι τινεϲ δε κ(αι) εκοιμηθηϲαν",
+          "translation": "Then he appeared to more than five hundred brothers and sisters at once — most of whom are still alive, though some have died.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ε πειτα ωφθη ϊα κωβω · επειτα ειτα τοιϲ αποϲτολοιϲ παϲ ι",
+          "translation": "Then he appeared to James, then to all the apostles.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εϲχατον δε παντ ω ωϲπερει τω εκτρω ματι ωφθη καμοι",
+          "translation": "Last of all, as to one untimely born, he appeared also to me.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "εγω γαρ ειμι ο ελα χιϲτοϲ των αποϲτο λων οϲ ουκ ιμι ϊ κανοϲ καλειϲθαι αποϲτολοϲ διο τι εδιωξα την εκ κληϲιαν του θυ",
+          "translation": "For I am the least of the apostles, unworthy to be called an apostle, because I persecuted the church of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "χαριτι δε θυ ειμι ο ειμι και η χαριϲ αυ του η ειϲ εμε ου κε νη εγενηθη αλλα περιϲϲοτερον αυ των απαντων παντων ε κοπιαϲα ουκ εγω δε αλλα η χαριϲ του θυ η ϲυν εμοι",
+          "translation": "But by God's grace I am what I am, and his grace toward me wasn't in vain. On the contrary, I worked harder than all of them — yet not I, but the grace of God that was with me.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ειτε ουν εγω ειτε εκεινοι ουτωϲ κηρυϲϲομεν και ουτωϲ πιϲτευϲα τε επιϲτευϲατε",
+          "translation": "Whether then it was I or they, this is what we preach, and this is what you believed.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ει δε χϲ κηρυϲϲετε οτι εκ νεκρων ε γηγερται πωϲ λε γουϲιν εν υμιν τινεϲ οτι αναϲτα ϲιϲ νεκρων ουκ ε ϲτιν",
+          "translation": "Now if Christ is preached as raised from the dead, how can some of you say there's no resurrection of the dead?",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ει δε αναϲταϲιϲ νεκρ ω ουκ εϲτιν ουδε χϲ εγη γερται",
+          "translation": "If there's no resurrection of the dead, then not even Christ has been raised.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ει δε χϲ ουκ εγηγερ ται κενον αρα και το κηρυγμα ημ ω καινη και η πιϲτιϲ ϋμων",
+          "translation": "And if Christ hasn't been raised, our preaching is useless and so is your faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ευριϲκομε θα δε και ψευδο μαρτυρεϲ του θυ ο τι εμαρτυρηϲαμ ε κατα του θυ οτι ηγει ρεν τον χν αυτου ον ουκ ηγειρεν ει περ αρα νεκροι ου κ εγειρονται ·",
+          "translation": "More than that, we'd be found to be false witnesses about God, because we testified about God that he raised Christ — whom he didn't raise if in fact the dead aren't raised.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ει γαρ νεκροι ουκ εγι ρονται ουδε χϲ ε γηγερται",
+          "translation": "For if the dead aren't raised, not even Christ has been raised.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ει δε χϲ ου κ εγηγερται μα ταια η πιϲτιϲ ϋμ ω και ετι εϲτε εν ταιϲ αμαρτιαιϲ ϋ μων ·",
+          "translation": "And if Christ hasn't been raised, your faith is futile and you're still in your sins.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "αρα και οι κοιμηθ ε τεϲ εν χω απωλ ο το",
+          "translation": "Then those also who have died in Christ have perished.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ει εν τη ζωη ταυ τη εν χω ηλπικο τεϲ εϲμεν μον ο ελεεινοτεροι παντων ανθρω πων εϲμεν",
+          "translation": "If we have hope in Christ only for this life, we are the most pitiful people of all.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "νυνϊ δε χϲ εγηγερ ται εκ νεκρων α παρχη των κε κοιμημενων",
+          "translation": "But now Christ has been raised from the dead, the firstfruits of those who have died.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "επιδη γαρ δι αν θρωπου θανατοϲ και δι ανθρωπου αναϲταϲιϲ νεκρ ω",
+          "translation": "For since death came through a man, the resurrection of the dead also comes through a man.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ωϲπερ γαρ εν τω αδαμ παντεϲ απο θνηϲκουϲιν αποθνηϲκο [1 chars] ‾‾ ουτωϲ και εν τω χω παντεϲ ζωο ποιηθηϲονται",
+          "translation": "For as in Adam all die, so also in Christ all will be made alive.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "εκαϲτοϲ δε εν τω ϊδι ω ταγματι απαρχη χϲ επειτα οι του χυ εν τη παρουϲια αυ του",
+          "translation": "But each in their own order: Christ the firstfruits, then those who belong to Christ at his coming.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "ειτα το τελοϲ οταν παραδιδω την βα ϲιλιαν του θυ τω θω και πρ ι οταν καταργηϲη παϲαν αρχην και παϲαν εξουϲιαν και δυναμιν",
+          "translation": "Then the end will come, when he hands over the kingdom to God the Father after he has destroyed all dominion, authority, and power.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "δει γαρ αυτον βαϲιλευειν αχρι αχριϲ αχρι ου αν θη πανταϲ τουϲ εχθρουϲ ϋπο τουϲ ποδαϲ αυτου παντα γαρ υπεταξεν υ πο τουϲ ποδαϲ αυτου",
+          "translation": "For he must reign until he has put all his enemies under his feet.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "εϲχατοϲ εχθροϲ καταργειται ο θα νατοϲ",
+          "translation": "The last enemy to be destroyed is death.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "παντα γαρ υπεταξεν υ πο τουϲ ποδαϲ αυτου οταν δε ειπη οτι τα παντα ϋποτε τακται δηλον οτι εκτοϲ του ϋποτα ξαντοϲ αυτω τα παντα",
+          "translation": "For God \"has put everything under his feet.\" But when it says that everything has been put under him, it's clear that this doesn't include God himself, who put everything under Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "παντα οταν δε ϋποταγη αυτω τα παντα τοτε και αυ τοϲ ο ϋϊοϲ ϋποταγη ϲεται τω ϋποταξ α τι αυτω τα παντα ϊνα η ο θϲ τα παν τα εν παϲιν",
+          "translation": "When everything has been subjected to him, then the Son himself will be subjected to the one who put everything under him, so that God may be all in all.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "επει τι ποιηϲουϲ ι οι βαπτιζομενοι ϋπερ των νεκρ ω ει ολωϲ νεκροι ου κ εγιρονται τι και βαπτιζονται ϋπε ρ αυτων",
+          "translation": "Otherwise, what will those do who are baptized for the dead? If the dead aren't raised at all, why are people baptized for them?",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "τι και ημιϲ κινδυνευομεν παϲαν ωραν",
+          "translation": "And why do we face danger every hour?",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "καθ ημεραν απο θνηϲκω νη την ϋμετεραν καυχη ϲιν αδελφοι ην ε χω εν χω ιυ τω κω ημων",
+          "translation": "I face death every day — this I know by the pride I have in you in Christ Jesus our Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "ει κατα αν θρωπον εθηριομα χηϲα εν εφεϲω τι μοι το οφελοϲ ει νεκροι ουκ εγει ρονται φαγωμ ε και πιωμεν αυρι ον γαρ αποθνηϲκο μεν",
+          "translation": "If I fought wild beasts in Ephesus for human reasons alone, what do I gain? If the dead aren't raised, \"let's eat and drink, for tomorrow we die.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "μη πλαναϲθαι φθει ρουϲιν ηθη χρηϲτα ομιλιαι κακαι",
+          "translation": "Don't be misled: \"Bad company corrupts good character.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "original": "εκ νηψατε δικαιωϲ και μη αμαρτανετε αγνωϲιαν γαρ θυ τινεϲ εχουϲιν προϲ εντροπην ϋ μιν λαλω",
+          "translation": "Come to your senses as you should, and stop sinning. For some of you don't know God — I say this to your shame.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "original": "αλλ ερι τιϲ πωϲ εγει ρονται οι νεκροι ποιω δε ϲωματι ερ χονται",
+          "translation": "But someone will ask, \"How are the dead raised? What kind of body will they have?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "original": "αφρων ϲυ ο ϲπιρειϲ ου ζωοποιειται ειϲ την εαν μη αποθα νη",
+          "translation": "Fool! What you sow doesn't come to life unless it dies.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "original": "και ο ϲπιρειϲ ου το ϲωμα το γενηϲο μενον ϲπειρειϲ αλλα γυμν ο κοκκον ει τυχοι ϲι του η τινοϲ των λοι πων ︴",
+          "translation": "And what you sow is not the body that will be, but a bare seed — perhaps of wheat or some other grain.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "original": "ο δε θϲ διδω ϲιν αυτω ϲωμα καθωϲ ηθεληϲ ε και εκαϲτω των ϲπερματων το ϊδι ο ϲωμα",
+          "translation": "But God gives it a body as he pleases, and to each kind of seed its own body.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "original": "ου παϲα ϲαρξ η αυ τη ϲαρξ αλλα αλλη μεν αν θρωπων αλλη δε ϲαρξ κτη νων αλλη δε ϲαρξ πτη νων αλλη δε ϊχθυων",
+          "translation": "Not all flesh is the same — one kind for humans, another for animals, another for birds, and another for fish.",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "original": "και ϲωματα επου ρανια και ϲωματα επιγεια αλλα ετερα μεν η των επου ρανιων δοξα ετε ρα δε η των επιγει ων ·",
+          "translation": "There are celestial bodies and terrestrial bodies, but the glory of the celestial is one kind, and the glory of the terrestrial is another.",
+          "footnotes": []
+        },
+        {
+          "verse": 41,
+          "original": "αλλη δοξα η λιου και αλλη δοξα ϲεληνηϲ και αλλη δοξα αϲτερων α ϲτηρ γαρ αϲτεροϲ δι αφερει εν δοξη",
+          "translation": "There is one glory of the sun, another glory of the moon, and another glory of the stars; for star differs from star in glory.",
+          "footnotes": []
+        },
+        {
+          "verse": 42,
+          "original": "ουτωϲ και η αναϲτα ϲιϲ των νεκρ ω ϲπιρεται εν φθορα εγιρεται εν αφθαρ ϲια ·",
+          "translation": "So it is with the resurrection of the dead. What is sown is perishable, what is raised is imperishable.",
+          "footnotes": []
+        },
+        {
+          "verse": 43,
+          "original": "ϲπειρεται εν ατιμια · εγειρε ται εν δοξη ϲπει ρεται εν αϲθενια εγειρεται εν δυνα μι ·",
+          "translation": "It is sown in dishonor, it is raised in glory. It is sown in weakness, it is raised in power.",
+          "footnotes": []
+        },
+        {
+          "verse": 44,
+          "original": "ϲπειρεται ϲω μα ψυχικον · εγει ρεται ϲωμα πνι κ ο ε ει ει εϲτιν ϲωμα ψυχι κον εϲτιν και πνι κον ·",
+          "translation": "It is sown a natural body, it is raised a spiritual body. If there is a natural body, there is also a spiritual body.",
+          "footnotes": []
+        },
+        {
+          "verse": 45,
+          "original": "ουτωϲ και γε γραπται · εγενετο ο πρωτοϲ ανθρω ποϲ αδαμ ειϲ ψυ χην ζωϲαν · ο εϲ χατοϲ αδαμ ειϲ πνα ζωοποιουν ·",
+          "translation": "So also it is written: \"The first man Adam became a living being\" — the last Adam became a life-giving spirit.",
+          "footnotes": []
+        },
+        {
+          "verse": 46,
+          "original": "αλλ ου πρωτον το πνι κον αλλα το ψυχικον επειτα το πν ικον",
+          "translation": "But the spiritual didn't come first — the natural did, and then the spiritual.",
+          "footnotes": []
+        },
+        {
+          "verse": 47,
+          "original": "ο πρωτοϲ ανθρω ποϲ εκ γηϲ χοικοϲ ο δευτεροϲ ανθρω ποϲ ο κϲ εξ ουρανου",
+          "translation": "The first man was from the earth, made of dust; the second man is from heaven.",
+          "footnotes": []
+        },
+        {
+          "verse": 48,
+          "original": "οιοϲ ο χοϊκοϲ τοι ουτοι και οι χοϊ κοι και οιοϲ ο ε πουρανιοϲ τοιου τοι και οι επουρα νιοι",
+          "translation": "As was the man of dust, so also are those who are of dust; and as is the man of heaven, so also are those who are of heaven.",
+          "footnotes": []
+        },
+        {
+          "verse": 49,
+          "original": "και καθωϲ εφορεϲαμεν τ η εικονα του χοϊ κου φορεϲωμ ε και την εικονα του επουρανιου",
+          "translation": "And just as we have borne the image of the man of dust, we will also bear the image of the man of heaven.",
+          "footnotes": []
+        },
+        {
+          "verse": 50,
+          "original": "τουτο δε φημι α δελφοι οτι ϲαρξ και αιμα βαϲιλει α θυ κληρονομη ϲαι ου δυναται ου δε η φθορα την α φθαρϲιαν κληρο νομει",
+          "translation": "I tell you this, brothers and sisters: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.",
+          "footnotes": []
+        },
+        {
+          "verse": 51,
+          "original": "ϊδου μυϲτηριον ϋμιν λεγω παν τεϲ μεν κοιμη θηϲομεθα ου π α τεϲ δε αλλαγηϲο μεθα",
+          "translation": "Listen, I'm telling you a mystery: we will not all die, but we will all be changed —",
+          "footnotes": []
+        },
+        {
+          "verse": 52,
+          "original": "εν ατομω εν ριπη οφθαλ μου εν τη εϲχα τη ϲαλπιγγι ϲαλ πιϲει γαρ και οι νε κροι εγερθηϲ ο ται αφθαρτοι κ(αι) ημειϲ αλλαγηϲο μεθα",
+          "translation": "in a moment, in the blink of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised imperishable, and we will be changed.",
+          "footnotes": []
+        },
+        {
+          "verse": 53,
+          "original": "δει γαρ το φθαρτ ο τουτο ενδυϲαϲ θαι αφθαρϲιαν και το θνητον του το ενδυϲαϲθαι α θαναϲιαν",
+          "translation": "For this perishable body must put on imperishability, and this mortal body must put on immortality.",
+          "footnotes": []
+        },
+        {
+          "verse": 54,
+          "original": "οταν δε το φθαρτον τουτο ενδυϲηται αφθαρ ϲιαν και το το θνητον του το ενδυϲηται τ η αθαναϲιαν τοτε γενηϲεται ο λογοϲ ο γεγραμμενοϲ κατεποθη ο θανα τοϲ ειϲ νικοϲ",
+          "translation": "When this perishable puts on imperishability and this mortal puts on immortality, then the saying that is written will come true: \"Death has been swallowed up in victory.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 55,
+          "original": "που ϲου θανατε το νι κοϲ που ϲου θανα τε το κεντρον που ϲου θανατε το κεντρον που ϲου αδη το νικοϲ",
+          "translation": "\"Where, O death, is your victory? Where, O death, is your sting?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 56,
+          "original": "το δε κεντρον του θανατου η αμαρτι α η δε δυναμιϲ τηϲ αμαρτιαϲ ο νομοϲ",
+          "translation": "The sting of death is sin, and the power of sin is the law.",
+          "footnotes": []
+        },
+        {
+          "verse": 57,
+          "original": "τω δε θω χαριϲ τω διδοντι ημιν το νεικοϲ δια του κυ ημων ιυ χυ",
+          "translation": "But thanks be to God, who gives us the victory through our Lord Jesus Christ!",
+          "footnotes": []
+        },
+        {
+          "verse": 58,
+          "original": "ωϲτε αδελφοι μου αγαπητοι εδραιοι γεινεϲθε αμετα κινητοι περιϲϲευ οντεϲ εν τω ερ γω του κυ παντο τε ειδοτεϲ οτι ο κοποϲ ϋμων ου κ εϲτιν κενοϲ ε κω",
+          "translation": "Therefore, my dear brothers and sisters, be steadfast, immovable, always excelling in the work of the Lord, since you know that your labor in the Lord isn't in vain.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "περι δε τηϲ λογιαϲ τηϲ ειϲ τουϲ αγιουϲ ωϲπερ διεταξα ταιϲ εκκληϲιαιϲ τηϲ γαλατειαϲ ου τωϲ και υμιϲ ποιηϲα τε",
+          "translation": "Now about the collection for the saints: do as I directed the churches of Galatia.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "κατα μιαν ϲαββα τω ϲαββατου ϲαββατων εκαϲτοϲ ϋμ ω παρ εαυτω τιθε τω θηϲαυριζων ο τι αν ευοδωται ευοδωθη ϊνα μη οταν ελθω τοτε λογιαι γιν ω ται",
+          "translation": "On the first day of the week, each of you should set aside and save whatever surplus you have, so that no collections need be made when I come.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "οταν δε παραγενω μαι ουϲ εαν δο κιμαϲηται δι επι ϲτολων τουτουϲ πεμψω απενεγ κιν την χαριν ϋ μων ιϲ ιηλ μ",
+          "translation": "When I arrive, I'll send those you approve with letters to carry your gift to Jerusalem.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ε α δε η αξιον αξιον η του κα πορευεϲθαι ϲυν εμοι πορευ ϲονται",
+          "translation": "If it seems worthwhile for me to go also, they'll travel with me.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ελευϲομαι δε προϲ ϋμαϲ οταν μακαι δονιαν διελθω μακαιδονιαν γαρ διερχομαι",
+          "translation": "I'll come to you after I pass through Macedonia — for I'm going through Macedonia —",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "προϲ ϋμαϲ δε τυ χον παραμενω η και παραχειμα ϲω ϊνα ϋμειϲ με προπεμψητε ου εαν πορευωμαι",
+          "translation": "and perhaps I'll stay with you or even spend the winter, so that you can send me on my way wherever I go.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ου θελω γαρ ϋμαϲ αρτι εν παροδω ει διν ελπιζω γαρ χρονον τινα επι μειναι προϲ ϋμαϲ εαν ο κϲ επιτρεψη",
+          "translation": "I don't want to see you now just in passing. I hope to spend some time with you, if the Lord permits.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "επιμενω δε εν ε φεϲω εωϲ τηϲ π ε τηκοϲτηϲ",
+          "translation": "But I'll stay in Ephesus until Pentecost,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "θυρα γαρ μοι ανεωγεν με γαλη και ενεργηϲ και αντικιμενοι πολλοι",
+          "translation": "because a great door for effective work has opened to me, and there are many adversaries.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εαν δε ελθη τιμο θεοϲ βλεπεται ϊ να αφοβωϲ γενη ται προϲ υ μαϲ το γαρ εργον κυ εργα ζεται ωϲ καγω",
+          "translation": "If Timothy comes, see that he has nothing to fear while he's with you, for he's doing the work of the Lord just as I am.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "μη τιϲ ουν αυτον ε ξουθενηϲη προ πεμψατε δε αυτον εν ϊρηνη ϊνα ελ θη προϲ με εκ δεχομαι γαρ αυ τον μετα των αδελφων ·",
+          "translation": "No one should despise him. Send him on his way in peace so that he may come to me, for I'm expecting him along with the brothers.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "περι δε απολλω του αδελφου δηλω ϋμιν οτι πολ λα παρεκαλεϲα αυτ ο ϊνα ελθη προϲ ϋ μαϲ μετα των α δελφων και παν τωϲ ουκ ην θε λημα ϊνα νυν ελ θη ελευϲεται δε οταν ευκερηϲη",
+          "translation": "Now about our brother Apollos: I strongly urged him to go to you with the other brothers, but it was not at all his will to go now. He'll go when he has an opportunity.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "γρηγορειτε ϲτηκε τε εν τη πιϲτι αν δριζεϲθε κρατε ουϲθαι",
+          "translation": "Stay alert, stand firm in the faith, be courageous, be strong.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "παντα ϋ μων εν αγαπη γινεϲθω",
+          "translation": "Everything you do should be done in love.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "παρακαλω δε ϋμαϲ α δελφοι οιδατε τ η οικιαν ϲτεφανα κ(αι) φορτουνατου οτι εϲτιν απαρ χη τηϲ αχαιαϲ και ειϲ διακονιαν τοιϲ αγιοιϲ εταξαν ε αυτουϲ",
+          "translation": "I urge you, brothers and sisters — you know that the household of Stephanas were the first converts in Achaia, and they've devoted themselves to serving the saints —",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ϊνα και ϋ μειϲ υ ποταϲϲη ϲθε τοιϲ τοιουτοιϲ και παντι τω ϲυ νεργουντι και κοπιωντι",
+          "translation": "submit to such people and to everyone who works and labors with them.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "χαιρω δε επι τη παρουϲια ϲτεφα να και φορτουνα του φορτουνατου και αχαϊκου ο τι το ϋμων ϋϲτε ρημα ουτοι ανε πληρωϲαν",
+          "translation": "I rejoice at the arrival of Stephanas, Fortunatus, and Achaicus, because they've made up for your absence.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ανε παυϲαν γαρ το ε μον πνα και το ϋμων επιγινω ϲκεται ουν τουϲ τοιουτουϲ",
+          "translation": "They've refreshed my spirit and yours. So acknowledge such people.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "αϲπαζονται αι εκκληϲιαι τηϲ αϲιαϲ αϲπαζεται ϋμαϲ εν κω πολλα ακυ λαϲ και πριϲκα ϲυν τη κατ οικον αυτων εκκληϲι α ·",
+          "translation": "The churches of Asia send you greetings. Aquila and Prisca greet you warmly in the Lord, along with the church that meets in their house.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "αϲπαζονται υ μαϲ οι αδελφοι παν τεϲ αϲπαϲαϲθε αλλη λουϲ εν φιληματι αγιω",
+          "translation": "All the brothers and sisters send greetings. Greet one another with a holy kiss.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ο αϲπαϲμοϲ τη ε μη χειρι παυλου",
+          "translation": "This greeting is in my own hand — Paul's.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ει τιϲ ου φιλει τον κν ιν χν ητω αναθε μα μαρανα θα",
+          "translation": "If anyone doesn't love the Lord, let them be cursed. Come, Lord!",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "η χαριϲ του κυ ιυ χυ μεθ υμων",
+          "translation": "The grace of the Lord Jesus Christ be with you.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "η αγα πη μου μετα π α των ϋμων εν χω ιυ αμην · ⌇﹏",
+          "translation": "My love be with all of you in Christ Jesus. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

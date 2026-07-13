@@ -1,0 +1,762 @@
+{
+  "book": "1 Timothy",
+  "slug": "1-timothy",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "παυλοϲ αποϲτολοϲ χυ ιυ κατ επαγγε θυ ϲ ρ ϲ ημ ω και κυ ιυ χυ τηϲ ελ πιδοϲ ημων",
+          "translation": "Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "τι μοθεω γνηϲιω τεκνω εν πιϲτι χα ριϲ ελεοϲ ϊρηνη απο θυ πατροϲ ημων και χυ ιυ του κυ ημ ω",
+          "translation": "to Timothy, my true son in the faith: grace, mercy, and peace from God the Father and Christ Jesus our Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "καθωϲ παρεκαλε ϲα ϲε προϲμειναι εν εφεϲω πορευ ομενοϲ ειϲ μα καιδονιαν ϊνα παραγγιληϲ τιϲιν μη ετεροδιδαϲκα λιν",
+          "translation": "As I urged you when I left for Macedonia, stay on in Ephesus so that you can command certain people not to teach a different doctrine",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "μηδε προϲε χειν μυθοιϲ και γε νεαλογιαιϲ απε ραντοιϲ αιτινεϲ εκζητηϲειϲ παρε χουϲι μαλλον η οι κονομιαν θυ την εν πιϲτει",
+          "translation": "or to pay attention to myths and endless genealogies, which promote speculation rather than God's plan that works by faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "το δε τελοϲ τηϲ πα ραγγελιαϲ εϲτιν α γαπη εκ καθαραϲ καρδιαϲ και ϲυνει δηϲεωϲ αγαθηϲ και πιϲτεωϲ ανυ ποκριτου",
+          "translation": "The goal of this command is love from a pure heart, a good conscience, and a sincere faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ων τινεϲ αϲτοχη ϲαντεϲ εξετραπη ϲαν ειϲ ματαιολο γιαν",
+          "translation": "Some have wandered away from these and turned to meaningless talk,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "θελοντεϲ ειναι νομοδιδα ϲκαλοι μη νοο υ τεϲ μητε α λεγου ϲιν μητε περι τι νων διαβεβαιο υ ται",
+          "translation": "wanting to be teachers of the Law, though they don't understand what they're saying or the things they confidently assert.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "οιδαμεν δε οτι κα λοϲ ο νομοϲ εαν τιϲ αυτω νομιμωϲ χρηται",
+          "translation": "But we know that the Law is good if someone uses it properly.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ειδωϲ τουτο οτι δι καιω νομοϲ ου κι ται · ανομοιϲ δε και ανυποτακτοιϲ αϲεβεϲι και αμαρ τωλοιϲ ανοϲιοιϲ και βεβηλοιϲ πα τρολωαιϲ · και μη τρολωαιϲ · ανδρο φονοιϲ · ανδροφονο [1 chars]",
+          "translation": "We also know that the Law wasn't made for a righteous person, but for the lawless and rebellious, the ungodly and sinful, the unholy and profane, for those who kill their fathers or mothers, for murderers,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "πορνοιϲ αρϲενοκοιταιϲ ανδραποδιϲταιϲ [1 chars] νοιϲ αρϲε [1 chars] ιταιϲ ανδρα [1 chars] οδιϲταιϲ ψευϲταιϲ · επιορκοιϲ και ει τι ετερον τη ϋγιαινουϲη διδα ϲκαλια αντικειται",
+          "translation": "for sexually immoral people, for homosexuals, for slave traders, for liars, for perjurers, and for anything else that's contrary to sound teaching",
+          "footnotes": [
+            {
+              "id": "1-timothy-1-10-interpretation",
+              "text": "\"Αρσενοκοίταις\" may refer specifically to male same-sex practice. The term was coined by Paul and its precise meaning has been debated.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "original": "κατα το ευαγγελι ο τηϲ δοξηϲ του μα καριου θυ ο επιϲτευ θην εγω",
+          "translation": "according to the glorious gospel of the blessed God that was entrusted to me.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "χαριν εχω τω εν δυναμουντι ενδυναμωϲαντι με χω ιυ τω κω ημων οτι πιϲτον με ηγη ϲατο θεμενοϲ ειϲ διακονιαν",
+          "translation": "I thank Christ Jesus our Lord, who has given me strength, that He considered me faithful, appointing me to His service.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "το προ τερον οντα βλαϲφη μον και διωκτην και ϋβριϲτην αλ λα ηλεηθην οτι αγνοων εποιηϲα εν απιϲτια",
+          "translation": "I used to be a blasphemer, a persecutor, and an arrogant man. But I was shown mercy because I acted in ignorance and unbelief.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ϋπερε πλεοναϲεν δε η χαριϲ του κυ ημ ω μετα πιϲτεωϲ και αγαπηϲ τηϲ εν χω ιυ",
+          "translation": "The grace of our Lord overflowed for me with faith and love that are in Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "πιϲτοϲ ο λογοϲ και αποδοχηϲ αξιοϲ οτι χϲ ιϲ ηλ θεν ειϲ κοϲμον αμαρτωλουϲ ϲω ϲαι ων πρωτοϲ ειμι εγω",
+          "translation": "This saying is trustworthy and deserves full acceptance: \"Christ Jesus came into the world to save sinners\" — and I'm the worst of them.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "αλλα δια τουτο η λεηθην ϊνα εν ε μοι πρωτω εν διξηται ιϲ χϲ τ η απαϲαν μακροθυ μιαν προϲ ϋπο τυπωϲιν των μελ λοντων αγαθων πιϲτευειν επ αυτω ειϲ ζωην αιωνι ον",
+          "translation": "But I received mercy so that in me, the worst sinner, Christ Jesus could demonstrate His complete patience as an example for those who would believe in Him for eternal life.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "τω δε βαϲιλει των αιωνων αφθαρ τω αορατω μονω ϲοφω θω τιμη και δοξα ειϲ τουϲ αιωναϲ των αιωνων α μην ·",
+          "translation": "Now to the King eternal, immortal, invisible, the only God — be honor and glory forever and ever. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ταυτην την παραγ γελιαν παρατιθε μαι ϲοι τεκνον τιμοθεε κατα ταϲ προαγουϲαϲ επι ϲε προφητειαϲ ϊ να ϲτρατευϲη ϲτρατευη ε ν αυταιϲ την καλ η ϲτρατειαν",
+          "translation": "Timothy, my son, I'm giving you this instruction in keeping with the prophecies previously made about you, so that by following them you may fight the good fight,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "εχων πιϲτιν και αγαθ η ϲυνϊδηϲιν ην τι νεϲ απωϲαμε νοι περι την πιϲτ ι εναυαγηϲαν",
+          "translation": "holding on to faith and a good conscience. Some have rejected these and made shipwreck of their faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ων εϲτιν υ μενεοϲ και αλεξανδροϲ ουϲ παρεδωκα τω ϲατανα ι να παιδευθωϲι μη βλαϲφημιν",
+          "translation": "Among them are Hymenaeus and Alexander, whom I've handed over to Satan so that they may learn not to blaspheme.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "παρακαλω ουν πρωτον παντ ω ποιειϲθαι δεηϲειϲ προϲευχαϲ εντευ ξειϲ ευχαριϲτιαϲ ϋπερ παντων αν θρωπων",
+          "translation": "First of all, then, I urge that petitions, prayers, intercessions, and thanksgivings be made for everyone —",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "υ περ βαϲιλεων και π α των των εν υπε ροχη οντων ι να ηρεμον και ηϲυ χιον βιον διαγω μεν εν παϲη ευϲε βια και ϲεμνοτη τι",
+          "translation": "for kings and all those in authority — so that we may lead a peaceful and quiet life in all godliness and dignity.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "τουτο γαρ καλον κ(αι) αποδεκτον ενω πιον του ϲ ρ ϲ ημ ω θυ",
+          "translation": "This is good and pleasing in the sight of God our Savior,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "οϲ πανταϲ αν θρωπουϲ θελει ϲωθηναι και ειϲ επιγνωϲιν αλη θειαϲ ελθιν",
+          "translation": "who wants everyone to be saved and to come to the knowledge of the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ειϲ γαρ θϲ ειϲ και με ϲειτηϲ θυ και αν θρωπων ανθρω ποϲ χϲ ιϲ",
+          "translation": "For there is one God and one mediator between God and humanity — the man Christ Jesus,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ο δουϲ ε αυτον αντιλυτρ ο υ̇περ παντων κ(αι) το μαρτυριον καιροιϲ ϊδιοιϲ",
+          "translation": "who gave Himself as a ransom for all — the testimony given at the proper time.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ειϲ ο ετεθην εγω κηρυξʼ και αποϲτο λοϲ αληθειαν λε γω εν χω ου ψευ δομαι διδαϲκα λοϲ εθνων εν γνωϲι και αληθει α",
+          "translation": "For this I was appointed as a herald and an apostle (I'm telling the truth; I'm not lying), as a teacher of the Gentiles in faith and truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "βουλομαι ουν προϲ ευχεϲθαι τουϲ α δραϲ εν παντι τοπω επαιρονταϲ οϲι ουϲ χιραϲ χωριϲ οργηϲ και διαλογι ϲμου διαλογιϲμων",
+          "translation": "Therefore, I want the men in every place to pray, lifting up holy hands without anger or argument.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ωϲαυτωϲ και γυναι καϲ εν καταϲτο λη κοϲμιω κοϲμιωϲ μετα αιδουϲ και ϲωφρο ϲυνηϲ κοϲμιν ε αυταϲ μη εν πλεγ μαϲιν · και χρυϲω η μαργαριταιϲ · η ι ματιϲμω πολυ τελει",
+          "translation": "Similarly, the women should dress themselves in modest clothing, with decency and self-control — not with braided hair, gold, pearls, or expensive clothes,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "αλλ ο πρεπει γυναιξιν επαγγελ λομεναιϲ θεοϲε βειαν δι εργων αγαθων",
+          "translation": "but with good works, as is proper for women who profess godliness.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "γυνη εν ηϲυχια μανθανετω εν παϲη ϋποταγη",
+          "translation": "A woman should learn quietly, with full submission.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "δι δαϲκιν δε γυναι κι ουκ επιτρεπω ουδε αυθεντειν ανδροϲ αλλ ειναι εν ηϲυχια",
+          "translation": "I don't allow a woman to teach or to exercise authority over a man; instead, she should remain quiet.",
+          "footnotes": [
+            {
+              "id": "1-timothy-2-12-interpretation",
+              "text": "The Greek word \"αὐθεντεῖν\" is rare and disputed — it could mean \"to domineer\" or \"to assume authority\" rather than simply \"to have authority.\"",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "original": "αδαμ γαρ πρωτοϲ επλαϲθη ειτα ευα",
+          "translation": "For Adam was formed first, then Eve.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και αδαμ ουκ ηπα τηθη η δε γυνη ε ξαπατηθειϲα απατηθειϲα εν παραβαϲει γεγον ε",
+          "translation": "And Adam wasn't deceived, but the woman — being deceived — fell into transgression.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ϲωθηϲεται δε δι α τηϲ τεκνογονι αϲ εαν μινωϲιν εν πιϲτι και αγαπη και αγιαϲμω με τα ϲωφροϲυνηϲ",
+          "translation": "But she will be saved through childbearing — if they continue in faith, love, holiness, and self-control.",
+          "footnotes": [
+            {
+              "id": "1-timothy-2-15-interpretation",
+              "text": "\"Saved through childbearing\" is much-debated — it may refer to women being kept safe in childbirth or to salvation through the childbearing of Mary (Jesus' birth).",
+              "type": "interpretation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "πιϲτοϲ ο λογοϲ ει τιϲ επιϲκοπηϲ ορεγε ται καλου εργου επι θυμει",
+          "translation": "This saying is trustworthy: \"If someone aspires to be an overseer, he desires a good work.\"",
+          "footnotes": [
+            {
+              "id": "1-timothy-3-1-interpretation",
+              "text": "\"Επισκοπή\" (oversight/overseership) is the root of \"episcopal.\" In the first-century context, it likely referred to local congregational leadership.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "δι ουν τον επιϲκοπον ανε πιλημπτον ει ναι μιαϲ γυναικοϲ ανδρα νηφαλ̣ι ο νηφαλαι ο ϲωφρονα · κοϲμι ον · φιλοξενον διδακτικον ·",
+          "translation": "An overseer, then, must be above reproach, the husband of one wife, self-controlled, sensible, respectable, hospitable, able to teach,",
+          "footnotes": [
+            {
+              "id": "1-timothy-3-2-interpretation",
+              "text": "\"Husband of one wife\" could mean faithful in marriage (not polygamous) or not remarried after divorce/widowhood.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "μη παροινον · μη πληκτην · αλλα επιεικη αμαχ ο αφιλαργυρον",
+          "translation": "not a drunkard, not violent, but gentle, not quarrelsome, not a lover of money.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "του ϊδιου οικου κα λωϲ προϊϲτανο μενον · τεκνα ε χοντα εν υποτα γη μετα παϲηϲ ϲε μνοτητοϲ",
+          "translation": "He must manage his own household well, keeping his children submissive with all respectfulness.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ει δε τιϲ του ϊδιου οικου προϲτηναι ουκ οιδεν πωϲ εκ κληϲιαϲ θυ επι μεληϲεται",
+          "translation": "For if someone doesn't know how to manage his own household, how can he take care of God's church?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "μη νεοφυτον ϊ να μη τυφωθειϲ ειϲ κριμα εμπεϲη του διαβολου",
+          "translation": "He shouldn't be a new convert, so that he won't become arrogant and fall into the devil's condemnation.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "δει δε και μαρτυρι αν καλην εχιν α πο των εξωθεν ι να μη ειϲ ονιδι ϲμον εμπεϲη και παγιδα του διαβο λου ·",
+          "translation": "He must also have a good reputation with outsiders, so that he won't fall into disgrace and the devil's trap.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "διακονουϲ ωϲαυ τωϲ ϲεμνουϲ μη διλογουϲ μη οινω πολλω προϲεχονταϲ μη αιϲχροκερδειϲ",
+          "translation": "Deacons, likewise, should be dignified, not double-tongued, not addicted to much wine, and not greedy for dishonest gain.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ε χονταϲ το μυϲτη ριον τηϲ πιϲτεωϲ και καθαραϲ ϲυνει δηϲεωϲ εν καθαραϲ ϲυνειδηϲει",
+          "translation": "They must hold on to the mystery of the faith with a clear conscience.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ουτοι δε δοκειμαζεϲθω ϲαν πρωτον ειτα διακονιτωϲαν ανεγκλητοι ον τεϲ",
+          "translation": "They should be tested first; then, if they're above reproach, let them serve as deacons.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "γυναικαϲ ωϲαυτωϲ ϲεμναϲ μη διαβο λουϲ νηφαλιουϲ πιϲταϲ εν παϲιν",
+          "translation": "Women, likewise, should be dignified, not slanderers, self-controlled, and faithful in everything.",
+          "footnotes": [
+            {
+              "id": "1-timothy-3-11-interpretation",
+              "text": "\"Women\" here could refer to deacons' wives or to female deacons (the Greek is the same word).",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "original": "διακονοι εϲτωϲ α μιαϲ γυναικοϲ α δρεϲ τεκνων κα λωϲ προ ι ϲταμε νοι και των ϊδι ω οικων ·",
+          "translation": "Deacons must be husbands of one wife, managing their children and their own households well.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "οι γαρ καλωϲ διακο νηϲαντεϲ βαθμ ο εαυτοιϲ καλον περιποιουνται και πολλην παρ ρηϲιαν εν πιϲτι τη εν χω ιυ",
+          "translation": "For those who serve well as deacons gain a good standing for themselves and great confidence in the faith that is in Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ταυτα ϲοι γραφω ελπιζων ελθιν προϲ ϲε ταχιον",
+          "translation": "I'm writing these things to you, hoping to come to you soon.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "εαν δε βραδυνω ϊνα ειδηϲ πωϲ δει εν οικω θυ α ναϲτρεφεϲθαι ητιϲ εϲτιν εκκλη ϲια θυ ζωντοϲ ϲτυλοϲ και εδραι ωμα τηϲ αληθιαϲ",
+          "translation": "But if I'm delayed, I want you to know how people ought to behave in God's household, which is the church of the living God, the pillar and foundation of the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ομολογουμε νωϲ μεγα εϲτιν το τηϲ ευϲεβειαϲ μυϲτηριον οϲ θεὸϲ ε φανερωθη εν ϲαρ κι · εδικαιωθη εν π ν ι ωφθη αγγελοιϲ εκηρυχθη εν ε θνεϲιν επιϲτευ θη ε ν κοϲμω · ανελημφθη εν δοξη",
+          "translation": "And without question, the mystery of godliness is great: He was revealed in the flesh, vindicated by the Spirit, seen by angels, preached among the nations, believed in the world, and taken up in glory.",
+          "footnotes": [
+            {
+              "id": "1-timothy-3-16-variant",
+              "text": "Some manuscripts read \"Θεός\" (God) instead of \"ὅς\" (He), giving \"God was revealed in the flesh\" — a major christological variant.",
+              "type": "variant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "το δε π ν α ρητωϲ λεγει οτι εν υϲτε ροιϲ καιροιϲ απο ϲτηϲονται τινεϲ τηϲ πιϲτεωϲ προϲ εχοντεϲ π ν αϲι πλανοιϲ και διδα ϲκαλειαϲ διδαϲκαλειαιϲ δαιμο νιων",
+          "translation": "Now the Spirit explicitly says that in later times some will abandon the faith, paying attention to deceitful spirits and the teachings of demons,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "εν υποκρι ϲει ψευδολογων κεκαυϲτηριαϲμε νων την ϊδιαν ϲυνϊδηϲιν",
+          "translation": "through the hypocrisy of liars whose consciences are seared.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "κωλυ οντων γαμειν απεχεϲθαι βρω ματων α ο θϲ εκτι ϲεν ειϲ μεταλημ ψιν μετα ευχαρι ϲτιαϲ τοιϲ πιϲτοιϲ και επεγνωκοϲι την αληθιαν",
+          "translation": "They forbid marriage and require abstinence from foods that God created to be received with thanksgiving by those who believe and know the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "οτι παν κτιϲμα θυ καλον και ουδεν αποβλητον με τα ευχαριϲτιαϲ λαμβανομενον",
+          "translation": "For everything created by God is good, and nothing is to be rejected if it's received with thanksgiving,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "αγιαζεται γαρ δια λογου θυ και εν τευξεωϲ",
+          "translation": "since it's sanctified by God's word and prayer.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ταυτα ϋποτιθεμε νοϲ τοιϲ αδελφοιϲ καλοϲ εϲη διακο νοϲ χυ ιυ εντρε φομενοϲ τοιϲ λο γοιϲ τηϲ πιϲτεωϲ και τηϲ καληϲ δι δαϲκαλιαϲ η πα ρηκολουθηκαϲ",
+          "translation": "If you point these things out to the brothers and sisters, you'll be a good servant of Christ Jesus, nourished by the words of the faith and the good teaching that you've followed.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "τουϲ δε βεβηλουϲ και μυ θουϲ παραιτου γυμναζε δε ϲεαυτ ο προϲ ευϲεβιαν",
+          "translation": "But have nothing to do with profane myths and old wives' tales. Instead, train yourself for godliness.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "η γαρ ϲωματικη γυ μναϲια προϲ ολιγον ε ϲτιν ωφελιμοϲ η δε ευϲεβεια προϲ παντα ωφελιμοϲ εϲτιν επαγγελιαν εχουϲα ζωηϲ τηϲ νυν και τηϲ μελ λουϲηϲ",
+          "translation": "For physical training is beneficial for a little, but godliness is beneficial for everything, since it holds the promise of life — both now and in the future.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "πιϲτοϲ ο λογοϲ και παϲηϲ αποδοχηϲ αξιοϲ",
+          "translation": "This saying is trustworthy and deserves full acceptance.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ειϲ τουτο γαρ κο πιωμεν και αγω νιζομεθα ονιδιζομεθα οτι ηλ πικαμεν επι θω ζωντι οϲ εϲτιν ϲω τηρ παντων αν θρωπων μαλιϲτα πιϲτων",
+          "translation": "For this is why we labor and strive, because we've put our hope in the living God, who is the Savior of everyone — especially of those who believe.",
+          "footnotes": [
+            {
+              "id": "1-timothy-4-10-variant",
+              "text": "Some manuscripts read \"and suffer reproach\" instead of \"and strive.\"",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "original": "παραγγελλε ταυτα και διδαϲκε",
+          "translation": "Command and teach these things.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "μηδιϲ ϲου τηϲ νεοτητοϲ καταφρονιτω αλ λα τυποϲ γινου τ ω πιϲτων εν λογω εν αναϲτροφη · εν αγαπη · εν πιϲ τι · εν αγνια ·",
+          "translation": "Don't let anyone look down on you because you're young, but be an example for the believers in speech, in conduct, in love, in faith, and in purity.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "εωϲ ερχομαι προϲεχε τη αναγνωϲει · τη παρακληϲει τη διδαϲκαλια ·",
+          "translation": "Until I come, devote yourself to the public reading of Scripture, to preaching, and to teaching.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "μη αμελει του εν ϲοι χαριϲματοϲ ο εδοθη ϲοι δια προ φητειαϲ μετα επι θεϲεωϲ των χει ρων του πρεϲβυτε ρου πρεϲβυτεριου",
+          "translation": "Don't neglect the gift you have, which was given to you through prophecy when the elders laid their hands on you.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ταυτα μελετα εν του τοιϲ ϊϲθι ϊνα ϲου η προκοπη φανε ρα η παϲιν ·",
+          "translation": "Practice these things; be absorbed in them, so that your progress may be evident to everyone.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "επεχε ϲεαυτω και τη δι δαϲκαλια επιμε νε αυτοιϲ τουτο γαρ ποιων και ϲε αυτον ϲωϲειϲ και τουϲ ακουονταϲ ϲου",
+          "translation": "Keep a close watch on yourself and on the teaching. Persevere in these things, because if you do, you'll save both yourself and those who hear you.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "πρεϲβυτερω μη επι πληξηϲ αλλα παρα καλει ωϲ πρα · νεωτερουϲ ωϲ αδελφουϲ",
+          "translation": "Don't rebuke an older man harshly, but appeal to him as a father. Treat younger men as brothers,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "πρε ϲβυτεραϲ ωϲ μητε ραϲ · νεωτεραϲ ωϲ αδελφαϲ εν παϲη αγνια ·",
+          "translation": "older women as mothers, and younger women as sisters, with complete purity.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "χηραϲ τιμα ταϲ οντωϲ χηραϲ ·",
+          "translation": "Honor widows who are truly widows.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ει δε τιϲ χηρα τεκνα η εκγονα ε χει μανθανετωϲ α πρωτον τον ι δι ο οικον ευϲεβιν και αμοιβαϲ απο διδοναι τοιϲ προ γονοιϲ τουτο γαρ εϲτιν αποδεκτ ο ενωπιον του θυ",
+          "translation": "But if a widow has children or grandchildren, they should first learn to practice godliness toward their own family and to repay their parents, because this is pleasing before God.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "η δε οντωϲ χηρα και μεμονωμε νη ηλπικεν επι κν τον θν και προϲμενει ταιϲ δεηϲεϲιν και ταιϲ προϲευχαιϲ νυκτοϲ και ημεραϲ",
+          "translation": "The true widow, left all alone, has put her hope in God and continues night and day in her petitions and prayers.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "η δε ϲπαταλωϲα ζωϲα τεθνηκεν",
+          "translation": "But the one who lives in self-indulgence is dead even while she's alive.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ταυτα παραγγελ λε ϊνα ανεπιλημ πτοι ωϲιν",
+          "translation": "Command these things as well, so that they may be above reproach.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ει δε τιϲ των ϊδι ω και μαλιϲτα οικι ων ου προνοει ται προνοει την πιϲτιν ηρ νηται και εϲτιν απιϲτου χειρων",
+          "translation": "But if someone doesn't provide for his own relatives, and especially for his own household, he has denied the faith and is worse than an unbeliever.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "χηρα καταλεγεϲθω μη ελαττον ετ ω εξηκοντα γεγο νυϊα ενοϲ ανδροϲ γυνη",
+          "translation": "A widow should be enrolled on the list if she's at least sixty years old, has been the wife of one husband,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εν εργοιϲ κα λοιϲ μαρτυρουμε νη · ει ετεκνοτροφη ϲεν · ει εξενοδοχη ϲεν · ει αγιων ποδαϲ ενιψεν · ει θλιβομε νοιϲ επηρκεϲεν · ει παντι εργω αγαθω επηκολουθηϲεν",
+          "translation": "and is known for good works — if she has raised children, shown hospitality, washed the saints' feet, helped the afflicted, and devoted herself to every good work.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "νεωτεραϲ δε χηραϲ παραιτου οταν γαρ καταϲτρηνιαϲωϲιν του χυ γαμιν θελου ϲιν",
+          "translation": "But refuse to enroll younger widows, because when their sensual desires pull them away from Christ, they want to marry,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "εχουϲαι κριμα ο τι την πρωτην πι ϲτιν ηθετηϲαν",
+          "translation": "and thus bring judgment on themselves for breaking their first pledge.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "α μα δε και αργαι μαν θανουϲιν περιερ χομεναι ταϲ οικι αϲ ου μονον δε αρ γαι αλλα και φλυαρο̣ι και περιεργοι πε [1 chars] εργοι λαλου ϲαι τα μη δεοντα",
+          "translation": "At the same time, they also learn to be idle, going from house to house, and not only idle but also gossipy and nosy, talking about things they shouldn't.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "βουλομαι ουν νε ωτεραϲ γαμιν τε κνογονειν οικο δεϲποτιν μηδε μιαν αφορμην διδοναι τω αντι κειμενω λοιδορι αϲ χαριν",
+          "translation": "So I want younger widows to marry, have children, and manage their households, so they don't give the enemy any opportunity for slander.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ηδη γαρ τι νεϲ εξετραπηϲαν οπιϲω του ϲατανα",
+          "translation": "For some have already turned away to follow Satan.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ει τιϲ πιϲτη εχει χη ραϲ επαρκειϲθω αυταιϲ και μη βαρει ϲθω η εκκληϲια ϊ να ταιϲ οντωϲ χη ραιϲ επαρκεϲη",
+          "translation": "If any believing woman has widows in her family, let her help them, so that the church won't be burdened — so it can help the widows who are truly widows.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "οι καλωϲ προεϲτω τεϲ πρεϲβυτεροι δι πληϲ τιμηϲ αξιου ϲθωϲαν μαλιϲτα οι κοπιωντεϲ εν λογω και διδαϲκα λια",
+          "translation": "The elders who lead well should be considered worthy of double honor, especially those who work hard at preaching and teaching.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "λεγει γραρ γαρ γαρ η γρα φη βουν αλοωντα ου φιμωϲειϲ και α ξιοϲ ο εργατηϲ του μιϲθου τη̣ϲ̣ τ̣ρ̣ο̣φ̣η̣ϲ̣ αυτου",
+          "translation": "For the Scripture says, \"Don't muzzle an ox while it's threshing grain,\" and \"The worker deserves his wages.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "κατα πρεϲβυτερου κατηγοριαν μη πα ραδεχου εκτοϲ ει μη επι δυο η τρι ω μαρτυρων",
+          "translation": "Don't accept an accusation against an elder unless it's confirmed by two or three witnesses.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "τουϲ αμαρτανονταϲ ενωπιον παντ ω ελεγχε ϊνα και οι λοι ποι φοβον εχωϲ ι",
+          "translation": "Publicly rebuke those who sin, so that the rest will be afraid.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "διαμαρτυρομαι ε νωπιον του θυ και χυ ιυ και των εκλε κτων αγγελων ϊ να ταυτα φυλαξηϲ χωριϲ προκριμα τοϲ μηδεν ποι ω κατα προϲκλιϲιν",
+          "translation": "I solemnly charge you before God and Christ Jesus and the elect angels to follow these instructions without favoritism, doing nothing out of partiality.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "χειραϲ ταχεωϲ μη επιτιθει μη δε κοινωνει αμαρ τιαιϲ αλλοτριαιϲ ϲεαυτον αγνον τη ρει",
+          "translation": "Don't be too quick to lay hands on anyone, and don't share in the sins of others. Keep yourself pure.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "μηκετι ϋδροποτει αλλα οινω ολιγω χρω δια τον ϲτομα χον και ταϲ πυκναϲ ϲου αϲθενειαϲ ·",
+          "translation": "Don't drink only water anymore, but use a little wine for your stomach and your frequent illnesses.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "τινων ανθρωπ ω αι αμαρτιαι προδη λοι ειϲιν προαγου ϲαι ειϲ κριϲιν τιϲιν δε και επακολουθου ϲιν",
+          "translation": "Some people's sins are obvious, leading them to judgment, while the sins of others follow later.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "ωϲαυτωϲ και τα εργα τα καλα προ δηλα και τα αλλωϲ εχοντα κρυβηναι ου δυναται",
+          "translation": "Similarly, good works are obvious, and even those that aren't can't stay hidden.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "οϲοι ειϲιν ϋπο ζυγ ο δουλοι π τουϲ ι δι ουϲ δεϲποταϲ πα ϲηϲ τιμηϲ αξιουϲ ηγειϲθωϲαν ϊνα μη το ονομα του θυ και η διδαϲκα λια βλαϲφημηται",
+          "translation": "All who are under the yoke of slavery should consider their own masters worthy of full respect, so that God's name and our teaching won't be blasphemed.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "οι δε πιϲτουϲ εχον τεϲ δεϲποταϲ μη καταφρονιτωϲαν οτι αδελφοι ειϲιν αλλα μαλλον δου λευετωϲαν οτι πι ϲτοι ειϲιν και αγα πητοι οι τηϲ ευεργε ϲιαϲ αντιλαμβανο μενοι ταυτα διδαϲκε και παρακαλει",
+          "translation": "Those who have believing masters shouldn't be disrespectful toward them because they're brothers. Instead, they should serve them even better, since those who benefit from their service are believers and loved. Teach and encourage these things.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ει τιϲ ετεροδιδαϲκαλει και μη προϲεχε τε προϲερχετε ϋγιαινουϲι λογοιϲ τοιϲ του κυ ημων ιυ χυ και τη κατ ευ ϲεβιαν διδαϲκαλι α",
+          "translation": "If anyone teaches a different doctrine and doesn't agree with the sound words of our Lord Jesus Christ and the teaching that promotes godliness,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "τετυφωται μηδ ε επιϲταμενοϲ αλ λα νοϲων περι ζη τηϲειϲ και λογομα χιαϲ εξ ων γινεται φθονοϲ · εριϲ βλαϲ φημιαι · ϋπονοιαι πονηραι ·",
+          "translation": "they're conceited and understand nothing. They have an unhealthy interest in controversies and debates, which produce envy, strife, slander, evil suspicions,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "διαπαρα τριβαι διεφθαρμε νων ανθρωπ ω τον νουν και απε ϲτερημενων τηϲ αληθειαϲ νομιζ ο των ποριϲμον ει ναι την ευϲεβιαν",
+          "translation": "and constant friction between people who are corrupted in mind and deprived of the truth, who think that godliness is a way to make money.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εϲτιν δε ποριϲμοϲ μεγαϲ η ευϲεβεια μετα αυταρκειαϲ",
+          "translation": "But godliness with contentment is great gain.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ουδεν γαρ ειϲηνεγ καμεν ειϲ τον κο ϲμον δηλον οτι ουδε ε ξενεγκειν τι δυνα μεθα",
+          "translation": "For we brought nothing into the world, and we can't take anything out of it.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εχοντεϲ δε διατροφαϲ και ϲκε παϲματα τουτοιϲ αρκεϲθηϲομεθα",
+          "translation": "If we have food and clothing, we'll be content with that.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "οι δε βουλομενοι πλουτιν εμπιπτου ϲιν ειϲ πιραϲμον και παγιδα και επι θυμιαϲ πολλαϲ ανοητουϲ και βλα βεραϲ αιτινεϲ βυθι ζουϲι τουϲ ανθρω πουϲ ειϲ ολεθρον και απωλιαν",
+          "translation": "But those who want to be rich fall into temptation, a trap, and many foolish and harmful desires that plunge people into ruin and destruction.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ριζα γαρ παντων των κακων εϲτ ι η φιλαργυρια ηϲ τι νεϲ ορεγομενοι απεπλανηθηϲαν απο τηϲ πιϲτεωϲ και εαυτουϲ περιε πειραν οδυναιϲ ποικιλαιϲ πολλαιϲ",
+          "translation": "For the love of money is the root of all kinds of evil. By craving it, some have wandered away from the faith and pierced themselves with many griefs.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ϲυ δε ω ανθρωπε του θυ ταυτα φευγε διωκε δε δικαιοϲυνην ευϲεβιαν πιϲτιν · αγαπην ϋπομονην · πραυ παθιαν πραυτητα ·",
+          "translation": "But you, man of God, flee from these things. Pursue righteousness, godliness, faith, love, endurance, and gentleness.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "αγωνιζου τον κα λον αγωνα τηϲ πι ϲτεωϲ επιλαβου τηϲ αιωνιου ζω ηϲ ειϲ ην εκληθηϲ και ωμολογηϲαϲ την καλην ομο λογιαν ενωπι ο πολλων μαρτυρ ω",
+          "translation": "Fight the good fight of the faith. Take hold of eternal life — you were called to it, and you made the good confession before many witnesses.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "παραγγελλω ϲοι ενω πιον θυ του ζωο ποιουντοϲ τα π α τα και ιυ χυ του μαρ τυρηϲαντοϲ επι ποντιου πιλατου την καλην ομο λογιαν",
+          "translation": "I charge you before God, who gives life to all things, and before Christ Jesus, who made the good confession before Pontius Pilate:",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "τηρηϲαι ϲε την εντολην αϲ πιλον ανεπιλημ πτον μεχρι τηϲ επιφανειαϲ του κυ ημων χυ ιυ",
+          "translation": "keep this command without stain or reproach until the appearing of our Lord Jesus Christ,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ην καιροιϲ ϊδιοιϲ διξει ο μακαριοϲ και μονοϲ δυνα ϲτηϲ ο βαϲιλευϲ των βαϲιλευον των και κϲ των κυριευοντων",
+          "translation": "which will be shown at the proper time by the blessed and only Sovereign — the King of kings and Lord of lords.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ο μονοϲ εχων αθα ναϲιαν · φωϲ οι κων απροϲιτ ο ον ειδεν ουδειϲ ανθρωπων ουδε ι δειν δυναται ω τιμη και το κρατοϲ αιωνιον αμην ·",
+          "translation": "He alone is immortal and dwells in unapproachable light. No one has ever seen Him or can see Him. To Him be honor and eternal power. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "τοιϲ πλουϲιοιϲ εν τω νυν καιρω αιωνι πα ραγγελλε μη ϋψη λα φρονιν μηδε ηλπικεναι επι πλου του αδηλοτητι αλλ επι θω τω πα ρεχοντι ημιν π α τα πλουϲιωϲ ειϲ α πολαυϲιν",
+          "translation": "Command those who are rich in this present age not to be arrogant or to put their hope in the uncertainty of wealth, but in God, who richly provides us with everything to enjoy.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "αγαθο εργειν πλουτιν ε ν εργοιϲ καλοιϲ ευ μεταδοτουϲ ειναι κοινωνικουϲ",
+          "translation": "Tell them to do good, to be rich in good works, to be generous and willing to share,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "α ποθηϲαυριζονταϲ εαυτοιϲ θεμελι ο καλον ειϲ το μελ λον ϊνα επιλαβ ω ται τηϲ οντωϲ ζω ηϲ",
+          "translation": "storing up treasure for themselves as a good foundation for the future, so that they may take hold of what is truly life.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ω τιμοθεε την πα ραθηκην φυλαξ ο εκτρεπομενοϲ ταϲ βεβηλουϲ κε νοφωνιαϲ και α τιθεϲειϲ τηϲ ψευ δωνυμου γνωϲε ωϲ",
+          "translation": "Timothy, guard what has been entrusted to you. Turn away from godless, empty talk and the contradictions of what is falsely called \"knowledge.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ην τινεϲ επαγ γελλομενοι περι την πιϲτιν ηϲτο χηϲαν η χαριϲ με θ υμων αμην > ⌇﹏",
+          "translation": "By professing it, some have missed the mark concerning the faith. Grace be with you all. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

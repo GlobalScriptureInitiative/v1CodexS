@@ -1,0 +1,1931 @@
+{
+  "book": "Hebrews",
+  "slug": "hebrews",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "πολυμερωϲ και πο λυτροπωϲ παλαι ο θϲ λαληϲαϲ τοιϲ πατραϲιν [1 chars] ραϲιν εν τοιϲ προφηταιϲ",
+          "translation": "In the past, God spoke to our ancestors in many different ways and at many different times through the prophets.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "επ εϲχα του των ημερων τουτων ελαληϲεν ημιν εν υϊω ον ε θηκεν κληρονο μον παντων δι ου και εποιηϲεν τουϲ αιωναϲ",
+          "translation": "But in these last days, He's spoken to us through a Son, whom He appointed heir of everything, and through whom He also made the universe.",
+          "footnotes": [
+            {
+              "id": "hebrews-1-2-interpretation",
+              "text": "\"αιωνας\" (ages/aeons) can mean \"the universe\" or \"the ages.\" Either way, Christ is the agent of all creation.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "οϲ ων απαυγαϲμα τηϲ δοξηϲ και χα ρακτηρ τηϲ ϋποϲτα ϲεωϲ αυτου φερ ω τε τα παντα τω ρη ματι τηϲ δυναμε ωϲ αυτου καθαριϲμ ο των αμαρτιων ημων ποι ηϲαμενοϲ εκαθιϲ ε εν δεξια τηϲ μεγα λωϲυνηϲ εν υψη λοιϲ",
+          "translation": "He is the radiance of God's glory and the exact representation of His being, sustaining everything by His powerful word. After He had made purification for sins, He sat down at the right hand of the Majesty on high.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "τοϲουτω κριττων γενομενοϲ των αγγελων οϲω δι αφορωτερον πα ρ αυτουϲ κεκληρονο μηκεν ονομα",
+          "translation": "He's become as much superior to the angels as the name He's inherited is greater than theirs.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "τινι γαρ ειπεν ποτε των αγγελων υϊοϲ μου ει ϲυ εγω ϲημε ρον γεγεννηκα ϲε και παλιν εγω εϲο μαι αυτω ειϲ πατερα και αυτοϲ εϲται μοι ειϲ υν",
+          "translation": "For to which of the angels did God ever say, \"You are My Son; today I have become Your Father\"? And again, \"I will be a Father to Him, and He will be a Son to Me\"?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "οταν δε παλιν ειϲ αγαγη τον πρωτο τοκον ειϲ την οι κουμενην λεγει και προϲκυνηϲα τωϲαν αυτω παν τεϲ αγγελοι θυ",
+          "translation": "And again, when He brings the firstborn into the world, He says, \"Let all God's angels worship Him.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και προϲ μεν τουϲ αγγελουϲ λεγει ο ποιων τουϲ αγγελουϲ αυτου πν ατα και τουϲ λιτουργουϲ αυτου πυροϲ φλογα",
+          "translation": "About the angels He says: \"He makes His angels winds, and His servants flames of fire.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "προϲ δε τον υν ο θρονοϲ ϲου ο θϲ ειϲ τον αιωνα του αιωνοϲ και η ρα βδοϲ ραβδοϲ τηϲ ευθυτητοϲ ραβδοϲ τηϲ βαϲιλει αϲ αυτου",
+          "translation": "But about the Son He says: \"Your throne, O God, is forever and ever, and the scepter of Your kingdom is a scepter of justice.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ηγαπηϲαϲ δικαιοϲυνην και εμιϲηϲαϲ αδικι αν δια τουτο εχρι ϲεν ϲε ο θϲ ο θϲ ϲου ελαιον αγαλλιαϲε ωϲ παρα τουϲ με τοχουϲ ϲου",
+          "translation": "\"You've loved righteousness and hated lawlessness; that's why God, Your God, has anointed You with the oil of joy more than Your companions.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ϲυ κατ αρχαϲ κε την γην εθεμε λιωϲαϲ και εργα των χειρων ϲου ειϲιν οι ουρανοι",
+          "translation": "And: \"In the beginning, Lord, You laid the foundation of the earth, and the heavens are the work of Your hands.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "αυτοι απολουνται ϲυ δε διαμενειϲ και παντεϲ ωϲ ϊ ματιον παλαιω θηϲονται",
+          "translation": "They will perish, but You remain; they'll all wear out like a garment.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ω ϲει περιβολαιον αλλαξειϲ ειλιξειϲ αυτουϲ ωϲ ϊματιον και αλλαγηϲονται ϲυ δε και ο αυτοϲ ει κ(αι) τα ετη ϲου ουκ εκ λιψουϲιν",
+          "translation": "You'll roll them up like a robe; like a garment they'll be changed. But You are the same, and Your years will never end.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "προϲ τινα δε των αγγελων ειρηκ ε ποτε καθου εκ δε ξιων μου εωϲ αν θω τουϲ εχθρουϲ ϲου ϋποποδιον των ποδων ϲου",
+          "translation": "But to which of the angels has He ever said, \"Sit at My right hand until I make Your enemies a footstool for Your feet\"?",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ουχι παντεϲ ειϲιν λιτουργικα πν ατα ειϲ διακονιαν α ποϲτελλομενα δια τουϲ μελλον ταϲ κληρονομειν ϲωτηριαν",
+          "translation": "Aren't they all ministering spirits, sent out to serve those who are about to inherit salvation?",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "δια τουτο περιϲϲο τερωϲ δει προϲε χιν ημαϲ τοιϲ α κουϲθιϲι ακουϲθιϲιν μηποτε παραρυωμεν",
+          "translation": "That's why we need to pay much closer attention to what we've heard, so we don't drift away.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ει γαρ ο δι αγγελων λαληθειϲ λογοϲ ε γενετο βεβαιοϲ και παϲα παραβαϲιϲ κ(αι) παρακοη ελαβεν ενδικον μιϲθα ποδοϲιαν",
+          "translation": "For if the message spoken through angels was binding, and every violation and disobedience got its just punishment,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "πωϲ η μειϲ εκφευξομε θα τηλικαυτηϲ α μεληϲαντεϲ ϲω τηριαϲ ητιϲ αρχην λαβουϲα λαλιϲθαι δια του κυ υ πο τ ω ακουϲαντων ειϲ ημαϲ εβεβαιωθη",
+          "translation": "how will we escape if we neglect such a great salvation? It was first announced by the Lord, and it was confirmed to us by those who heard Him,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ϲυνεπιμαρτυρουν τοϲ του θυ ϲημιοιϲ τε και τεραϲι και ποι κιλαιϲ δυναμεϲ ι και π ν ϲ αγιου θε ριϲμοιϲ μεριϲμοιϲ κατα την αυτου θεληϲιν",
+          "translation": "while God added His testimony through signs, wonders, various miracles, and gifts of the Holy Spirit distributed according to His will.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ου γαρ αγγελοιϲ ϋπε ταξεν την οικου μενην την μελ λουϲαν περι ηϲ λα λουμεν",
+          "translation": "For it wasn't to angels that God subjected the world to come — the world we're talking about.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "διεμαρτυρατο δε που τιϲ λεγων τι εϲτιν ανθρωποϲ οτι μι μνηϲκη αυτου η υϲ ανθρωπου οτι επι ϲκεπτη αυτον",
+          "translation": "But someone has testified somewhere: \"What are human beings that You remember them, or the son of man that You care for him?",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ηλατ τωϲαϲ αυτον βρα χυ τι παρ αγγελουϲ δοξη και τιμη εϲτε φανωϲαϲ αυτον εϲτεφανω [1 chars] και κατεϲτηϲαϲ αυ τον επι τα εργα των χειρων ϲου",
+          "translation": "You made him a little lower than the angels; You crowned him with glory and honor",
+          "footnotes": [
+            {
+              "id": "hebrews-2-7-variant",
+              "text": "Some manuscripts add \"and set him over the works of Your hands\" here (citing Psalm 8:5-6).",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "original": "παντα ϋπεταξα ϋπεταξαϲ υ ποκατω των ποδων αυτου εν τω γαρ υ ποταξαι αυτω τα παντα ου δεν αφηκεν αυτω ανυποτακτον ν υ δε ουπω ορωμεν αυτω τα παντα ϋπο τεταγμενα",
+          "translation": "and put everything under his feet.\" When God subjected everything to him, He left nothing that isn't subject to him. But right now we don't yet see everything subject to him.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "τον δε βραχυ τι παρ αγ γελουϲ ηλαττωμεν ο βλεπομεν ιν δια το παθημα του θανα δοξη και τιμη εϲτεφανωμενον οπωϲ χαριτι θυ ϋ περ παντοϲ γευϲη ται θανατου",
+          "translation": "But we do see Jesus, who was made a little lower than the angels, now crowned with glory and honor because of His suffering in death, so that by God's grace He might taste death for everyone.",
+          "footnotes": [
+            {
+              "id": "hebrews-2-9-variant",
+              "text": "Some manuscripts read \"χωρίς θεοῦ\" (apart from God) instead of \"χάριτι θεοῦ\" (by God's grace), a significant variant.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "επρεπεν γαρ αυτω δι ον τα παντα και δι ου τα παντα πολ λουϲ υϊουϲ ειϲ δο ξαν αγαγοντα · τον αρχηγον τηϲ ϲω τηριαϲ αυτων δια παθηματων τελι ωϲαι",
+          "translation": "It was fitting that God — for whom and through whom everything exists — should bring many sons to glory by perfecting the author of their salvation through sufferings.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ο τε γαρ αγιαζων κ(αι) οι αγιαζομενοι ε ξ ενοϲ παντεϲ δι ην αιτιαν ουκ επαι ϲχυνεται αδελφουϲ αυτουϲ καλειν",
+          "translation": "For the One who sanctifies and those who are sanctified all have one Father. That's why Jesus is not ashamed to call them brothers and sisters,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "λε γων απαγγελω το ονο μα ϲου τοιϲ αδελ φοιϲ μου εν μεϲω εκκληϲιαϲ υμνη ϲω ϲε",
+          "translation": "saying: \"I'll declare Your name to My brothers and sisters; in the middle of the assembly I'll sing Your praise.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και παλιν εγω εϲο μαι πεποιθωϲ ε π αυτω και παλιν ϊδου εγω και τα παι δια α μοι εδωκεν ο θϲ",
+          "translation": "And again: \"I'll put My trust in Him.\" And again: \"Here I am, with the children God has given Me.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "επει ουν τα παιδια κεκοινωνηκεν αιματοϲ και ϲαρκοϲ και αυτοϲ παραπλη ϲιωϲ μετεϲχεν των αυτων ϊνα δι α του θανατου κα ταργηϲη τον το κρα τοϲ εχοντα του θα νατου τουτ εϲτιν τον διαβολον",
+          "translation": "Since the children share in flesh and blood, He also shared in the same things, so that through death He could destroy the one who holds the power of death — that is, the devil —",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και απαλλαξη τουτουϲ οϲοι φοβω θανα του δια παντοϲ του ζην ενοχοι ηϲ α δουλιαϲ",
+          "translation": "and free those who were held in slavery all their lives by the fear of death.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ου γαρ δη που αγγελων επι λαμβανεται αλλα ϲπερματοϲ αβρα αμ επιλαμβανε ται ·",
+          "translation": "For clearly He's not taking hold of angels, but He's taking hold of Abraham's descendants.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "οθεν ωφειλεν κα τα παντα τοιϲ αδελ φοιϲ ομοιωθηναι ϊνα ελεημων γε νηται και πιϲτοϲ αρ χιερευϲ τα προϲ τον θν ειϲ το ϊλαϲκε ϲθαι ταϲ αμαρτιαϲ του λαου ·",
+          "translation": "That's why He had to be made like His brothers and sisters in every way, so that He could become a merciful and faithful high priest in matters relating to God, to make atonement for the sins of the people.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "εν ω γαρ πεπονθ ε αυτοϲ πιραϲθιϲ δυναται τοιϲ πιραζομενοιϲ βο ηθηϲαι",
+          "translation": "Since He Himself has suffered and been tested, He's able to help those who are being tested.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "οθεν αδελφοι αγιοι κληϲεωϲ επουρα νιου μετοχοι κα τανοηϲατε τον α ποϲτολον και αρ χιερεα τηϲ ομολο γιαϲ ημων ιν",
+          "translation": "Therefore, holy brothers and sisters, who share in a heavenly calling, think carefully about Jesus, the apostle and high priest of our confession.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "πι ϲτον οντα τω ποι ηϲαντι αυτον ωϲ και μωϲηϲ εν ο λω τω οικω αυτου",
+          "translation": "He was faithful to the One who appointed Him, just as Moses was faithful in all God's household.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "πλειονοϲ γαρ ου τοϲ δοξηϲ παρα μω ϋϲην ηξιωται κα θ οϲον πλειονα τιμην εχει του οι κου ο καταϲκευα ϲαϲ αυτον",
+          "translation": "For Jesus is considered worthy of greater glory than Moses, just as the builder of a house has more honor than the house itself.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "παϲ γαρ οικοϲ κα ταϲκευαζεται ϋπο τινοϲ ο δε παντα ︴ καταϲκευαϲαϲ θϲ",
+          "translation": "Every house is built by someone, but the builder of everything is God.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και μωυϲηϲ μεν πιϲτοϲ εν ολω τω οικω αυτου ωϲ θε ραπων ειϲ μαρτυ ριον των λαληθη ϲομενων",
+          "translation": "Moses was faithful as a servant in all God's household, as a testimony to what would be said later.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "χϲ δε ωϲ υϲ επι τον οικ ο αυτου ου οικοϲ εϲμεν η μειϲ καν εαν εανπερ την παρ ρηϲιαν και το καυ χημα τηϲ ελπιδοϲ μεχρι τελουϲ βε βαιαν καταϲχωμ ε",
+          "translation": "But Christ was faithful as a Son over His household — and we are His household, if we hold on to our confidence and the pride of our hope firmly to the end.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "διο καθωϲ λεγει το π ν α το αγιον ϲημε ρον εαν τηϲ φω νηϲ αυτου ακουϲη τε",
+          "translation": "So, as the Holy Spirit says: \"Today, if you hear His voice,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "μη ϲκληρυνητε ταϲ καρδιαϲ υμ ω ωϲ εν τω πιραϲμω κατα την ημεραν του πιραϲμου εν τη ερημω",
+          "translation": "don't harden your hearts as in the rebellion, on the day of testing in the wilderness,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ου επι ραϲαν με οι πατερεϲ ϋμων εν δοκιμα ϲια εδοκιμαϲαν με και ειδον τα ερ γα μου",
+          "translation": "where your ancestors tested Me and tried Me, and they saw My works",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "τεϲϲερακ ο τα ετη διο προϲω χθιϲα τη γενεα ταυ τη και ειπον αει πλανωνται τη καρ δια αυτοι δε ουκ εγνω ϲαν ταϲ οδουϲ μου",
+          "translation": "for forty years. That's why I was angry with that generation, and I said, 'Their hearts are always going astray, and they haven't known My ways.'",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ωϲ ωμοϲα εν τη ορ γη μου ει ειϲελευ ϲονται ειϲ την κα ταπαυϲιν μου",
+          "translation": "So I swore in My anger, 'They'll never enter My rest.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "βλεπετε αδελφοι μηποτε εϲτε εν τινι ϋμων καρδι α πονηρα απιϲτι αϲ εν τω αποϲτη ναι απο θυ ζωντοϲ",
+          "translation": "Watch out, brothers and sisters, so that none of you has an evil, unbelieving heart that turns away from the living God.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "αλλα παρακαλειτε εαυτουϲ καθ εκα ϲτην ημεραν αχρι ϲ ου το ϲημερον καλειται ϊνα μη ϲκληρυνθη τιϲ ε ξ υμων απατη τη αμαρτια τηϲ αμαρτιαϲ",
+          "translation": "Instead, encourage each other every day, as long as it's called \"today,\" so that none of you is hardened by the deceitfulness of sin.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "μετοχοι γαρ του χυ γεγοναμεν ε ανπερ την αρχ η τηϲ ϋποϲταϲεωϲ μεχρι τελουϲ βε βαιαν καταϲχω μεν",
+          "translation": "For we've become partners with Christ, if we hold our original confidence firmly to the end.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "εν τω λεγεϲθαι ϲη μερον εαν τηϲ φωνηϲ αυτου α κουϲητε μη ϲκλη ρυνητε ταϲ καρ διαϲ ϋμων ωϲ ε τω παραπικραϲμω",
+          "translation": "As it's said: \"Today, if you hear His voice, don't harden your hearts as in the rebellion.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "τινεϲ γαρ ακουϲ α τεϲ παρεπικραν α αλλ ου παντεϲ οι εξελθοντεϲ εξ ε γυπτου δια μωϋ ϲεωϲ",
+          "translation": "For who was it that heard and rebelled? Wasn't it everyone who left Egypt led by Moses?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "τιϲιν δε προϲωχθι ϲεν τεϲϲερακ ο τα ετη ουχι τοιϲ αμαρτηϲαϲιν ω τα κωλα επεϲεν εν τη ερημω",
+          "translation": "And who was God angry with for forty years? Wasn't it those who sinned, whose corpses fell in the wilderness?",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "τιϲιν δε ωμοϲ ε μη ειϲελευϲεϲθαι ειϲ την καταπαυ ϲιν αυτου ει μη τοιϲ απιθηϲαϲιν",
+          "translation": "And who did He swear would never enter His rest, if not those who disobeyed?",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και βλεπομεν ο τι ουκ ηδυνηθη ϲαν ειϲελθιν δι απιϲτιαν",
+          "translation": "So we see that they couldn't enter because of unbelief.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "φοβηθωμεν ουν μηποτε καταλι πομενηϲ επαγγε λιαϲ ειϲελθιν ειϲ την καταπαυϲιν αυτου δοκη τιϲ ε ξ υμων ϋϲτερηκε ναι ·",
+          "translation": "Therefore, since the promise of entering His rest still stands, let's be careful that none of you is found to have fallen short.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και γαρ εϲμεν ευηγ γελιϲμενοι καθα περ κακεινοι αλλ ου κ ωφεληϲεν ο λογοϲ τηϲ ακοηϲ εκεινουϲ μη ϲυνκεκεραϲμε νοϲ τη πιϲτι τοιϲ ακουϲαϲιν",
+          "translation": "For we've also received the good news just as they did. But the message they heard didn't benefit them, because they weren't united by faith with those who listened.",
+          "footnotes": [
+            {
+              "id": "hebrews-4-2-interpretation",
+              "text": "The Greek phrase \"μη συγκεκερασμένος τῇ πίστει\" is ambiguous — it could mean the message wasn't mixed with faith in the hearers.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "original": "ειϲερχομεθα ουν ειϲ την καταπαυϲ ι οι πιϲτευϲαντεϲ καθωϲ ειρηκεν ωϲ ωμοϲα εν τη ορ γη μου ει ειϲελευ ϲονται ειϲ την κα ταπαυϲιν μου καιτοι των εργων απο καταβοληϲ κο ϲμου γενηθεντ ω",
+          "translation": "For we who have believed enter that rest, just as He has said: \"So I swore in My anger, 'They'll never enter My rest.'\" And yet God's works were finished since the foundation of the world.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ειρηκεν γαρ που περι τηϲ εβδομηϲ ουτωϲ και κατεπαυϲεν ο θϲ εν τη ημερα τη ε βδομη απο παν των των εργων αυ του",
+          "translation": "For somewhere He has said this about the seventh day: \"And God rested on the seventh day from all His works.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και εν τουτω παλιν ει ειϲελευ ϲονται ειϲ την κα ταπαυϲιν μου",
+          "translation": "And again in this passage: \"They'll never enter My rest.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "επει ουν απολειπε ται τιναϲ ειϲελθε ι ειϲ αυτην και οι προτερον ευαγγε λιϲθεντεϲ ουκ ει ϲηλθον δι απιϲτι αν απιθιαν",
+          "translation": "Since it remains for some to enter it, and those who first received the good news didn't enter because of disobedience,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "παλιν οριζει τι να τινα οριζει ημεραν ϲημε ρον εν δαυειδ λεγ ω μετα τοϲουτον χρονον καθωϲ προ ειρηται ϲημερον εαν τηϲ φωνηϲ αυτου ακουϲητε μη ϲκληρυνηται ταϲ καρδιαϲ ϋμων",
+          "translation": "God again sets a certain day — \"Today\" — saying through David after so long a time, as has been said: \"Today, if you hear His voice, don't harden your hearts.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ει γαρ αυτουϲ ιϲ κατε παυϲεν ουκ αν πε ρι αλληϲ ελαλει με τα ταυτα ημεραϲ",
+          "translation": "For if Joshua had given them rest, God wouldn't have spoken later about another day.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "αρα απολιπεται ϲαββατιϲμοϲ τω λαω του θυ",
+          "translation": "So there remains a Sabbath rest for God's people.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ο γαρ ειϲελθων ειϲ την καταπαυϲιν αυτου και αυτοϲ κα τεπαυϲεν απο πα τ ω εργων αυτου ωϲ περ απο των ϊδι ω ο θϲ",
+          "translation": "For the person who enters God's rest also rests from his own works, just as God did from His.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ϲπουδαϲωμεν ο υ ειϲελθειν ειϲ εκει νην την καταπαυ ϲιν εινα μη εν τω αυτω τιϲ ϋποδιγματι πεϲη τηϲ απιθιαϲ",
+          "translation": "Let's therefore make every effort to enter that rest, so that no one falls by following the same pattern of disobedience.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ζων γαρ ο λογοϲ του θυ και ενεργηϲ και ϋπερ παϲαν μαχαιραν διϲτομον και διϊ κνουμενοϲ διυκνουμενοϲ αχρι μεριϲμου ψυχηϲ και π ν ϲ αρμων τε και μυε λων και κριτικοϲ ενθυμηϲεων και εννοιων καρδιαϲ",
+          "translation": "For God's word is living and active, sharper than any double-edged sword, piercing even to the division of soul and spirit, joints and marrow, and able to judge the thoughts and intentions of the heart.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και ουκ εϲτιν κτιϲιϲ αφανηϲ ενωπι ο αυτου παντα δε γυ μνα και τετραχη λιϲμενα τοιϲ ο φθαλμοιϲ αυτου προϲ ον ημιν ο λο γοϲ ·",
+          "translation": "No creature is hidden from Him; everything is naked and exposed before the eyes of Him to whom we must give account.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "εχοντεϲ ουν αρχι ερεα μεγαν διελη λυθα τουϲ ουρανουϲ ιν τον υν του θυ κρατωμεν τηϲ ο μολογιαϲ",
+          "translation": "Therefore, since we have a great high priest who has passed through the heavens — Jesus, the Son of God — let's hold on to our confession.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ου γαρ εχομεν αρ χϊερεα μη δυναμε νον ϲυνπαθηϲαι ταιϲ αϲθενιαιϲ η μων πεπιραϲμε νον δε κατα παντα καθ ομοιοτητα χωριϲ αμαρτιαϲ",
+          "translation": "For we don't have a high priest who can't sympathize with our weaknesses, but one who has been tested in every way, just as we are, yet without sin.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "προϲερχωμεθα ουν μετα παρρηϲι αϲ τω θρονω τηϲ χα ριτοϲ ϊνα λαβωμ ε λαβωμ ε ελεοϲ και χαριν ευ ρωμεν ειϲ ευκαιρον βοηθειαν",
+          "translation": "So let's approach the throne of grace with confidence, so that we may receive mercy and find grace to help us when we need it.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "παϲ γαρ αρ χιερευϲ εξ ανθρωπ ω ανθρωπ ω λαμβανομενοϲ ϋ περ ανθρωπων κα θιϲταται τα προϲ τον θν ϊνα προϲφε ρη δωρα τε και θυϲι αϲ υπερ αμαρτι ω",
+          "translation": "For every high priest taken from among men is appointed to represent them in matters related to God, to offer gifts and sacrifices for sins.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "μετριοπαθειν δυ ναμενοϲ τοιϲ αγνο ουϲι και πλανωμε νοιϲ επει και αυτοϲ περικειται αϲθενι αν",
+          "translation": "He's able to deal gently with those who are ignorant and going astray, since he himself is subject to weakness.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και δι αυτην οφει λει καθωϲ περι του λαου ουτωϲ και πε ρι εαυτου προϲφερε ι περι αμαρτιων",
+          "translation": "Because of this, he must offer sacrifices for his own sins, just as he does for the people's.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ουχ εαυτω τιϲ λαμ βανει την τιμην αλλα καλουμενοϲ ϋπο του θυ καθωϲ περ καθαπερ και ααρων",
+          "translation": "No one takes this honor on himself; he's called by God, just as Aaron was.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ουτωϲ και ο χϲ ουχ εαυτον εδοξαϲεν γενηθη ναι αρχϊερεα αλλ ο λαληϲαϲ προϲ αυτ ο υϊοϲ μου ει ϲυ εγω ϲημερον γεγεννη κα ϲε",
+          "translation": "In the same way, Christ didn't take the glory of becoming high priest on Himself, but the One who said to Him, \"You are My Son; today I have become Your Father,\" gave it to Him.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "καθωϲ και εν ετερω λεγει ϲυ ϊερευϲ ειϲ τον αιωνα κατα την ταξιν μελχι> ϲεδεκʼ",
+          "translation": "As He also says in another place: \"You are a priest forever, in the order of Melchizedek.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "οϲ εν ταιϲ η μεραιϲ τηϲ ϲαρκοϲ αυτου δεηϲειϲ τε κ(αι) ϊκετηριαϲ προϲ τον δυναμενον ϲωζε ι αυτον εκ θανατου μετα κραυγηϲ ϊϲχυ ραϲ και δακρυων προϲ ενεγκαϲ και ειϲακου ϲθειϲ απο τηϲ ευλα βειαϲ",
+          "translation": "During His earthly life, He offered prayers and pleas with loud cries and tears to the One who could save Him from death, and He was heard because of His reverence.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "καιπερ ων υϲ εμαθεν αφ ων επα θεν την ϋπακοην",
+          "translation": "Even though He was a Son, He learned obedience through what He suffered.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και τελειωθειϲ εγε νετο παϲιν τοιϲ ϋ πακουουϲιν αυτω αιτιοϲ ϲωτηριαϲ > αιωνιου",
+          "translation": "And once made perfect, He became the source of eternal salvation for everyone who obeys Him,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "προϲαγο ρευθειϲ ϋπο του θυ αρχϊερευϲ κατα τ η ταξιν μελχιϲεδεκ",
+          "translation": "being designated by God as a high priest in the order of Melchizedek.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "περι ου πολυϲ ημ ι ο λογοϲ και δυϲερμη νευτοϲ λεγειν επει νωθροι γεγονατε ταιϲ ακοαιϲ",
+          "translation": "We have a lot to say about this, and it's hard to explain because you've become slow to understand.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και γαρ ο φειλοντεϲ ειναι > διδαϲκαλοι δια τον χρονον παλιν χρι α εχετε του διδαϲκε ι ϋμαϲ τινα τα ϲτοι χια τηϲ αρχηϲ των λογιων του θυ και γεγονατε χρειαν εχοντεϲ γαλακτοϲ κ(αι) ου ϲτερεαϲ τροφηϲ",
+          "translation": "In fact, though by now you should be teachers, you need someone to teach you the basic principles of God's revelation all over again. You've become people who need milk, not solid food.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "παϲ γαρ ο μετεχ ω γαλακτοϲ απειροϲ λογου δικαιοϲυνηϲ νηπιοϲ γαρ εϲτιν",
+          "translation": "Anyone who lives on milk is still a baby, inexperienced in the message of righteousness.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "τελειων δε εϲτιν η ϲτερεα τροφη τ ω δια την εξιν τα αι ϲθητηρια γεγυμνα ϲμενα εχοντων προϲ διακριϲιν κα λου τε και κακου",
+          "translation": "But solid food is for the mature, whose senses have been trained by practice to distinguish good from evil.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "διο αφεντεϲ τον τηϲ αρχηϲ του χυ λογον επι την τε λειοτητα φερωμε θα μη παλιν θεμε λιον καταβαλλο> μενοι μετανοιαϲ απο νεκρων εργ ω και πιϲτεωϲ επι θν",
+          "translation": "So let's move beyond the basic teaching about Christ and press on to maturity, not laying again the foundation of repentance from dead works and faith in God,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "βαπτιϲμων διδαχηϲ επιθεϲεωϲ τε χει ρων αναϲταϲεωϲ τε νεκρων και κρι ματοϲ αιωνιου",
+          "translation": "teaching about baptisms, laying on of hands, resurrection of the dead, and eternal judgment.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "κ(αι) τουτο ποιηϲομ ε εανπερ επιτρεπη ο θϲ",
+          "translation": "And we'll do this if God permits.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "αδυνατον γαρ τουϲ απαξ φωτιϲθ ε ταϲ γευϲαμενουϲ τε τηϲ δωρεαϲ τηϲ επουρανιου και > μετοχουϲ γενηθ ε ταϲ π ν ϲ αγιου",
+          "translation": "For it's impossible for those who've once been enlightened, who've tasted the heavenly gift, who've shared in the Holy Spirit,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και κα λον γευϲαμενουϲ θυ ρημα δυναμειϲ τε μελλοντοϲ αιω νοϲ",
+          "translation": "who've tasted the goodness of God's word and the powers of the coming age,",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και παραπεϲ ο ταϲ παλιν ανακαι νιζειν ειϲ μετανοι αν αναϲταυρουν ταϲ εαυτοιϲ τον υν του θυ και παραδι> γματιζονταϲ",
+          "translation": "and who've fallen away — it's impossible to renew them to repentance, since they're crucifying the Son of God all over again and exposing Him to public shame.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "γη γαρ η πιουϲα τον επ αυτηϲ ερχομε νον πολλακιϲ ϋετ ο και τικτουϲα βοτα νην ευθετον εκει νοιϲ δι ουϲ και γεωρ γειται μεταλαμβα νει ευλογιαϲ απο > του θυ",
+          "translation": "For the ground that drinks the rain that often falls on it and produces a crop useful to those for whom it's farmed receives a blessing from God.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εκφερουϲα δε ακανθαϲ και τρι βολουϲ αδοκιμοϲ κ(αι) καταραϲ εγγυϲ ηϲ το τελοϲ ειϲ καυϲιν",
+          "translation": "But if it produces thorns and thistles, it's worthless and close to being cursed — it ends up being burned.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "πεπειϲμεθα δε περι υμων αδελφοι αγαπητοι τα κριϲϲονα και εχο μενα ϲωτηριαϲ ει και ουτωϲ λαλουμ ε",
+          "translation": "But we're convinced of better things for you, dear friends — things that accompany salvation — even though we talk like this.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ου γαρ αδικοϲ ο θϲ ε πιλαθεϲθαι του ερ γου υμων και τηϲ αγαπηϲ ηϲ ενεδει ξαϲθαι ειϲ το ονο μα αυτου διακο> νηϲαντεϲ τοιϲ α γιοιϲ και διακονο υ τεϲ",
+          "translation": "For God is not unjust; He won't forget your work and the love you've shown for His name by serving the saints — and you're still serving.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "επιθυμουμ ε δε εκαϲτον ϋμων την αυτην ενδει κνυϲθαι ϲπουδ η προϲ την πληρο φοριαν τηϲ ελπιδοϲ αχρι τελουϲ",
+          "translation": "We want each of you to show the same diligence to the very end, so that your hope may be fully realized.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ϊνα > μη νωθροι γενη> ϲθε μειμηται δε των δι α πιϲτεωϲ και μα κροθυμιαϲ κλη> ρονομουντων ταϲ επαγγελιαϲ",
+          "translation": "We don't want you to become lazy, but to imitate those who inherit the promises through faith and patience.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "τω γαρ αβρααμ επαγ γιλαμενοϲ ο θϲ > επει κατ ουδενοϲ ειχεν μειζονοϲ ομοϲαι ωμοϲεν καθ εαυτου",
+          "translation": "When God made His promise to Abraham, since He had no one greater to swear by, He swore by Himself,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "λεγ ω ει μην ευλογων ευλογηϲω ϲε και πληθυνων πλη θυνω ϲε",
+          "translation": "saying: \"I will certainly bless you and multiply you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ουτωϲ μακροθυμηϲαϲ επετυχεν τηϲ ε παγγελιαϲ",
+          "translation": "And so Abraham, after waiting patiently, obtained the promise.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ανθρω ποι γαρ κατα του μειζονοϲ ομνυ ουϲιν και παϲηϲ αυτοιϲ αντιλογιαϲ περαϲ ειϲ βεβαιω ϲιν ο ορκοϲ",
+          "translation": "For people swear by someone greater, and an oath serves as confirmation to end all dispute.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "εν ω πε ριϲϲοτερον βουλο μενοϲ ο θϲ επιδει ξαι τοιϲ κληρονο μοιϲ τηϲ επαγγε λιαϲ το αμεταθε τον τηϲ βουληϲ αυ του εμεϲιτευϲ ε ορκω",
+          "translation": "In the same way, God wanted to demonstrate more clearly to the heirs of the promise that His purpose was unchangeable, so He guaranteed it with an oath.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ϊνα δια δυο πραγματων αμε ταθετων εν οιϲ αδυνατον ψευϲα ϲθαι τον θν ϊϲχυ ραν παρακληϲιν εχω μεν οι καταφυγον τεϲ κρατηϲαι τηϲ προκιμενηϲ ελπι δοϲ",
+          "translation": "So by two unchangeable things — in which it's impossible for God to lie — we who have fled for refuge might have strong encouragement to hold on to the hope set before us.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ην ωϲ αγκυραν εχομεν τηϲ ψυχηϲ αϲφαλη τε και βεβαι αν και ειϲερχομεν η ειϲ το εϲωτερον του καταπεταϲματοϲ",
+          "translation": "We have this hope as an anchor for the soul, sure and secure, entering the inner sanctuary behind the curtain.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "οπου προδρομοϲ υπερ ημων ειϲηλ θεν ιϲ κατα την τα ξιν μελχειϲεδεκ αρ χϊερευϲ γενομενοϲ ειϲ τον αιωνα",
+          "translation": "Jesus has entered there ahead of us, becoming a high priest forever in the order of Melchizedek.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ουτοϲ γαρ ο μελχει ϲεδεκ βαϲιλευϲ ϲα λημʼ ϊερευϲ του θυ του υψιϲτου οϲ ϲυ ναντηϲαϲ αβρααμ υποϲτρεφοντι απο τηϲ κοπηϲ των βα ϲιλεων και ευλογη ϲαϲ αυτον",
+          "translation": "This Melchizedek — king of Salem, priest of the Most High God — met Abraham returning from defeating the kings and blessed him.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ω και δε κατην εμεριϲεν α πο παντων αβρααμ πρωτον μεν ερμη νευομενοϲ βαϲιλευϲ δικαιοϲυνηϲ επει τα δε και βαϲιλευϲ ϲαλημ ο εϲτιν βα ϲιλευϲ ειρηνηϲ",
+          "translation": "Abraham gave him a tenth of everything. First, his name means \"king of righteousness\"; then also \"king of Salem,\" which means \"king of peace.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "απα τωρ αμητωρ αγενε αλογητοϲ μητε αρ χην ημερων μητε ζωηϲ τελοϲ εχων αφωμοιωμενοϲ δε τω υϊω του θυ μενει ϊερευϲ ειϲ το διηνεκεϲ",
+          "translation": "Without father, without mother, without genealogy, having neither beginning of days nor end of life, but resembling the Son of God — he remains a priest forever.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "θεωρειτε δε πηλικοϲ ουτοϲ ω και δεκα την αβρααμ εδωκ ε εκ των ακροθινι ω ο πατριαρχηϲ",
+          "translation": "Now see how great this man was: even Abraham the patriarch gave him a tenth of the plunder.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και οι μεν εκ των υϊ ω λευει την ϊερατι α λαμβανοντεϲ εν τολην εχουϲιν απο δεκατουν τον λα ο κατα τον νομον τουτ εϲτιν τουϲ α δελφουϲ αυτων κ(αι) περ εξεληλυθοταϲ εκ τηϲ οϲφυοϲ αβρα αμʼ",
+          "translation": "The descendants of Levi who receive the priestly office have a command under the Law to collect a tenth from the people — that is, from their own brothers and sisters, though they too are descendants of Abraham.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ο δε μη γενεαλο γουμενοϲ εξ αυτ ω δεδεκατωκεν τον αβρα αμ και τον εχοντα ταϲ επαγγελιαϲ ευ λογηκεν",
+          "translation": "But Melchizedek, who wasn't from their ancestry, collected a tenth from Abraham and blessed the one who had the promises.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "χωριϲ δε παϲηϲ αντιλογιαϲ το ελαττον ϋπο του κριττονοϲ ευλο γειται ·",
+          "translation": "Without any question, the lesser is blessed by the greater.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ωδε μ ε δεκαταϲ αποθνη ϲκοντεϲ ανθρωποι λαμβανουϲιν εκει δε μαρτυρουμενοϲ οτι ζη",
+          "translation": "Here, mortal men receive tithes; but there, Melchizedek receives them, and the Scripture testifies that he lives.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και ωϲ εποϲ ειπειν δι αβρααμ κ(αι) λευει λευειϲ ο δεκαταϲ λαμ βανων δεδεκατω ται",
+          "translation": "One might even say that Levi — the one who receives tithes — paid tithes through Abraham,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ετι γαρ εν τη οϲφυϊ του π ρ ϲ ην οτε ϲυνην τηϲεν αυτω μελ χιϲεδεκʼ",
+          "translation": "because he was still in his ancestor Abraham when Melchizedek met him.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ει μεν ο υ τελειωϲιϲ δια τηϲ λευειτικηϲ ϊερωϲυ νηϲ ην ο λαοϲ γαρ επ αυτηϲ νενομο θετηται τιϲ ετι χρει α κατα την ταξιν > μελχιϲεδεκ ετερ ο ανιϲταϲθαι ϊερεα και ου κατα την τα ξιν ααρων λεγεϲθαι",
+          "translation": "If perfection could have been reached through the Levitical priesthood — for the people received the Law based on it — why was there still a need for another priest to appear, one in the order of Melchizedek, not in the order of Aaron?",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "μετατιθεμενηϲ γαρ τηϲ ϊερωϲυνηϲ εξ αναγκηϲ και νο μου μεταθεϲιϲ > γινεται",
+          "translation": "For when the priesthood changes, the law must change too.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "εφ ον γαρ λεγεται ταυτα φυ ληϲ ετεραϲ μετεϲχη κεν αφ ηϲ ουδειϲ προϲεϲχηκεν τω θυϲιαϲτηριω",
+          "translation": "The person these things are said about belongs to a different tribe, and no one from that tribe has ever served at the altar.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "προδη λον γαρ οτι εξ ϊουδα ανατεταλκεν ο κϲ ημων ειϲ ην φυλ η περι ϊερεων μωυ ϲηϲ ουδεν ουδεν μωυϲηϲ ελαληϲ ε",
+          "translation": "It's clear that our Lord came from the tribe of Judah, and Moses said nothing about priests from that tribe.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και περιϲϲοτερον > ετι καταδηλον εϲτ ι ει κατα την ομοιο τητα μελχειϲεδεκ ανιϲταται ϊερευϲ ετεροϲ",
+          "translation": "And this is even clearer if another priest like Melchizedek appears,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "οϲ ου κατα νο εντοληϲ ϲαρκι νηϲ γεγονεν αλλα κατα δυναμιν ζω ηϲ ακαταλυτου >",
+          "translation": "one who has become a priest not by a legal requirement about physical descent, but by the power of an indestructible life.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "μαρτυρειτε γαρ οτι ϲυ ϊερευϲ ειϲ τον αι ωνα κατα την ταξ ι μελχιϲεδεκ",
+          "translation": "For it's testified: \"You are a priest forever in the order of Melchizedek.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "αθετηϲιϲ μεν γαρ γινεται προαγου ϲηϲ εντοληϲ δια το αυτηϲ αϲθενεϲ και ανωφελεϲ",
+          "translation": "So the former command is set aside because it was weak and useless —",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ουδεν γαρ ετελειωϲεν ο νο μοϲ επειϲαγωγη δε κριττονοϲ ελπιδοϲ δι ηϲ εγγιζομεν > τω θω",
+          "translation": "for the Law didn't make anything perfect — and a better hope is introduced, through which we draw near to God.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και καθ οϲον ου χω ριϲ ορκωμοϲιαϲ οι μεν γαρ χωριϲ ορ κωμοϲιαϲ ειϲιν ϊ ερειϲ γεγονοτεϲ",
+          "translation": "And it wasn't without an oath. The others became priests without an oath,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ο δε μετα μετʼ ορκωμο ϲιαϲ δια του λεγον τοϲ προϲ αυτον ω μοϲεν κϲ και ου με ταμεληθηϲεται ϲυ ϊερευϲ ειϲ τον αιωνα κατα την ταξιν μελχι ειϲ τον αιωνα κατα την ταξιν μελ χιϲεδεκʼ",
+          "translation": "but Jesus became a priest with an oath through the One who said to Him: \"The Lord has sworn and will not change His mind: You are a priest forever in the order of Melchizedek.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "κατα τοϲου το τοϲουτον και κριττονοϲ διαθηκηϲ γεγον ε εγγυοϲ ιϲ",
+          "translation": "Because of this oath, Jesus has become the guarantee of a better covenant.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και οι μεν πλειονεϲ ειϲιν γεγονοτεϲ ϊ ερειϲ δια το θανα> τω κωλυεϲθαι πα ραμενειν",
+          "translation": "There have been many priests, because death prevented them from continuing in office.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "ο δε δια το μενειν αυτον ειϲ τον αιωνα α> παραβατον εχει > την ϊερωϲυνην",
+          "translation": "But because Jesus lives forever, He has a permanent priesthood.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "οθεν και ϲωζειν ειϲ το παντελεϲ δυναται τουϲ > > προϲερχομενουϲ δι αυτου τω θω παντοτε ζων > ειϲ το εντυγχα> νειν ϋπερ αυ>> των",
+          "translation": "Therefore He's able to save completely those who come to God through Him, since He always lives to intercede for them.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "τοιουτοϲ γαρ ημιν επρεπεν αρχιερευϲ οϲιοϲ ακακοϲ αμιαντοϲ κεχω ριϲμενοϲ απο τ ω αμαρτωλων και υψηλοτεροϲ των ουρανων γενο> μενοϲ",
+          "translation": "That's the kind of high priest we needed: holy, innocent, undefiled, separate from sinners, and exalted above the heavens.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "οϲ ουκ εχει καθ η> μεραν αναγκην ωϲπερ οι αρχιερειϲ προτερον ϋπερ των ϊδιων αμαρ> τιων θυϲιαϲ ανα φερειν επειτα τ ω του λαου τουτο γαρ εποιηϲεν εφα> παξ εαυτον προϲ ενεγκαϲ",
+          "translation": "He doesn't need to offer sacrifices day after day, like the other high priests — first for their own sins, then for the people's. He did that once for all when He offered Himself.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "ο νομοϲ γαρ ανθρω πουϲ καθϊϲτηϲιν αρχϊερειϲ εχονταϲ αϲθενειαν ο λο> γοϲ δε τηϲ ορκω μοϲιαϲ τηϲ με> τα τον νομον υϊ ον ειϲ τον αιω> να τετελειωμε νον",
+          "translation": "The Law appoints men who are weak as high priests, but the word of the oath — which came after the Law — appoints a Son who has been made perfect forever.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "κεφαλαιον δε ε> πι τοιϲ λεγομενοιϲ τοιουτον αρχϊερεα οϲ εκαθι ϲεν εν δεξια του θρονου τηϲ μεγα λωϲυνηϲ εν τοιϲ ουρανοιϲ",
+          "translation": "Now the main point of what we're saying is this: we have a high priest who sat down at the right hand of the throne of the Majesty in heaven,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "των α γιων λιτουργοϲ και τηϲ ϲκηνηϲ τηϲ αληθινηϲ η επηξεν ο κϲ κ(αι) ουκ α θρωποϲ",
+          "translation": "a minister in the sanctuary and the true tabernacle that the Lord set up, not a human being.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "παϲ γαρ αρχιερευϲ ειϲ το προϲφερε ι δωρα τε και θυϲιαϲ καθιϲταται οθεν αναγκαιον εχε ι τι κ(αι) κ(αι) τουτον ο προϲε νεγκη",
+          "translation": "For every high priest is appointed to offer gifts and sacrifices; so it's necessary for this high priest also to have something to offer.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ει μεν ουν ην επι γηϲ ουδ αν ην ϊερευϲ οντων των προϲ φεροντων κατα τ ο νομον τα δωρα",
+          "translation": "If He were on earth, He wouldn't even be a priest, since there are already priests who offer gifts according to the Law.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "οιτινεϲ ϋποδιγ ματι και ϲκια λα τρευουϲιν των ε πουρανιων καθωϲ κεχρημα τιϲται μω υ ϲηϲ μελ λων επιτελειν την ϲκηνην · ορα γαρ φηϲιν ποιηϲιϲ παντα κατα τον τυπον τον δειχθ ε τα ϲοι εν τω ορει",
+          "translation": "They serve at a copy and shadow of the heavenly things, just as Moses was warned when he was about to build the tabernacle: \"See to it,\" God said, \"that you make everything according to the pattern that was shown to you on the mountain.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "νυνι δε διαφορω τεραϲ τετυχε τετευχε λιτουρ γιαϲ οϲω και κρειτ τονοϲιν κρειττοϲιν κρειττονοϲ̣ διαθηκηϲ εϲτιν μεϲειτηϲ ητιϲ επι κριττοϲιν επαγγε λιαιϲ νενομοθε τηται",
+          "translation": "But Jesus has now obtained a superior ministry, just as He's also the mediator of a better covenant, which has been established on better promises.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ει γαρ η πρωτη εκει νη ην αμεμπτοϲ ουκ αν δευτεραϲ ε ζητειτο τοποϲ",
+          "translation": "For if that first covenant had been faultless, there would have been no need for a second one.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "μεμφομενοϲ γαρ αυτουϲ αυτοιϲ λεγει ϊδου ημεραι ερχονται λεγει κϲ και ϲυντε λεϲω επι τον οικ ο ιϲ λ και επι τον οι οικ ο ϊουδα διαθηκην καινην",
+          "translation": "But God found fault with the people and said: \"Look, the days are coming, says the Lord, when I will make a new covenant with the house of Israel and with the house of Judah.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ου κατα την διαθηκην η η εποιηϲα τοιϲ πα τραϲιν αυτων εν η μερα επιλαβομε νου μου τηϲ χειροϲ αυτων εξαγαγειν αυτουϲ εκ γηϲ αιγυ πτου οτι αυτοι ου κ ενεμιναν εν τη διαθηκη μου κα γω ημεληϲα αυτ ω λεγει κϲ",
+          "translation": "It won't be like the covenant I made with their ancestors on the day I took them by the hand to lead them out of Egypt. Because they didn't remain in My covenant, and I stopped caring for them, says the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "οτι αυτη η διαθηκη ην διαθηϲομαι τω οικω ι η λ μετα ταϲ ημεραϲ εκιναϲ λεγει κϲ διδουϲ νο μουϲ μου ειϲ την διανοιαν αυτων και επι καρδιαν καρδιαϲ αυ των επιγραψω αυ τουϲ και εϲομαι αυ τοιϲ ειϲ θν και αυτοι εϲονται μοι μου ειϲ λα",
+          "translation": "For this is the covenant I will make with the house of Israel after those days, says the Lord: I will put My laws in their minds and write them on their hearts. I will be their God, and they will be My people.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ου μη διδα ξωϲιν εκαϲτοϲ τ ο πολιτην αυτου κ(αι) εκαϲτοϲ τον αδελ φον αυτου λεγων γνωθι τον κν οτι παντεϲ ειδηϲου ϲιν με απο μικρου εωϲ μεγαλου αυτ ω",
+          "translation": "And none of them will need to teach their fellow citizen or their brother, saying, 'Know the Lord,' because everyone will know Me, from the least to the greatest.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "οτι ϊλεωϲ εϲομαι ταιϲ αδικιαιϲ αυτ ω και των αμαρτι ω αμαρτι ω κ̣(α̣ι̣) α̣υ̣ αμαρτι ω αυτων κ(αι) των ανομιων αυτων ου μη μνη ϲθω ετι ·",
+          "translation": "For I will be merciful toward their wrongdoings, and I'll remember their sins and lawless acts no more.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "εν τω λεγειν κεν η πεπαλαιωκε την πρωτην το δε πα λαιουμενον και γηραϲκον εγγυϲ αφανιϲμου ·",
+          "translation": "By calling this covenant \"new,\" He has made the first one obsolete. And what's obsolete and aging will soon disappear.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ειχε μεν ουν και η πρωτη δικαιω ματα λατριαϲ το τε αγιον κοϲμικον ·",
+          "translation": "Now the first covenant had regulations for worship and an earthly sanctuary.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ϲκηνη γαρ κατεϲκευ αϲθη η πρωτη εν η η τε λυχνια και η τραπεζα και η προ θεϲιϲ των αρτ ω ητιϲ λεγεται αγια",
+          "translation": "For a tabernacle was set up: in the first room, called the Holy Place, were the lampstand, the table, and the consecrated bread.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "μετα δε το δευτερ ο καταπεταϲμα ϲκη νη η λεγομενη α για αγιων τα αγια των αγιων",
+          "translation": "Behind the second curtain was a room called the Most Holy Place,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "χρυϲο υ εχουϲα θυμιατη ριον και την κιβω τον τηϲ διαθηκηϲ περικεκαλυμμε νην παντοθεν χρυϲιω εν η ϲτα μνοϲ χρυϲη εχου ϲα το μαννα και η ραβδοϲ ααρων η βλαϲτηϲαϲα και αι πλακεϲ τηϲ διαθη κηϲ",
+          "translation": "which had the golden altar of incense and the ark of the covenant completely covered with gold. In the ark were a golden jar containing the manna, Aaron's staff that budded, and the tablets of the covenant.",
+          "footnotes": [
+            {
+              "id": "hebrews-9-4-interpretation",
+              "text": "The Greek text associates the golden altar of incense with the Most Holy Place, though Exodus 30:6 places it outside the curtain.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "ϋπερανω δε αυτηϲ χερουβιν δο ξηϲ καταϲκιαζον τα το ϊλαϲτηριον περι ων ουκ ενεϲτ ι εϲτ ι νυν λεγειν κατα μεροϲ",
+          "translation": "Above the ark were the cherubim of glory overshadowing the mercy seat. But we can't discuss these things in detail now.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "τουτων δε ουτωϲ κα τεϲκευαϲμενων ειϲ μεν την πρω την ϲκηνην δια παντοϲ ειϲϊαϲιν οι ϊερειϲ ταϲ λατρει αϲ επιτελουντεϲ",
+          "translation": "With these things prepared this way, the priests enter the first room regularly to perform their duties.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ειϲ δε την δευτε ραν απαξ του ενϊ αυτου μονοϲ ο αρ χϊερευϲ ου χωριϲ αιματοϲ ο προϲφε ρει ϋπερ εαυτου κ(αι) των του λαου αγνο ηματων",
+          "translation": "But only the high priest enters the second room, and only once a year, and never without blood, which he offers for himself and for the sins the people committed in ignorance.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "τουτο δηλουντοϲ του π νϲ του αγιου μηπω πεφανερω ϲθαι την των αγι ων οδον ετι τηϲ πρωτηϲ ϲκηνηϲ ε χουϲηϲ ϲταϲιν",
+          "translation": "The Holy Spirit was showing by this that the way into the Most Holy Place hadn't yet been revealed while the first tabernacle was still standing.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ητιϲ παραβολη ειϲ τον καιρον τον ε νεϲτηκοτα καθ η δωρα τε και θυϲιαι προϲφερονται μη δυναμεναι κα τα ϲυνϊδηϲιν τελι ωϲαι λατρευ ο τα ·",
+          "translation": "This is an illustration pointing to the present time, indicating that the gifts and sacrifices being offered couldn't perfect the worshiper's conscience.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "μονον επι βρω μαϲιν και πομαϲ ι και διαφοροιϲ βα πτιϲμοιϲ κ(αι) δικαιω ματα ϲαρκοϲ με χρι καιρου διορθω ϲεωϲ επικειμε να",
+          "translation": "They deal only with food and drink and various ceremonial washings — external regulations imposed until the time of reformation.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "χϲ δε παραγενομε νοϲ αρχιερευϲ τ ω μελλοντων αγα θων δια τηϲ μειζο νοϲ και τελειοτε ραϲ ϲκηνηϲ ου χει ροποιητου τουτ ε ϲτιν ου ταυτηϲ τηϲ κτιϲεωϲ",
+          "translation": "But Christ came as the high priest of the good things that have come. He passed through the greater and more perfect tabernacle, not made with hands — that is, not of this creation —",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ουδε δι αιματοϲ τραγων και μοϲχων δια δε του ϊδιου αιμα τοϲ ειϲηλθεν ειϲ τα αγια εφαπαξ ειϲ τα αγια αιωνιαν λυ τρωϲιν ευραμενοϲ",
+          "translation": "and He entered the Most Holy Place once for all, not by the blood of goats and calves, but by His own blood, securing eternal redemption.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ει γαρ το αιμα τραγ ω και ταυρων και ϲπο δοϲ δαμαλεωϲ ρ α τιζουϲα τουϲ κεκοι νωμενουϲ αγια ζει προϲ την τηϲ ϲαρκοϲ καθαροτη τα",
+          "translation": "For if the blood of goats and bulls and the ashes of a heifer sprinkled on those who are defiled sanctify them for bodily purity,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ποϲω μαλλον το αιμα του χυ οϲ δια π ν ϲ αιωνιου αγιου εαυτον προϲηνεγ κεν αμωμον τω θω καθαριει την ϲυ νειδηϲιν υ μων απο νεκρων εργ ω ειϲ το λατρευειν θω ζωντι",
+          "translation": "how much more will the blood of Christ, who through the eternal Spirit offered Himself without blemish to God, cleanse our conscience from dead works to serve the living God?",
+          "footnotes": [
+            {
+              "id": "hebrews-9-14-variant",
+              "text": "Some manuscripts read \"through the Holy Spirit\" instead of \"through the eternal Spirit.\"",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "original": "και δια τουτο διαθη κηϲ καινηϲ μεϲι τηϲ εϲτιν οπωϲ θανατου γενομε νου ειϲ απολυτρω ϲιν των επι τη πρω τη διαθηκη παρα βαϲεων την επαγ γελιαν λαβωϲιν οι κεκλημενοι τηϲ αιωνιου κλη ρονομιαϲ",
+          "translation": "For this reason Christ is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the violations under the first covenant.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "οπου γαρ διαθηκη θανατον αναγκη φερεϲθαι του διαθε μενου",
+          "translation": "For where a will is involved, the death of the one who made it must be established.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "διαθηκη γαρ επι νεκροιϲ βε βαια · επει μη τοτε μηποτε ειϲχυ ι οτε ζη ο δι αθεμενοϲ",
+          "translation": "For a will takes effect only at death, since it's not in force as long as the one who made it is alive.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "οθεν ουδ η πρωτη χωριϲ αιματοϲ εν κεκενιϲται",
+          "translation": "That's why even the first covenant wasn't inaugurated without blood.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "λαληθειϲηϲ γαρ πα ϲηϲ εντοληϲ κατα τ ο νομον ϋπο μω ϋϲεωϲ παντι τω λαω λαβων το αι μα των μοϲχ ω και των τραγων μετα ϋδατοϲ και ε ριου κοκκινου και ϋϲϲωπου αυτο τε το βιβλιον και παντα τον λαον ερ α τιϲεν",
+          "translation": "For when Moses had proclaimed every command of the Law to all the people, he took the blood of calves and goats, along with water, scarlet wool, and hyssop, and sprinkled both the scroll itself and all the people,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "λεγων του το το αιμα τηϲ δια θηκηϲ ηϲ ενετι λατο προϲ ϋμαϲ ο θϲ",
+          "translation": "saying, \"This is the blood of the covenant that God has commanded for you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και την ϲκηνην δε και παντα τα ϲκευ η τηϲ λιτουργιαϲ τω αιματι ομοιωϲ εραντιϲεν",
+          "translation": "In the same way, he sprinkled the tabernacle and all the vessels used in worship with blood.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "και ϲχε δον εν αιματι π α τα καθαριζεται κα τα τον νομον και χωριϲ αιματεκχυ ϲιαϲ ου γινεται α φεϲιϲ",
+          "translation": "In fact, under the Law nearly everything is purified with blood, and without the shedding of blood there's no forgiveness.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "αναγκη ουν τα μ ε ϋποδιγματα των εν τοιϲ ουρανοιϲ τουτοιϲ καθαριζε ϲθαι αυτα δε τα ε πουρανια κριττο ϲι θυϲιαιϲ παρα ταυ ταϲ",
+          "translation": "So it was necessary for the copies of the heavenly things to be purified with these sacrifices, but the heavenly things themselves require better sacrifices than these.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "ου γαρ ειϲ χιροποι ητα ειϲηλθεν αγι α χϲ αντιτυπα τ ω αληθινων αλλ ειϲ αυτον τον ουραν ο νυν εμφανιϲθη ναι τω προϲωπω του θυ ϋπερ ημ ω",
+          "translation": "For Christ didn't enter a man-made sanctuary — a copy of the true one — but into heaven itself, to appear now in God's presence on our behalf.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "ουδ ϊνα πολλακιϲ προϲφερη εαυτ ο ωϲπερ ο αρχιερευϲ ειϲερχεται ειϲ τα αγια των αγι ω κατ ενιαυτ ο εν αιματι αλλοτρι ω",
+          "translation": "He didn't enter to offer Himself again and again, the way the high priest enters the Most Holy Place every year with blood that isn't his own.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "επει εδει αυτ ο πολλακιϲ παθε ι απο καταβοληϲ κοϲμου νυνϊ δε απαξ επι ϲυντελεια των αιωνων ειϲ αθε τηϲιν τηϲ αμαρ τιαϲ δια τηϲ θυϲι αϲ αυτου πεφανε ρωται",
+          "translation": "Otherwise, He would have had to suffer many times since the foundation of the world. But now, once for all at the end of the ages, He has appeared to put away sin by the sacrifice of Himself.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "και καθ οϲον απο κειται τοιϲ ανθρω ποιϲ απαξ αποθα νειν μετα δε του το κριϲιϲ",
+          "translation": "And just as it's appointed for people to die once — and after this, judgment —",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "ουτωϲ και ο χϲ απαξ προϲ ενεχθειϲ ειϲ το πολλων ανενεγ κειν αμαρτιαϲ εκ δευτερου χω ριϲ αμαρτιαϲ οφθη ϲεται τοιϲ αυτον απεκδεχομενοιϲ ειϲ ϲωτηριαν",
+          "translation": "so also Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin, but to bring salvation to those who are eagerly waiting for Him.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ϲκιαν γαρ εχων ο νομοϲ των μελ λοντων αγαθ ω ουκ αυτην την ει κονα των πραγμα των κατ ενιαυτ ο ταιϲ αυταιϲ θυϲιαιϲ αυτων αϲ προϲφε ρουϲιν ειϲ το διη νεκεϲ ουδεποτε δυνανται τουϲ προ ϲερχομενουϲ τε λιωϲαι",
+          "translation": "Since the Law has only a shadow of the good things to come, not the actual form of those realities, it can never — by the same sacrifices they offer endlessly year after year — make perfect those who draw near.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "επει ουκ αν επαυϲ α το προϲφερομε ναι δια το μηδεμι αν εχιν ετι ϲυνϊ δηϲιν αμαρτιων τουϲ λατρευονταϲ απαξ κεκαθαριϲμε νουϲ",
+          "translation": "Otherwise, wouldn't they have stopped offering them, since the worshipers would have been purified once for all and would no longer have any consciousness of sins?",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "αλλ εν αυταιϲ ανα μνηϲιϲ αμαρτι ω κατ ενιαυτον",
+          "translation": "But in these sacrifices there's a reminder of sins year after year.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "αδυ νατον γαρ αιμα τρα γων και ταυρων αφεριν αφελ̣ιν αμαρτιαϲ",
+          "translation": "For it's impossible for the blood of bulls and goats to take away sins.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "διο ειϲερχομενοϲ ειϲ τον κοϲμον λεγει θυϲιαν και προϲφοραν ουκ η θεληϲαϲ ϲωμα δε κατηρτιϲω μοι",
+          "translation": "That's why when Christ came into the world, He said: \"You didn't want sacrifice and offering, but You prepared a body for Me.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ολοκαυτωματα κ(αι) περι αμαρτιαϲ ου κ ευδοκηϲαϲ",
+          "translation": "You took no pleasure in burnt offerings and sin offerings.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "τοτε ειπον ϊδου ηκω ηκω εν κε φαλιδι βιβλιου γε γραπται περι εμου του ποιηϲαι ο θϲ το θελημα ϲου ·",
+          "translation": "Then I said, 'Look — I've come to do Your will, God, as it's written about Me in the scroll.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ανωτερον λεγων οτι θυϲιαϲ και προϲ φοραϲ θυϲιαν και προϲφοραν και ολοκαυ τωματα και περι αμαρτιαϲ ουκ ηθε ληϲαϲ ουδε ευδο κηϲαϲ αιτινεϲ κατα νομον προϲ φερονται",
+          "translation": "After saying above, \"You didn't want and took no pleasure in sacrifices, offerings, burnt offerings, and sin offerings\" — which are offered according to the Law —",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "τοτε ει ρηκεν ϊδου ηκω του ποιηϲαι ο θϲ το θε λημα ϲου αναιρει το πρωτ ο ϊνα το δευτερον ϲτηϲη",
+          "translation": "He then says, \"Look — I've come to do Your will.\" He takes away the first to establish the second.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εν ω θεληματι η γιαϲμενοι εϲμεν δια τηϲ προϲφοραϲ του ϲωματοϲ ιυ χυ εφαπαξ",
+          "translation": "By this will, we have been sanctified through the offering of the body of Jesus Christ once for all.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και παϲ μεν ϊερευϲ εϲτηκεν λιτουρ γων καθ ημεραν καθ ημεραν λιτουργων και ταϲ αυταϲ πολ λακιϲ προϲφερ ω θυϲιαϲ αιτινεϲ ου δεποτε δυνανται περιελειν αμαρ τιαϲ",
+          "translation": "Every priest stands day after day performing his duties and offering the same sacrifices again and again — which can never take away sins.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ουτοϲ δε μιαν ϋ περ αμαρτιων προϲενεγκαϲ θυ ϲιαν ειϲ το διη νεκεϲ εκαθιϲεν εκ εν δεξια του θυ",
+          "translation": "But this Priest, after offering one sacrifice for sins forever, sat down at the right hand of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "το λοιπον εκδε χομενοϲ εωϲ τε θωϲιν οι εχθροι αυτου υ ποποδι ο των ποδων αυτου",
+          "translation": "Since then, He's waiting until His enemies are made a footstool for His feet.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "μια γαρ προϲφο ρα τετελιωκεν ειϲ το διηνεκεϲ τουϲ αγιαζομενουϲ",
+          "translation": "For by one offering He has perfected forever those who are being sanctified.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "μαρτυρει δε ημιν και το π να το αγι ο μετα γαρ το ειρηκε ναι",
+          "translation": "The Holy Spirit also testifies to us about this. For after saying:",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "αυτη η διαθηκη ην διαθηϲομαι προϲ αυτουϲ μετα ταϲ ημεραϲ εκειναϲ λεγει κϲ διδουϲ νο μουϲ μου επι καρ διαϲ αυτων και ε πι την διανοιαν αυτων επιγραψω αυτουϲ",
+          "translation": "\"This is the covenant I will make with them after those days, says the Lord: I will put My laws on their hearts and write them on their minds,\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και των α μαρτιων αυτων και των ανομι ω αυτων ου μη μνη ϲθηϲομαι μνηϲθω ετι",
+          "translation": "He then adds, \"And I'll remember their sins and their lawless acts no more.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "οπου δε αφειϲ αφεϲιϲ αφεϲιϲ τουτων ουκε τι προϲφορα περι αμαρτιαϲ",
+          "translation": "Where these are forgiven, there's no longer any offering for sin.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "εχοντεϲ ουν αδελ φοι παρρηϲιαν ειϲ την ειϲοδον τ ω αγιων εν τω αιμα τι ιυ",
+          "translation": "Therefore, brothers and sisters, since we have confidence to enter the sanctuary by the blood of Jesus,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ην ενεκαινιϲ ε ημιν οδον προϲ φατον και ζωϲαν δια του καταπεταϲμα τοϲ τουτ εϲτιν τηϲ ϲαρκοϲ αυτου",
+          "translation": "by a new and living way that He opened for us through the curtain — that is, His flesh —",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και ϊ ερεα μεγαν επι τον οικον του θυ",
+          "translation": "and since we have a great high priest over the house of God,",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "προϲ ερχωμεθα μετα αληθινηϲ καρδι αϲ εν πληροφορι α πιϲτεωϲ ρεραν τιϲμενοι ερραντιϲμενοι ταϲ καρ διαϲ απο ϲυνϊδη ϲεωϲ πονηραϲ και λελουϲμενοι το ϲωμα ϋδατι κα θαρω",
+          "translation": "let's draw near with a sincere heart in full assurance of faith, with our hearts sprinkled clean from a guilty conscience and our bodies washed with pure water.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "κατεχωμεν την ομολογιαν τηϲ ελπιδοϲ ημ ω ακλινη · πιϲτοϲ γαρ ο επαγγειλαμε νοϲ",
+          "translation": "Let's hold on to the confession of our hope without wavering, because the One who promised is faithful.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και κατανο ωμεν αλληλουϲ ειϲ παροξυϲμον α γαπηϲ και καλ ω εργων",
+          "translation": "And let's consider how to spur each other on to love and good works.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "μη εγκατα λιποντεϲ την επι ϲυναγωγην αυτ ω εαυτ ω καθωϲ εθοϲ τιϲιν αλλα παρακαλουν τεϲ και τοϲουτω μαλλον οϲον οϲω βλε πετε εγγιζουϲαν τ η ημεραν",
+          "translation": "Let's not give up meeting together, as some are in the habit of doing, but let's encourage each other — and all the more as you see the Day approaching.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "εκουϲιωϲ γαρ αμαρ τανοντων ημ ω μετα το λαβειν τηϲ επιγνωϲιαν τηϲ επιγνωϲιν την επιγνωϲιν τηϲ αληθειαϲ ουκετι περι αμαρτιων απο λιπεται θυϲια",
+          "translation": "For if we deliberately go on sinning after receiving the knowledge of the truth, there's no longer a sacrifice for sins left.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "φοβερα δε τιϲ εκδο χη κριϲεωϲ και πυ ροϲ ζηλοϲ εϲθιε ι μελλοντοϲ τουϲ ϋ πεναντιουϲ",
+          "translation": "Only a terrifying expectation of judgment and a raging fire that will consume God's enemies.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "αθετηϲαϲ τιϲ νομ ο μωϋϲεωϲ χωριϲ οικτιρμων επι δυ ϲιν η τριϲιν μαρτυ ϲιν αποθνηϲκει",
+          "translation": "Anyone who rejected the Law of Moses died without mercy on the testimony of two or three witnesses.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "ποϲω δοκειτε χει ρονοϲ αξιωθηϲε ται τιμωριαϲ ο τ ο ϋϊον του θυ κατα πατηϲαϲ και το αι μα τηϲ διαθηκηϲ κοινον ηγηϲαμε νοϲ εν ω ηγιαϲθη και το πν α τηϲ χα ριτοϲ ενυβριϲαϲ",
+          "translation": "How much worse punishment do you think someone deserves who has trampled on the Son of God, profaned the blood of the covenant by which He was sanctified, and insulted the Spirit of grace?",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "οιδαμεν γαρ τον ειποντα εμοι εκ δικηϲειϲ εγω αν ταποδωϲω λεγι κϲ και πα λιν κρινει κϲ κϲ κρινει τον λαον αυτου",
+          "translation": "For we know the One who said, \"Vengeance is Mine; I will repay,\" and again, \"The Lord will judge His people.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "φοβε ρον το εμπεϲιν ειϲ χιραϲ θυ ζωντοϲ",
+          "translation": "It's a terrifying thing to fall into the hands of the living God.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "αναμιμνηϲκεϲθε αναμιμνηϲκεϲθαι δε ταϲ προτερον αμαρτιαϲ ϋμων ημεραϲ ϋμων ημεραϲ εν αιϲ φωτιϲθεν τεϲ πολλην αθλη ϲιν ϋπεμεινατε παθηματων",
+          "translation": "Remember the earlier days when, after you were enlightened, you endured a hard struggle with sufferings.",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "του το μεν ονιδιϲμοιϲ τε και θλιψεϲιν θε του το δε κοινωνοι των ουτωϲ αναϲτρε φομενων γενηθ ε τεϲ",
+          "translation": "Sometimes you were publicly exposed to insults and persecution, and other times you stood side by side with those who were treated that way.",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "original": "και γαρ τοιϲ δε ϲμοιϲ μου ϲυνεπα θηϲατε και την αρ παγην των ϋπαρ χοντων ϋμων μετα χαραϲ προϲε δεξαϲθε γινωϲκ ο εχειν εαυτουϲ κριϲ ϲονα ϋπαρξιν εν ουρανοιϲ και μενουϲαν",
+          "translation": "You sympathized with the prisoners and accepted the confiscation of your property with joy, because you knew that you yourselves had a better and lasting possession.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "original": "μη αποβαλητε ουν την παρρηϲιαν ϋ μων ητιϲ εχει με γαλην μιϲθαποδο ϲιαν",
+          "translation": "So don't throw away your confidence, which has a great reward.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "original": "ϋπομονηϲ γαρ χρι αν εχετε εχετε χριαν ϊνα το θε λημα του θυ ποιη ϲαντεϲ κομιϲα ϲθαι την επαγγελι αν",
+          "translation": "For you need endurance, so that after you've done God's will, you may receive what was promised.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "original": "ετι γαρ μικρον οϲον οϲον ο ερχο μενοϲ ηξει και ου χρονιϲει χρονιει",
+          "translation": "For in just a little while, the Coming One will come and won't delay.",
+          "footnotes": []
+        },
+        {
+          "verse": 38,
+          "original": "ο δε δικαι οϲ μου εκ πιϲτεωϲ ζηϲεται και εαν ϋ ποϲτιληται ουκ ευ δοκει η ψυχη μου εν αυτω",
+          "translation": "\"But My righteous one will live by faith; and if he shrinks back, My soul takes no pleasure in him.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "original": "ημειϲ δε ουκ εϲμ ε ϋποϲτοληϲ ειϲ α πωλιαϲ απωλιαν απωλιαν αλλα πιϲτε ωϲ ειϲ περιποιηϲ ι ψυχηϲ",
+          "translation": "But we're not the kind who shrink back to destruction — but of faith, to the saving of the soul.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "εϲτιν δε πιϲτιϲ ελ πιζομενων υ πο ϲταϲιϲ πραγμα των ελεγχοϲ ου βλεπομενων",
+          "translation": "Faith is the reality of what we hope for, the proof of what we don't see.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ε ταυτη γαρ εμαρτυ ρηθηϲαν οι πρεϲβυ τεροι",
+          "translation": "For by faith our ancestors received God's approval.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "πιϲτι νοουμεν κα τηρτιϲθαι τουϲ αι ωναϲ ρηματι θυ ειϲ το μη εκ φαιν φαινομεν ω το βλεπομενον γεγονεναι",
+          "translation": "By faith we understand that the universe was created by God's command, so that what is seen was made from things that are not visible.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "πιϲτι πλειονα θυϲι αν αβελ παρα καϊν προϲηνεγκεν τω θω δι ηϲ εμαρτυρη θη ειναι δικαιοϲ μαρτυρουντοϲ επι τοιϲ δωροιϲ αυτου τω θω του θυ και δι αυτηϲ αποθανων ετι λα λει",
+          "translation": "By faith Abel offered a better sacrifice than Cain. Through faith he was commended as righteous, when God gave approval to his gifts. And though he's dead, he still speaks through faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "πιϲτει ενωχ μετε τεθη του μη ι δειν θανατον και ου χ ηϋριϲκετο οτι διοτι διοτι με τετεθηκεν μετεθηκεν αυτον ο θϲ προ γαρ τηϲ με ταθεϲεωϲ αυτου μεμαρ τυρηται ευηρεϲτη κεναι τω θω",
+          "translation": "By faith Enoch was taken so that he didn't see death, and he couldn't be found because God took him away. For before he was taken, he was commended as one who pleased God.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "χωριϲ δε πιϲτεωϲ αδυνατον ευαρε ϲτηϲαι πιϲτευϲαι γαρ δει τον προϲερ χομενον τω θω οτι εϲτιν και τοιϲ εκ ζητουϲιν αυτον μιϲθαποδοτηϲ γει νεται",
+          "translation": "Without faith it's impossible to please God, because whoever comes to God must believe that He exists and that He rewards those who earnestly seek Him.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "πιϲτει χρηματιϲθειϲ νωε περι των μη δεπω βλεπομεν ω ευλαβηθειϲ κατε ϲκευαϲεν κιβωτ ο ειϲ ϲωτηριαν του οικου αυτου δι ηϲ κατεκρινε τον κο ϲμον και τηϲ κατα πιϲτιν δικαιοϲυ νηϲ εγενετο κλη ρονομοϲ",
+          "translation": "By faith Noah, warned about things not yet seen, built an ark in reverence to save his household. Through faith he condemned the world and became an heir of the righteousness that comes by faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "πιϲτι καλουμενοϲ αβρααμ υ πηκουϲ ε εξελθειν ειϲ τον τοπ ο ον ημελλεν κλη ρονομιαν λαμβα νιν λαμβανιν ειϲ κληρονομιαν λαμβανιν ειϲ κληρονομιαν και εξηλθεν μη επιϲταμενοϲ που ερχεται",
+          "translation": "By faith Abraham, when called to go to a place he would later receive as an inheritance, obeyed and set out, not knowing where he was going.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "πιϲτι παρωκηϲεν ειϲ γην τηϲ επαγ γελιαϲ ωϲ αλλοτρι αν εν ϲκηναιϲ κα τοικηϲαϲ μετα ι ϲα ακ και ϊακωβ των ϲυνκληρονομ ω τηϲ επαγγελιαϲ αυτηϲ αυτηϲ επαγγελιαϲ επαγγελιαϲ τηϲ αυτηϲ",
+          "translation": "By faith he lived as a foreigner in the promised land, as if it weren't his, dwelling in tents with Isaac and Jacob, fellow heirs of the same promise.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εξεδεχετο γαρ την τουϲ θεμε λιουϲ εχουϲαν πο λιν ηϲ τεχνιτηϲ και δημιουργοϲ ο θϲ",
+          "translation": "For he was looking forward to the city with foundations, whose architect and builder is God.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "πιϲτι και αυτη ϲαρρα δυναμιν ειϲ κατα βολην ϲπερματοϲ ελαβεν και παρα κ(αι) ρον ηλικιαϲ ετεκεν επει πιϲτον ηγηϲατο τον επαγγειλαμε νον",
+          "translation": "By faith even Sarah herself received the ability to conceive, even beyond the proper age, since she considered the One who had promised to be faithful.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "διο και αφ ενοϲ ε γεννηθηϲαν και ταυτα νενεκρω μενου καθωϲ τα αϲτρα του ουρανου τω πληθει και ωϲ η αμμοϲ η παρα το χιλοϲ τηϲ θαλαϲϲηϲ η αναριθμητοϲ",
+          "translation": "So from one man — and he was as good as dead — came descendants as numerous as the stars in the sky and as countless as the sand on the seashore.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "κατα πιϲτιν απεθα νον ουτοι παντεϲ μη κομιϲαμενοι μη λαβοντεϲ ταϲ επαγγελιαϲ αλ λα πορρωθεν αυταϲ ϊδοντεϲ και αϲπαϲα μενοι και ομολο γηϲαντεϲ οτι ξενοι και παρεπιδημοι ειϲιν επι τηϲ γηϲ",
+          "translation": "All these died in faith without receiving the promises, but they saw them from a distance, welcomed them, and confessed that they were strangers and pilgrims on the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "οι γαρ τοιαυτα λεγ ο τεϲ εμφανιζουϲ ι οτι πατριδα επιζη τουϲιν ·",
+          "translation": "People who say such things show that they're looking for a homeland of their own.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ει μεν εκεινηϲ μνημο νευουϲιν εμνημονευον αφ ηϲ ε ξεβηϲαν εξηλθ ο ειχον α καιρον ανακαμ ψαι",
+          "translation": "If they'd been thinking about the country they left, they would have had an opportunity to return.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "νυν δε κριττο νοϲ ορεγονται του τ εϲτιν επουρανιου διο ουκ επεϲχυνε ται αυτουϲ ο θϲ θϲ επικαλειϲθαι αυ των ητοιμαϲεν γαρ αυτοιϲ πολιν",
+          "translation": "But they were longing for a better country — a heavenly one. That's why God isn't ashamed to be called their God, since He's prepared a city for them.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "πειϲτι προϲενηνο χεν αβρααμ τον ϊ ϲακ πιραζομενοϲ και τον μονογενη προϲεφερεν ο ταϲ επαγγελιαϲ αναδε ξαμενοϲ",
+          "translation": "By faith Abraham, when he was tested, offered up Isaac. He who had received the promises was offering his one and only son,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "προϲ ο ελαληθη οτι εν ϊ ϲακʼ κληθηϲεται ϲοι ϲπερμα",
+          "translation": "the one about whom it was said, \"Through Isaac your descendants will be named.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "λογιϲα μενοϲ οτι και εκ νεκρων εγιρειν δυνατοϲ ο θϲ οθ ε αυτον και εν παρα βολη εκομιϲατο ·",
+          "translation": "He reasoned that God could even raise the dead, and in a figurative sense, he did get Isaac back from death.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "πειϲτι περι μελλ ο των ευλογηϲεν ϊϲακ ϊϲαακ τον ϊακωβ και τ ο ηϲαυ",
+          "translation": "By faith Isaac blessed Jacob and Esau concerning things to come.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "πιϲτι ϊακωβ απο θνηϲκων εκαϲτ ο των ϋϊων ι ωϲηφ ευλογηϲεν και προϲεκυνηϲεν ε πι το ακρον τηϲ ραβδου αυτου",
+          "translation": "By faith Jacob, as he was dying, blessed each of Joseph's sons and worshiped, leaning on the top of his staff.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "πιϲτι ϊωϲηφ τελευ των περι τηϲ εξο δου των ϋϊων ιϲ ηλ εμνημονευϲ ε και περι των οϲτε ων αυτου ενετι λατο",
+          "translation": "By faith Joseph, at the end of his life, spoke about the exodus of the Israelites and gave instructions about his bones.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "πιϲτι μω υ ϲηϲ γεν νηθειϲ εκρυβη τρι μηνον υ πο των πατερων αυτου διοτι ειδον αϲτι ον το παιδιον και ουκ εφοβηθηϲαν το διαταγμα του βα ϲιλεωϲ",
+          "translation": "By faith Moses, after he was born, was hidden for three months by his parents, because they saw he was a beautiful child and weren't afraid of the king's edict.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "πιϲτι μω υ ϲηϲ μεγαϲ γενομενοϲ ηρνη ϲατο λεγεϲθαι ϋϊοϲ θυγατροϲ φαραω",
+          "translation": "By faith Moses, when he grew up, refused to be called the son of Pharaoh's daughter.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "μαλλον ελομενοϲ ϲυνκακουχιϲθαι τω λαω του θυ η προϲκαιρον εχε ι αμαρτιαϲ απολαυ ϲιν",
+          "translation": "He chose to suffer with God's people rather than to enjoy the temporary pleasures of sin.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "μιζονα πλου τον ηγηϲαμενοϲ των αιγυπτου θη ϲαυρων τον ονει διϲμον του χυ απε βλεπεν γαρ ειϲ την μιϲθαποδοϲιαν",
+          "translation": "He considered the disgrace of Christ to be greater wealth than the treasures of Egypt, because he was looking ahead to the reward.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "πιϲτει κατελιπεν αιγυπτον μη φο βηθειϲ τον θυμον του βαϲιλεωϲ τον γαρ αορατον ωϲ ορ ω εκαρτερηϲεν",
+          "translation": "By faith he left Egypt, not fearing the king's anger, and he persevered because he saw the invisible One.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "πιϲτι πεποιηκεν το παϲχα και την προϲχυϲιν του αι ματοϲ ϊνα μη ο ο λοθρευων τα πρω τοτοκα θιγη αυτ ω",
+          "translation": "By faith he established the Passover and the sprinkling of blood, so that the destroyer of the firstborn wouldn't touch the Israelites.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "πιϲτι διεβηϲαν τ η ερυθραν θαλαϲϲ α ωϲ δια ξηραϲ γηϲ ηϲ πειραν λαβον τεϲ οι αιγυπτιοι κατεποθηϲαν",
+          "translation": "By faith they crossed the Red Sea as if it were dry land, but when the Egyptians tried to do it, they were swallowed up.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "πιϲτι τα τειχη ϊερει χω επεϲαν επεϲεν επεϲαν κυκλω θεντα επι επτα η μεραϲ",
+          "translation": "By faith the walls of Jericho fell after the people had marched around them for seven days.",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "πιϲτι ρααβ η επιλεγο μενη πορνη ου ϲυ ναπωλετο τοιϲ απι θηϲαϲιν δεξαμε νη τουϲ καταϲκοπουϲ μετ ειρηνηϲ ·",
+          "translation": "By faith Rahab the prostitute didn't die with those who disobeyed, because she welcomed the spies with peace.",
+          "footnotes": []
+        },
+        {
+          "verse": 32,
+          "original": "και τι ετι λεγω επι λειψι με γαρ διηγου μενον ο χρονοϲ περι γεδεων · βαρακ ϲαμψων · ϊεφθαε δαυειδʼ · τε και ϲαμου ηλʼ · και των προφη των",
+          "translation": "And what more should I say? I would run out of time if I told about Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets,",
+          "footnotes": []
+        },
+        {
+          "verse": 33,
+          "original": "οι δια πιϲτεωϲ κατη γωνιϲαντο βαϲιλει αϲ ηργαϲαντο ειργαϲαντο δικαι οϲυνην επετυχ ο επαγγελιων εφρα ξαν ϲτοματα λεον των ·",
+          "translation": "who through faith conquered kingdoms, administered justice, obtained promises, shut the mouths of lions,",
+          "footnotes": []
+        },
+        {
+          "verse": 34,
+          "original": "εϲβεϲαν δυ ναμιν πυροϲ εφυ γον ϲτοματα μα χαιρηϲ ˙ εδυναμω θηϲαν ενεδυναμωθηϲαν απο αϲθε νειαϲ · εγενηθη ϲαν ϊϲχυροι εν πο λεμω · παρεμβο λαϲ εκλιναν αλλο τριων",
+          "translation": "quenched raging fires, escaped the edge of the sword, were made strong out of weakness, became mighty in battle, and put foreign armies to flight.",
+          "footnotes": []
+        },
+        {
+          "verse": 35,
+          "original": "ελαβον γυ ναικαϲ γυναικεϲ εξ αναϲτα ϲεωϲ τουϲ νεκρουϲ αυτων αλλοι δε ετυμπανι ϲθηϲαν ου προϲδε ξαμενοι την απο λυτρωϲιν ϊνα κριτ τονοϲ αναϲταϲε ωϲ τυχωϲιν ·",
+          "translation": "Women received their dead back by resurrection. Others were tortured, not accepting release, so that they might gain a better resurrection.",
+          "footnotes": []
+        },
+        {
+          "verse": 36,
+          "original": "ετεροι δε ενπεγμ ω και μαϲτιγων πι ραν ελαβον ετι δε δεϲμων και φυλα κηϲ ·",
+          "translation": "Others experienced mocking and flogging, and even chains and imprisonment.",
+          "footnotes": []
+        },
+        {
+          "verse": 37,
+          "original": "ελιθαϲθηϲαν επιραϲθηϲαν · επρι ϲθηϲαν ˙ εν φονω μαχαιρηϲ απεθα νον · περιηλθον εν μηλωταιϲ · ε ν αιγιοιϲ δερμαϲ ι ϋϲτερουμενοι · θλιβομενοι κακουχουμενοι",
+          "translation": "They were stoned, they were sawed in two, they died by the sword. They went around in sheepskins and goatskins, destitute, afflicted, and mistreated.",
+          "footnotes": [
+            {
+              "id": "hebrews-11-37-variant",
+              "text": "Some manuscripts include \"they were tested/tempted\" between \"stoned\" and \"sawed in two.\"",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 38,
+          "original": "ων ουκ ην αξιοϲ ο κοϲμοϲ επι ερη μιαιϲ πλανωμε νοι και ορεϲι και ϲπηλαιοιϲ και ταιϲ οπαιϲ τηϲ γηϲ",
+          "translation": "The world wasn't worthy of them. They wandered in deserts and mountains, in caves and holes in the ground.",
+          "footnotes": []
+        },
+        {
+          "verse": 39,
+          "original": "και ουτοι παντεϲ μαρτυρηθεντεϲ δια τηϲ πιϲτεωϲ ουκ εκομιϲαντο την επαγγελιαν",
+          "translation": "All these were commended for their faith, yet they didn't receive what was promised,",
+          "footnotes": []
+        },
+        {
+          "verse": 40,
+          "original": "του θυ περι ημ ω κριττον τι προβλε ψαμενου ϊνα μη χωριϲ ημων τε λιωθωϲιν",
+          "translation": "since God had planned something better for us, so that they wouldn't be made perfect without us.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "τοιγαρουν και ημιϲ τηλικουτον τοϲουτον εχ ο τεϲ περικειμεν ο ημιν νεφοϲ μαρ τυρων · ογκον απο θεμενοι παντα κ(αι) την ευπεριϲτατ ο αμαρτιαν δι υ πο μονηϲ τρεχωμ ε τον προκειμεν ο ημιν αγωνα",
+          "translation": "Therefore, since we're surrounded by such a large cloud of witnesses, let's throw off every weight and the sin that so easily entangles us, and let's run with endurance the race set before us.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "αφο ρωντεϲ ειϲ τον τηϲ πιϲτεωϲ αρ χηγον και τελει ωτην ιν οϲ αντι τηϲ προκει μενηϲ αυτω χα ραϲ ϋπεμινεν ϲταυ ρον αιϲχυνηϲ κα ταφρονηϲαϲ εν δεξια τε του θρο νου κεκαθικεν",
+          "translation": "Let's keep our eyes fixed on Jesus, the author and perfecter of our faith, who for the joy set before Him endured the cross, despising the shame, and sat down at the right hand of God's throne.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "αναλογιϲαϲθε γαρ τον υπο μεμενηκοτα ϋ πο των αμαρτωλ ω ειϲ εαυτουϲ αυτουϲ αντι λογιαν ϊνα μη κα μητε ταιϲ ψυχαιϲ ϋμων εκλυομενοι",
+          "translation": "Consider Him who endured such opposition from sinners, so that you won't grow weary and lose heart.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ουπω μεχριϲ αιμα τοϲ αντικατεϲτη τε προϲ την αμαρ τιαν ανταγωνιζομε νοι αντ [1 chars] ζομενοι",
+          "translation": "In your struggle against sin, you haven't yet resisted to the point of shedding your blood.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και εκλεληϲθαι τηϲ παρακληϲεωϲ ητιϲ ϋμιν ωϲ ϋϊοιϲ διαλεγεται · ϋϊε μου μη ολιγωρει παι διαϲ κυ · μηδε εκ λυου ϋπ αυτου ελεγ χομενοϲ ·",
+          "translation": "And have you forgotten the encouragement that addresses you as sons? \"My son, don't take the Lord's discipline lightly, and don't lose heart when He corrects you.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ον γαρ αγαπα κϲ παιδευει μαϲτιγοι δε παντα ϋϊον ον παραδεχε ται",
+          "translation": "For the Lord disciplines the one He loves and punishes every son He receives.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ειϲ παιδιαν ϋπομε νετε ˙ ωϲ ϋϊοιϲ ϋμ ι προϲφερεται ο θϲ τιϲ γαρ εϲτιν ϋϊοϲ ον ου παιδευει πατηρ",
+          "translation": "Endure hardship as discipline — God is treating you as His sons. For what son isn't disciplined by his father?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ει δε χωριϲ εϲτε παιδιαϲ ηϲ μετο χοι γεγοναϲι παν τεϲ αρα νοθοι και ουχ ϋϊοι εϲτε",
+          "translation": "If you're not disciplined — and everyone experiences it — then you're illegitimate children, not true sons.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ειτα τουϲ μεν τηϲ ϲαρκοϲ ημων πα τεραϲ ειχομεν παι δευταϲ και ενετρε πομεθα ου πολυ δε μαλλον υ ποταγη ϲομεθα τω πατρι των πν ατων και ζηϲομεν",
+          "translation": "Furthermore, we had human fathers who disciplined us, and we respected them. Shouldn't we submit even more to the Father of spirits and live?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ο οι μεν γαρ προϲ ολι γαϲ ημεραϲ κατα το δοκουν αυτοιϲ ε πεδευον ο δε επι το ϲυμφερον ειϲ το μετα ταβειν μεταλαβειν τηϲ αγιοτη τοϲ αυτου",
+          "translation": "For they disciplined us for a short time based on what seemed good to them, but He does it for our benefit, so that we can share in His holiness.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "παϲα μεν δε παιδια προϲ μεν το παρ ο ου δοκει χαραϲ ει ναι αλλα λυπηϲ ϋ ϲτερον δε καρπ ο ϊρηνικον τοιϲ δι αυτηϲ γεγυμναϲμε νοιϲ αποδιδωϲ ι δικαιοϲυνηϲ",
+          "translation": "All discipline seems painful at the time, not joyful — but later it produces the peaceful fruit of righteousness for those who've been trained by it.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "διο ταϲ παρειμεναϲ χιραϲ και τα παραλε λυμενα γονατα α νορθωϲατε",
+          "translation": "So strengthen your weak hands and your shaky knees,",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και τροχιαϲ ορθαϲ ποι ειτε ποιηϲατε τοιϲ ποϲιν ϋ μων ϊνα μη το χωλον εκτραπη ϊ αθη δε μαλλον",
+          "translation": "and make straight paths for your feet, so that the lame won't be disabled but healed instead.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ειρηνην διωκετε μετα παντων κ(αι) τον αγιαϲμον ου χωριϲ ουδιϲ οψεται τον κν",
+          "translation": "Pursue peace with everyone, and holiness — without it, no one will see the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "επιϲκοπουντεϲ μη τιϲ υ ϲτερων α πο τηϲ χαριτοϲ του θυ · μη τιϲ ριζα πι κριαϲ ανω φυου ϲα ενοχλη και δι α ταυτηϲ μιανθω ϲιν οι πολλοι",
+          "translation": "Make sure that no one falls short of God's grace, and that no bitter root grows up to cause trouble and defile many.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "μη τιϲ πορνοϲ η βε βηλοϲ ωϲ ηϲαυ οϲ αντι βρωϲεωϲ μι αϲ απεδοτο τα πρω τοτοκια εαυτου αυτου",
+          "translation": "Make sure there's no immoral or godless person like Esau, who sold his birthright for a single meal.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ϊϲτε γαρ οτι και με τεπειτα θελων κληρονομηϲαι την ευλογιαν απε δοκιμαϲθη μετα νοιαϲ γαρ τοπον ουχ ευρεν καιπερ μετα δακρυων εκ ζητηϲαϲ αυτην",
+          "translation": "For you know that later, when he wanted to inherit the blessing, he was rejected. He couldn't change his situation even though he sought it with tears.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ου γαρ προϲεληλυθα τε ψηλαφωμενω και κεκαυμενω πυρι · και γνοφω και ζοφω ϲκοτω · και θυ ελλη ·",
+          "translation": "For you haven't come to something that can be touched — a blazing fire, darkness, gloom, and storm,",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και ϲαλπιγγοϲ ηχω και φωνη ρη ματων ηϲ οι ακου ϲαντεϲ παρητη ϲαντο μη προϲτεθη ναι αυτοιϲ λογον",
+          "translation": "the sound of a trumpet, and a voice speaking words that made the hearers beg that not another word be spoken to them.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ουκ θ̣υκ εφερον γαρ το διαϲτελλομεν ο καν θηριον θιγη του ορουϲ λιθοβο ληθηϲεται",
+          "translation": "For they couldn't bear the command: \"If even an animal touches the mountain, it must be stoned.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και ου τω ουτωϲ φοβερον η ην το φανταζομενον μωϋϲηϲ ειπεν εκ φοβοϲ ειμι και εκτρομοϲ",
+          "translation": "The sight was so terrifying that Moses said, \"I'm trembling with fear.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "αλλα προϲεληλυθα τε ϲιων ορει και πολει θυ ζωντοϲ ϊ ηλ μ επουρανιω και μυριαϲιν αγ γελων πανηγυ ρει",
+          "translation": "But you've come to Mount Zion, to the city of the living God, the heavenly Jerusalem, to myriads of angels in joyful assembly,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και εκκληϲια πρωτοτοκων α πογεγραμμεν ω εν ουρανοιϲ και κριτη θω παντ ω και π ν αϲι π ν αϲιν τελιων δεδικαιωμενοιϲ δικαιων τετελιωμενων",
+          "translation": "to the assembly of the firstborn enrolled in heaven, to God the judge of all, to the spirits of righteous people made perfect,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και διαθηκηϲ νεαϲ μεϲιτη ιυ και αιμα τι ραντιϲμου κριτ τον λαλουντι πα ρα τον αβελ",
+          "translation": "and to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks a better word than Abel's.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "βλεπετε μη παραι τηϲηϲθε τον λαλο υ τα ει γαρ εκεινοι ου κʼ εξεφυγον εφυγον τον επι γηϲ παραιτηϲαμε νοι τον χρηματι ζοντα πολυ μαλλ ο ημειϲ οι τον απ ου ρανων αποϲτρε φομενοι",
+          "translation": "See to it that you don't refuse the One who is speaking. For if they didn't escape when they refused the one who warned them on earth, we certainly won't escape if we turn away from the One who warns us from heaven.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "ου η φωνη την γ η εϲαλευϲεν τοτε ν υ δε επηγγελται λεγ ω ετι απαξ εγω ϲιϲω ου μονον την γ η αλλα και τον ουραν ο",
+          "translation": "His voice shook the earth at that time, but now He has promised: \"Once more I will shake not only the earth but also the heavens.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "το δε ετι απαξ δηλοι την των ϲαλευ ομενων την μεταθε ϲιν ωϲ πεποιη μενων ϊνα μινη τα μη ϲαλευομενα",
+          "translation": "The phrase \"once more\" indicates the removal of what is shaken — things that are made — so that what can't be shaken may remain.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "διο βαϲιλειαν αϲα λευτον παραλαμ βανοντεϲ εχομ ε χαριν δι ηϲ λατρευ ομεν ευαρεϲτωϲ τω θω μετα ευλα βιαϲ και δεουϲ αιδουϲ δεουϲ",
+          "translation": "Therefore, since we're receiving an unshakable kingdom, let's be thankful and worship God acceptably, with reverence and awe,",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "και γαρ ο θϲ ημων πυρ καταναλιϲκον ·",
+          "translation": "for our God is a consuming fire.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "η φιλαδελφια με νετω",
+          "translation": "Let brotherly love continue.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "την φιλο ξενιαν τηϲ φιλοξενιαϲ μη επιλ α θανεϲθε δια ταυ τηϲ γαρ ελαθον τι νεϲ ξενιϲαντεϲ αγγελουϲ",
+          "translation": "Don't neglect to show hospitality to strangers, for by doing that some have entertained angels without knowing it.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "μιμνηϲκεϲθαι τ ω δεϲμιων ωϲ ϲ υ δεδεμενοι των κακουχουμεν ω ωϲ και αυτοι ον τεϲ εν ϲωματι ·",
+          "translation": "Remember those in prison, as if you were in prison with them, and those who are mistreated, since you're also in a body.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "τιμιοϲ ο γαμοϲ εν παϲιν και η κοιτη αμιαντοϲ πορνουϲ γαρ και μοιχουϲ κρινι ο θϲ",
+          "translation": "Marriage must be honored by everyone, and the marriage bed kept pure, because God will judge the sexually immoral and adulterers.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "αφιλαργυροϲ ο τρο ποϲ αρκουμενοι τοιϲ παρουϲιν αυ τοϲ γαρ ειρηκεν ου μη ϲε ανω ουδ ου μη ϲε εγκαταλει πω",
+          "translation": "Keep your life free from the love of money, and be content with what you have. For He has said, \"I'll never leave you or abandon you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ωϲτε θαρρο υ ταϲ ημαϲ λεγειν κϲ εμοι βοηθοϲ κ(αι) ου φοβηθηϲομαι τι ποιηϲει μοι αν θρωποϲ",
+          "translation": "So we can confidently say: \"The Lord is my helper; I won't be afraid. What can anyone do to me?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "μνημονευετε τ ω ηγουμενων ϋμ ω οιτινεϲ ελαληϲ α ϋμιν τον λογον του θυ ων αναθε ωρουντεϲ την εκ βαϲιν τηϲ αναϲτρο φηϲ μιμειϲθαι τ η πιϲτιν",
+          "translation": "Remember your leaders who spoke God's word to you. Consider the outcome of their way of life and imitate their faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ιϲ χϲ εχθεϲ και ϲη μερον ο αυτοϲ κ(αι) ειϲ τουϲ αιωναϲ",
+          "translation": "Jesus Christ is the same yesterday, today, and forever.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "διδαχαιϲ ποικι λαιϲ και ξεναιϲ μη παραφερεϲθε κα λον γαρ χαριτι βε βαιουϲθε την καρ διαν ου βρωμαϲιν εν οιϲ ουκ ωφε ληθηϲαν οι περι πατουντεϲ περιπατηϲαντεϲ",
+          "translation": "Don't be led astray by all kinds of strange teachings. For it's good for the heart to be strengthened by grace, not by regulations about food — which haven't benefited those who followed them.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εχομεν θυϲιαϲτη ριον εξ ου φαγε ι ουκ εχουϲιν εξου ϲιαν οι τη ϲκηνη λατρευοντεϲ",
+          "translation": "We have an altar from which those who serve in the tabernacle don't have the right to eat.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ων γαρ ειϲφερεται ζω ων το αιμα περι αμαρτιαϲ ειϲ τα α για δια του αρχϊε ρεωϲ τουτων τα ϲωματα κατακαι εται εξω τηϲ πα ρεμβοληϲ",
+          "translation": "For the bodies of those animals whose blood is brought into the sanctuary by the high priest as a sin offering are burned outside the camp.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "διο και ιϲ ϊνα αγι αϲη δια του ϊδιου αιματοϲ τον λα ο εξω τηϲ πυληϲ επαθεν",
+          "translation": "That's why Jesus also suffered outside the city gate, to sanctify the people by His own blood.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "τοι νυν εξερχωμε θα προϲ αυτον εξω τηϲ παρεμβοληϲ τον ονειδιϲμον αυτου φεροντεϲ",
+          "translation": "So let's go out to Him outside the camp, bearing the disgrace He bore.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ου γαρ εχομεν ω δε μενουϲαν πο λιν αλλα την μελ λουϲαν επιζητου μεν",
+          "translation": "For we don't have a permanent city here, but we're looking for the one that's coming.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "δι αυτου ουν αναφερω μεν θυϲιαν αινε ϲεωϲ δια παντοϲ τω θω τουτ εϲτιν καρπον χειλεων ομολογουντων τω ονοματι αυτου",
+          "translation": "Therefore, through Jesus let's continually offer a sacrifice of praise to God — that is, the fruit of lips that confess His name.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "τηϲ δε ευποιϊαϲ κ(αι) κοινωνιαϲ μη επιλανθανεϲθε τοιαυταιϲ γαρ θυϲι αιϲ ευαρεϲτιται ο θϲ",
+          "translation": "And don't forget to do good and to share with others, for God is pleased with such sacrifices.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "πειθεϲθε τοιϲ ηγου μενοιϲ υ μων και ϋπεικετε αυ τοι αυτοιϲ αυτοι γαρ αγρυπνου ϲιν ϋπερ των ψυ χων ϋμων ωϲ λο γον αποδωϲον τεϲ ϊνα μετα χαραϲ τουτο ποιωϲιν και μη ϲτεναζ ο τεϲ αλυϲιτελεϲ γαρ ϋμιν τουτο",
+          "translation": "Obey your leaders and submit to them, since they keep watch over your souls as those who must give an account. Let them do this with joy and not with grief, which wouldn't be helpful for you.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "προϲευχεϲθε πε ρι ημων οτι καλ η θα πεποιθαμεν γαρ οτι καλην ϲυνϊδηϲιν εχο μεν εν παϲιν κα λωϲ θελοντεϲ α ναϲτρεφεϲθαι",
+          "translation": "Pray for us, for we're confident that we have a clear conscience, wanting to live honorably in every way.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "περιϲϲοτερωϲ δε παρακαλω τουτο ποιηϲαι ϊνα ταχει ον αποκαταϲτα θω ϋμιν",
+          "translation": "I especially urge you to do this, so that I may be restored to you sooner.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ο δε θϲ τηϲ ειρηνηϲ ο αναγαγων εκ νε κρων τον ποιμε να των προβατ ω τον μεγαν εν αι ματι διαθηκηϲ αι ωνιου τον κν η μων ιν",
+          "translation": "Now may the God of peace, who brought up from the dead our Lord Jesus — the great Shepherd of the sheep — through the blood of the eternal covenant,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "καταρτι ϲαι ϋμαϲ εν παν τι αγαθω ειϲ το ποι ηϲαι το θελημα αυτου αυτω ποι ων εν ημιν το ευ αρεϲτον ενωπι ο αυτου δια ιυ χυ ω η δοξα ειϲ τουϲ αιω ναϲ των αιων ω αμην ·",
+          "translation": "equip you with everything good to do His will, working in us what is pleasing to Him, through Jesus Christ. To Him be glory forever and ever. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "παρακαλω δε ϋμαϲ αδελφοι ανεχε ϲθε του λογου τηϲ παρακληϲεωϲ και γαρ δια βραχεων επε ϲτιλα υ μιν",
+          "translation": "I urge you, brothers and sisters, to bear with this word of encouragement, for I've written to you briefly.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "γεινωϲκετε τον αδελφον ημων τιμοθεον απολε λυμενον μεθ ου εαν ταχιον ερχη ϲθε ερχηται οψομαι ϋμαϲ",
+          "translation": "You should know that our brother Timothy has been released. If he comes soon, I'll see you together with him.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "αϲπαϲαϲθαι παν ταϲ τουϲ ηγουμε νουϲ υ μων και πανταϲ τουϲ αγιουϲ αϲπαζονται ϋμαϲ οι απο τηϲ ϊταλιαϲ",
+          "translation": "Greet all your leaders and all the saints. Those from Italy send you greetings.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "η χαριϲ μετα παν των ϋμων αμην > ⌇﹏",
+          "translation": "Grace be with all of you. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

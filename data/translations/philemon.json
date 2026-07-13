@@ -1,0 +1,179 @@
+{
+  "book": "Philemon",
+  "slug": "philemon",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "παυλοϲ δεϲμιοϲ χυ ιυ και τιμοθεοϲ ο αδελφοϲ φιλη μονι τω αγαπη τω και ϲυνεργω ημων",
+          "translation": "Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon our dear friend and coworker,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και απφι α τη αδελφη και αρχιππω τω ϲ υ ϲτρατιωτη ϲ υ ϲτρατιωτη ημ ω και τη κατ οικον ϲου εκκληϲια ·",
+          "translation": "to Apphia our sister, to Archippus our fellow soldier, and to the church that meets in your house.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "χα ριϲ ϋμιν και ειρη νη απο θυ π ρ ϲ ημων και κυ ιυ χυ",
+          "translation": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ευχαριϲτω τω θω μου παντοτε μνιαν ϲου ποιου μενοϲ επι των προϲευχων μου",
+          "translation": "I always thank my God when I mention you in my prayers,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ακουων ϲου την αγαπην · και την πιϲτιν ην εχειϲ προϲ τον κν ιν και ειϲ πανταϲ τουϲ αγιουϲ ·",
+          "translation": "because I hear about your love for all the saints and the faith you have toward the Lord Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "οπωϲ η κοινωνια διακονια τηϲ πι ϲτεωϲ ϲου ενερ γηϲ γενηται εν ε πιγνωϲι παντοϲ αγαθου του εν υ μιν ειϲ χν ιν ·",
+          "translation": "I pray that your partnership in the faith may become effective in recognizing every good thing that is in us for Christ.",
+          "footnotes": [
+            {
+              "id": "philemon-1-6-variant",
+              "text": "Some manuscripts read \"in you\" (plural) instead of \"in us.\"",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "original": "χαραν γαρ πολλην εϲχον επι τη αγα πη ϲου · οτι τα ϲπλαγ χνα των αγιων αναπεπαυται δι α ϲου αδελφε",
+          "translation": "For I've had great joy and encouragement from your love, because the hearts of the saints have been refreshed through you, brother.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "διο πολλην εν χω παρρηϲιαν εχ ω επιταϲϲιν ϲοι το ανηκον ·",
+          "translation": "Therefore, although I have great boldness in Christ to command you to do what is proper,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "δια την αγαπην μαλλον παρακαλω · τοιου ων ωϲ παυ λοϲ πρεϲβυτηϲ ˙ νυνι δε και δεϲμι οϲ χυ ιυ",
+          "translation": "I'd rather appeal to you out of love — I, Paul, as an old man and now also a prisoner of Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "παρακαλω ϲε περι του εμου τεκνου ον εγεννηϲα εν τοιϲ δεϲμοιϲ μου ονη ϲιμον",
+          "translation": "I appeal to you for my child, whom I've fathered during my imprisonment — Onesimus.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "τον τ [1 chars] ποτε ϲο̣ι αχρηϲτον ˙ ν υ νϊ δε και και ϲοι και ε μοι ευχρηϲτον",
+          "translation": "Once he was useless to you, but now he's useful both to you and to me.",
+          "footnotes": [
+            {
+              "id": "philemon-1-11-interpretation",
+              "text": "Paul plays on Onesimus' name, which means \"useful.\" The \"useless/useful\" wordplay is central to the letter.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "original": "ον ανεπεμψα ϲοι ϲυ δε αυτον τουτ εϲτ ι τα εμα ϲπλαγχνα ϲπλαγχνα προϲλαβου",
+          "translation": "I'm sending him back to you — sending my own heart.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ον εγω ηβουλο μην προϲ εμαυ τον κατεχιν ι να ϋπερ ϲου μοι δια κονη εν τοιϲ δε ϲμοιϲ του ευαγγε λιου ˙",
+          "translation": "I wanted to keep him with me, so that he could serve me on your behalf during my imprisonment for the gospel.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "χωριϲ δε τηϲ ϲηϲ γνωμηϲ ου δεν ηθεληϲα ποι ηϲαι · ϊνα μη ωϲ κατα αναγκην το αγαθον ϲου η αλ λα κατα εκουϲιον",
+          "translation": "But I didn't want to do anything without your consent, so that your good deed wouldn't be forced, but voluntary.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ταχα γαρ δια τουτο εχωριϲθη προϲ ωραν · ϊνα αιωνι ον αυτον απεχηϲ ˙",
+          "translation": "Perhaps this is why he was separated from you for a while — so that you could have him back forever,",
+          "footnotes": [
+            {
+              "id": "philemon-1-15-interpretation",
+              "text": "\"Απέχης\" could mean \"you may have him back\" or \"you may receive him.\" Either way, Paul reframes Onesimus' escape as providential.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "original": "ουκετι ωϲ δουλον · αλλα ϋπερ δουλον αδελφον αγαπητον ˙ μαλι ϲτα εμοι ˙ ποϲω δε μαλλον ϲοι · και ε ϲαρκι και εν κω",
+          "translation": "no longer as a slave, but more than a slave — as a beloved brother, especially to me, but even more so to you, both in the flesh and in the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ει ουν με εχειϲ κοι νωνον · προϲλα βου αυτον ωϲ εμε ·",
+          "translation": "So if you consider me a partner, welcome him as you would welcome me.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ει δε τι ηδικηϲεν ϲε η οφιλει · του το εμοι ελλογα ελλογι ελλογα ·",
+          "translation": "If he has wronged you or owes you anything, charge it to me.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "εγω παυλοϲ εγρα ψα τη εμη χειρι · ε γω αποτιϲω · ϊνα μη λεγω ϲοι οτι κ(αι) ϲεαυτον μοι προϲ οφιλειϲ ·",
+          "translation": "I, Paul, am writing this with my own hand — I'll repay it. (Not to mention that you owe me your very self.)",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ναι αδελφε εγω ϲου οναιμην εν κω · αναπαυϲον μου τα ϲπλαγχνα εν χω ·",
+          "translation": "Yes, brother, let me benefit from you in the Lord. Refresh my heart in Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "πεποιθωϲ τη ϋπα κοη ϲου εγραψα ϲοι · ειδωϲ οτι και ϋ περ α λεγω ποιη ϲειϲ",
+          "translation": "Confident of your obedience, I'm writing to you, knowing that you'll do even more than I ask.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "αμα δε και ετοιμα ζε μοι ξενιαν · ελ πιζω γαρ οτι δια των προϲευχ ω ϋμων χαριϲθη ϲομαι ϋμιν",
+          "translation": "Also, prepare a guest room for me, because I hope that through your prayers I'll be restored to you.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "αϲπαζεται ϲε επα φραϲ ο ϲυναιχμα λωτοϲ μου εν χω ιυ ·",
+          "translation": "Epaphras, my fellow prisoner in Christ Jesus, sends you greetings,",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "μαρκοϲ · αρι ϲταρχοϲ · δημαϲ λουκαϲ · οι ϲυνερ γοι μου ·",
+          "translation": "as do Mark, Aristarchus, Demas, and Luke, my coworkers.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "η χαριϲ του κυ ιυ χυ μετα του πν ϲ ϋμων · αμην · ⌇﹏",
+          "translation": "The grace of the Lord Jesus Christ be with your spirit. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

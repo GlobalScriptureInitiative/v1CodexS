@@ -1,0 +1,1401 @@
+{
+  "book": "Zechariah",
+  "slug": "zechariah",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 0,
+          "original": "ζαχαριαϲ",
+          "translation": "Zechariah.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "εν τω ογδοω μη νι · ετουϲ β επι δα ριου δαριου · εγενετο λογοϲ λογοϲ κυ προϲ ζαχαρι α τον του βαραχιου ϋϊον αδʼδω · τον προφητην λεγ ω λεγ ω .",
+          "translation": "In the eighth month of the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ωργιϲθη κϲ επι τουϲ πατεραϲ ϋμ ω ϋμ ω οργην μεγαλην ·",
+          "translation": "\"The Lord was very angry with your fathers.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εριϲ ερειϲ προϲ αυτουϲ · ταδε λεγει κϲ π α τοκρατωρ π α τοκρατωρ · επιϲτρε ψατε επιϲτρεψατε προϲ με λεγι κϲ παντοκρατωρ λεγει κϲ επιϲτρεψατ̣ε̣ προϲ μελεκι κ(αι) επιϲτραφηϲομαι προϲ ϋμαϲ λεγι κ(αι) επιϲτραφηϲομαι προϲ ϋμα λεγει κϲ των δυ ναμεων ·",
+          "translation": "\"Therefore tell them: Thus says the Lord Almighty: Return to me, and I will return to you,\" says the Lord Almighty.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και μη γεινεϲθε καθωϲ οι πατερεϲ ϋπων ϋμων · οιϲ ενεκαλεϲαν αυτοιϲ οι προφη ται οι εμπροϲθεν λεγοντεϲ · ταδε λεγει κϲ κϲ παν τοκρατωρ · αποϲτρε ψατε απο των οδ ω ϋμων των πονη ρων · και απο τ ω επιτηδευματ ω ϋμων των πονη ρων · και ουκ ηϲη κουϲαν ειϲηκουϲαν ειϲηκουϲαν · και ου προϲ εϲχον του ειϲακου ϲαι μου · λεγει κϲ κϲ · :",
+          "translation": "\"Do not be like your fathers, to whom the former prophets cried out, 'Thus says the Lord Almighty: Turn from your evil ways and from your evil deeds.' But they did not listen or pay attention to me,\" declares the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "οι πρεϲ ϋμων που ειϲιν και οι προ φηται · μη τον ε ωνα αιωνα ζηϲονται ˙",
+          "translation": "\"Your fathers — where are they? And the prophets — do they live forever?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "πλην τουϲ λογουϲ μου και τα νομι μα μου δεχεϲθαι · οϲα εγω εντελλο μαι εν πνι μου · τοιϲ δουλοιϲ μου τοιϲ προφηταιϲ · οι κατελαβοϲαν τουϲ πατεραϲ ϋμ ω . και απεκριθηϲ α απεκριθηϲ α και ειπαν · καθωϲ παρατετακτε παρατετακται κϲ κϲ παντοκρατωρʼ του ποιηϲε ποιηϲαι ˙ υμ ι ημ ι ημ ι κατα ταϲ οδουϲ υων ημων ημων · και κατα τα επιτηδευματα ημων · ουτωϲ εποιηϲεν ημιν ˙",
+          "translation": "\"But my words and my statutes, which I commanded my servants the prophets, did they not overtake your fathers?\" So they repented and said, 'The Lord Almighty has done to us as he determined, according to our ways and our deeds.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "τη τετραδι και ει καδι τω ενδεκα τω μηνι · ουτοϲ εϲτιν ο μην ϲαβατʼ εν τω δευτερω ετι επι δαριου · εγενετο λογοϲ κυ προϲ ζαχαρι αν τον του βαρα χιου ϋϊον αδʼδω · τον προφητην λεγων ·",
+          "translation": "On the twenty-fourth day of the eleventh month, the month of Shebat, in the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet:",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εωρακα την νυκτα · και ϊ δου ανηρ επιβε βηκωϲ ειπʼπον επι ϊπʼπον επι ϊπʼπον πυρον πυρρον πυρρον · και ουτοϲ εϲτηκι ειϲτηκι ϊϲτηκει ανα μεϲ ο μεϲ ο των ορεων τ ω τ ω καταϲκιων · και οπιϲω αυτου ϊπ ποι πυροι πυρʼροι και ψα ροι και πυκειλοι ποικειλοι ποικειλοι και λευκοι ·",
+          "translation": "I saw in the night, and behold, a man riding on a red horse! He was standing among the myrtle trees in the glen, and behind him were horses — red, sorrel, and white.",
+          "footnotes": [
+            {
+              "id": "zechariah-1-8-culture",
+              "text": "Myrtle trees are associated with the post-exilic period and the Feast of Tabernacles.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "και ει πα · τι ουτοι κε̣ κε · κ(αι) ειπεν προϲ με ο αγγελοϲ ο λαλ ω λαλ ω εν εμοι ˙ εγω δι ξω ϲοι · τι ετιν εϲτιν ταυ τα :",
+          "translation": "Then I said, \"What are these, my lord?\" The angel who spoke with me said, \"I will show you what they are.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και απεκριθη ο α νηρ ο επεϲτηκωϲ εφεϲτηκωϲ εφεϲτηκωϲ ανα μεϲον των ορεων · και ειπ ε προϲ με ˙ ουτοι ει ϲιν · ουϲ εξαπεϲτει λεν εξαπεϲταλκεν εξαπεϲτειλεν κϲ περιοδευ ϲαι την γην ·",
+          "translation": "So the man standing among the myrtle trees answered, \"These are they whom the Lord has sent to patrol the earth.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και απεκριθηϲαν τω αγʼγελω κυ τω ε φεϲτωτι ανα με ϲον των ορεων · και ειπον · περιω δευϲαμεν παϲ α την γην · και ϊδου παϲα η γη κατοικι τε κατοικειται και ηϲυχαζει :",
+          "translation": "And they reported to the angel of the Lord who was standing among the myrtle trees, \"We have patrolled the earth, and behold, all the earth is at peace and quiet.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και απεκριθη ο αγ γελοϲ κυ και ειπ ε · κε παντοκρατωρ · εωϲ τινοϲ ου μη ελεηϲηϲ την ϊε ρουϲαλημʼ · και ταϲ πολιϲ πολειϲ ϊουδα · αϲ υ περδεϲ υ περιδεϲ υ περϊδεϲ · τουτο ε βδομηκοϲτον ε τοϲ ·",
+          "translation": "Then the angel of the Lord said, \"Lord Almighty, how long will you withhold mercy from Jerusalem and the cities of Judah, which you have denouncing for these seventy years?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και απεκριθη κϲ παντοκρατωρ · τω αγγελω τω λα λουντι εν εμοι ρηματα καλα ˙ και λογουϲ παρακλη τικουϲ ·",
+          "translation": "And the Lord answered the angel who spoke with me with gracious and comforting words.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ειπεν ειπεν προϲ με . ο αγγελοϲ ο εν εμοι · ανακραγε λεγων ˙ ταδε λεγει κϲ π α τοκρατωρʼ π α τοκρατωρʼ εζη λωϲα την ιημ ϊημ και την ϲιων · ζηλ ο ζηλ ο μεγαν ·",
+          "translation": "So the angel who spoke with me said to me, \"Proclaim: Thus says the Lord Almighty: I am very jealous for Jerusalem and for Zion.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και οργην μεγαλην · εγω ορ γιζομαι οργα̣ζομαι οργιζομαι επι τα εθνη τα ϲυνεπιτιθεμε να · ανθ ων εγω μεν ωργιϲθην ολιγα · αυτοι δε ϲυ νεπεθεντο ειϲ κακα ·",
+          "translation": "\"And I am greatly angry with the nations that are at ease; for while I was angry but a little, they furthered the disaster.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "δια τουτο ταδε λε γει κϲ · επιϲτρεψω επι ι ημ ϊημ εν οικτιρ μω · και ο οικοϲ μ(ου) ανοικοδομηθη ϲεται εν αυτη · λε γει κϲ παντοκρα τωρ · και μετρον εκταθηϲεται επι ι ημ ετι ·",
+          "translation": "\"Therefore, thus says the Lord: I have returned to Jerusalem with mercy; my house will be built in it,\" declares the Lord Almighty. \"And a line will be stretched out over Jerusalem.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και ειπ ε προϲ με ο αγγελοϲ ο λαλων εν εμοι · ανακραγε λεγων ˙ ταδε λεγει κϲ π α τοκρατωρʼ κ α τοκρατωνρʼ · ετι διαχυθηϲονται πολιϲ πολειϲ εν αγαθοιϲ · και ελεηϲει κϲ ελεηϲι̣ν̣ κν̣ ετι την ϲιων · κ(αι) ερετιει ετι την ϊ ημ ·",
+          "translation": "\"Proclaim further: Thus says the Lord Almighty: My cities will again overflow with prosperity; the Lord will again comfort Zion and again choose Jerusalem.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ηρα τουϲ οφθαλμουϲ μου και ειδον ϊδον ϊδον · και ϊ δου τεϲϲερα και ρατα κερατα",
+          "translation": "I lifted up my eyes and saw, and behold, four horns!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ειπα προϲ τον αγγελον τον λα λοντα λαλουντα εν εμοι · τι εϲτιν ταυτα · κυ ριαι κυριε κυριε · και ειπεν προϲ με · ταυτα τα και ρατα κερατα · τα διαϲκορπι ϲαντα τον ι ουδ α ι ουδ α και τον ϊ ϲλ ʼ και ϊ ερουϲαλ·ημ ˙",
+          "translation": "I said to the angel who spoke with me, \"What are these?\" He said to me, \"These are the horns that scattered Judah, Israel, and Jerusalem.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εδιξεν μοι κϲ κϲ τεϲϲαρεϲ τεκτο νεϲ τεκτοναϲ τεκτοναϲ ·",
+          "translation": "Then the Lord showed me four craftsmen.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ειπα · τι ου τοι ερχοντε ερχονται ποι ηϲαι · και ειπεν · ταυτα τα καιρατα κερατα τα διαϲκορ πιϲαντα τον ϊου δαν · και τον ϊϲλ κα τεαξαν · και ουδιϲ ουδειϲ αυτων ηρεν και φαλην κεφαλην κεφαλην · και εξηλ θοϲαν ουτοι του οξυναι αυτα ειϲ χιραϲ χειραϲ αυτων · τα τεϲ ϲερα καιρατα κερατα τα ε θνη τα επερομε να · κεραϲ επι τ η γην κυ του διαϲκορ πιϲαι αυτην ·",
+          "translation": "I said, \"What are these coming to do?\" He said, \"These are the horns that scattered Judah, so that no one raised his head. And these have come to terrify them, to cast down the horns of the nations who lifted up their horns against the land of Judah to scatter it.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ηρα τουϲ οφθαλ μουϲ μου και ϊδ ο ϊδ ο · και ϊδου ανηρ · και εν τη χειρει αυτου ϲχονιον γεωμε τρικον ·",
+          "translation": "I lifted up my eyes and saw, and behold, a man with a measuring line in his hand!",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ειπα προϲ αυτ ο αυτ ο · που ϲοι ϲυ ϲυ πορευη · και ειπεν προϲ με · διαμετρηϲε διαμετρηϲαι την ι ημ του εηδειν ειδειν πη λικον πηλικον το πλατοϲ αυτηϲ εϲτιν · και πηλικον το μηκοϲ :",
+          "translation": "I said, \"Where are you going?\" He said to me, \"To measure Jerusalem, to see what is its width and what is its length.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ϊδου ο αγγελοϲ ο λαλων εν εμοι ϊϲτηκει · και αγγε λοϲ ετεροϲ εξεπο ρευετο ειϲ ϲυναν τηϲιν αυτω ·",
+          "translation": "And behold, the angel who spoke with me stood still, while another angel came out to meet him.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ειπεν προϲ αυτ ο αυτον λεγ ω · δραμε και λαληϲ ο λαληϲ ο προϲ τον νεανι ϲκον νεανι [1 chars] νεανιϲκον εκινον εκεινον λε γων · κατακαρπωϲ κατοικηϲεται κατοικηθηϲεται ϊ ημ ϊ ημ · απο πληθουϲ αν θρωπων και κτη νων εν μεϲω αυτηϲ",
+          "translation": "He said to him, \"Run, say to that young man: Jerusalem will be inhabited like unwalled villages because of the multitude of people and cattle in it.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και εγω ε ϲομε εϲομαι αυτη λεγει κϲ τιχοϲ τειχοϲ πυροϲ κυκλοθεν · και ειϲ [1 chars] δοξαν εϲομε εϲομαι εν μεϲω αυτηϲ ·",
+          "translation": "\"For I will be to her,\" declares the Lord, \"a wall of fire all around, and I will be the glory in her midst.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ω ω ˙ φευγετε απο γηϲ βορρα λεγει κϲ κϲ · διοτι εκ των τεϲ ϲαρων ανεμων του ουρανου · ϲυ ναξω ϋμαϲ λεγει κϲ",
+          "translation": "\"Up! Up! Flee from the land of the north,\" declares the Lord. \"For I have scattered you to the four winds of heaven,\" says the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ειϲ ϲιων ανα ϲωζεϲθε οι κατοι κουνταιϲ θυγαται ρα κατοικουντεϲ θυγατερα βαβυλωνοϲ ·",
+          "translation": "\"Up! Escape to Zion, you who dwell with the daughter of Babylon.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "δι οτι ταδε λει λεγι κϲ κϲ π α τοκρατωρʼ · οπιϲω δοξηϲ απεϲταλ κεν με · επι τα εθνη τα ϲκυλευϲαντα ϋ μαϲ · διοτι ο απτο μενοϲ υ̇μων ωϲ ο απτομενοϲ · τηϲ κορηϲ του οφθαλ μου αυτου · ˙",
+          "translation": "For thus says the Lord Almighty: \"After his glory sent me against the nations who plundered you — for whoever touches you touches the apple of his eye.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "διοτι ειδου ϊδου ϊδου εγω ε πιφερω την χιρα χειρα μου επ αυτουϲ · και εϲονται ϲκυλα τοιϲ δουλευουϲιν αυτοιϲ · και γνωϲονται γνωϲεϲθε ο τι εγω ειμι εγω εγω κϲ π α τοκρατωρ απεϲταλ κεν με ·",
+          "translation": "\"For I will shake my hand over them, and they will become plunder for those who served them. Then you will know that the Lord Almighty has sent me.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "τερπου και ευφραι νου θυγατηρ θυγατερ θυγατερ · οτι ειδου διοτι ειδου διοτι ϊδου οτι ϊδου εγω ερχομαι και κατα ϲκηνωϲω εν με ϲω ϲου λεγει κϲ ·",
+          "translation": "\"Sing and rejoice, O daughter of Zion! For I am coming and I will dwell in your midst,\" declares the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "κ(αι) καταφευξοντε ε̣ θνη καταφευξονται ε̣θνη καταφευξονται · εθνη πολʼλα επι τ ο κν εν τη ημερα ε κινη εκεινη · και εϲοντε εϲονται αυτω ειϲ λαον · και καταϲκηνωϲου ϲιν εν μεϲω ϲου · και επιγνωϲη γνωϲη επιγνωϲη ο τι κϲ παντοκρατωρ εξαπεϲταλκεν με προϲ ϲε ·",
+          "translation": "\"Many nations will join themselves to the Lord on that day, and they will become my people. And I will dwell in your midst, and you will know that the Lord Almighty has sent me to you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και κα τακληρονομιϲι κατακληρονομηϲει κϲ κϲ τον ϊουδαν κ(αι) · τ η μεριδα αυτου επι την γην την αγι α · και ερετιει ετι τ η τ η ϊερουϲαλημʼ ·",
+          "translation": "\"The Lord will inherit Judah as his portion in the holy land, and he will again choose Jerusalem.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ευλα βιϲθω ευλαβειϲθω παϲα ϲαραξʼ ϲαρξʼ πο απο · προϲωπου κυ · οτι εξεγηγερτε εξεγηγερται εκ νεφελων αγι ω αυτου ·",
+          "translation": "Be silent before the Lord, all flesh! For he has roused himself from his holy dwelling.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και εδιξεν μοι κϲ τον ιν τον ϊερεα τον μεγαν · εϲτω τα προ προϲωπου αγγελου κυ · και ο διαβολοϲ ϊϲτηκι ϊϲτηκει εκ δεξιων αυτου · του αντικιϲθα αντικιϲθαι αντικειϲθαι αυ τω ·",
+          "translation": "Then he showed me Joshua the high priest standing before the angel of the Lord, and Satan standing at his right hand to accuse him.",
+          "footnotes": [
+            {
+              "id": "zechariah-3-1-interpretation",
+              "text": "Satan (ὁ διάβολος) serves as the accuser in the heavenly court, a key theological image.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "και ειπεν κϲ προϲ τον διαβολον · ε πιτιμηϲαι κϲ κϲ ε εν ϲοι διαβολαι διαβολε · και επιτιμηϲε επιτιμηϲαι κϲ ε κϲ ε ϲοι ˙ ο εκλεξαμε νοϲ την ϊ ημ ϊ ημ · ου χ ϊδου τουτο . ωϲ δαλοϲ εξεϲπαϲ μενοϲ εκ πυροϲ ·",
+          "translation": "The Lord said to Satan, \"The Lord rebuke you, Satan! The Lord who has chosen Jerusalem rebuke you! Is this not a brand plucked from the fire?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ιϲ ιϲ ην ενδεδυ μενοϲ ι ματια ρυ παρα · και ϊϲτηκι ϊϲτηκει προ προϲωπου του αγγελου ·",
+          "translation": "Now Joshua was clothed in filthy garments and stood before the angel.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και απεκριθη και ει πεν προϲ τουϲ εϲτωταϲ εϲτηκοταϲ προ προ ϲωπου αυτου λε γων · αφελετε τα ϊματια τα ρυπα ρα απ αυτου · και ειπεν προϲ αυτον · ϊδου αφη ρηκα ταϲ ανομι αϲ ϲου · και ενδυ ϲατε αυτον πο ρηδη ˙",
+          "translation": "He said to those who stood before him, \"Remove the filthy garments from him.\" And to him he said, \"Look, I have taken your iniquity away from you, and I will clothe you with pure vestments.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και επιθε τε κιδαριν καθα ραν επι την και φαλην κεφαλην κεφαλην αυτου · κ(αι) επεθηκαν κιδαριν κα θαραν επι την κεφαλην αυτου και περιεβαλον αυτον ϊματια · και ο αγγελοϲ κυ κυ ϊϲτη κι ϊϲτηκει ·",
+          "translation": "I said, \"Let them put a clean turban on his head.\" So they put a clean turban on his head and clothed him with garments. And the angel of the Lord was standing by.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και διεμαρτυ ρατο ο αγγελοϲ κυ κυ προϲ ιν ιν λεγων ·",
+          "translation": "And the angel of the Lord solemnly warned Joshua:",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ταδε λε γει κϲ παντοκρα τωρ · εαν τεϲ ταιϲ ταιϲ οδοιϲ μου πορευη · και εν τοιϲ προϲτα γμαϲιν μου φυ λαξη φυλα [1 chars] η φυλαξη · και ϲυ διακρι νειϲ τον οικον μου · και εαν διαφυ λαϲϲηϲ την αυλ η αυλ η μου · και δωϲω ϲοι αναϲτρεφομενουϲ · εν μεϲω των ε ϲτηκοτων α του των",
+          "translation": "\"Thus says the Lord Almighty: If you walk in my ways and keep my charge, then you will govern my house and have charge of my courts, and I will give you access among those who stand here.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ακουε δη ϊηϲου ο ϊερευϲ ο μεγαϲ · ϲυ ϲυ και οι πληϲιον ϲου · οι καθημενοι προ προϲωπου ϲου · διοτι ανδρεϲ τερατοϲκοποι ει ϲει [1 chars] ϲει ειϲιν ειϲιν ˙ διοτι ειδου ϊδου ϊδου ε γω αγω επαγω τον δου λον μου ανατο λῆν ·",
+          "translation": "\"Hear now, O Joshua the high priest, you and your friends who sit before you, for they are men who are a sign: I am about to bring my servant the Branch.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "διοτι ο λιθοϲ ον εδωκα προ προϲωπου ϊηϲου επι τον λιθον τον ενα · ζ · · ζ · οφθαλ μοι ειϲιν · ϊδου εγω ορυϲϲω βο θρον λεγει κϲ κϲ π α τοκρατωρʼ · και ψη λαφηϲω παϲαν την αδικιαν τηϲ γηϲ εκινηϲ εκεινηϲ · εν ημερα μια ˙",
+          "translation": "\"For the stone that I have set before Joshua — on a single stone with seven eyes — I will engrave its inscription,\" declares the Lord Almighty. \"And I will remove the iniquity of that land in a single day.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εν τη ημερα εκινη εκεινη λε γει κϲ παντοκρα τωρʼ ϲυνκαλεϲε τε ϲυνκαλεϲεται ϲυνκαλεϲεται εκαϲτοϲ τον πληϲιον αυτου · ϋποκατω αμπε λου · και ϋποκατω ϲυκηϲ ·",
+          "translation": "\"On that day,\" declares the Lord Almighty, \"every one of you will invite his neighbor under his vine and under his fig tree.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και επε ϲτρεψεν ο αγγε λοϲ ο λαλων εν ε μοι · και εξηγει ρεν με · ον τροπ ο οταν εξεγερθη ανοϲ ανοϲ εξ ϋπνου αυτου ·",
+          "translation": "The angel who spoke with me returned and woke me, like a man who is wakened from his sleep.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ειπ ε προϲ με · τι ϲυ βλε πειϲ · και ειπα ˙ ε ωρακα ˙ και ϊδου λυ χνια χρυϲη ολη ˙ και το λαμπαδι ο λαμπαδι ο επανω αυτηϲ · κ(αι) επτα λυχνι λυχνοι επα νω αυτηϲ · και ε πτα παρυϲτιδεϲ επαρυϲτριδεϲ επαρυϲτριδεϲ τοιϲ λυχνοιϲ τοιϲ επανω αυτηϲ ·",
+          "translation": "He said to me, \"What do you see?\" I said, \"I see a solid gold lampstand with a bowl on top of it, and seven lamps on it, with seven channels for each lamp.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "κ(αι) δυο ελεαι επανω αυτηϲ . μια εκ δε ξιων του λαμπα διου αυτηϲ · και μια εξ ευωνυμ ω ευωνυμ ω ·",
+          "translation": "\"And there are two olive trees by it, one on the right of the bowl and one on its left.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και επηρωτηϲα και ειπον προϲ τον αγγελον τ ο λαλουντα εν εμοι λεγων · τι εϲτιν ταυτα κε :",
+          "translation": "I asked the angel who spoke with me, \"What are these, my lord?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και απεκριθη ο αγ γελοϲ ο λαλων εν εμοι · και ειπ ε ειπ ε προϲ με λεγων · ο̣υ̣ γ̣ε̣ι̣ν̣ω̣ϲ̣κ̣ι̣ϲ̣ τ̣ι̣ εϲτιν ταυτα κ(αι) ειπα ουχι κε ου γινωϲκειϲ τι εϲτιν ταυτα κ(αι) ειπα · ουχι κε ου γινωϲκειϲ τι εϲτιν ταυτα ˙ κ(αι) ειπα ουχι κε ˙",
+          "translation": "The angel who spoke with me answered me, \"Do you not know what these are?\" I said, \"No, my lord.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "κ(αι) απεκριθη κ(αι) ειπε̣ν προϲ με λεγων κ(αι) απεκριθη κ(αι) ειπεν προϲ με λεγ ω κ(αι) απεκριθη κ(αι) ειπεν προϲ με λεγ ω ουτοϲ ο λογοϲ κυ προϲ ζοβαβελ ζοροβαβελ ζοροβαβελʼ λε γων · ουκ εν δυνα μι δυναμει μεγαλη · ουδε εν ϊϲχυει ϊϲχυϊ · αλλ η εν πνευματι μ(ου) λε γει κϲ παντοκρα τωρʼ ·",
+          "translation": "He said to me, \"This is the word of the Lord to Zerubbabel: Not by might nor by power, but by my Spirit,\" says the Lord Almighty.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "τιϲ ι ει ϲυ το οροϲ το μεγα το προ προ ϲωπου ζοροβα βελʼ · του κατορθω ϲαι ˙ και εξοιϲω τ ο τ ο λιθον τηϲ κληρο νομιαϲ · ϊϲοτητα χαριτοϲ χαριτα αυ τηϲ ·",
+          "translation": "\"Who are you, O great mountain? Before Zerubbabel you will become a plain. He will bring out the capstone with shouts of 'Grace, grace to it!'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και εγενετο λογοϲ κυ προϲ με λεγ ω λεγ ω á§",
+          "translation": "Then the word of the Lord came to me, saying:",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "αι χιρεϲ χειρεϲ ζοροβαβελʼ · εθεμελιωϲαν τον οικον τουτ ο τουτ ο · και ε χιρεϲ αι χιρεϲ αι χειρεϲ αυτου επιτελεϲουϲιν αυτον · και επιγνω ϲη · διοτι κϲ παντο κρατωρ εξαπεϲταλ κεν με προϲ ϲε ·",
+          "translation": "\"The hands of Zerubbabel have laid the foundation of this house; his hands will also complete it. Then you will know that the Lord Almighty has sent me to you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "διοτι τιϲ εξουδενω ϲεν ειϲ ημεραϲ μικραϲ ˙ και χαρο υ τε χαρηϲοντε χαρηϲονται και οψοντε οψονται τ ο τ ο λιθον τον καϲϲι δεριον καϲιδεριον καϲϲιτερινον καϲϲιτερινον εν χιρι χειρι ζο ροβαβελ ˙ · ζ · · ζ · ουτοι οφθαλμοι κυ ει ϲιν οι . επιβλεπ ο τεϲ επιβλεπ ο τεϲ επι παϲαν τ η τ η γην ·",
+          "translation": "\"For who has despised the day of small things? They will rejoice and see the plumb line in the hand of Zerubbabel. These seven are the eyes of the Lord that range through the whole earth.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και απεκριθην κ(αι) ειπον προϲ αυτ ο αυτ ο · τι ε αι αι δυο ελεαι αυ τε αυται αυται αι εκ δεξιων τηϲ λυχνιαϲ και εξ ευωνυμων τηϲ λυχνιαϲ και εξ ευωνυμων ·",
+          "translation": "I said to him, \"What are these two olive trees on the right and the left of the lampstand?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και επη ρωτηϲα εκ δευτε ρου και ειπα προϲ αυτον · τι οι δυο κλα δοι των αιλαι ω ελαι ω ελαι ω · οι εν τεϲ ταιϲ ταιϲ χερϲιν των δυο μυξω τηρων των χρυ ϲων · των επιχε οντων και επα ναγοντων ταϲ το̣ιϲ επαρυϲτιδαϲ επαρυϲτριδαϲ ταϲ χρυϲαϲ ·",
+          "translation": "I asked him a second time, \"What are the two olive branches beside the two golden pipes from which oil is poured out?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και ειπεν προϲ με λεγ ω ουχ ουκ οιδαϲ τι εϲτιν ταυτα ˙ κ(αι) ειπα ουχι ειπεν υχι κε ·",
+          "translation": "He said to me, \"Do you not know what these are?\" I said, \"No, my lord.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "κ(αι) ειπεν ˙ ουτοι . οι δυ οι ϋϊοι τηϲ πιοτη τοϲ · οι παρεϲτηκαϲ ι παρεϲτηκαϲ ι κω κω παϲηϲ τηϲ γηϲ ·",
+          "translation": "He said, \"These are the two anointed ones who stand by the Lord of the whole earth.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και επεϲτρεψα και ηρα τουϲ οφθαλμουϲ μου και ειδον · κ(αι) ειδου ϊδου δρεπαν ο πετομενον ·",
+          "translation": "I looked again and saw a flying scroll!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ειπεν κϲ προϲ με · τι ϲυ βλεπειϲ ˙ και ειπα ˙ εγω ορω δρεπανον πετο μενον · μηκουϲ πηχεων εικοϲι · και πλατουϲ πηχε ων δεκα δεχα ·",
+          "translation": "He said to me, \"What do you see?\" I answered, \"I see a flying scroll, twenty cubits long and ten cubits wide.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ειπ ε ειπ ε προϲ με · αυτη η α ρα αρᾶ · η εκπορευομε νη επι προϲωπ ο προϲωπ ο παϲηϲ τηϲ γηϲ · δι οτι παϲ ο κλεπτηϲ · εκ τουτου εωϲ θα νατου εκδικηθη ϲεται · και παϲ ο ε πιορκοϲ · εκ τουτου εωϲ θανατου εκ δικηθηϲεται ·",
+          "translation": "He said to me, \"This is the curse that goes out over the face of the whole land. For everyone who steals will be cut off according to it, and everyone who swears falsely will be cut off according to it.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και εκξοιϲω εκξοιϲοι αυτο λεγει κϲ παντοκρατωρʼ · και ειϲελευϲεται ειϲ τον οικον του γλεπου γλεπτου κλεπτου κλεπτου · και ειϲ τ ο τ ο οικον του ομνυ οντοϲ τω ονομα τι μου επι ψευδει · και καταλυϲη εν μεϲω του οικου αυτου · και ϲυντελε ϲει αυτον · και τα ξυ λα αυτου και τουϲ λιθουϲ αυτου :",
+          "translation": "\"I will send it out,\" declares the Lord Almighty, \"and it will enter the house of the thief and the house of him who swears falsely by my name. It will remain in his house and consume it, both timber and stones.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και εξηλθεν ο αγ γελοϲ ο λαλων ε ν εμοι · και ειπεν προϲ με · αναβλε ψον τοιϲ οφθαλ μοιϲ ου και ειδε ϊδε ϊδε · τι το εκπορευομε νον τουτο",
+          "translation": "The angel who spoke with me came forward and said to me, \"Lift your eyes and see what this is that is going out.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ειπα τι εϲτιν · κ(αι) ειπεν · τουτο το με τρον το εκπορευ · και ειπ ε ειπ ε αυτη η αδικια αυ του αυτων αυτων . εν παϲη τη γη ˙",
+          "translation": "I said, \"What is it?\" He said, \"This is a basket going out.\" He added, \"This is their iniquity in all the land.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ειδου ϊδου ταλαν τον μολυβου εξε ρομενον εξαιρομενον · και ϊδου μια γυνη εκαθη το εν μεϲω του με τρου ·",
+          "translation": "And behold, the lead cover was lifted, and there was a woman sitting in the basket!",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ειπεν · αυ τη εϲτιν η ανομι α · και εριψεν αυτ η εν μεϲω του με τρου · αι και ερειψεν τ ο λιθον του μολι βου · ειϲ το ϲτομα αυτηϲ ·",
+          "translation": "He said, \"This is Wickedness.\" He thrust her back into the basket and pressed the lead weight over its opening.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και ηρα τουϲ οφθαλμουϲ μου και ϊδον · και ειδου ϊδου ϊδου δυο γυνεκαιϲ γυναικεϲ γυναικεϲ εκ πορευομεναι εκπορευομενοι · κ(αι) π ν α π ν α εν ταιϲ τοιϲ πτε ρυξειν αυτων ˙ και αυτε αυται αυται ειχον ειπον πτερυγαϲ πτερυγεϲ ωϲ πτε ρυγαϲ εποποϲ · κ(αι) ανελαβον το με τρον ανα μεϲον τηϲ γηϲ · και ανα με ϲον του ουρανου ·",
+          "translation": "I lifted my eyes and saw two women coming forward! The wind was in their wings — they had wings like a stork's wings — and they lifted the basket between heaven and earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ειπα προϲ τ ο τ ο αγγελον τον λα λουντα εν εμοι ˙ που του αυτε αυται αυται αποφε ρουϲιν το μετρ ο ·",
+          "translation": "I said to the angel who spoke with me, \"Where are they taking the basket?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ειπεν προϲ με · οικοδομηϲε οικοδομηϲαι αυ τω οικιαν εν γη βαβυλωνοϲ · και ε τοιμαϲε ετοιμαϲαι ετοιμαϲαι · και θηϲου ϲιν αυτο εκι εκει επι την ετοιμαϲιαν αυτου ·",
+          "translation": "He said to me, \"To build a house for it in the land of Babylonia; and when it is ready, it will be set there on its base.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και επι εϲτρε ψα επεϲτρεψα επεϲτρεψα και ηρα τουϲ ο φθαλμουϲ οφθαλμουϲ μου κ(αι) ειδον · και· ειδου ϊδου ϊδου τεϲϲερα αρματα εκπορευομενα εκ μεϲου δυο ορε ων · και τα ορη ην ορη χαλκα ·",
+          "translation": "I looked up again and saw four chariots coming out from between two mountains — and the mountains were mountains of bronze.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "εν τω αρματι τω πρωτω . ϊπʼποι πυροι · και εν τω αρματι τω δευτερω . ϊπʼποι μελανεϲ ·",
+          "translation": "The first chariot had red horses, the second chariot black horses,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εν τω αρματι τω τρι τω · ϊπʼποι λευκοι · και εν τω αρματι τω τεταρτω · ϊπποι ποικιλοι ψαροι ψάροι ·",
+          "translation": "the third chariot white horses, and the fourth chariot dappled horses — all strong horses.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "κ(αι) απεκριθην και ει πα προϲ τον αγγε λον τον λαλουν τα εν εμοι εμε · τι εϲτ ι εϲτ ι ταυτα κε ·",
+          "translation": "I asked the angel who spoke with me, \"What are these, my lord?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και απε κριθη ο αγγελοϲ ο λαλων εν εμοι · και ειπεν π ροϲ με · ταυτα εϲτιν · οι τεϲϲαρεϲ ανεμοι του ουρα νου οι εκπορευον ται · παραϲτηναι τω κω παϲηϲ τηϲ γηϲ ·",
+          "translation": "The angel answered me, \"These are the four winds of heaven, going out after presenting themselves before the Lord of all the earth.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εν ω ηϲαν ϊπʼποι οι μελανεϲ · εξεπορευοντο εγγηϲ επι γην επι γην βορʼραν βορʼρα βορʼρα κ(αι) οι λευκοι εξεπο ρευοντο καθοπι ϲθεν κατοπιϲθεν αυτων κατοπιϲθεν αυτων και οι ποι κιλοι εξεπορευ οντο επι γην νο του ·",
+          "translation": "The chariot with the black horses goes toward the north country, the white ones go after them, and the dappled ones go toward the south country.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και οι ψαροι ψάροι ε ξεπορευοντο κ(αι) εζητουν επι̣ γ̣η̣ν νοτ(ου) και επεβλεπον του του περιοδευϲαι την γην κ(αι) ειπεν του περιοδευϲαι την γην κ(αι) ειπεν πορευεϲθε και περιοδευϲα τε περιοδευϲαι περιοδευϲατε την γην · και περιωδευϲαν την γην ·",
+          "translation": "When the strong horses came out, they were eager to patrol the earth. He said, \"Go, patrol the earth!\" So they patrolled the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ανε βοηϲεν και ελα ληϲεν προϲ με λεγων · ϊδου οι εκπορευομε νοι επι γην την γην βορ ρα · και ανεπαυϲ α ανεπαυϲ α τον θυμον μου εν γη βορρα ·",
+          "translation": "He cried out to me, \"Look! Those going toward the north country have given rest to my Spirit in the north country.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και εγενετο λογοϲ κυ προϲ εμε με με λε γων ·",
+          "translation": "The word of the Lord came to me, saying:",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "λαβε τα εκ τηϲ εκμαλωϲιαϲ αιχμαλωϲιαϲ παρα των αρχον των και παρα > και παρα τ ω > > > και παρα των χρη ϲιμων αυτηϲ · και παρα των επεγνω κοτων αυτην · κ(αι) ειϲελευϲη ϲυ εν τη ημερα εκινη εκεινη · ειϲ τον οικον ϊω ϲιου του ϲοφονι ου · του ηκοντοϲ εκ βαβυλωνοϲ ·",
+          "translation": "\"Take from the exiles — Heldai, Tobijah, and Jedaiah — who have arrived from Babylon. Go the same day to the house of Josiah son of Zephaniah.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και λημψη αργυ ριον και χρυϲιον · και ποιηϲειϲ ϲτε φανουϲ ϲτεφανην · και επι θηϲειϲ επι την κε φαλην ϊηϲου του ϊωϲεδεκʼ του ϊε ρεωϲ του μεγαλου ·",
+          "translation": "\"Take silver and gold and make a crown, and set it on the head of Joshua son of Jehozadak, the high priest.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και εριϲ ερειϲ προϲ αυτ ο αυτ ο . ταδε λεγει κϲ παν τοκρατωρ · ϊδου ανηρʼ ανατο λη ονομα αυτω · και ϋποκατωθ ε ϋποκατωθ ε αυτου ανατελλ̣ι ανατελει · και οικοδομηϲι οικοδομηϲει τον οικον κυ ·",
+          "translation": "\"Say to him: Thus says the Lord Almighty: Behold, a man whose name is the Branch — he will branch out from his place and build the temple of the Lord.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και αυτοϲ λημψετε λημψεται α ρετην · και καθιε ται καθιειται καθιειται και καταξει καταρξει καταρξει επι του θρονου αυτου · και εϲτε εϲται ο ϊερευϲ εκ δεξι ω αυτου · και βουλη ϊρηνικη εϊρηνικη εϲται α να μεϲον αμφο τερων ·",
+          "translation": "\"He will build the temple of the Lord; he will bear royal honor and will sit and rule on his throne. There will be a priest on his right, and peaceful counsel will be between the two.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ο δε ϲτεφα νοϲ εϲτε εϲται τοιϲ υ̇πο μενουϲιν · και τοιϲ χρηϲιμοιϲ αυτηϲ · και τοιϲ επεγνω κοϲιν αυτην · και ειϲ χαριτα ϋϊου ϲο φονιου · και ειϲ ψαλ μον εν οικω κυ ˙",
+          "translation": "\"The crown will be for those who wait — Heldai, Tobijah, Jedaiah, and for the graciousness of the son of Zephaniah — as a memorial in the temple of the Lord.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και οι μακραν α π αυτων ηξουϲ ι · και οικοδομηϲου ϲιν εν τω οικω κυ · και γνωϲεϲθε γνωϲεϲθαι · διοτι κϲ παντο κρατωρʼ απεϲταλ κεν με προϲ ϋ μαϲ · και εϲτε εϲται ε α ε α ειϲακουοντεϲ ειϲακουϲαντεϲ ειϲακουοντεϲ ειϲακουϲητε τηϲ φωνηϲ κυ του θυ ημων υμων",
+          "translation": "\"Those who are far away will come and help build the temple of the Lord. Then you will know that the Lord Almighty has sent me to you. This will happen if you diligently obey the voice of the Lord your God.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και εγενετο εν τω τεταρτω ετι ετει · επι δαριου του βαϲι λεωϲ · εγενετο λογοϲ κυ προϲ ζαχαριαν · τετρα δι του μηνοϲ του ενατου · οϲʼ εϲτιν γ̣αϲολευ χ̣αϲολευ ρ̣αϲολευ χεϲελευ χαϲελευ ·",
+          "translation": "In the fourth year of King Darius, the word of the Lord came to Zechariah on the fourth day of the ninth month, which is Chislev.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και εξα πεϲτιλεν απεϲτιλεν εξαπεϲτειλεν ειϲ βε θηλʼ ϲαραϲαρ και αρβεϲεερʼ αρβεϲερʼ αρβεϲεερʼ ο βαϲι λευϲ · και οι ανδρεϲ αυτου του εξιλαϲεϲθε εξϊλαϲεϲθαι τον κν ·",
+          "translation": "The people of Bethel had sent Sharezer and Regem-melech with their men to entreat the Lord,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "λεγων προϲ τουϲ ϊερειϲ τουϲ εν τω οικω κυ παντοκρατοροϲ · και προϲ τουϲ προ φηταϲ λεγων · ειϲεληλυθεν ω δε εν τω μηνι τω πμπτω πεμπτω πεμπτω το αγιαϲμα · καθοτι εποιηϲεν ηδη ϊκανα ετη επι̣ ·",
+          "translation": "asking the priests of the house of the Lord Almighty and the prophets, \"Should I mourn and fast in the fifth month, as I have done for so many years?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και εγενετο λογοϲ κυ των δυναμε ων προϲ με λε γων ˙",
+          "translation": "Then the word of the Lord Almighty came to me, saying:",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ειπον προϲ παντα τον λαον τηϲ γηϲ · και προϲ τουϲ ϊερειϲ λεγ ω · εαν νηϲτευϲη τε · η κοψηϲθαι . ε ε ταιϲ πεμπταιϲ · η εν τεϲ ταιϲ ταιϲ εβδομαιϲ · και ειδου ϊδου ϊδου εβδομη κοντα ετη · μη νη ϲτιαν νενηϲτευ κατε μοι ˙",
+          "translation": "\"Say to all the people of the land and the priests: When you fasted and mourned in the fifth and seventh months for these seventy years, was it for me that you fasted?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και εαν φαγητε η πιητε · ουχ ϋμιϲ ϋμειϲ εϲθετε εϲθιετε εϲθετε και πινεται ·",
+          "translation": "\"And when you eat and drink, do you not eat for yourselves and drink for yourselves?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ου χ ουτοι οι λογοι ει ϲιν · ουϲ ελαληϲ ε ελαληϲ ε κϲ εν χερϲιν τ ω τ ω προφητων τ ω τ ω εμπροϲθεν · οτι οτε ην ϊερουϲαλημ κατοικουμενη και ευθηνουϲα · και ε πολιϲ αι πολιϲ αι πολειϲ αυτηϲ κυκλοθεν · και η ορινη και η πεδι νη κατωκιτο κατωκειτο :",
+          "translation": "\"Are not these the words that the Lord proclaimed through the former prophets, when Jerusalem was inhabited and prosperous, with its cities around her, and the Negev and the lowland were inhabited?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και εγενετο λογοϲ κυ προϲ ζαχαρι α ζαχαρι α λεγων ·",
+          "translation": "The word of the Lord came to Zechariah, saying:",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ταδε λεγει κϲ κϲ παντοκρατωρʼ · κριμα δικαιον κρι νεται κριναται κριναται · και ελεοϲ ελεον και οικτιρμον > ποιειται εκαϲτοϲ προϲ τον αδελ φον αυτου ·",
+          "translation": "\"Thus says the Lord Almighty: Render true judgments, show kindness and mercy each to his brother.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και χη ραν και ορφαν ο ορφαν ο · και προϲηλυτ ο προϲηλυτ ο . και πενητα ˙ μη καταδυναϲτευ εται · και κακιαν · εκαϲτοϲ του α δελφου αυτου μη μνηϲικακι τω . εν ταιϲ καρδι αιϲ υ μων ·",
+          "translation": "\"Do not oppress the widow, the orphan, the foreigner, or the poor; and do not devise evil in your hearts against one another.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ηπιθηϲαν επιθηϲαν του του προϲεχειν · και εδωκαν νωτον παραφρονουτα παραφρονουντα · και τα ωτα αυτ ω αυτ ω εβαρυναν του μη ειϲακουειν ·",
+          "translation": "\"But they refused to pay attention and turned a stubborn shoulder and stopped their ears from hearing.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ταϲ καρδιαϲ την καρδιαν την καρδιαν αυτ ω αυτ ω εταξαν απιθη · του μη ειϲακουειν του νομου μου · και τουϲ λογουϲ ουϲ εξαπεϲτιλ ε εξαπεϲτειλ ε κϲ παντοκρατωρʼ εν π νι αυτου · εν χερϲιν των προ φητων των εμ προϲθεν · και εγε νετο οργη μεγα λη παρα κυ παντο κρατοϲ ·",
+          "translation": "\"They made their hearts hard as diamond, lest they should hear the law and the words that the Lord Almighty had sent by his Spirit through the former prophets. Therefore great anger came from the Lord Almighty.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και εϲτε εϲται ον τροπον ειπ ε ειπ ε ειπ ε · και ουκ ηϲηκου ϲαν ϊϲηκουϲαν ειϲηκουϲαν αυτου · ουτωϲ καικραξοντε · και ου μη ειϲακουϲω λεγει κϲ παντο κρατωρ ·",
+          "translation": "\"As I called and they would not listen, so they will call and I will not listen,\" says the Lord Almighty.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και εκβα λω αυτουϲ ειϲ π α τα τα εθνη · α ουκ ε γνωϲαν · και η γη αφανιϲθηϲεται κατοπιϲθεν αυ των . εκ διοδευ οντοϲ και εξ ανα ϲτρεψοντοϲ αναϲτρεφοντοϲ · και εταξαν γην εκλε κτην ειϲ αφανιϲ μον ·",
+          "translation": "\"I scattered them with a whirlwind among all the nations that they had not known. Thus the land was left desolate behind them, so that no one went to and fro. Thus they made the pleasant land desolate.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και εγενετο λογοϲ κυ κυ παντοκρατο ροϲ προϲ με λεγων ·",
+          "translation": "The word of the Lord Almighty came to me, saying:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ταδε λεγει κϲ π α τοκρατων π α τοκρατωρ π α τοκρατωρ · εζη ληϲα την ϊερου ϲαλημʼ · και την ϲιων ζηλον με γαν · και θυμω μεγαλω εζηλω ϲα αυτην ˙",
+          "translation": "\"Thus says the Lord Almighty: I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ταδε λεγει κϲ παντοκρατωρʼ επιϲτρεψω επι ϲιων · και κατα ϲκηνωϲω εν μεϲω ϊερουϲα λημ και κληθη ϲεται ειερουϲα λημ ϊερουϲαλημ ϊερουϲαλημ πολιϲ η αλη θινη · και ρ̣ το οροϲ οροϲ κυ παντοκρατο ροϲ παντοκρατοροϲ οροϲ αγιον ·",
+          "translation": "\"Thus says the Lord Almighty: I have returned to Zion and will dwell in the midst of Jerusalem. And Jerusalem will be called the faithful city, and the mountain of the Lord Almighty will be called the holy mountain.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ταδε λεγει κϲ κϲ παν τοκρατωρʼ · ετι κα θηϲοντε καθηϲονται πρεϲ βυτερουι πρεϲβυτεροι πρεϲβυτεροι πρεϲβυτεροι και πρεϲ βυτε πρεϲβυτεραι εν ταιϲ πλα τιαιϲ ϊερουϲαλημʼ · εκαϲτοϲ την ρα βον ραβδον αυτου εχων εν τη χιρι χειρι αυτου · απο πληθουϲ η μερων ·",
+          "translation": "\"Thus says the Lord Almighty: Old men and old women will again sit in the streets of Jerusalem, each with a staff in his hand because of great age.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ε αι αι πλα τιαι τηϲ πολεωϲ πληϲθηϲοντε πληϲθηϲονται · πεδαριων και κο ραϲιων παιζον των εν τεϲ πλα τιεϲ αυτων ταιϲ πλατιαιϲ αυτηϲ ταιϲ πλατιαιϲ αυτηϲ ·",
+          "translation": "\"The streets of the city will be full of boys and girls playing in its streets.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ταδε λεγει κϲ παντοκρα των παντοκρατωρʼ παντοκρατωρʼ · ει αδυνατη ϲει αδυνατωϲει αδυνατηϲει ενωπιον τ ω καταλοιπων του λαου τουτου · εν τεϲ ταιϲ ταιϲ ημεραιϲ εκι ναιϲ εκειναιϲ · μη και ενω πιον εμου αδυ νατηϲει λεγει κϲ παντοκρατωρʼ",
+          "translation": "\"Thus says the Lord Almighty: If it seems marvelous to the remnant of this people in those days, should it also seem marvelous to me?\" declares the Lord Almighty.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ταδε λεγει κϲ παν τοκρατωρ · ϊδου Ρ̶ εγω ϲωζω τον λαον μου απο γηϲ ανατολων · και απο γηϲ δυϲ μων ·",
+          "translation": "\"Thus says the Lord Almighty: I am about to save my people from the east country and from the west country.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ειϲαξω αυτουϲ και κατα ϲκηνωϲω εν με ϲω ι ερουϲαλημ ˙ και εϲοντε εϲονται εϲονται μοι ειϲ λαον · και εγω εϲομαι αυτοιϲ ειϲ θν · εν αληθια κε αληθεια και εν δικαιοϲυνη ·",
+          "translation": "\"I will bring them to dwell in the midst of Jerusalem. They will be my people and I will be their God, in faithfulness and in righteousness.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ταδε λεγι κϲ παν τοκρατωρ ε χι ρεϲ αι χιρεϲ αι χειρεϲ ϋμων των ακουοντων εν τεϲ ημερεϲ ταυταιϲ τουϲ λογουϲ του τουϲ εκ τουϲ λογουϲ τουτουϲ εν ταιϲ ημεραιϲ ταυταιϲ εκ εν ταιϲ ημεραιϲ ταυταιϲ τουϲ λογουϲ τουτουϲ εκ ϲτοματοϲ των προφητων · αφ ηϲ ημεραϲ τε θεμελιωτε ο οι κοϲ κυ παντοπρα τοροϲ · και ο ναοϲ αφ ου ωκοδομη θη ωκοδομηται ·",
+          "translation": "\"Thus says the Lord Almighty: Let your hands be strong, you who in these days have been hearing these words from the mouth of the prophets, from the day that the foundation of the house of the Lord Almighty was laid, that the temple might be built.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "διοτι πρωο τ ω προ τ ω προ τ ω προ τ ω ημερων εκιν ω · ο μιϲθοϲ των αν θρωπων ουκ ε ϲται ειϲʼ ονοηϲιν ονηϲιν ονηϲιν · και ο μιϲθοϲ των κτηνων ουχ υ̇παρ ξει · και τω εκπο ρευομενω · και τω ειϲπορευομενω ουκ ε̣ϲται πορευομενω ουκ εϲτε ϊρηνη εϊρηνη α πο τηϲ θλειψεωϲ ˙ και εξαποϲτελω πανταϲ τουϲ α νου ϲ ανου ϲ · εκαϲτον επι τον πληϲιον αυτου ·",
+          "translation": "\"For before those days there was no wage for man or beast; neither was there safety from the foe for him who went out or came in; for I set everyone against his neighbor.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και νυν ου κατα ταϲ ημεραϲ ταϲ εμπροϲ θεν εγω ποιω τοιϲ καταλοιποιϲ του λαου τουτου λεγει κϲ παντοκρα τωρʼ ·",
+          "translation": "\"But now I will not deal with the remnant of this people as in the former days,\" declares the Lord Almighty.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "αλλ η διξω ϊ ρηνην ειρηνην · μη η αμπε λοϲ δωϲι δωϲει τον καρ πον αυτηϲ · κ(αι) η γη δωϲει τα γενηματα αυτηϲ και ου ρανοϲ δωϲι την δροϲον αυτου · και κατακληρονομη ϲω τοιϲ καταλοι ποιϲ του λαου μου τουτου ταυτα π α τα ·",
+          "translation": "\"For they will sow in peace; the vine will give its fruit, the ground will give its produce, and the heavens will give their dew. I will cause the remnant of this people to possess all these things.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και εϲτε εϲται ον τρο πον ηται ητε εν κα ταρα εν τοιϲ εθνε ϲιν οικοϲ ϊουδα · και οικοϲ ϊϲραηλ · ουτωϲ διαϲω διαϲωϲω ϋ μαϲ · και εϲεϲθαι εν ευλογια ˙ θαρϲι τε και κατϊϲχυετε εν τεϲ ταιϲ ταιϲ χερϲιν υ̇ μων ·",
+          "translation": "\"As you have been a curse among the nations, O house of Judah and house of Israel, so I will save you, and you will be a blessing. Do not fear; let your hands be strong.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "διοτι ταδε λεγει κϲ παντο κρατωρ · ον τρο πον διενοηθ η διενοηθ η του κακωϲε κακωϲαι υ̇μαϲ · εν τω παροργιϲαι μαι με με τουϲ πατεραϲ ϋμων λεγει κϲ παντοκρατωρ · και ου μετενοη ϲα ·",
+          "translation": "For thus says the Lord Almighty: \"As I purposed to bring disaster to you when your fathers provoked me to wrath,\" says the Lord Almighty, \"and I did not relent,\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ουτωϲ παρα τεταγμαι και δι ανενοημαι εν τεϲ ημαιρεϲ ταιϲ ημεραιϲ ταιϲ ημεραιϲ ταυ · του καλωϲ ποιηϲαι τηϲ την την ϊε ρουϲαλημʼ · και το̣ τον οικον οικον υ δα οικον ϊουδα οικον ϊουδα ˙ θαρϲιται ·",
+          "translation": "\"so again I have purposed in these days to do good to Jerusalem and to the house of Judah. Do not fear!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ου τοι οι λογοι · ουϲ ποιηϲεται · λαλι ται λαλειται αληθιαν εκα ϲτο εκαϲτοϲ εκαϲτοϲ προϲ τον πληϲιον αυτου · αληθιαν και κρι μα ϊρηνικον ειρηνικον κρι ναται εν τεϲ ταιϲ ταιϲ πυ λαιϲ ϋμων ·",
+          "translation": "\"These are the things that you must do: Speak the truth to one another; render judgment that is true and that makes for peace in your gates.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και εκαϲτοϲ την κα κιαν του πλη ϲιον αυτου μη λογειζεϲθε εν ταιϲ καρδιαιϲ υ̇ μων · και ορκ ο ψυδην ψευδη ψευδη μη αγα παται · διοτι ταυ τα παντα εμιϲη ϲα λεγει κϲ παν τοκρατωρ · +",
+          "translation": "\"Do not devise evil in your hearts against one another, and love no false oath. For all these things I hate,\" declares the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και εγενετο λογοϲ κυ παντοκρα τοροϲ προϲ με λεγων",
+          "translation": "The word of the Lord Almighty came to me, saying:",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ταδε λεγει κϲ παντο κρατωρ · νηϲτια η τετραϲ · και νηϲτι α η πεμπτη · και νηϲτια η εβδομη · και νηϲτια η δεκα τη · εϲοντε εϲονται εϲονται τω οι κω ϊουδα · ειϲ χα ραν και ευφροϲυ νην · και ει ειϲ ειϲ εορταϲ αγαθαϲ εϲτε και ευφρανθηϲεϲθαι κ(αι) την αληθιαν και την ϊρηνην εϊρηνην αγα πηϲατε ·",
+          "translation": "\"Thus says the Lord Almighty: The fast of the fourth month and the fast of the fifth and the fast of the seventh and the fast of the tenth will become seasons of joy and gladness and cheerful feasts for the house of Judah. Therefore love truth and peace.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ταδε λεγει κϲ κϲ παν τοκρατωρ · τι ετι ηξου ϲιν λαοι πολλοι · και κατοικουντεϲ πολιν πολιϲ πολειϲ πολλαϲ ·",
+          "translation": "\"Thus says the Lord Almighty: Peoples will yet come, and inhabitants of many cities.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και ϲυνελευϲον τε ϲυνοδευϲοντε ϲυνελευϲοντε οι κατοικουντεϲ κατοικουντεϲ πολιϲ πολλαϲ και ϲυνελευϲοντε κα τοικουνταιϲ πεν τε πολειϲ πολιϲ πολλαϲ και ϲυνελευϲοντε κατοικουντεϲ πεντε πολειϲ πολιϲ πολλαϲ και ϲυνελευϲοντε κατοικουντεϲ πεντε πολειϲ πεντε πολειϲ πεντε πολειϲ ειϲ μι α μι α πολιν λεγοντεϲ · πορευθωμεν πορευϲει δε ηθηνε δεηθηναι του προϲω που κυ κυ · και εκζη τηϲε το προϲωπ ο κυ κυ παντοκρατοροϲ · πορευϲομε πορευϲομαι πορευϲομαι καγω ˙",
+          "translation": "\"The inhabitants of one city will go to another, saying, 'Let us go at once to entreat the Lord and seek the Lord Almighty; I myself am going.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "και ηξουϲιν λαοι πολλοι · και εθνη πολλα εκζητηϲε εκζητηϲαι το προϲωπον κυ κυ παντοκρατοροϲ εν ϊερουϲαλημ και του εξϊλαϲαϲθε το προϲωπον κυ κυ :",
+          "translation": "\"Many peoples and strong nations will come to seek the Lord Almighty in Jerusalem and to entreat the Lord.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "ταδε λεγει κϲ κϲ παν τοκρατωρ · εν τεϲ ημερεϲ εκιναιϲ ταιϲ ημεραιϲ εκιναιϲ ταιϲ ημεραιϲ εκειναιϲ · εαν επιβαλωντε δε κα ανδρεϲ εκ πα ϲων των γλωϲ ϲων των εθν ω . και επιβαλωντε επιλαβωνται του κραϲπεδου ανδροϲ ϊουδαιου λεγοντεϲ · πορευ ϲομεθα μετα ϲου · διοτι ακηκοκοα μεν ακηκοαμεν · οτι ο θϲ μεθ υ μων εϲτιν · +",
+          "translation": "\"Thus says the Lord Almighty: In those days ten men from the nations of every tongue will take hold of the robe of a Jew, saying, 'Let us go with you, for we have heard that God is with you.'\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "λημʼμα λογου κυ εν γη τη ϲεδραχʼ · και δαμαϲκου δαμαϲκοϲ δαμαϲκου θυ ϲια θυϲια αυτου · διοτι κϲ κϲ εφο ρα ανθρωπουϲ · κ(αι) παϲαϲ φυλαϲ του ι η λ ι ηλ ·",
+          "translation": "An oracle. The word of the Lord is against the land of Hadrach and will rest upon Damascus. For the eyes of the Lord are upon all mankind and upon all the tribes of Israel.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και εμαθʼ εματτ εματʼ εμαθʼ ε ε τοιϲ οριοιϲ αυτηϲ · κ(αι) τυροϲ · και ϲιδων · διοτι εφρορηϲ α εφροηϲ α εφρονηϲ α ϲφοδρα ·",
+          "translation": "And also against Hamath, which borders it, and against Tyre and Sidon, though they are very wise.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ωκο δομηϲεν τυροϲ οχυρωματα αυτηϲ · και εθηϲαυριϲεν αργυρειον ωϲ χο υ χο ι χο υ · και ϲυνηγαγεν χρυϲιον ωϲ πη λον πηλον οδων ·",
+          "translation": "Tyre has built herself a rampart and heaped up silver like dust and gold like the mud of the streets.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "δια του το κϲ κϲ κληρονομη ϲι αυτουϲ αυτην αυτουϲ · και κατα ξει ωϲ παταξει ειϲ παταξει ειϲ θαλαϲϲαν δυναμιν αυτηϲ · κ(αι) αυτη εν πυρι κατα ναλωθηϲεται ·",
+          "translation": "The Lord will dispossess her; he will hurl her wealth into the sea, and she will be devoured by fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "οψε τε οψετε αϲκαλων και φο βηθηϲεται · και γα ζα ˙ και οδυνηθηϲε ται ϲφοδρα ˙ και ακ καρων · οτι ηϲχ υ θη επι τω παραπτω ματι αυτηϲ · και α πολιται βαϲιλευϲ εκ γαζηϲ · και αϲκα λων ου μη κατοι κηθη ·",
+          "translation": "Ashkelon will see and fear; Gaza will writhe in anguish; Ekron, for her hope is shattered. The king will perish from Gaza; Ashkelon will be uninhabited.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και κατοικη θηϲουϲιν κατοικηϲουϲιν κατοικηϲουϲιν αλλογε νειϲ εν αζωτω ˙ > αδ̣ωτωω και καθελω ϋβριν αλλοφυλων ·",
+          "translation": "A mixed race will dwell in Ashdod, and I will cut off the pride of the Philistines.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και εξαρω το αιμα αυ των εκ ϲτοματοϲ αυτων · και τα βδε λυγματα εκ μεϲου οδων οδοντων αυτων · και ϋπολι φθηϲονται και ου τοι τω θω θω υμ ω ημ ω ημ ω · και εϲοντε εϲονται ωϲ χι λιαρχοϲ εν ϊουδα · και αρκκαρωνʼ ακκαρωνʼ ακκαρωνʼ ωϲ ο ϊεβουϲαιοϲ ·",
+          "translation": "I will remove their blood from their mouths and their abominations from between their teeth. They also will be a remnant for our God; they will be like a clan in Judah, and Ekron like the Jebusites.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ϋποϲτηϲομαι τω οικω μου ανα ϲτημα · του μη δι απορευεϲθαι · μη δε ανακαμπτιν · και ου μη επελθη επ αυτουϲ ουκαι τι ουκετι ουκετι εξελαυνων · δι οτι νυν εωρακα εν τοιϲ οφθαλμοιϲ μου ·",
+          "translation": "I will encamp at my house against the army, so that none may march to and fro; no oppressor will again pass over them, for now I have seen with my own eyes.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "χαιρε ϲφοδα ϲφοδρα ϲφοδρα θυγατηρʼ θυγατερʼ θυγατερʼ ϲιων · κη ρυϲϲε θυγατηρʼ θυγατερʼ θυγατερʼ ϊ ερουϲαλημ · ϊδου ο βαϲιλευϲ ϲου ερ χεται ϲοι · δικαιοϲ και ϲωζων · αυτοϲ πραυϲ πραῦϲ · και επιβε βηκωϲ επι ϋπο ζυγιον και πω λον νεον ·",
+          "translation": "Rejoice greatly, daughter Zion! Shout aloud, daughter Jerusalem! Your king comes to you; he is righteous and having salvation; humble and riding on a donkey, on a colt, the foal of a donkey.",
+          "footnotes": [
+            {
+              "id": "zechariah-9-9-interpretation",
+              "text": "This verse is cited in the NT (Matthew 21:5, John 12:15) as a prophecy of Jesus' triumphal entry.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "και εξο λεθρευθηϲετε το ξον εξολεθρευϲει αρματα εξολεθρευϲει αρματα τοξον εξολεθρευϲει αρματα εξολεθρευϲει αρματα εξ εφρεμʼ και ϊπʼπον εξ ϊερου ϲαλημ · και εξολε θρευθηϲετε εξολεθρευϲει εξολεθρευθηϲετε ξ ο τ̣ο̣ξ ο τοξ ο πολεμικον · και πληθοϲ και ϊρη νη εϊρηνη εξ εθρων εχθρων εθνων εθνων · και καταξει καταρξει ϋδατ ω ϋδατων απο θαλαϲϲηϲ εωϲ θαλαϲϲηϲ · και απο ποταμων διεκβολαϲ εωϲ διεκβολων διεκβολαϲ γηϲ ·",
+          "translation": "I will cut off the chariot from Ephraim and the war horse from Jerusalem; the battle bow will be cut off. He will speak peace to the nations; his rule will extend from sea to sea and from the River to the ends of the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ϲυ εν εματι αιματι αιματι διαθηϲ διαθηκηϲ ϲου · εξα πεϲτιλαϲ εξαπεϲτειλαϲ δεϲμι ουϲ ϲου ϲου εκ λακκου ουκ εχοντοϲ ϋ δωρ ·",
+          "translation": "As for you also, because of the blood of my covenant with you, I will set your prisoners free from the waterless pit.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "καθηϲεται καθηϲεϲθε καθηϲεϲθε εν οχυρωμαϲ ι . δεϲμιοι τηϲ ϲυ ναγωγηϲ · και α τι μιαϲ ημαιραϲ ημεραϲ ημεραϲ παροικαιϲιαϲ παροικεϲιαϲ παροικεϲιαϲ ϲου · διπλα ανταποδω ϲω ϲοι ·",
+          "translation": "Return to the stronghold, O prisoners of hope; today I declare that I will restore to you double.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "διοτι ενε τινα ϲε ϊουδα εμαυ τω τοξον · επλη ϲα τον εφρεμʼ · και εξεγερω τα τεκνα ϲου ϲειων · επι τα τεκνα των ελ ληνων · και ψη λαφηϲω ϲαι ϲε ϲε ωϲ ρομφαιαν μαχη του ·",
+          "translation": "I have bent Judah as my bow; I have made Ephraim its arrow. I will rouse your sons, O Zion, against your sons, O Greece, and wield you like a warrior's sword.",
+          "footnotes": [
+            {
+              "id": "zechariah-9-13-variant",
+              "text": "LXX mentions 'Greece' (Ἕλλάδα) explicitly, while MT has 'Javan'. This is significant for dating.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "original": "κα̣ι και εϲτε ε π αυτουϲ · και εξε λευϲετε ωϲ αϲτρα πη βολιϲ · και κϲ κϲ παντοκρατωρ εν ϲαλπιγγει ϲαλ πιγει ϲαλπιει ϲαλπιει · και πορευ ϲετε πορευϲεται εν ϲαλω α πιληϲ αυτου ·",
+          "translation": "The Lord will appear over them, and his arrow will go forth like lightning. The Lord God will sound the trumpet and march in the storms of the south.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "κϲ κϲ παντοκρατωρ υ̇ περαϲπιει αυτουϲ αυτων αυτ ω · και καταναλωϲου ϲιν αυτουϲ · και κα ταχωϲουϲιν αυ τουϲ και καταχωϲουϲιν αυτουϲ εν λιθοιϲ ϲφ ε δονηϲ · και εκπι ο ται το αιμα αυτουϲ αυτων αυτων ωϲ οι νον · και πληϲου ϲιν ταϲ φιαλαϲ ωϲ θυϲιαϲτηριον ·",
+          "translation": "The Lord Almighty will protect them; they will devour and trample the sling stones; they will drink and roar as with wine; they will be full like a bowl, like the corners of the altar.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ϲωϲει αυτουϲ κϲ ο θϲ κϲ ο θϲ αυτων εν τη ημερα εκινη εκεινη · ωϲ προβατα λα ο αυτου · διοτι λιθοι αγιοι κυλιονται επι τηϲ γηϲ αυτ ω̣ αυτου αυτου ·",
+          "translation": "The Lord their God will save them on that day as the flock of his people; for like jewels of a crown they will shine over his land.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "οτι ει τι αγαθον αυ του · και ει τι καλον αυτου ϲιτοϲ νεα νειϲκοιϲ νεανιϲκοιϲ νεανιϲκοιϲ · και οι νοϲ ευωδιαζων ειϲ παρθενουϲ :",
+          "translation": "How great is his goodness and how great his beauty! Grain will make the young men flourish, and new wine the young women.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "αιτιϲθαι αιτειϲθαι παρα κυ υ ετον καθ ωραν · προϊμον και ο ψιμον · κϲ εποι ηϲεν φανταϲιαϲ · και ϋτον ϋετον ϋετον χιμερι νον δωϲι δωϲει αυτοιϲ · εκαϲτω βοταν η εν αγρω ·",
+          "translation": "Ask rain from the Lord in the season of spring rain, from the Lord who makes storm clouds, who gives rain showers to all, and vegetation in the field.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "διοτι οι αποφθεγγομε νοι ελαληϲαν κο πουϲ · και οι μαν τιϲ μαντειϲ οραϲειϲ ψευ δειϲ ψευδειϲ · και τα ενυ̇ πνια ψευδη ελα λουν · ματεα ματεα πα ρεκαλουν · δια του το εξηρανθηϲ α εξηρθηϲ α ωϲ προβατα · και εκακωθηϲαν δι οτι οτι ουκ ην ϊαϲειϲ ϊαϲιϲ .",
+          "translation": "For the household gods speak deceitfully, and the diviners see false visions; they tell lying dreams and give empty comfort. Therefore the people wander like sheep; they are afflicted for lack of a shepherd.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "επι τουϲ ποιμε ναϲ παρωξυνθη παρυξυνθη ο θυμοϲ μου · κ(αι) επι τουϲ αμνουϲ ε πιϲκεψομαι · και επιϲκεψεται κϲ ο θϲ ο παντοκρα τωρ το ποιμνι ο αυτου · τον οικον ϊουδα · και ταξι ταξι και ταξει αυ τουϲ · ωϲ ϊπʼπον ευπρεπη αυτου εν πολεμω ·",
+          "translation": "\"My anger is hot against the shepherds, and I will punish the leaders. For the Lord Almighty cares for his flock, the house of Judah, and will make them like his majestic horse in battle.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και απ εξ εξ αυτου επεβλε και απ εξ αυτου εταξεν · και απ εξ αυ του τοξον εν εν θυ μω · απ εξ αυτου αυτω εξε λευϲεται παϲ ο εξελαυνων εν τω αυτω ·",
+          "translation": "\"From him will come the cornerstone, from him the tent peg, from him the battle bow, from him every ruler together.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και εϲ ο τε εϲ ο ται ωϲ μαχηται · πατουνταιϲ πατουντεϲ πατουντεϲ πη λον εν τεϲ ταιϲ ταιϲ οδοιϲ οδοιϲ εν πολεμω · και παραταξονται παραταξονται δι οτι οτι κϲ μετ αυτ ω · και κατεϲχυνθη ϲοντε κατʼαιϲχυνθηϲοντε αναβαται αναβατο ϊπʼπων ·",
+          "translation": "\"They will be like mighty men in battle, trampling the foe in the mud of the streets. They will fight because the Lord is with them, and they will put the horsemen to shame.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και κα τιϲχυϲω τον οι κον ϊουδα · και τον οικον ϊωϲηφ ϲωϲω · και κατοι κιω αυτουϲ · οτι ηγαπηϲαʼ αυτουϲ · και εϲοντε . ον τροπον ουκ απε ϲτρεψαμην απεϲτρεψα απεϲτρεψα αυ τουϲ · διοτι εγω κϲ ο θϲ αυτων και επακουϲομε επακουϲομαι αυτοιϲ αυτουϲ ·",
+          "translation": "\"I will strengthen the house of Judah and save the house of Joseph. I will bring them back because I have compassion on them, and they will be as though I had not rejected them. For I am the Lord their God and I will answer them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και εϲ ο τε ωϲ μαχηται του εφρεμʼ · αι και και χα ρηϲεται η καρδι α αυτων · ωϲ εν οι νω · και τα τεκνα αυτων οψοντε οψονται και ευφρανθη ϲονται · και χαρι ται χαρηϲεται χαρηϲεται η καρδια αυ των επι τω κω κω ·",
+          "translation": "\"Ephraim will become like a mighty warrior, and their hearts will be glad as with wine. Their children will see it and rejoice; their hearts will exult in the Lord.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ϲημανω αυτοιϲ · και ειϲδεξομαι αυτουϲ · διοτι λυ τρωϲομαι αυτουϲ · και πληθυνθη ϲονται · καθοτι ηϲαν πολλοι ·",
+          "translation": "\"I will whistle for them and gather them in, for I have redeemed them. They will be as numerous as they were before.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "κ(αι) ϲπερω αυτουϲ εν λαοιϲ · και οι μακραν μνηϲθη ϲονται μου · εκ θρεψουϲιν τα τε κνα αυτων · και επιϲτρεψουϲ ι επιϲτρεψουϲ ι",
+          "translation": "\"Though I scattered them among the nations, yet in far countries they will remember me. They and their children will live and return.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και επιϲτρεψω αυτουϲ εκ γηϲ αιγυπτου · και ε ξʼ αϲϲυριων ειϲδε ξομαι ειϲ δοξαν αυτουϲ · κ(αι) ειϲ την γαλααδι τιν · και ειϲ τον λιβανον ειϲαξω αυτουϲ · και ου μη ϋπολιφθη εξ αυ των ουδε ειϲ ·",
+          "translation": "\"I will bring them back from the land of Egypt and gather them from Assyria. I will bring them to Gilead and Lebanon, until there is no room for them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "κ(αι) κ(αι) διελευϲονται ε ε θαλαϲϲη ϲτενη · και παταξουϲιν εν θαλαϲϲη κυμα τα · και ξηρανθη ϲεται παντα τα βα θη ποταμων · κ(αι) αφερεθηϲεται πα ϲα ϋβριϲ · και ϲκηπτον ϲκηπρτον ϲκηπτρον αιγυ πτου περειερεθη ϲεται ·",
+          "translation": "\"He will pass through the sea of troubles and strike the waves of the sea; all the depths of the Nile will dry up. The pride of Assyria will be laid low, and the scepter of Egypt will depart.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και κατʼεϲχυ ϲω κατʼειϲχυϲω κατʼϊϲχυϲω αυτουϲ εν κω κω θω αυτων · και ε τω ονοματι αυ του κατακαυχη ϲονται λεγει κϲ ·",
+          "translation": "\"I will strengthen them in the Lord, and they will walk in his name,\" declares the Lord.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "διανοιξον ο λιβα νοϲ ταϲ θυραϲ ϲου · και καταφαγετω πυρ ταϲ κεδρουϲ ϲου ·",
+          "translation": "Open your doors, O Lebanon, that fire may devour your cedars!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ολολυξατω πιτουϲ πιτυϲ · διοτι πε πτωκεν κεδροϲ · οτι μεγαλωϲ με γειϲτανεϲ εταλε πωρηϲαν εταλαιπωρηϲαν · ολο λυξατε δρυεϲ τηϲ βαϲανιτιδοϲ βαϲανιτιδρϲ · οτι κατεϲπαϲθη ο δρυ μοϲ ο ϲυμφυτοϲ",
+          "translation": "Wail, O cypress, for the cedar has fallen, for the glorious trees are ruined! Wail, oaks of Bashan, for the dense forest has been felled!",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "φωνη θρηνο υ των ποιμεν ω · οτι τεταλεπωρη κεν η μεγαλοϲυ νη μεγαλωϲυνη αυτων · φωνη ορυομενων λε οντων · οτι τετα λεπωρηκεν το φρυαγμα του ϊορ δανου ˙",
+          "translation": "The sound of the wail of shepherds, for their glory is ruined! The sound of the roar of lions, for the thicket of the Jordan is ruined!",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ταδε λεγει κϲ κϲ π α τοκρατωρ π α τοκρατωρ · ποιμε νετε τα προβατα τηϲ ϲφαγηϲ ·",
+          "translation": "Thus says the Lord my God: \"Become shepherd of the flock doomed to slaughter.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "α οι κτηϲαμενοι κα τεϲφαζον · και ου μετεμελοντο · και οι πωλουν τεϲ αυτα ελεγ ο αυτον λεγ ο αυτα ελεγ ο · ευλογητοϲ κϲ κϲ κ(αι) πεπλουτηκαμ ε πεπλουτηκαμ ε · και οι ποιμενεϲ αυτων . ουκ επαϲχ ο ουδεν επ αυτοιϲ ·",
+          "translation": "\"Those who buy them slaughter them and go unpunished. Those who sell them say, 'Blessed be the Lord, I am rich.' Their own shepherds have no pity on them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "δια τουτο ου φιϲο μαι ουκετι επι τουϲ κατοικουνταϲ την γην · λεγει κϲ : και ειδου ϊδου ϊδου εγω πα ραδιδωμι τουϲ ανθρωπουϲ · εκα ϲτον ειϲ χιραϲ χειραϲ του πληϲιον αυτου · και ειϲ χιραϲ χειραϲ βαϲι λεωϲ αυτου · και κατακοψουϲιν την γην · και ου μη εξελωμαι εκ χειροϲ αυτων ˙",
+          "translation": "\"For I will no longer have pity on the inhabitants of the land,\" declares the Lord. \"I will cause each of them to fall into the hand of his neighbor and into the hand of his king. They will crush the land, and I will deliver none from their hand.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ποιμανω τα προ βατα τηϲ το βατον ϲ τα προβατα τηϲ ϲφαγηϲ ειϲ γην την γην χανανει τιν · και ληψομαι λημψομαι εμαυτω δυο ρα βδουϲ · την μιαν εκαλεϲα · καλλοϲ · και την ετεραν . ε καλεϲα ϲχοινιϲ μα ˙ και ποιμανω τα προβατα μου",
+          "translation": "So I became the shepherd of the flock doomed to slaughter, especially the afflicted of the flock. I took two staffs — one I called Favor, the other I called Union — and I shepherded the flock.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και εξα ρω τουϲ τριϲ τρειϲ ποι μεναϲ · εν μηνι ενι · και βαρυνθη ϲεται η ψυχη μου επ αυτουϲ · και γαρ ε χιρεϲ αι χιρεϲ αι ψυχαι αι ψυχαι αι χειρεϲ αυτων ε πορυοντο επ εμε ·",
+          "translation": "In one month I got rid of the three shepherds. But I grew impatient with them, and they also detested me.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και ειπα · ου ποιμα νω ϋμαϲ · το απο θνηϲκον · αποθνη ϲκετω · και το εκ λιπον . εκλιπετω · και τα λοιπα κατε ϲθιετωϲαν . εκα ϲτοϲ ταϲ ϲαρκαϲ του πληϲιον αυτου ·",
+          "translation": "I said, \"I will not be your shepherd. What is to die, let it die; what is to be destroyed, let it be destroyed; and let those who are left devour one another's flesh.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και λημψομαι τ η τ η ραβδον μου την καλην · και απορι ψω αυτην · του δι αϲκεδαϲε διαϲκεδαϲαι διαϲκεδαϲαι την δι αθηκην μου · ην διεθεμην προϲ πανταϲ τουϲ λαουϲ ·",
+          "translation": "I took my staff Favor and broke it, annulling the covenant that I had made with all the peoples.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και διαϲκεδαϲθη ϲεται εν τη ημε ρα εκινη εκεινη · και γνω ϲοντε γνωϲονται γνωϲονται οι χανανε οι · τα προβατα τα φυ λαϲϲομενα μοι · διοτι λογοϲ κυ εϲτ ι εϲτ ι ·",
+          "translation": "It was annulled on that day, and the afflicted of the flock, who were watching me, knew that it was the word of the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ερω προϲ αυτουϲ · ει καλον κολον ενωπι ον ϋμων εϲτιν · δοτε τον μιϲθ ο μου · η απιπαϲθε απιπαϲθαι απιπαϲθε · και εϲτηϲαν τον μιϲθον μου · τρι ακοντα αργυρουϲ ·",
+          "translation": "I said to them, \"If it seems good to you, give me my wages; but if not, keep them.\" And they weighed out thirty pieces of silver as my wages.",
+          "footnotes": [
+            {
+              "id": "zechariah-11-12-interpretation",
+              "text": "Thirty pieces of silver is later referenced in Matthew 26:15 as Judas's betrayal price.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "original": "και ειπεν κϲ κϲ προϲ με · καταθεϲ καθεϲ καθεϲ αυτουϲ ειϲ το χωνευτη ριον · και ϲκεψομε ϲκεψε ϲκεψαι · ει δοκιμον δοκιμιον δοκιμον εϲτ ι · ον τροπον εδο κιμαϲθην ϋπερ αυτων · και ελαβον τουϲ τριακοντα αργυ ρουϲ · και ενεβα λον αυτουϲ ειϲ τ ο οικον κυ ειϲ το χωνευτηριον ·",
+          "translation": "The Lord said to me, \"Throw it to the potter — that magnificent price at which they valued me!\" So I took the thirty pieces of silver and threw them to the potter in the house of the Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "κ(αι) απεριψα την ραβδ ο την δευτεραν το ϲχοινιϲμα του ωϲτε του διαϲκεδαϲε διαϲκεδαϲαι την καταϲχεϲιν διαθηκην ανα μεϲον ϊουδα ˙ και ανα μεϲον ι ϲ λ ι ϲλ · >",
+          "translation": "Then I broke my second staff Union, annulling the brotherhood between Judah and Israel.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ειπεν κϲ κϲ προϲ με ετι λαβε ϲεαυ τω ϲκευη ποιμε νικα · ποιμενοϲ απιρου απειρου ·",
+          "translation": "The Lord said to me, \"Take again the equipment of a foolish shepherd.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "διοτι ειδου ϊδου ϊδου εγω εξεγιρω ποιμε να απιρον επι την γην ˙ το εκλιμπανον εκλιπον εκλειπον ου μη επιϲκεψη τε επιϲτεψητε επιϲκεψηται · και το εϲκορπιϲ μενον . ου μη ζη τηϲη επιϲκ̣εψηται · και το ϲυν τετριμμενον ου μη ϊαϲηται · και το ολοκληρον · ου μη κατευθυνη · και τα κρεα των εκλε κτων καταφαγε ται · και τουϲ αϲτρα γαλουϲ αυτων εκϲτρεψει ·",
+          "translation": "\"For I am raising up a shepherd in the land who will not care for those who are perishing, nor seek the scattered, nor heal the maimed, nor nourish the healthy, but will eat the flesh of the fat and tear off their hoofs.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ω οι ποιμενοντεϲ τα ματεα ματαια ματαια · και κατα λελοιποτεϲ τα προ βατα · μαχερα επι τουϲ βραχιοναϲ αυ του · και επι τον ο φθαλμον τον δε ξιον αυτου · ο βρα χιων αυτου · ξηρε νομενοϲ ξηραινομενοϲ ξηραν θηϲεται · και οφθαλ μοϲ ο δεξιοϲ αυτου · εκτυφλουμενοϲ εκτυφλουμενοϲ εκτυφλωθηϲε ται ·",
+          "translation": "\"Woe to my worthless shepherd who deserts the flock! May the sword strike his arm and his right eye! May his arm wither completely, and his right eye be utterly blinded!\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "λημμα λογου κυ · επι τον ϊ ϲλ ϊ ϲλ λεγι λεγει κϲ κϲ · εκτινων εκτεινων ου ρανον · και θεμε λιων γην · και πλαϲ ϲων πλαϲϲων π ν α ανο υ π να ανο υ εν αυτω ·",
+          "translation": "An oracle. The word of the Lord concerning Israel. Thus declares the Lord who stretched out the heavens and founded the earth and formed the spirit of man within him:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ϊδου εγω τιθημι επιτιθημι την ϊ ημ ϊημ · ωϲ προθυρα ϲαλευ ομενα · παϲι τοιϲ λαοιϲ κυκλω · και εν τη ι ουδεα εϲτε εϲται περιοχη επι ϊ ημ ϊημ ·",
+          "translation": "\"I am about to make Jerusalem a cup of staggering to all the surrounding peoples. Judah will be besieged, as well as Jerusalem.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εϲτε εϲται εν τη ημερα εκινη θη ϲομε εκεινη · θηϲομαι την ϊ ημ ϊημ λιθον καταπατου μενον · παϲι τοιϲ εθνεϲιν · παϲ ο καταπατων αυ την · ενπεζων ενπαιζων εμπεξεται εμπαιξεται · και επιϲυναχθηϲε ται επ αυτην παν τα τα εθνη τηϲ γηϲ :",
+          "translation": "\"On that day I will make Jerusalem a heavy stone for all the peoples. All who lift it will hurt themselves. And all the nations of the earth will gather against it.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "εν τη ηρερα ημερα ημερα εκινη εκεινη λεγει κϲ παντοκρα τωρʼ · παταξω παν τα ϊππον εν εκϲτα ϲι εκϲταϲει · και τον αναβα την αυτου εν παρα φρονηϲι · επι δε τ ο τ ο οικον ι ουδα · δια νοιξω τουϲ οφθαλ μουϲ μου · και π α ταϲ τουϲ ϊππουϲ του λαου των λαων των λαων καταξω παταξω παταξω εν αποτυφλωϲι αποτυφλωϲει ·",
+          "translation": "\"On that day,\" declares the Lord, \"I will strike every horse with panic and its rider with madness. But I will watch over the house of Judah, while I strike every horse of the peoples with blindness.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ερουϲιν οι χιλι αρχοι ϊουδα ˙ εν τεϲ ταιϲ ταιϲ καρδιαιϲ αυτων . ευρηϲομαιν ευρηϲομεν ευρηϲομεν εαυ τοιϲ τουϲ κατοικο υ ταϲ κατοικο υ ταϲ ϊερουϲαλημʼ · εν κω παντοκρα τορι θω αυτων :",
+          "translation": "\"Then the clans of Judah will say in their hearts, 'The inhabitants of Jerusalem are my strength through the Lord Almighty, their God.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εν τη ημερα εκινη · θηϲομαι τουϲ χι λιαρχουϲ ϊουδα · ωϲ δαλον πυροϲ · εν ξυλοιϲ και ωϲ λαμπαδα πυροϲ εν καλαμη · και κατα φαγοντε εκ δεξι ων και εξ ευωνυ μων πανταϲ τουϲ λαουϲ κυκλοθ ε κυκλοθ ε . και κατοικηϲει την ϊημ ϊημ ετι καθ ε αυτην εν ϊερουϲα λημ",
+          "translation": "\"On that day I will make the clans of Judah like a fire pot among wood, like a flaming torch among sheaves. They will devour all the surrounding peoples on right and left, while Jerusalem remains in its place.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ϲωϲι κϲ τα ϲκηνωματα ϊ ουδα · καθωϲ απ αρ χηϲ · οπωϲ μη με γαλυνητε μεγαλυνηται καυχη μα οικου δαυειδʼ · και επαρϲιϲ των κατοικουντ ω ϊ ημ ϊ ημ επι τον ϊου· δαν ·",
+          "translation": "\"The Lord will save the tents of Judah first, so that the honor of the house of David and the honor of the inhabitants of Jerusalem may not be greater than that of Judah.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και εϲτε εϲται εν τη ημερα εκινη εκεινη · ϋπεραϲπιει κϲ ϋ περ των κατοικο υ των ϊερουϲαλ η ϊερουϲαλημ ϊερουϲαλημʼ · και εϲτε εϲται ο αϲθε νων εν αυτοιϲ · εν εκινη εκεινη τη ημε ρα · ωϲ δ αδ ʼ δαδ ʼ ˙ ο δε οι κοϲ δα δ ˙ ωϲ οικοϲ θυ θυ · ωϲ αγγελοϲ κυ κυ ενωπιον αυτ ω αυτ ω :",
+          "translation": "\"On that day the Lord will protect the inhabitants of Jerusalem, so that the weakest among them on that day will be like David, and the house of David will be like God, like the angel of the Lord before them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και εϲτε εϲται εν τη η μερα εκινη εκεινη · ζη τηϲω εξαρε εξαραι παν τα τα εθνη · τα ερχο μενα επι ϊ ημ ϊημ ·",
+          "translation": "\"On that day I will seek to destroy all the nations that come against Jerusalem.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και εκχεω επι τον οικον δαδ ϊημ · και ε πι τουϲ κατοικο υ ταϲ κατοικο υ ταϲ ϊ ημ · π ν α ϊ ημ · π να χα ριτοϲ και οικτρι μου · και επιβλε ψοντε επιβλεψονται προϲ με . ανθ ων κατωρ χηϲαντο · και οψ ο ται κοψ ο ται επ αυτον αυτου αυτον κο πετον · ωϲ επʼ αγα πητω · και οδυνη θηϲοντε οδυνηθηϲονται οδυνη · ωϲ επι τω πρω τοτοκω επι τω πρωτοτοκω :",
+          "translation": "\"I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and supplication. They will look on me whom they have pierced; they will mourn for him as one mourns for an only child, and weep bitterly over him as one weeps over a firstborn.\"",
+          "footnotes": [
+            {
+              "id": "zechariah-12-10-interpretation",
+              "text": "The piercing passage is quoted in John 19:37 as fulfilled in Christ's crucifixion.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "original": "εν τη ημερα εκι νη εκεινη · μεγαλυνθηϲεται ο κοπετοϲ εν ϊ ημ · ωϲ κοπε τοϲ ροωνοϲ ροωϲοϲ εν πεδιω εκκοπτο μενου εκκοκτομενου ·",
+          "translation": "\"On that day the mourning in Jerusalem will be as great as the mourning for Hadad-rimmon in the plain of Megiddo.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και κοψε τε κοψεται η γη κατα φυ· λαϲ · φυλη οικου δαδ καθ εαυτην · ︴ και ε αι αι γυνεκεϲ αυ των καθ εαυταϲ ˙ φυλη οικου να θαν καθ εαυτ η εαυτ η · και αι γυναικεϲ αυτων καθ αιαυ ταϲ εαυταϲ εαυταϲ ·",
+          "translation": "\"The land will mourn, each family by itself: the family of the house of David by itself, and their wives by themselves; the family of the house of Nathan by itself, and their wives by themselves;\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "φυλη οικου λευει [1 chars] καθ εαυτ η εαυτ η · και ε αι αι γυναικεϲ αυ των καθ εαυταϲ · φυλη του ϲυμε ω καθ εαυτην . και αι γυνεκεϲ αυτ ω καθ εαυταϲ ·",
+          "translation": "\"the family of the house of Levi by itself, and their wives by themselves; the family of the Shimeites by itself, and their wives by themselves;\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "παϲε ε παϲαι αι παϲαι αι ϋπολελιμ μαιναι φυλαι · φυ λη φυλη φυλη καθ εαυτην · και ε αι αι γυναικεϲ αυ των καθ εαυταϲ ·",
+          "translation": "\"and all the families that remain, each by itself, and their wives by themselves.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "εν τη ημερα εκι νη εκεινη . εϲτε εϲται παϲ το ποϲ διανοιγομε νοϲ · τω οικω ※ δαδ · και τοιϲ κα τοικουϲιν ※ ϊερου ϲαλημʼ ※ · ειϲ την ※ μετακινηϲιν κ(αι) ※ ειϲ τον χωριϲμ ο ραντιϲμον ραντιϲμον :",
+          "translation": "\"On that day there will be a fountain opened for the house of David and the inhabitants of Jerusalem, to cleanse them from sin and uncleanness.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και εϲτε εϲται εν τη ημε ρα εκινη εκεινη λεγει κϲ ϲαβαωθʼ · εξελεθρευ ϲω εξολεθρευϲω τα ονοματα των ϊδωλων α πο τηϲ γηϲ · και ου καιτι ουκετι ουκετι εϲτε εϲται αυτ ω μνια · και τουϲ ψευ δοφροφηταϲ ψευδοπροφηταϲ ψευδοπροφηταϲ · και το πν α πνα το ακαθαρ τον . εξαρω απο τηϲ γηϲ ·",
+          "translation": "\"On that day,\" declares the Lord Almighty, \"I will cut off the names of the idols from the land, so that they will be remembered no more. I will also remove the prophets and the unclean spirit from the land.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εϲτε εϲται εαν προφητευ ϲη ανοϲ ανοϲ ετι · και ερι ερει προϲ αυτον ο π η ρ πηρ αυτου · και η μ η ρ μηρ αυτου οι γεννηϲαντεϲ αυτον . ου ζηϲη . οτι ψευδη ελαλη ϲαϲ επ ονοματι κυ · και ϲυνποδι ουϲιν ϲυνποδιϲ̣ουϲιν ϲυνποδιουϲιν αυτον ο π η ρ αυτου · και η μ η ρ αυτου οι γεννη ϲαντεϲ αυτον . ε τω προφητευε ι αυτον ·",
+          "translation": "\"If anyone again prophesies, his father and mother who bore him will say to him, 'You will not live, for you speak lies in the name of the Lord.' His father and mother who bore him will pierce him through when he prophesies.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και εϲτε εϲται εν τη ημερα εκι νη εκεινη · κατεϲχυνθη ϲονται κατʼαιϲχυνθηϲονται οι προφη τε [1 chars] ροφ [1 chars] τε εκαϲτοϲ εκ τηϲ οραϲεωϲ αυτου · εν τω προφητευ ειν αυτον · και ε δυϲοντε ε δυϲοντε ε δυϲονται δερριν τριχηνην τριχινην τριχινην · ανθ ω εψευϲαντο ·",
+          "translation": "\"On that day every prophet will be ashamed of his vision when he prophesies; he will not put on a hairy cloak to deceive.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ερι ερει · ουκ ιμι ειμι προ φητηϲ εγω · διο τι ανθρωποϲ ερ γαζομενοϲ την γην εγω ειμι · οτι ανθρωποϲ εγεν νηϲεν με εκ νε οτητοϲ μου ·",
+          "translation": "\"He will say, 'I am no prophet; I am a tiller of the soil, for the land has been my occupation since my youth.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ερι ερει προϲ αυτον · τι αι πληγαι αυται ανα με ϲον των χιρων [1 chars] [1 chars] χειρων ϲου · και ερι ερει · αϲ επλη γην εν τω οικω τω αγαπητω μου :",
+          "translation": "\"If someone asks him, 'What are these wounds on your chest?' he will answer, 'Those with which I was wounded in the house of my friends.'\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ρομφαια · εξεγερθη τι επι τουϲ ποιμε ναϲ τον ποιμεναν μου · και επ αν δρα πολεμηϲτην μου πολιτην αυτου πολιτην μου · λεγει κϲ παν τοκρατωρ · παταξα τε παταξον τουϲ ποιμεναϲ τον ποιμενα τον ποιμενα και εκπαϲατε εκϲπαϲατε διαϲκορπιϲθητω διαϲκορπιϲθητωϲαν τα προβατα και επα ξω επιϲτρεψω την χιρα χειρα μου επι τουϲ μικρουϲ ποιμεναϲ τουϲ μικρουϲ μικρουϲ ποιμεναϲ τουϲ μικρουϲ",
+          "translation": "\"Awake, O sword, against my shepherd, against the man who stands next to me,\" declares the Lord Almighty. \"Strike the shepherd, and the sheep will be scattered; I will turn my hand against the little ones.\"",
+          "footnotes": [
+            {
+              "id": "zechariah-13-7-interpretation",
+              "text": "Jesus quotes this verse in Mark 14:27 regarding the scattering of his disciples.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "original": "και εϲτε εϲται εν παϲη τη γη [1 chars] εν τη ημερα εκεινη λεγει κϲ · τα δυο μερη αυτηϲ εξολεθρευθηϲε ται και εκλιψει · το δε τριτον ϋπολιφθη ϲεται εν αυτη ·",
+          "translation": "\"In the whole land,\" declares the Lord, \"two-thirds will be cut off and perish, and one-third will be left in it.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και διαξω το το τριτ ο τριτ ο δια πυροϲ · και πυ ρωϲω αυτουϲ · ωϲ πυρουτε πυρουται το αργυ ριον · και δοκιμω αυτουϲ · ωϲ δοκι μαζετε δοκιμαζεται το χρυϲι ο χρυϲι ο · αυτοϲ επικαλεϲετε επικαλεϲεται το το νομα το ονομα το ονομα το ονομα μου · κα γω επακουϲομαι αυτω · και ερω · λα οϲ μου ουτοϲ εϲτ ι εϲτ ι · και αυτοϲ ερι ερει · κϲ ο θϲ κϲ ο θϲ μου :",
+          "translation": "\"I will bring that third into the fire; I will refine them like silver and test them like gold. They will call on my name, and I will answer them. I will say, 'They are my people'; and they will say, 'The Lord is my God.'\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ημερε ημεραι ημεραι ερχον ται του κυ · και δια μεριϲθηϲονται διαμεριϲθηϲεται τα ϲκυλα ϲοιυ ϲου ϲου εν ϲοι ·",
+          "translation": "A day of the Lord is coming, when your plunder will be divided in your midst.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και επιϲυνα ξω παντα τα εθνη επι ϊ ημ ειϲ πολε μον · και αλωϲε τε αλωϲεται η πολιϲ · και δι αρπαγηϲονται αι οικιαι · και ε αι αι γυ νεκεϲ μολυν θηϲονται · και ε ξελευϲεται το η μιϲυ τηϲ πολεωϲ εν εχμαλωϲια αιχμαλωϲια αιχμαλωϲια ˙ οι δε κααλοιποι καταλοιποι του λαου μου . ου μη εξολεθρευθω ϲιν εκ τηϲ πολε ωϲ ·",
+          "translation": "I will gather all the nations against Jerusalem for battle. The city will be captured, the houses plundered, and the women raped. Half of the city will go into exile, but the rest of the people will not be cut off from the city.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εξελευϲε ται κϲ · και παρατα ξεται εν τοιϲ ε θνεϲιν εκινοιϲ εκεινοιϲ · καθωϲ ημερα πα ραταξεωϲ αυτου · εν ημαιρα ημερα ημερα πολε μου ·",
+          "translation": "Then the Lord will go out and fight against those nations, as he fights on a day of battle.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ϲτηϲον τε οι ποδεϲ αυτου εν τη ημερα εκι νη εκεινη . επι το οροϲ των ελεων · το κατεναντι ι ημ ι ημ εξ ανατολων · κ(αι) ϲχιϲθηϲεται το οροϲ των ελε ω · το ημιϲυ αυτου · προϲ ανατολαϲ και θαλαϲϲαν · χαοϲ μεγα ϲφοδρα ˙ και κλινι κλινει το ημι ϲυ του ορουϲ προϲ βορραν · και το η μιϲυ αυτων αυτου αυτου προϲ νοτον ·",
+          "translation": "On that day his feet will stand on the Mount of Olives, east of Jerusalem. The Mount of Olives will be split in two from east to west, forming a very great valley; half of the mountain will move northward and half southward.",
+          "footnotes": [
+            {
+              "id": "zechariah-14-4-culture",
+              "text": "The Mount of Olives splitting is an apocalyptic image of divine intervention.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "original": "και φρα χθηϲεται εν̣φραχθηϲεται φραχθηϲεται η φαρα̣ξ̣ κοιλαξ τ ω κοιλαξ τ ω ορεων μου · και ενκολληθηθη ϲεται ενκολληθηϲεται ενκολληθηϲεται ενκολληθηϲεται φαραξ φαραγξʼ ορε ων . εωϲ ϊαϲοδʼ ϊαϲοδʼ και ενφραχθη ϲεται καθωϲ ον τροπον ε νεφραγη εν ταιϲ ημεραιϲ απο προϲωπου του ϲειϲ μου · εν ημερεϲ ημεραιϲ ημεραιϲ οζιου βαϲιλεωϲ ϊουδα · και ηξι ηξει κϲ ο θϲ μου · και π α τεϲ π α τεϲ οι αγιοι μετ αυ του ·",
+          "translation": "You will flee by the valley of my mountains, for the valley of the mountains will reach to Azal. You will flee as you fled from the earthquake in the days of Uzziah king of Judah. Then the Lord my God will come, and all the holy ones with him.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και εϲτε εϲται εν ε κινη εκεινη τη ημερα ˙ ουκ αιϲτε εϲται εϲται φωϲ και αλλα και ψυχη ψυχοϲ ψυχοϲ και πα γοϲ",
+          "translation": "On that day there will be no light — the glorious ones will be diminished.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εϲτε εϲται μιαν ημε ραν · και η ημερα εκινη · γνωϲτη τω κω κω και ουχ η μερα · και ου νυξʼ · και προϲ εϲπερ α · εϲτε εϲται φωϲ ·",
+          "translation": "It will be a unique day, known to the Lord — neither day nor night, but at evening time there will be light.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ε τη ημερα εκινη · εξελευϲετε εξελευϲεται ϋδωρ ζων εξ ϊερουϲα λημʼ · το ημιϲυ αυ του . ειϲ την θαλαϲ ϲαν την πρωτ η · και το ημιϲυ αυ του · ειϲ την θαλαϲ ϲαν την αιϲχατ η εϲχατ η . και εν θερι θερει · και εν εαρι αιϲ αιϲται εϲται ουτωϲ ·",
+          "translation": "On that day living waters will flow from Jerusalem, half to the eastern sea and half to the western sea. It will continue in summer and in winter.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και εϲτε εϲται εϲται κϲ ειϲ βα ϲιλαια βαϲιλεα βαϲιλεα · επι παϲαν την γην ˙ εν τη η μερα εκινη . εϲτε εκεινη . εϲται κϲ ειϲ . και το ονο μα αυτου εν ·",
+          "translation": "The Lord will be king over all the earth. On that day the Lord will be one and his name one.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "κυκλ ω κυκλο υ παϲαν την γην · και την ερημον α πο γαβε · ωϲ γαβεε · εωϲ ρεμμ ω κατα νοτον ϊ ημ ϊημ · ραμα δε επι τοπου μενι μενει απο τηϲ πυ ληϲ βνιαμειν βενιαμειν βενιαμειν · εωϲ του τοπου τηϲ πυληϲ τηϲ πρω τηϲ · εωϲ τηϲ πυ ληϲ των γωνι ω · και εωϲ του πυργου ανανεηλʼ · εωϲ τ ω ϋποληνιων του βαϲιλεωϲ ·",
+          "translation": "The whole land will be transformed like the Arabah, from Geba to Rimmon south of Jerusalem. Jerusalem will rise and be inhabited in its place, from the Gate of Benjamin to the place of the First Gate, to the Corner Gate, and from the Tower of Hananel to the king's winepresses.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "κ(αι) κατοι κηϲουϲιν εν αυ τη · και αναθεμα ουκ αιϲτε εϲται εϲται ετι · και κατοικηϲι ιημ ιημ [1 chars] ϊημ πεποιθοτωϲ ϊημ πεποιθοτοϲ ϊημ πεποιθοτωϲ",
+          "translation": "It will be inhabited, for there will never again be a decree of destruction. Jerusalem will dwell in security.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "[1 chars] κ(αι) αυτη εϲται η πτωϲιϲ ην κοψει κϲ πανταϲ τουϲ λαουϲ οϲοι επεϲτρατευϲαν επι ϊ λημ τακηϲονται αι ϲαρ κεϲ αυτων εϲτη κοτεϲ εϲτηκοτεν̣ εϲτηκοτων επι τουϲ ποδαϲ αυτων · και οι οφθαλμοι αυτων ρυηϲοντε ρυηϲονται εκ των οπῶν αυ των · και η γλωϲ ϲαʼ αυτων τακη ϲεται εν τω ϲτο ματι αυτων ·",
+          "translation": "This will be the plague with which the Lord will strike all the peoples who waged war against Jerusalem: their flesh will rot while they stand on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και εϲτε εϲται εϲται εν τη ημε ρα εκινη ˙ εϲταϲιϲ εκϲταϲιϲ κυ μεγαλη επ αυ τουϲ · και επιλημ ψοντε επιλημψονται εκαϲτοϲ τηϲ χιροϲ του πλη ϲιον αυτου · και ϲ υ πλακηϲετε ϲ υ πλακηϲεται η χειρ αυτου προϲ την χιρα χειρα του πληϲιον αυτου ·",
+          "translation": "On that day a great panic from the Lord will fall on them. They will seize one another's hands, and the hand of one will be raised against the hand of another.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ι ουδαϲ παραταϲξετε παραταξετε παραταξεται εν ϊερουϲαλημ · και ϲυναξι ϲυναξει την ϊχυν ϊϲχυν ϊϲχυν παντων των λα ων κυκλοθεν · χρυϲιον και αργυ ριον και ηματιϲ μον ϊματιϲμον ειϲ πληθοϲ ϲφοδρα ·",
+          "translation": "Even Judah will fight at Jerusalem. The wealth of all the surrounding nations will be collected — gold, silver, and garments in great abundance.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και αυτη εϲτε εϲται η πτωϲειϲ πτωϲιϲ των ϊππων · και των ημιονων · και των καμηλ ω . και των ονων . και παντων των κτηνων των ο των εν τεϲ ταιϲ ταιϲ παρεμ βολαιϲ εκιναιν εκιναιϲ εκειναιϲ κα τα την πτωϲιν ταυ την ·",
+          "translation": "A similar plague will strike the horses, mules, camels, donkeys, and all the animals in those camps.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και εϲτε εϲται οϲοι εαν καταλιφθω ϲιν εκ παντων των εθνων τ ω ελθοντων επι ϊ ερουϲαλημ · και α ναβηϲοντε αναβηϲονται κατ ε νιαυτον του προϲ κυνηϲαι τω βαϲι λει κω παντοκρα τορι · και του εορτα ζειν την εορτην τηϲ ϲκηνοπηγιαϲ ·",
+          "translation": "Then everyone who survives from all the nations that have attacked Jerusalem will go up year after year to worship the King, the Lord Almighty, and to celebrate the Feast of Tabernacles.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και εϲτε εϲται οϲοι εαν μη αναβωϲιν εκ παϲων των φυλων τηϲ γηϲ ειϲ ϊερουϲαλημʼ · του προϲκυνη ϲε προϲκυνηϲαι τω βαϲιλει κυ κω παντοκρατορι · και ουτοι εκινοιϲ εκεινοιϲ προϲτεθηϲον ται ·",
+          "translation": "If any of the peoples of the earth do not go up to Jerusalem to worship the King, the Lord Almighty, they will have no rain.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "εαν δε φυλη αιγυπτου μη α ναβη μηδε ελθη · και επι τουτουϲ εϲτε εϲται η πτωϲειϲ πτωϲιϲ · ην παταξι παταξει κϲ κϲ παν τα τα εθνη · οϲα εαν μη αναβη του εορταϲαι τ η εορτην τηϲ ϲκη νοπηγιαϲ ·",
+          "translation": "If the people of Egypt do not go up and come, then the rain will not fall on them. This will be the plague with which the Lord afflicts the nations that do not go up to celebrate the Feast of Tabernacles.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "αυτη εϲτε εϲται η αμαρτια αιγυπτου · και η α μαρτια παντ ω των αιθνων εθνων εθνων ˙ ο ϲα οϲ εαν μη αναβη του εορταϲαι την ε ορτην τηϲ ϲκη νοπηγιαϲ ·",
+          "translation": "This will be the punishment of Egypt and the punishment of all the nations that do not go up to celebrate the Feast of Tabernacles.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "εν τη ημερα εκινη εκεινη . εϲτε εϲται το επι τον χαλι νον τω ϊπʼπω του ϊπʼπου αγιον τω κω π α τοκρατορ π α τοκρατορι και εϲον τε εϲονται οι λεβηταιϲ εν τω οικω κυ · ωϲ φιαλαι προ προ ϲωπου του θυϲι αϲτηριου ·",
+          "translation": "On that day 'Holy to the Lord' will be inscribed on the bells of the horses, and the pots in the house of the Lord will be like the bowls before the altar.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και εϲτε εϲται παϲ λεβηϲ εν ϊ ερουϲαλημ · και εν τω ϊουδα · αγι οϲ τω κω παντο κρατορι · και ηξου ϲιν παντεϲ οι θυ ϲιαζονταιϲ θυϲιαζοντεϲ θυϲιαζοντεϲ · και λημψοντε λημψονται λημψονται εξ αυ των · και εψηϲου ϲιν εν αυτοιϲ · κ(αι) κ(αι) ουκ αιϲτε εϲτε εϲται χανα νεοϲ ετι εν τω οικω κυ παντο κρατοροϲ · εν τη ημερα εκινη εκεινη : ⌇﹏",
+          "translation": "Every pot in Jerusalem and Judah will be holy to the Lord Almighty, so that all who sacrifice may come and take them and boil meat in them. On that day there will no longer be a merchant in the house of the Lord Almighty.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "book": "2 Timothy",
+  "slug": "2-timothy",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "παυλοϲ αποϲτολοϲ χυ ιυ δια θελημα τοϲ θυ κατ επαγγε λιαϲ ζωηϲ τηϲ εν χω ιυ",
+          "translation": "Paul, an apostle of Christ Jesus by God's will, according to the promise of life that is in Christ Jesus,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "τιμοθεω α γαπητω τεκνω χαριϲ ελεοϲ ϊρηνη απο θυ πατροϲ και κυ ιυ χυ χυ ιυ του κυ η μων",
+          "translation": "to Timothy, my dearly loved son: grace, mercy, and peace from God the Father and Christ Jesus our Lord.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "χαριν εχω τω θω ω λατρευω απο προγονων εν κα θαρα ϲυνϊδηϲι ωϲ αδιαλειπτον εχω την περι ϲου μνι αν εν ταιϲ δεηϲε ϲιν μου νυκτοϲ κ(αι) ημεραϲ",
+          "translation": "I thank God, whom I serve with a clear conscience as my ancestors did, as I constantly remember you in my prayers night and day.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "επιποθ ω ϲε ι δειν μεμνημε νοϲ ϲου των δακρυ ων ϊνα χαραϲ πλη ρωθω",
+          "translation": "Remembering your tears, I long to see you so that I may be filled with joy.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ϋπομνηϲιν λαβ ω λαμβαν ω τηϲ εν ϲοι ανυπο κριτου πιϲτεωϲ ητιϲ ενωκηϲεν πρωτον εν τη μαμμη ϲου λωϊδι και τη μητρι ϲου ευ νικη πεπιϲμαι δε οτι και εν ϲοι ·",
+          "translation": "I recall your sincere faith, which first lived in your grandmother Lois and your mother Eunice, and I'm convinced that it also lives in you.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "δι ην αιτιαν ανα μιμνηϲκω ϲε α ναζωπυρειν το θελημα χαριϲμα του θυ ο ε ϲτιν εν ϲοι δια τηϲ επιθεϲεωϲ των χιρων μου",
+          "translation": "That's why I'm reminding you to fan into flame the gift of God that is in you through the laying on of my hands.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ου γαρ εδωκεν ημ ι ο θϲ π ν α δειλιαϲ αλλα δυναμεωϲ και αγαπηϲ και ϲω φρονιϲμου",
+          "translation": "For God hasn't given us a spirit of fear, but of power, love, and sound judgment.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "μη ουν επεϲχυν θηϲ το μαρτυριον του κυ ημων μηδε εμε τ ο δεϲμιον αυτου αλ λα ϲυνκακοπαθη ϲον τω ευαγγελι ω κατα δυναμιν θυ",
+          "translation": "So don't be ashamed of the testimony of our Lord, or of me His prisoner. Instead, join with me in suffering for the gospel, by the power of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "του ϲωϲαντοϲ ημαϲ και καλεϲαν τοϲ κληϲει αγια ου κατα τα εργα ημων αλλα κατα ϊδιαν προ θεϲιν και χαριν τ η δοθιϲαν ημιν εν χω ιυ προ χρονων αιωνιαν αιωνιων",
+          "translation": "He has saved us and called us with a holy calling — not because of our works, but because of His own purpose and grace, which was given to us in Christ Jesus before time began.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "φανερω θειϲαν δε νυν δι α τηϲ επιφανειαϲ του ϲ ρ ϲ ημων χυ ιυ ιυ χυ καταργηϲαντοϲ μεν τον θανατ ο φωτιϲαντοϲ δε ζωην και αφθαρϲι αν δια του ευαγγε λιου",
+          "translation": "But it has now been revealed through the appearing of our Savior Christ Jesus, who has abolished death and brought life and immortality to light through the gospel.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ειϲ ο ετεθην εγω κηρυξ και απο ϲτολοϲ και διδαϲκα λοϲ εθνων",
+          "translation": "For this gospel I was appointed a herald, an apostle, and a teacher of the Gentiles.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "δι ην αιτιαν κ(αι) ταυτα παϲχω αλλ ουκ επαιϲχυνο μαι οιδα γαρ ω πε πιϲτευκα και πε πιϲμαι οτι δυνα εϲτιν την πα ραθηκην μου φυ λαξαι ειϲ εκινην την ημεραν",
+          "translation": "That's why I'm suffering these things. But I'm not ashamed, because I know whom I've believed, and I'm convinced that He's able to guard what I've entrusted to Him until that day.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ϋποτυπωϲιν εχε ϋγιαινοντων λο γων ων παρ εμου ηκουϲαϲ εν πιϲτει και αγαπη τη εν χω ιυ ˙",
+          "translation": "Hold on to the pattern of sound words that you've heard from me, in the faith and love that are in Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "την καλην παρα θηκην φυλαξον δια π ν ϲ αγιου του ενοικουντοϲ ε ν ημιν",
+          "translation": "Guard the good deposit through the Holy Spirit who lives in us.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "οιδαϲ τουτο οτι απε ϲτραφηϲαν με παντεϲ οι εν τη αϲια ων εϲτιν φυ γελοϲ και ερμογε νηϲ",
+          "translation": "You know that everyone in Asia has deserted me — including Phygelus and Hermogenes.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "δωη ελεοϲ ο κϲ τω ονηϲιφορου οι κω οτι πολλακιϲ με ανεψυξεν και την αλυϲιν μου ου κ επηϲχυνθη επαιϲχυνθη επηϲχυνθη",
+          "translation": "May the Lord grant mercy to the household of Onesiphorus, because he often refreshed me and wasn't ashamed of my chains.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "αλ λα γενομενοϲ εν ρωμη ϲπουδαιωϲ εζητηϲεν με και ευ ρεν",
+          "translation": "Instead, when he arrived in Rome, he searched for me diligently and found me.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "δωη αυτω ο κϲ ευρειν ελεοϲ παρα κυ εν εκεινη τη η μερα και οϲα εν ε φεϲω διηκονηϲ ε βελτιον ϲυ γινω ϲκειϲ",
+          "translation": "May the Lord grant that he finds mercy from the Lord on that day. And you know very well how much he served me in Ephesus.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ϲυ ουν τεκνον μου ενδυναμου εν τη χαριτι τη εν χω ιυ",
+          "translation": "So you, my son, be strong in the grace that is in Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και α ηκουϲαϲ πα ρ εμου δια πολλων μαρτυρων ταυτα παραθου πιϲτοιϲ ανθρωποιϲ οιτινεϲ ι κανοι εϲονται και ετερουϲ διδαξαι",
+          "translation": "And what you've heard from me in the presence of many witnesses, entrust to faithful people who will be able to teach others also.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ϲυγκακοπαθηϲον ωϲ καλοϲ ϲτρατιω τηϲ χυ ιυ",
+          "translation": "Share in suffering as a good soldier of Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ουδειϲ ϲτρα τευομενοϲ εμπλε κετε ταιϲ του βιου πραγματιαιϲ ϊνα τω ϲτρατολογηϲ α τι αρεϲη",
+          "translation": "No one serving as a soldier gets entangled in the affairs of daily life, so that he may please the one who enlisted him.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "εαν δε και αθλη τιϲ ου ϲτεφα νουται εαν μη νο μιμωϲ αθληϲη",
+          "translation": "Also, if anyone competes as an athlete, he doesn't receive the victor's crown unless he competes according to the rules.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "τον κοπιωντα γεωρ γον δει πρωοτερ ο προτερ ο προτερ ο πρωτον των καρπων μετα λαμβανιν",
+          "translation": "The hardworking farmer should be the first to get a share of the crop.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "νοει ο α λεγω δωϲει γαρ ϲοι ο κϲ ϲυνεϲιν εν πα ϲιν ·",
+          "translation": "Think about what I'm saying, because the Lord will give you understanding in everything.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "μνημονευε ιν χν εγηγερμενον εκ νεκρων · εκ ϲπερ ματοϲ δ α δ κατα το ευαγγελιον μου",
+          "translation": "Remember Jesus Christ, raised from the dead, descended from David, according to my gospel.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "εν ω κακοπαθω μεχρι δεϲμων ωϲ κακουργοϲ αλλα ο λογοϲ του θυ ου δεδε ται ·",
+          "translation": "For this gospel I suffer, even to the point of being chained like a criminal. But God's word isn't chained.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "δια τουτο παντα ϋπο μενω δια τουϲ εκ λεκτουϲ ι να και αυ τοι ϲωτηριαϲ τυχω ϲιν εν χω ιυ μετα δοξηϲ αιω νιου",
+          "translation": "That's why I endure everything for the sake of the elect, so that they too may obtain salvation in Christ Jesus, with eternal glory.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "πιϲτοϲ ο λογοϲ ει γαρ ϲυναπεθανο μεν και ϲυνζηϲο μεν",
+          "translation": "This saying is trustworthy: If we died with Him, we'll also live with Him;",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ει ϋπομενο μεν και ϲυνβαϲι λευϲομεν ει αρνη ϲομεθα αρνουμεθα κακεινοϲ αρνηϲεται ημαϲ",
+          "translation": "if we endure, we'll also reign with Him; if we deny Him, He'll also deny us;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ει απιϲτουμεν εκι νοϲ πιϲτοϲ μενει αρνηϲαϲθαι γαρ ε αυτον ου δυναται",
+          "translation": "if we're faithless, He remains faithful — for He can't deny Himself.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ταυτα ϋπομιμνη ϲκε διαμαρτυρο μενοϲ ενωπιον του θυ μη λογομα χειν επ ειϲ ουδεν χρη ϲιμον επι καταϲτρο φη των ακουον των",
+          "translation": "Keep reminding them of these things, charging them before God not to argue about words, which does no good and only ruins those who listen.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ϲπουδαϲον ϲεαυτ ο δοκιμον παραϲτη ϲαι τω θω εργατ η ανεπεϲχυντον ορθοτομουντα τ ο λογον τηϲ αληθει αϲ",
+          "translation": "Make every effort to present yourself approved to God, a worker who has no need to be ashamed, correctly handling the word of truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ταϲ δε βεβηλουϲ κε νοφωνιαϲ περι ι ϲταϲο επι πλειον γαρ προκοψουϲιν αϲεβειαϲ",
+          "translation": "But avoid godless, empty talk, because it will lead people into more and more ungodliness.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και ο λο γοϲ αυτων ωϲ γαγ γραινα νομην εξι ων εϲτιν ϋμεναι οϲ και φιλητοϲ",
+          "translation": "Their message will spread like gangrene. Among them are Hymenaeus and Philetus,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "οι τινεϲ περι την αλη θιαν ηϲτοχηϲαν λεγοντεϲ αναϲτα ϲιν ηδη γεγονε ναι και ανατρεπου ϲιν την πιϲτιν τ η τ η πιϲτιν τινων",
+          "translation": "who have missed the mark concerning the truth, saying that the resurrection has already happened, and they're undermining some people's faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ο μεντοι ϲτερεοϲ θεμελιοϲ του κυ θυ εϲτηκεν εχων την ϲφραγιδα ταυ την εγνω κϲ πανταϲ τουϲ ονταϲ αυτου και αποϲτητω α πο αδικιαϲ παϲ ο ονομαζων το ο νομα κυ",
+          "translation": "Nevertheless, God's solid foundation stands firm, sealed with this inscription: \"The Lord knows those who are His,\" and \"Everyone who names the name of the Lord must turn away from unrighteousness.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "εν μεγαλη δε οικι α ουκ εϲτιν μον ο ϲκευη χρυϲα και αργυρα αλλα και ξυ λινα και οϲτρακι να και α μεν ειϲ τι μην α δε ειϲ ατι μιαν",
+          "translation": "In a large house there aren't only gold and silver vessels, but also wooden and clay ones — some for special use, some for ordinary use.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "εαν ουν τιϲ εκκα θαρη εαυτον απο τουτων εϲται ϲκευοϲ ειϲ τιμην ηγιαϲμενον κ(αι) ευ χρηϲτον τω δεϲπο τη ειϲ παν εργον α γαθον ητοιμαϲμε νον",
+          "translation": "So if someone cleanses himself from these things, he'll be a vessel for honorable use, set apart, useful to the Master, prepared for every good work.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ταϲ δε νεωτερικαϲ επιθυμιαϲ φευγε διωκε δε δικαιο ϲυνην · πιϲτιν · αγαπην ειρηνην μετα των επικα λουμενων τον κν εκ καθαραϲ καρ διαϲ",
+          "translation": "Flee from youthful passions, and pursue righteousness, faith, love, and peace, along with those who call on the Lord from a pure heart.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "ταϲ δε μωραϲ και α πεδευτουϲ παραιτου ειδωϲ οτι γεννωϲι μα χαϲ",
+          "translation": "But avoid foolish and ignorant arguments, knowing that they breed quarrels.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "δουλον δε κυ ου δει μαχεϲθαι αλλα ηπιον ειναι προϲ πανταϲ · διδακτικον ανε ξικακον",
+          "translation": "The Lord's servant must not be quarrelsome, but must be kind to everyone, able to teach, and patient,",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "εν πρα ϋτητι πεδευοντα τουϲ αντιδιατιθε μενουϲ μηποτε δωη δω αυτοιϲ ο θϲ μετανοιαν ειϲ επιγνωϲιν α ληθειαϲ",
+          "translation": "instructing his opponents with gentleness. Perhaps God will grant them repentance, leading to the knowledge of the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "και ανανη ψωϲιν εκ τηϲ του διαβολου παγιδοϲ εζωγρημενοι ϋ π αυτου ειϲ το εκει νου θελημα ·",
+          "translation": "Then they may come to their senses and escape the devil's trap, having been captured by him to do his will.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "τουτο δε γινωϲκε οτι εν εϲχαταιϲ η μεραιϲ ενϲτηϲ ο ται καιροι χαλεποι",
+          "translation": "But know this: in the last days, difficult times will come.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "εϲονται γαρ ανθρω ποι φιλαυτοι φι λαργυροι · αλαζο νεϲ · ϋπερηφανοι βλαϲφημοι · γονευ ϲιν απιθειϲ · αχαριϲτοι ανοϲιοι",
+          "translation": "For people will be lovers of themselves, lovers of money, boastful, arrogant, blasphemers, disobedient to parents, ungrateful, unholy,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "αϲπονδοι διαβολοι ακρατειϲ ανημεροι αφιλαγαθοι",
+          "translation": "unloving, unforgiving, slanderous, without self-control, brutal, not lovers of good,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "προδοται προπετειϲ τετυφωμενοι φιληδονοι μαλλ ο η φιλοθεοι",
+          "translation": "traitors, reckless, conceited, loving pleasure rather than loving God.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "εχον τεϲ μορφωϲιν ευ ϲεβιαϲ την δε δυνα μιν αυτηϲ ηρνη μενοι και τουτουϲ αποτρεπου",
+          "translation": "They'll hold to the form of godliness but deny its power. Turn away from such people.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εκ τουτων γαρ ειϲιν οι ενδυνοντεϲ ειϲ ︴ ταϲ οικιαϲ και αιχ μαλωτιζοντεϲ γυ ναικαρια ϲεϲωρευ μενα αμαρτιαιϲ αγομενα επιθυμι αιϲ ποικιλαιϲ",
+          "translation": "For among them are those who worm their way into homes and capture vulnerable women weighed down with sins, led astray by all kinds of desires,",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "παν τοτε μανθανοντα και μηδεποτε ειϲ επιγνωϲιν αλη θιαϲ ελθειν δυνα μενα",
+          "translation": "always learning but never able to come to the knowledge of the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ον τροπον δε ϊαν νηϲ και ϊαμβρηϲ α τεϲτηϲαν μωυϲει ουτωϲ και ουτοι ανθιϲτανται τη α ληθεια ανθρωποι κατεφθαρμενοι τον νουν αδοκι μοι περι την πιϲτ ι",
+          "translation": "Just as Jannes and Jambres opposed Moses, so these people also oppose the truth — people with corrupted minds, disqualified regarding the faith.",
+          "footnotes": [
+            {
+              "id": "2-timothy-3-8-cultural-context",
+              "text": "Jannes and Jambres were the traditional names given to Pharaoh's magicians in Exodus (extra-biblical Jewish tradition).",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "αλλ ου προκοψουϲ ι επι πλειον η γαρ α νοια αυτων εκδη λοϲ εϲται παϲιν ωϲ και η εκινων ε γενετο",
+          "translation": "But they won't get very far, because their foolishness will be obvious to everyone, just as it was with those two.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ϲυ δε παρηκολουθη ϲαϲ μου τη διδαϲκα λια · τη αγωγη · τη προθεϲει · τη πιϲτι τη μακροθυμια τη αγαπη · τη υ πο μονη ·",
+          "translation": "But you've followed my teaching, conduct, purpose, faith, patience, love, endurance,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "τοιϲ διωγ μοιϲ · τοιϲ παθημα ϲιν οια μοι εγενετο ε ν αντιοχια εν ει κονιω εν λυϲτροιϲ οιουϲ διωγμουϲ ϋ πηνεγκα και εκ παντων με ερρυ ϲατο ο κϲ",
+          "translation": "persecutions, and sufferings — the kind that happened to me in Antioch, Iconium, and Lystra — the persecutions I endured! And the Lord rescued me from all of them.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και παντεϲ δε οι θε λοντεϲ ζην ευϲε βωϲ εν χω ιυ διω χθηϲονται ·",
+          "translation": "In fact, everyone who wants to live a godly life in Christ Jesus will be persecuted.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "πονη ροι δε ανθρωποι κ(αι) γοητεϲ προκοψουϲ ι προκοψουϲ ι επι το χειρον πλα νωντεϲ και πλα νωμενοι ·",
+          "translation": "Evil people and impostors will go from bad to worse, deceiving and being deceived.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ϲυ δε μενε εν οιϲ ε μαθεϲ και επιϲτω θηϲ ειδωϲ παρα τι νων εμαθεϲ",
+          "translation": "But you, continue in what you've learned and firmly believed, knowing who you learned it from,",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και οτι απο βρεφουϲ ϊερα γραμματα οι δαϲ τα δυναμενα ϲε ϲοφιϲαι ειϲ ϲω τηριαν δια πιϲτε ωϲ τηϲ εν χω ιυ",
+          "translation": "and that from childhood you've known the sacred Scriptures, which are able to give you wisdom for salvation through faith in Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "παϲα γραφη θεο πνευϲτοϲ και ω φελιμοϲ προϲ δι δαϲκαλιαν · προϲ ε λεγμον ˙ προϲ επα νορθωϲιν · προϲ παιδιαν την εν δικαιοϲυνη",
+          "translation": "All Scripture is inspired by God and is profitable for teaching, for rebuke, for correction, and for training in righteousness,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ϊνα αρτιοϲ η ο του θυ ανθρωποϲ προϲ παν εργον αγαθ ο εξηρτιϲμενοϲ",
+          "translation": "so that the man of God may be complete, thoroughly equipped for every good work.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "διαμαρτυρομαι ε νωπιον του θυ και χυ ιυ του μελ λοντοϲ κρινιν ζ ω ταϲ και νεκρουϲ και κατα την επιφανει αν αυτου και την βαϲιλειαν αυτου",
+          "translation": "I solemnly charge you before God and Christ Jesus, who is going to judge the living and the dead, and by His appearing and His kingdom:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "κηρυξον τον λογ ο επιϲτηθι ευκαι ρωϲ ακαιρωϲ ελεγ ξον · παρακαλεϲ ο επιτιμηϲον επιτιμηϲον παρακαλεϲ ο εν μαϲη μακροθυμι α και διδαχη",
+          "translation": "preach the word; be ready in season and out of season; rebuke, correct, and encourage with great patience and teaching.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "εϲται γαρ καιροϲ οτε τηϲ ϋγιαινουϲηϲ διδαϲκαλιαϲ ουκ α νεξονται αλλα κα τα ταϲ ϊδιαϲ επιθυ μιαϲ εαυτοιϲ επι ϲωρευϲουϲιν δι δαϲκαλουϲ κνηθο μενοι την ακοην",
+          "translation": "For the time will come when people won't put up with sound teaching, but will accumulate teachers for themselves who say what their itching ears want to hear.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και απο μεν τηϲ α ληθιαϲ την ακο η αποϲτρεψουϲιν ε πι δε τουϲ μυθουϲ εκτραπηϲονται",
+          "translation": "They'll turn away from hearing the truth and turn aside to myths.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ϲυ δε νηφε εν παϲ ι παϲιν κακοπαθηϲ ο εργον ποιηϲον ευ αγγελιϲτου · την δι ακονιαν ϲου πλη ροφορηϲον",
+          "translation": "But you, keep a clear head in everything, endure suffering, do the work of an evangelist, and fulfill your ministry.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εγω γαρ ηδη ϲπενδο μαι και ο καιροϲ τηϲ αναλυϲεωϲ μου ε φεϲτηκεν ·",
+          "translation": "For I'm already being poured out as a drink offering, and the time of my departure has come.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "τον κα λον αγωνα ηγω νιϲμαι · τον δρομ ο τετελεκα · την πιϲτ ι τετηρηκα",
+          "translation": "I've fought the good fight, I've finished the race, I've kept the faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "λοιπον αποκειται μοι ο τηϲ δικαιοϲυνηϲ ϲτε φανοϲ ον αποδω ϲει μοι ο κϲ εν εκι τη ημερα ο δικ(αι) οϲ κριτηϲ ου μον ο δε εμοι αλλα και πα ϲι παϲιν τοιϲ ηγαπηκοϲιν την επιφανει αν αυτου",
+          "translation": "From now on, the crown of righteousness is reserved for me, which the Lord, the righteous Judge, will give me on that day — and not only to me, but to everyone who has longed for His appearing.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ϲπουδαϲον ελθιν προϲ με ταχεωϲ",
+          "translation": "Do your best to come to me quickly.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "δημαϲ γαρ με εγκα τελιπεν αγαπηϲαϲ τον νυν αιωνα και επορευθη ειϲ θεϲ ϲαλονικην κρηϲκηϲ ειϲ γαλλιαν · τιτοϲ ειϲ δαλματιαν",
+          "translation": "For Demas has deserted me, having loved this present world, and has gone to Thessalonica. Crescens has gone to Galatia, Titus to Dalmatia.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "λου καϲ εϲτιν μονοϲ μετ εμου μαρκον αναλαβ ω αγε μετα ϲεαυτου εϲτιν γαρ μοι ευχρη ϲτοϲ ειϲ διακονι α",
+          "translation": "Only Luke is with me. Get Mark and bring him with you, because he's useful to me for ministry.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "τυχικον τηχικον δε απεϲτι λα ειϲ εφεϲον",
+          "translation": "I've sent Tychicus to Ephesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "τον φελονην ον απελιπον εν τρω αδι παρα καρπω ερ χομενοϲ φερε και τα βιβλια μαλιϲτα ταϲ μεμβραναϲ",
+          "translation": "When you come, bring the cloak I left in Troas with Carpus, and the scrolls — especially the parchments.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "αλεξανδροϲ ο χαλ κευϲ πολλα μοι κα κα ενεδιξατο απο δωϲει αυτω ο κϲ κατα τα εργα αυτου",
+          "translation": "Alexander the coppersmith did me a lot of harm. The Lord will repay him according to his works.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ον και ϲυ φυλαϲϲου λιαν γαρ αντεϲτη ανθεϲτηκεν τοιϲ η μετεροιϲ λογοιϲ",
+          "translation": "You should also watch out for him, because he strongly opposed our message.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "εν τη πρωτη μου α πολογια ουδειϲ μοι παρεγενετο ϲυνπαρεγενετο αλλα παντεϲ με ενκατελι πον μη αυτοιϲ λο γιϲθιη",
+          "translation": "At my first defense, no one stood by me — everyone abandoned me. May it not be held against them.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ο δε κϲ μοι παρεϲτη και ενεδυναμω ϲεν με ϊνα δι εμου το κηρυγμα πληρο φορηθη και ακου ϲωϲιν παντα τα ε θνη και ερυϲθην εκ ϲτοματοϲ λε ο τοϲ",
+          "translation": "But the Lord stood by me and strengthened me, so that the proclamation might be fully made through me and all the Gentiles might hear. I was rescued from the lion's mouth.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ρυϲετε με ο κϲ απο παντοϲ εργου πο νηρου και ϲωϲει ειϲ την βαϲιλειαν αυτου την επουρα νιον ω η δοξα ειϲ τουϲ αιωναϲ των αιωνων αμην ·",
+          "translation": "The Lord will rescue me from every evil work and bring me safely into His heavenly kingdom. To Him be glory forever and ever. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "αϲπαϲαι πριϲκαν κ(αι) ακυλαν και τον ο νηϲιφορου οικον",
+          "translation": "Greet Prisca and Aquila, and the household of Onesiphorus.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "εραϲτοϲ εμινεν εν κορινθω · τρο φιμον δε απε λιπον εν μιλη τω αϲθενουντα ·",
+          "translation": "Erastus stayed in Corinth, and I left Trophimus sick in Miletus.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ϲπουδαϲον προ χειμωνοϲ ελθε ι αϲπαζετε ϲε ευ βουλοϲ και που δηϲ και λινοϲ και κλαυδια και οι αδελ φοι παντεϲ",
+          "translation": "Do your best to come before winter. Eubulus, Pudens, Linus, Claudia, and all the brothers and sisters send you greetings.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ο κϲ ιϲ χϲ μετα του π νϲ ϲου η χαριϲ μεθ υμων αμην · ⌇﹏",
+          "translation": "The Lord Jesus Christ be with your spirit. Grace be with you all. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

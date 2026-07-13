@@ -1,0 +1,118 @@
+{
+  "book": "3 John",
+  "slug": "3-john",
+  "chapters": [
+    {
+      "chapter": 0,
+      "verses": [
+        {
+          "verse": 0,
+          "original": "",
+          "translation": "",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ο πρεϲβυτεροϲ γαϊω τω αγαπητω ον ε γω αγαπω εν αλη θια",
+          "translation": "The elder, to my dear friend Gaius, whom I love in the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "αγαπητε περι παντων ευχο με ϲε ευοδουϲθε και ϋγιαινειν καθωϲ ευοδου ται ϲου η ψυχη ·",
+          "translation": "Dear friend, I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ε λιαν ερχο μενων αδελφ ω και μαρτυρουν των ϲου τη αλη θεια καθωϲ ϲυ εν αληθεια περι πατειϲ",
+          "translation": "It gave me great joy when some believers came and testified about your faithfulness to the truth, telling how you continue to walk in the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "μιζοτε ραν τουτων ου κ εχω χαραν ϊνα ακουω τα εμα τε κνα εν αληθεια περιπατουντα",
+          "translation": "I have no greater joy than to hear that my children are walking in the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "αγαπητε ˙ πιϲτ ο ποιειϲ ο εαν εργα ϲη ειϲ τουϲ αδελ φουϲ και τουτο ξενουϲ",
+          "translation": "Dear friend, you're faithful in what you're doing for the brothers and sisters, even though they're strangers to you.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "οι εμαρ τυρηϲαν ϲου τη α γαπη ενωπιον εκκληϲιαϲ ουϲ καλωϲ ποιηϲειϲ προπεμψαϲ αξι ωϲ του θυ",
+          "translation": "They've told the church about your love. Please send them on their way in a manner that honors God.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ϋπερ γαρ γαρ του ονοματοϲ εξηλθαν μηδεν λαμβανοντεϲ απο των εθνικ ω",
+          "translation": "It was for the sake of the Name that they went out, receiving no help from the pagans.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ημειϲ ουν οφιλο μεν ϋπολαμβα νιν τουϲ τοιουτουϲ ϊνα ϲυνεργοι γι νωμεθα τη εκ κληϲια αληθια ·",
+          "translation": "We ought therefore to show hospitality to such people so that we may work together for the truth.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "εγραψα α τι τη εκκληϲια αλλ ο φιλοπρω τευων αυτων δι οτρεφηϲ ουκ επι δεχεται ημαϲ",
+          "translation": "I wrote to the church, but Diotrephes, who loves to be first, will not welcome us.",
+          "footnotes": [
+            {
+              "id": "3-john-1-9-cultural-context",
+              "text": "Diotrephes is presented as a domineering figure who opposes the elder's authority. This reflects early church tensions between centralized apostolic authority and local church leadership.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "δι α τουτο εαν ελθω ϋπομνηϲω αυτου τα εργα α ποιει λογοιϲ πονηροιϲ φλοι αρων ημαϲ και μη αρκουμενοϲ επι τουτοιϲ ουτε αυτοϲ επιδεχετε τουϲ αδελφουϲ και τουϲ βουλομενουϲ κω λυει και τηϲ εκκλη ϲιαϲ εκβαλλει",
+          "translation": "So when I come, I'll call attention to what he's doing, spreading malicious nonsense about us. Not satisfied with that, he even refuses to welcome other believers and stops those who want to do so and puts them out of the church.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "αγα πητε μη μιμου το κακον αλλα το αγαθον ο αγαθο ποιων εκ του θυ εϲτιν ο κακοποι ων ουχ εωρακεν τον θν ·",
+          "translation": "Dear friend, don't imitate what's evil but what's good. Anyone who does what's good is from God. Anyone who does what's evil hasn't seen God.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "δημητρι ω μεμαρτυρηται ϋπο παντων και ϋπο αυτηϲ τηϲ α ληθιαϲ και ημειϲ δε μαρτυρουμεν και οιδαϲ οτι η μαρ τυρια ημων α ληθηϲ εϲτιν",
+          "translation": "Demetrius is well spoken of by everyone — and even by the truth itself. We also speak well of him, and you know that our testimony is true.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "πολ λα ειχον γραψαι ϲοι αλλ ου θελω δια μελανοϲ και κα λαμου ϲοι γραφε ι",
+          "translation": "I have much to write to you, but I don't want to do so with pen and ink.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ελπιζω δε ευθε ωϲ ϊδειν ϲε και ϲτομα προϲ ϲτο μα λαληϲαμεν λαληϲομεν",
+          "translation": "I hope to see you soon, and we'll talk face to face.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ειρηνη ϲοι αϲπα ζονται ϲε οι φιλοι αϲπαϲαι τουϲ φι λουϲ κατ ονο μα ⌇﹏",
+          "translation": "Peace to you. The friends here send their greetings. Greet the friends there by name.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

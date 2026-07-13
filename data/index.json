@@ -1,0 +1,370 @@
+{
+  "books": [
+    {
+      "slug": "genesis",
+      "name": "Genesis",
+      "title_original": "Γένεϲιϲ",
+      "chapters": 5
+    },
+    {
+      "slug": "leviticus",
+      "name": "Leviticus",
+      "title_original": "Λευϊτικόν",
+      "chapters": 3
+    },
+    {
+      "slug": "numbers",
+      "name": "Numbers",
+      "title_original": "Ἀριθμοί",
+      "chapters": 12
+    },
+    {
+      "slug": "deuteronomy",
+      "name": "Deuteronomy",
+      "title_original": "Δευτερονόμιον",
+      "chapters": 5
+    },
+    {
+      "slug": "joshua",
+      "name": "Joshua",
+      "title_original": "Ἰηϲοῦϲ",
+      "chapters": 3
+    },
+    {
+      "slug": "judges",
+      "name": "Judges",
+      "title_original": "Κρίται",
+      "chapters": 9
+    },
+    {
+      "slug": "1-chronicles",
+      "name": "1 Chronicles",
+      "title_original": "Παραλειπομένων Α",
+      "chapters": 11
+    },
+    {
+      "slug": "2-esdras",
+      "name": "2 Esdras",
+      "title_original": "Ἔϲδραϲ β",
+      "chapters": 15
+    },
+    {
+      "slug": "esther",
+      "name": "Esther",
+      "title_original": "Ἐϲθήρ",
+      "chapters": 11
+    },
+    {
+      "slug": "tobit",
+      "name": "Tobit",
+      "title_original": "Τωβείθ",
+      "chapters": 15
+    },
+    {
+      "slug": "judith",
+      "name": "Judith",
+      "title_original": "Ἰουδίθ",
+      "chapters": 17
+    },
+    {
+      "slug": "1-maccabees",
+      "name": "1 Maccabees",
+      "title_original": "Μακκαβαίων Α",
+      "chapters": 17
+    },
+    {
+      "slug": "4-maccabees",
+      "name": "4 Maccabees",
+      "title_original": "Μακκαβαίων Δ",
+      "chapters": 19
+    },
+    {
+      "slug": "isaiah",
+      "name": "Isaiah",
+      "title_original": "Ἠϲαΐαϲ",
+      "chapters": 66
+    },
+    {
+      "slug": "jeremiah",
+      "name": "Jeremiah",
+      "title_original": "Ιερεμίαϲ",
+      "chapters": 52
+    },
+    {
+      "slug": "lamentations",
+      "name": "Lamentations",
+      "title_original": "Θρῆνοι Ἰερεμίου",
+      "chapters": 2
+    },
+    {
+      "slug": "joel",
+      "name": "Joel",
+      "title_original": "Ἰωήλ",
+      "chapters": 5
+    },
+    {
+      "slug": "obadiah",
+      "name": "Obadiah",
+      "title_original": "Ὀβδιού",
+      "chapters": 2
+    },
+    {
+      "slug": "jonah",
+      "name": "Jonah",
+      "title_original": "Ἰωνᾶϲ",
+      "chapters": 5
+    },
+    {
+      "slug": "nahum",
+      "name": "Nahum",
+      "title_original": "Ναούμ",
+      "chapters": 4
+    },
+    {
+      "slug": "habakkuk",
+      "name": "Habakkuk",
+      "title_original": "Ἀμβακούμ",
+      "chapters": 4
+    },
+    {
+      "slug": "zephaniah",
+      "name": "Zephaniah",
+      "title_original": "Σοφονίασ",
+      "chapters": 4
+    },
+    {
+      "slug": "haggai",
+      "name": "Haggai",
+      "title_original": "Ἀγγαῖοϲ",
+      "chapters": 3
+    },
+    {
+      "slug": "zechariah",
+      "name": "Zechariah",
+      "title_original": "Ζαχαρίαϲ",
+      "chapters": 15
+    },
+    {
+      "slug": "malachi",
+      "name": "Malachi",
+      "title_original": "Μαλαχίαϲ",
+      "chapters": 4
+    },
+    {
+      "slug": "psalms",
+      "name": "Psalms",
+      "title_original": "Ψαλμοί",
+      "chapters": 151
+    },
+    {
+      "slug": "proverbs",
+      "name": "Proverbs",
+      "title_original": "Παροιμίαι",
+      "chapters": 34
+    },
+    {
+      "slug": "ecclesiastes",
+      "name": "Ecclesiastes",
+      "title_original": "Ἐκκληϲιαϲτήϲ",
+      "chapters": 12
+    },
+    {
+      "slug": "song-of-solomon",
+      "name": "Song of Solomon",
+      "title_original": "Ἄϲμα",
+      "chapters": 9
+    },
+    {
+      "slug": "wisdom-of-solomon",
+      "name": "Wisdom of Solomon",
+      "title_original": "Σοφία Σαλoμῶντοϲ",
+      "chapters": 19
+    },
+    {
+      "slug": "sirach",
+      "name": "Sirach",
+      "title_original": "Σοφία Σειράχ",
+      "chapters": 55
+    },
+    {
+      "slug": "job",
+      "name": "Job",
+      "title_original": "Ἰώβ",
+      "chapters": 42
+    },
+    {
+      "slug": "matthew",
+      "name": "Matthew",
+      "title_original": "Κατὰ Μαθθαῖον",
+      "chapters": 29
+    },
+    {
+      "slug": "mark",
+      "name": "Mark",
+      "title_original": "Κατὰ Μάρκον",
+      "chapters": 17
+    },
+    {
+      "slug": "luke",
+      "name": "Luke",
+      "title_original": "Κατὰ Λουκᾶν",
+      "chapters": 25
+    },
+    {
+      "slug": "john",
+      "name": "John",
+      "title_original": "Κατὰ Ἰωάννην",
+      "chapters": 22
+    },
+    {
+      "slug": "romans",
+      "name": "Romans",
+      "title_original": "Προϲ Ρωμαίουϲ",
+      "chapters": 16
+    },
+    {
+      "slug": "1-corinthians",
+      "name": "1 Corinthians",
+      "title_original": "Προϲ Κορινθίουϲ Α",
+      "chapters": 16
+    },
+    {
+      "slug": "2-corinthians",
+      "name": "2 Corinthians",
+      "title_original": "Προϲ Κορινθίουϲ Β",
+      "chapters": 13
+    },
+    {
+      "slug": "galatians",
+      "name": "Galatians",
+      "title_original": "Πρὸϲ Γαλατάϲ",
+      "chapters": 6
+    },
+    {
+      "slug": "ephesians",
+      "name": "Ephesians",
+      "title_original": "Πρὸϲ Εφεϲίουϲ",
+      "chapters": 6
+    },
+    {
+      "slug": "philippians",
+      "name": "Philippians",
+      "title_original": "Πρὸϲ Φιλιππηϲίουϲ",
+      "chapters": 4
+    },
+    {
+      "slug": "colossians",
+      "name": "Colossians",
+      "title_original": "Πρὸϲ Κολοϲϲαεῖϲ",
+      "chapters": 4
+    },
+    {
+      "slug": "1-thessalonians",
+      "name": "1 Thessalonians",
+      "title_original": "Πρὸϲ Θεϲϲαλονικεῖϲ Α'",
+      "chapters": 5
+    },
+    {
+      "slug": "2-thessalonians",
+      "name": "2 Thessalonians",
+      "title_original": "Πρὸϲ Θεϲϲαλονικεῖϲ Β'",
+      "chapters": 3
+    },
+    {
+      "slug": "hebrews",
+      "name": "Hebrews",
+      "title_original": "Πρὸϲ Ἑβραίουϲ",
+      "chapters": 13
+    },
+    {
+      "slug": "1-timothy",
+      "name": "1 Timothy",
+      "title_original": "Πρὸϲ Τιμόθεον Α'",
+      "chapters": 6
+    },
+    {
+      "slug": "2-timothy",
+      "name": "2 Timothy",
+      "title_original": "Πρὸϲ Τιμόθεον Β'",
+      "chapters": 4
+    },
+    {
+      "slug": "titus",
+      "name": "Titus",
+      "title_original": "Πρὸϲ Τίτον",
+      "chapters": 3
+    },
+    {
+      "slug": "philemon",
+      "name": "Philemon",
+      "title_original": "Πρὸϲ Φιλήμονα",
+      "chapters": 1
+    },
+    {
+      "slug": "acts",
+      "name": "Acts",
+      "title_original": "Πράξειϲ Ἀποϲτόλων",
+      "chapters": 28
+    },
+    {
+      "slug": "james",
+      "name": "James",
+      "title_original": "Ἰακώβου",
+      "chapters": 5
+    },
+    {
+      "slug": "1-peter",
+      "name": "1 Peter",
+      "title_original": "Πέτρου α´",
+      "chapters": 5
+    },
+    {
+      "slug": "2-peter",
+      "name": "2 Peter",
+      "title_original": "Πέτρου β´",
+      "chapters": 3
+    },
+    {
+      "slug": "1-john",
+      "name": "1 John",
+      "title_original": "Ἰωάννου α",
+      "chapters": 6
+    },
+    {
+      "slug": "2-john",
+      "name": "2 John",
+      "title_original": "Ἰωάννου β",
+      "chapters": 2
+    },
+    {
+      "slug": "3-john",
+      "name": "3 John",
+      "title_original": "Ἰωάννου γ",
+      "chapters": 2
+    },
+    {
+      "slug": "jude",
+      "name": "Jude",
+      "title_original": "Ἰούδα",
+      "chapters": 2
+    },
+    {
+      "slug": "revelation",
+      "name": "Revelation",
+      "title_original": "Ἀποκάλυψιϲ Ἰωάννου",
+      "chapters": 22
+    },
+    {
+      "slug": "epistle-of-barnabas",
+      "name": "Epistle of Barnabas",
+      "title_original": "βαρναβα επιϲτολη",
+      "chapters": 21
+    },
+    {
+      "slug": "shepherd-of-hermas",
+      "name": "Shepherd of Hermas",
+      "title_original": "Ὁ Ποιμήν του Ἑρμά",
+      "chapters": 41
+    }
+  ]
+}

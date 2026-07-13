@@ -1,0 +1,930 @@
+{
+  "book": "Galatians",
+  "slug": "galatians",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "παυλοϲ αποϲτολοϲ ουκ απ ανθρωπ ω ουδε δι α νο υ αλλα δια ιυ χυ και θυ πα τροϲ του εγιραντοϲ αυτων αυτον εκ νεκρ ω",
+          "translation": "Paul, an apostle — sent not from people nor through a person but through Jesus Christ and God the Father who raised him from the dead —",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και οι ϲυν εμοι π α τεϲ αδελφοι ταιϲ εκ κληϲιαιϲ τηϲ γαλα τιαϲ",
+          "translation": "and all the brothers with me, to the churches of Galatia:",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "χαριϲ υ μιν κ(αι) ειρηνη απο θυ πα τροϲ ημων και κυ ιυ χυ",
+          "translation": "Grace to you and peace from God our Father and the Lord Jesus Christ,",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "του δοντοϲ ε αυτον περι υπερ των αμαρτιων ημ ω οπωϲ εξεληται η μαϲ εκ του αιωνοϲ του ενεϲτωτοϲ ενεϲτωτοϲ αιωνοϲ πο νηρου κατα το θελη μα του θυ και πατροϲ ημων",
+          "translation": "who gave himself for our sins to rescue us from this present evil age, according to the will of our God and Father,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ω η δοξα ειϲ τουϲ αιωναϲ των αιωνων αμην",
+          "translation": "to whom be glory forever and ever. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "θαυμαζω οτι ουτωϲ ταχεωϲ μετατιθε ϲθαι απο του καλε ϲαντοϲ υ μαϲ εν χαριτι χυ ειϲ ετερ ο ευαγγελιον",
+          "translation": "I'm amazed that you're so quickly deserting the one who called you by the grace of Christ and turning to a different gospel —",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ο ου κ εϲτιν αλλο ει μη τινεϲ ειϲιν οι ταραϲ ϲοντεϲ ϋμαϲ κ(αι) θελοντεϲ μετα ϲτρεψαι το ευαγγε λιον του χυ",
+          "translation": "not that there is another gospel, but there are some who are troubling you and want to distort the gospel of Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "αλλα και εαν ημειϲ η αγ γελοϲ εξ ουρανου ευαγγελιϲηται υμιν πα ρ ο ευηγγελιϲαμε θα υ μιν αναθεμα εϲτω",
+          "translation": "But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let them be cursed!",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ωϲ προειρηκα προειρηκαμεν και αρ τι παλιν λεγω ει τιϲ ϋμαϲ ευαγγελιζε ται παρ ο παρελαβε τε αναθεμα εϲτω",
+          "translation": "As we've said before, I now say again: if anyone is preaching to you a gospel contrary to what you received, let them be cursed!",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "αρτι γαρ ανθρωπουϲ πιθω η τον θν η ζητω ανθρωποιϲ αρεϲκιν ει ετι αν θρωποιϲ ηρεϲκ ο χυ δουλοϲ ουκ αν η μην",
+          "translation": "For am I now seeking the approval of people or of God? Am I trying to please people? If I were still pleasing people, I wouldn't be a servant of Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "γνωριζω δε γαρ δε ϋμιν αδελφοι το ευαγγε λιον το ευαγγελι ϲθεν ϋπ εμου οτι ουκ εϲτιν κατα αν θρωπον",
+          "translation": "For I want you to know, brothers and sisters, that the gospel preached by me isn't based on human reasoning.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ουδε γαρ εγω παρα ανθρωπου παρελαβον αυτο ου δε εδιδαχθην αλλα δι αποκαλυψεωϲ ιυ χυ",
+          "translation": "For I didn't receive it from a person, nor was I taught it, but I received it through a revelation of Jesus Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ηκουϲατε γαρ την ε μην αναϲτροφ η ποτε εν τω ι ουδα οτι καθ υπερ βολην εδιωκον την εκκληϲιαν του θυ και επορθουν αυ την",
+          "translation": "For you've heard about my former way of life in Judaism — how intensely I persecuted the church of God and tried to destroy it.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και προεκοπτ ο εν τω ϊουδαιϲμω ϋπερ πολλουϲ ϲυ νηλικιωταϲ εν τω γενι μου περιϲ ϲοτερωϲ ζηλωτηϲ ϋπαρχων των πατρικων μου πα ραδοϲεων",
+          "translation": "I advanced in Judaism beyond many of my contemporaries among my people, being extremely zealous for the traditions of my fathers.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "οτε δε ευδοκηϲεν ο θϲ ο αφοριϲαϲ με εκ κοιλιαϲ μητροϲ μου και καλεϲαϲ δι α τηϲ χαριτοϲ αυτου",
+          "translation": "But when God — who set me apart from my mother's womb and called me by his grace — was pleased",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "αποκαλυψαι τον υν αυτου εν εμοι ϊνα ευαγγελιζω μαι αυτον εν τοιϲ εθνεϲιν ευθεωϲ ου προϲανεθεμ η ϲαρκι και αιματι",
+          "translation": "to reveal his Son in me so that I might preach him among the Gentiles, I didn't immediately consult with anyone.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ουδε ανηλθον ει ϲ ϊεροϲολυμα προϲ τουϲ προ εμου αποϲ τολουϲ αλλα απηλ θον ειϲ αραβιαν κ(αι) παλιν ϋπεϲτρε ψα ειϲ δαμαϲκον",
+          "translation": "Nor did I go up to Jerusalem to those who were apostles before me. Instead, I went to Arabia and later returned to Damascus.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "επειτα μετα τρια ε τη ανηλθον ειϲ ιε ροϲολυμα ϊϲτορη ϲαι κηφαν πετρον και επε μεινα προϲ αυτ ο ημεραϲ δεκαπεν τε",
+          "translation": "Then after three years, I went up to Jerusalem to get to know Cephas and stayed with him fifteen days.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "ετερον δε των αποϲτολων ουκ ι δον ει μη ϊακωβ ο τον αδελφον του κυ",
+          "translation": "But I didn't see any of the other apostles except James, the Lord's brother.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "α δε γραφω ϋμ ι ιδου ενωπιον του θυ οτι ου ψευδομαι",
+          "translation": "I assure you before God that what I'm writing to you isn't a lie.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "επειτα ηλθον ειϲ τα κλιματα τηϲ ϲυρι αϲ και τηϲ κιλικιαϲ",
+          "translation": "Then I went to the regions of Syria and Cilicia.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ημ η δε αγνοουμενοϲ τω προϲωπω ταιϲ εκκληϲιαιϲ τηϲ ϊου δαιαϲ ταιϲ εν χω",
+          "translation": "I was personally unknown to the churches of Judea that are in Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "μονον δε ακου ο τεϲ ηϲαν οτι ο διω κων ημαϲ ποτε νυν ευαγγελιζε ται την πιϲτιν ην ποτε επορθει",
+          "translation": "The only thing they heard was, \"The man who formerly persecuted us is now preaching the faith he once tried to destroy.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και εδοξαζον εν εμοι τον θν",
+          "translation": "And they glorified God because of me.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "επειτα δια δεκατεϲ ϲαρων ετων πα λιν ανεβην ειϲ ϊ εροϲολυμα μετα βαρναβα ϲυνπαρα λαβων και τιτον",
+          "translation": "Then after fourteen years, I went up again to Jerusalem with Barnabas, taking Titus along also.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ανεβην δε κατα αποκαλυψιν και ανεθεμην αυτοιϲ το ευαγγελιον ο κηρυϲϲω εν τοιϲ εθνεϲιν κατ ϊδι αν δε τοιϲ δοκουϲ ι μη πωϲ ειϲ κεν ο τρεχω η εδραμον",
+          "translation": "I went up because of a revelation and presented to them the gospel I preach among the Gentiles — but privately to those who seemed to be leaders — to make sure that I wasn't running or had run in vain.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "αλλ ουδε τιτοϲ ο ϲυ ν εμοι ελλην ω ηναγκαϲθη περι τμηθηναι",
+          "translation": "But not even Titus, who was with me, was compelled to be circumcised, even though he was a Greek.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "δια δε τουϲ παριϲακτουϲ ψευδαδελφουϲ οι τινεϲ παρειϲηλθ ο καταϲκοπηϲαι τ η ελευθεριαν ημ ω ην εχομεν εν χω ιυ ϊνα ημαϲ κα ταδουλωϲουϲιν",
+          "translation": "This matter came up because of some false brothers who slipped in to spy out the freedom we have in Christ Jesus, so that they could enslave us.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "οιϲ ουδε προϲ ωραν ειξαμεν τη ϋπο ταγη ϊνα η αληθι α του ευαγγελιου διαμεινη προϲ ϋ μαϲ",
+          "translation": "But we didn't give in to them for a moment, so that the truth of the gospel would remain with you.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "απο δε των δοκουν των ειναι τι οποι οι ποτ ποτε ηϲαν ουδ ε μοι διαφερι προϲω πον ο θϲ ανθρωπου ου λαμβανει εμοι γαρ οι δοκουντεϲ ου δεν προϲανεθεν το",
+          "translation": "As for those who seemed to be important — whatever they were makes no difference to me; God shows no partiality — those who were influential added nothing to me.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "αλλα τουναντιον ειδοντεϲ οτι πεπι ϲτευμαι το ευαγγε λιον τηϲ ακροβυϲτι αϲ καθωϲ πετροϲ τηϲ περιτομηϲ",
+          "translation": "On the contrary, they saw that I had been entrusted with the gospel to the uncircumcised, just as Peter had been entrusted with the gospel to the circumcised.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "ο γαρ ενεργηϲαϲ πετρω ειϲ αποϲτο λην τηϲ περιτομηϲ ε νηργηϲεν και εμοι ειϲ τα εθνη",
+          "translation": "For the one who worked through Peter in his apostleship to the circumcised also worked through me in my apostleship to the Gentiles.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και γνοντεϲ την χαριν την δοθειϲ α μοι ϊακωβοϲ και κη φαϲ και ϊωαννηϲ οι δοκουντεϲ ϲτυ λοι ειναι δεξιαϲ ε δωκαν εμοι και βαρναβα κοινωνι αϲ ϊνα ημειϲ μεν ειϲ τα εθνη αυτοι δε ειϲ τ η περιτομην",
+          "translation": "And recognizing the grace given to me, James and Cephas and John — those reputed to be pillars — gave the right hand of fellowship to Barnabas and me, agreeing that we should go to the Gentiles and they to the circumcised.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "μον ο των πτωχων ινα μνημονευωμεν ο και εϲπουδαϲα αυ το τουτο ποιηϲαι",
+          "translation": "They asked only that we remember the poor — the very thing I was eager to do.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "οτε δε ηλθεν κηφαϲ ειϲ αντιοχιαν κα τα προϲωπον αυ τω αντεϲτην οτι κα τεγνωϲμενοϲ η",
+          "translation": "But when Cephas came to Antioch, I opposed him to his face because he was clearly wrong.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "προ του γαρ ελθιν τιναϲ απο ϊακωβου μετα των εθνων ϲυνηϲθιεν οτε δε ηλθεν ϋπεϲτελλ ε και αφωριζεν εαυτ ο φοβουμενοϲ τουϲ εκ περιτομηϲ",
+          "translation": "For before certain people came from James, he used to eat with the Gentiles. But when they came, he began to draw back and separate himself, fearing those who belonged to the circumcision party.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και ϲυνυπεκριθηϲ α αυτω και οι λοιποι ϊουδαιοι παντεϲ ωϲτε και βαρναβαϲ ϲυναπηχθη ϲυνυπηχθη αυ των τη ϋποκριϲι",
+          "translation": "And the rest of the Jews joined him in this hypocrisy, so that even Barnabas was led astray by their hypocrisy.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "αλλ οτε ειδον οτι ουκ ορθοποδουϲι προϲ την αληθει α του ευαγγελιου ει πον τω κηφα εμ προϲθεν παντ ω ει ϲυ ϊουδαιοϲ ϋπαρ χων εθνικωϲ και ουχ ουχει ι ουδαϊκωϲ ζηϲ πωϲ τα εθνη αναγκαζειϲ ϊουδα ϊζειν",
+          "translation": "But when I saw that they weren't walking in line with the truth of the gospel, I said to Cephas before them all, \"If you, though a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ημειϲ φυϲει ϊουδε οι και ουκ εξ εθν ω αμαρτωλοι",
+          "translation": "We are Jews by birth, not sinners from among the Gentiles.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ειδο τεϲ δε οτι ου δικαιου ται ανθρωποϲ εξ ερ γων νομου εαν μη δια πιϲτεωϲ ιυ χυ και ημιϲ ειϲ χν ιν επιϲτευϲα μεν ϊνα δικαιω θωμεν εκ πιϲτε ωϲ χυ και ουκ εξ ερ γων νομου οτι ε ξ εργων νομου ου δικαιωθηϲεται παϲα ϲαρξʼ",
+          "translation": "Yet we know that a person is not justified by works of the law but through faith in Jesus Christ. So we also have put our faith in Christ Jesus, so that we might be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ει δε ζη τουντεϲ δικαιω θηναι εν χω ευ ρεθημεν και αυτοι αμαρτωλοι αρα χϲ αμαρτιαϲ διακο νοϲ μη γενοιτο",
+          "translation": "But if while seeking to be justified in Christ we ourselves are also found to be sinners, does that make Christ a servant of sin? Absolutely not!",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ει γαρ α κατελυϲα ταυτα παλιν οικο δομω παραβατ η εμαυτον ϲυνιϲτα νω",
+          "translation": "For if I rebuild what I tore down, I prove myself to be a lawbreaker.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "εγω γαρ δια νομου νομω απεθαν ο ϊνα θω ζηϲω χω ϲυνεϲταυρωμαι",
+          "translation": "For through the law I died to the law so that I might live for God.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ζω δε ουκετι εγω ζη δε εν εμοι χϲ ο δε νυν ϲ ζω εν ϲαρ κι εν πιϲτι ζω τη του ϋϊου του θυ του αγαπηϲαντοϲ με και παραδοντοϲ ε αυτον ϋπερ εμου",
+          "translation": "I have been crucified with Christ. It's no longer I who live, but Christ lives in me. And the life I now live in the flesh, I live by faith in the Son of God, who loved me and gave himself for me.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ουκ αθετω την χα ριν του θυ ει γαρ δι α νομου δικαιοϲυ νη αρα χϲ δωρεαν απεθανεν",
+          "translation": "I don't set aside the grace of God, for if righteousness comes through the law, then Christ died for nothing.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "ω ανοητοι γαλαται τιϲ ϋμαϲ εβαϲκα νεν οιϲ κατ οφθαλ μουϲ ιϲ χϲ προεγρα φη εϲταυρωμενοϲ",
+          "translation": "You foolish Galatians! Who has bewitched you? Before your eyes Jesus Christ was publicly portrayed as crucified.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "τουτο μονον [1 chars] νον θε λω μαθειν αφ υμ ω εξ εργων νομου το πνα ελαβετε η εξ ακοηϲ πιϲτεωϲ",
+          "translation": "I want to learn just one thing from you: Did you receive the Spirit by works of the law or by believing what you heard?",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ουτωϲ ανοητοι εϲτε εναρξαμενοι πν ι νυν ϲαρκι επι τελειϲθαι",
+          "translation": "Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh?",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "τοϲαυτα επαθετε εικη ει γε και εικη",
+          "translation": "Did you experience so much for nothing — if it really was for nothing?",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ο ουν επιχορηγων υ μ ι το πνα και ενεργ ω δυναμιϲ εν υμιν εξ εργων νομου η εξ ακοηϲ πιϲτεωϲ",
+          "translation": "Does God who gives you the Spirit and works miracles among you do so by works of the law or by believing what you heard?",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "καθωϲ αβρααμ επι ϲτευϲεν τω θω και ελογιϲθη αυτω ειϲ δικαιοϲυνην",
+          "translation": "Just as Abraham believed God, and it was credited to him as righteousness.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "γι νωϲκετε αρα οτι οι εκ πιϲτεωϲ ουτοι ϋϊοι ειϲιν ειϲιν ϋϊοι αβρααμ",
+          "translation": "So understand that those who have faith are children of Abraham.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "προϊδουϲα δε η γρα φη οτι εκ πιϲτεωϲ τα εθνη δικαιοι ο θϲ προευηγγελιϲα το τω αβρααμʼ οτι ενευλογηθηϲον ται εν ϲοι παντα τα εθνη",
+          "translation": "The Scripture, foreseeing that God would justify the Gentiles by faith, proclaimed the gospel in advance to Abraham: \"All nations will be blessed through you.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ωϲτε οι εκ πιϲτεωϲ ευλογουν ται ϲυν τω πιϲτω αβρααμ",
+          "translation": "So then, those who have faith are blessed along with Abraham, the man of faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "οϲοι γαρ εξ εργων νομου ειϲιν ϋπο καταραν ειϲιν γε γραπται γαρ οτι επι παϲ ο ϲ ουκ εμμενει εν παϲιν τοιϲ γεγραμ μενοιϲ εν τω βι βλιω του νομου του ποιηϲαι αυτα",
+          "translation": "For all who rely on the works of the law are under a curse, because it's written, \"Cursed is everyone who doesn't do everything written in the book of the law.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "οτι δε εν νομω ου δειϲ δικαιουται παρα τω θω δηλ ο οτι ο δικαιοϲ εκ πι ϲτεωϲ ζηϲεται",
+          "translation": "Now it's clear that no one is justified before God by the law, because \"The righteous will live by faith.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ο δε νομοϲ ουκ εϲ τιν εκ πιϲτεωϲ αλλα ο ποιηϲαϲ αυ τα ζηϲεται εν αυτοιϲ",
+          "translation": "But the law isn't based on faith; instead, \"The person who does these things will live by them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "χϲ ημαϲ εξηγοραϲεν εκ τηϲ καταραϲ του νομου γενομε νοϲ ϋπερ ημων καταρα γεγραπται γαρ επικαταρατοϲ παϲ ο κρεμαμενοϲ επι ξυλου",
+          "translation": "Christ redeemed us from the curse of the law by becoming a curse for us — as it's written, \"Cursed is everyone who hangs on a tree\" —",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ϊνα ειϲ τα εθνη η ευλογι α του αβρααμ γενη ται εν ιι υ ι υ χυ ι να την επαγγελιαν του πνϲ λαβωμεν δι α τηϲ πιϲτεωϲ",
+          "translation": "so that the blessing of Abraham might come to the Gentiles through Christ Jesus, so that we might receive the promise of the Spirit through faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "α δελφοι κατα αν θρωπον λεγω ο μωϲ ανθρωπου κεκυρωμενην διαθηκην ουδιϲ αθετι η επιδιαταϲ ϲεται",
+          "translation": "Brothers and sisters, I'm speaking from a human perspective: even a human covenant, once ratified, no one sets aside or adds to.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "τω δε αβρααμ ερρεθηϲαν αι επαγ γελιαι και τω ϲπερ ματι αυτου ου λεγει και τοιϲ ϲπερμαϲ ι ωϲ επι πολλων αλλ ωϲ εφ ενοϲ και τω ϲπερματι ϲου οϲ εϲτιν χϲ",
+          "translation": "Now the promises were spoken to Abraham and to his seed. It doesn't say, \"and to seeds,\" referring to many, but \"and to your seed,\" referring to one — who is Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "τουτο δε λεγω δι αθηκην προκε κυρωμενην υ πο του θυ ο μετα τε τρακοϲια και τρια κοντα ετη γεγο νωϲ νομοϲ ου κ ακυροι ειϲ το κα ταργηϲαι την επαγ γελιαν",
+          "translation": "This is what I mean: the law, which came 430 years later, doesn't set aside the covenant previously established by God and thus nullify the promise.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ει γαρ εκ νομου η κληρο νομια ουκετι ε ξ επαγγελιαϲ τω δε αβρααμ δι επαγ γελιαϲ κεχαριϲται ο θϲ",
+          "translation": "For if the inheritance is based on the law, it's no longer based on the promise. But God granted it to Abraham through the promise.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "τι ουν ο νομοϲ τ ω παραβαϲεων χα ριν προϲετεθη α χριϲ ου ελθη το ϲπερ μα ω επηγγελται διαταγειϲ δι αγγε λων εν χιρι μεϲι του",
+          "translation": "Why then the law? It was added because of transgressions until the Seed to whom the promise was made should come. It was put into effect through angels by a mediator.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ο δε μεϲιτηϲ ε νοϲ ουκ εϲτιν ο δε θϲ ειϲ εϲτιν",
+          "translation": "Now a mediator involves more than one party, but God is one.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ο ουν νομοϲ κα τα των επαγγελι ων του θυ μη γε νοιτο ει γαρ εδο θη νομοϲ ο δυνα μενοϲ ζωοποιη ϲαι οντωϲ εκ νο μου ην αν η δικε οϲυνη",
+          "translation": "Is the law then opposed to the promises of God? Absolutely not! For if a law had been given that could give life, then righteousness would indeed be based on the law.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "αλλα ϲυνε κλιϲεν η γραφη τα παντα ϋπο αμαρ τιαν ϊνα η επαγγε λια εκ πιϲτεωϲ ιυ χυ δοθη τοιϲ πιϲτευ ουϲιν",
+          "translation": "But the Scripture imprisoned everything under sin, so that the promise by faith in Jesus Christ might be given to those who believe.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "προ του δε ελθιν τ η πιϲτιν ϋπο νομ ο εφρουρουμεθα ϲυν κλιομενοι ειϲ τ η μελλουϲαν πιϲτ ι αποκαλυφθηναι",
+          "translation": "Before faith came, we were held in custody under the law, confined until the coming faith was revealed.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "ωϲτε ο νομοϲ παι δαγωγοϲ ημων γε γονεν ειϲ χν ι να εκ πιϲτεωϲ δικαι ωθωμεν",
+          "translation": "So the law became our guardian until Christ, so that we might be justified by faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "ελθου ϲηϲ δε τηϲ πιϲτε ωϲ ουκετι υ πο παι δαγωγον εϲμεν",
+          "translation": "But since faith has come, we are no longer under a guardian.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "παντεϲ γαρ ϋϊοι οι θυ εϲτε δια τηϲ πιϲτε ωϲ εν χω ιυ",
+          "translation": "For you are all children of God through faith in Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "οϲοι γαρ ειϲ χν εβα πτιϲθητε χν ενεδυ ϲαϲθε",
+          "translation": "For as many of you as were baptized into Christ have put on Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "ουκ ενι ϊου δαιοϲ ουδε ελλην ουκ ενι δουλοϲ ου δε ελευθεροϲ ου κ ενι αρρεν και θη λυ απαντεϲ γαρ ϋ μειϲ εϲτε εν χυ εϲτε χυ ειϲ εϲτε εν χω ιυ",
+          "translation": "There is neither Jew nor Greek, neither slave nor free, neither male nor female — for you are all one in Christ Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "ει δε ϋμειϲ χυ αρα του αβρααμ ϲπερ μα εϲτε κατα επαγ γελιαν κληρονομοι",
+          "translation": "And if you belong to Christ, then you are Abraham's seed, heirs according to the promise.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "λεγω δε εφ οϲον χρονον ο κληρο νομοϲ νηπιοϲ εϲτιν ουδεν δια φερι δουλου κϲ π α των ων",
+          "translation": "What I'm saying is this: as long as an heir is a child, he's no different from a slave, though he's the owner of everything.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "αλλα υ πο επιτροπουϲ εϲτι και οικονομουϲ αχρι τηϲ προθεϲμι αϲ του πατροϲ",
+          "translation": "Instead, he's under guardians and trustees until the time set by his father.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ουτωϲ και ημιϲ οτε ημεν νηπιοι ϋπο τα ϲτοιχια του κοϲμ(ου) ημεθα δεδουλω μενοι",
+          "translation": "In the same way, when we were children, we were enslaved under the elemental forces of the world.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "οτε δε ηλθ ε το πληρωμα του χρονου εξαπεϲτι λεν ο θϲ τον υν αυ του γενομενον εκ γυναικοϲ γενομε νον υ πο νομον",
+          "translation": "But when the right time came, God sent his Son, born of a woman, born under the law,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ι να τουϲ υ πο νο μον εξαγοραϲη ϊ να την υ ι οθεϲιαν απολαβωμεν",
+          "translation": "to redeem those under the law, so that we might be adopted as children.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "οτι δε εϲτε ϋϊοι εξα πεϲτιλεν ο θϲ το πν α του ϋϊου αυτου ειϲ ταϲ καρδιαϲ η μων κραζον αββα ο πατηρ",
+          "translation": "And because you are children, God sent the Spirit of his Son into our hearts, crying out, \"Abba, Father!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ωϲτε ουκε τι ει δουλοϲ αλλα ϋϊοϲ ει δε υϊοϲ και κληρονομοϲ δι α θυ θυ δια χυ",
+          "translation": "So you are no longer a slave but a child, and if a child, then an heir through God.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "αλλα τοτε μεν ου κ ειδοτεϲ θν εδου λευϲατε τοιϲ φυϲει μη ουϲι θεοιϲ",
+          "translation": "Formerly, when you didn't know God, you were enslaved to beings that by nature are not gods.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ν υ δε γνοντεϲ θν μαλλον δε γνω ϲθεντεϲ υ πο θυ πωϲ επιϲτρεφε τε παλιν επι τα α ϲθενη και πτωχα ϲτοιχια οιϲ παλ ι ανωθεν δουλευ ϲε θελετε",
+          "translation": "But now that you've come to know God — or rather, to be known by God — how can you turn back again to the weak and worthless elemental forces? Do you want to be enslaved to them all over again?",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ημεραϲ παρατηρειϲθε και μηναϲ και καιρουϲ και ενιαυτουϲ",
+          "translation": "You're observing days, months, seasons, and years!",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "φο βουμαι ϋμαϲ μη πωϲ εικη κεκοπι ακα ειϲ ϋμαϲ",
+          "translation": "I'm afraid for you — that I may have labored over you for nothing.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "γινεϲθε ωϲ εγω οτι καγω ωϲ ϋμιϲ αδελφοι δεομαι υ̇μων ουδεν με ηδικηϲαται",
+          "translation": "I beg you, brothers and sisters: become like me, because I became like you. You haven't wronged me.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "οιδα ται δε οτι δι αϲθενι αν τηϲ ϲαρκοϲ ευ ηγγελιϲαμην ϋ μιν το προτερον",
+          "translation": "You know that it was because of a physical illness that I preached the gospel to you the first time.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και τον πιραϲμ ο ϋμων τον εν τη ϲαρκι μου ουκ εξουθενηϲα τε ουδε εξεπτυϲα τε αλλ ωϲ αγγελον θυ εδεξαϲθε με ωϲ χν ιν",
+          "translation": "And though my condition was a trial to you, you didn't despise or reject me. Instead, you welcomed me as an angel of God, as Christ Jesus himself.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "που ουν ο μακαρι ϲμοϲ ϋμων μαρ τυρω γαρ υ μιν οτι ει δυνατον τουϲ οφθαλμουϲ υμ ω εξορυξαντεϲ αν εδω κατε μοι",
+          "translation": "Where then is your blessing? For I testify that if it were possible, you would have torn out your eyes and given them to me.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ωϲτε εχθροϲ υ μ ω γεγονα αληθευ ων ϋμιν",
+          "translation": "So have I become your enemy by telling you the truth?",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ζηλου ϲιν ϋμαϲ ου καλωϲ αλλα εκκλιϲαι ϋ μαϲ θελουϲιν ϊ να αυτουϲ ζηλου τε",
+          "translation": "They're zealous for you, but not in a good way. They want to shut you out so that you'll be zealous for them.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "καλον δε ζηλουϲ θε εν καλω παντο τε και μη μονον εν τω παρειναι με προϲ υ μαϲ",
+          "translation": "But it's always good to be zealous for a good purpose — and not only when I'm present with you.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "τεκνα τεκνια μου ουϲ πα λιν ωδινω με χριϲ αχριϲ ου μορφωθη χϲ εν υμιν",
+          "translation": "My children — I'm again suffering the pains of childbirth for you until Christ is formed in you!",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ηθελον δε παρει ναι προϲ ϋμαϲ αρ τι και αλλαξαι τ η φωνην μου οτι απορουμαι εν υ μιν",
+          "translation": "I wish I could be with you now and change my tone, because I'm perplexed about you.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "λεγετε μοι οι υ πο νομον θελοντεϲ ειναι τον νομον ουκ ακουετε",
+          "translation": "Tell me, you who want to be under the law, don't you hear what the law says?",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "γεγρα πται γαρ οτι αβρα αμ δυο υϊουϲ εϲχ ε ενα εκ τηϲ παιδι ϲκηϲ και ενα εκ τηϲ ελευθεραϲ",
+          "translation": "For it's written that Abraham had two sons — one by the slave woman and one by the free woman.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "αλλ ο μεν εκ τηϲ παιδι ϲκηϲ κατα ϲαρκα γεγεννηται ο δε εκ τηϲ ελευθεριαϲ δι επαγγελιαϲ",
+          "translation": "But the son by the slave woman was born according to the flesh, while the son by the free woman was born through the promise.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "ατινα εϲτιν αλληγο ρουμενα αυται γαρ ειϲιν αι δυο διαθη και μια μεν απο ορουϲ ϲινα ειϲ δου λιαν γεννωϲα η τιϲ εϲτιν αγαρ",
+          "translation": "These things are an allegory: these women represent two covenants. One is from Mount Sinai, bearing children for slavery — this is Hagar.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "το γαρ ϲινα οροϲ εϲτιν ο εν τη αραβια ϲυϲτοι χει δε τη νυν ι ηλμ δουλευει γαρ μετα των τεκνων αυ τηϲ",
+          "translation": "Now Hagar is Mount Sinai in Arabia and corresponds to the present Jerusalem, for she's in slavery with her children.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "η δε ανω ι ηλμ ελευ θερα εϲτιν ητιϲ εϲτιν μητηρ παντων ημων",
+          "translation": "But the Jerusalem above is free, and she's our mother.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "γεγραπται γαρ ευφρ α θητι ϲτιρα η ου τι κτουϲα ρηξον και βοηϲον η ουκ ω δινουϲα οτι πολ λα τα τεκνα τηϲ ε ρημου μαλλον η τηϲ εχουϲηϲ τον ανδρα",
+          "translation": "For it's written: \"Rejoice, barren woman who hasn't given birth. Break forth and cry aloud, you who haven't been in labor. For the children of the desolate woman are more than those of the woman who has a husband.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "ημειϲ δε αδελφοι κατα ϊϲακ ϊϲαακ επαγγελι αϲ τεκνα εϲμεν",
+          "translation": "Now you, brothers and sisters, like Isaac, are children of the promise.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "αλλ ωϲπερ τοτε ο κατα ϲαρκα γεννη θειϲ εδιωκε τον κατα πν α ουτωϲ κ(αι) νυν",
+          "translation": "But just as at that time the son born by the flesh persecuted the son born by the Spirit, so it is now.",
+          "footnotes": []
+        },
+        {
+          "verse": 30,
+          "original": "αλλα τι λεγει η γραφη εκβαλε την παιδιϲκην και τον υϊον αυτηϲ ου γαρ μη κληρο νομηϲει ο υϊοϲ τηϲ παιδιϲκηϲ με τα του υιου του υϊου τηϲ ελευθεραϲ",
+          "translation": "But what does the Scripture say? \"Drive out the slave woman and her son, for the son of the slave woman will not inherit with the son of the free woman.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 31,
+          "original": "διο αδελφοι ουκ ε ϲμεν πεδιϲκηϲ τεκνα αλλα τηϲ ε λευθεραϲ",
+          "translation": "So then, brothers and sisters, we're not children of the slave woman but of the free woman.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "τη ελευ θερια ημαϲ χϲ χϲ ημαϲ η λευθερωϲεν ϲτηκετε ουν και μη παλιν ζυγω δου λιαϲ ενεχεϲθε",
+          "translation": "For freedom Christ set us free. Stand firm then, and don't be subject again to the yoke of slavery.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ϊδε εγω παυλοϲ λεγω ϋμιν οτι εαν περιτεμνη ϲθε χϲ ϋμαϲ ουδ ε ωφεληϲει",
+          "translation": "Listen: I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no benefit to you.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "μαρτυ ρομαι δε παλιν παντι ανθρωπω περιτεμνομενω οτι οφιλετηϲ εϲτιν ο λον τον νομον ποιηϲαι",
+          "translation": "And I testify again to every man who lets himself be circumcised that he's obligated to keep the whole law.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "κατηργη θηται απο χυ οιτι νεϲ εν νομω δι καιουϲθε τηϲ χα ριτοϲ εξεπεϲατε ·",
+          "translation": "You who are trying to be justified by the law have been cut off from Christ; you've fallen away from grace.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ημειϲ γαρ πν ι εκ πιϲτεωϲ ελπιδα δικαιοϲυνηϲ εκ δεχομεθα απεκδεχομεθα",
+          "translation": "For through the Spirit, by faith, we eagerly wait for the hope of righteousness.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εν γαρ χω ιυ ουτε περιτομη τι ι ϲχυ ει ουτε ακροβυϲτι α αλλα πιϲτιϲ δι αγαπηϲ ενεργου μενη",
+          "translation": "For in Christ Jesus neither circumcision nor uncircumcision matters — only faith working through love.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ετρεχετε καλωϲ τιϲ ϋμαϲ ενεκοψ ε τη αληθια μη πιθε ϲθαι",
+          "translation": "You were running well. Who prevented you from obeying the truth?",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "η πιϲμονη ουκ εκ του καλο υ ταϲ υ μαϲ ·",
+          "translation": "This persuasion doesn't come from the one who calls you.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "μικρα ζυμη ολον το φυραμα ζυμοι",
+          "translation": "A little yeast leavens the whole batch of dough.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εγω πεποιθα ειϲ υ μαϲ εν κω οτι ου δεν αλλο φρονη ϲετε ο δε ταραϲϲ ω ϋμαϲ βαϲταϲει το κριμα οϲτιϲ εαν η",
+          "translation": "I'm confident in the Lord that you won't think otherwise. But the one who is troubling you will pay the penalty, whoever he is.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "εγω δε αδελφοι ει περιτομην ετι κηρυϲϲω τι ετι δι ωκομαι αρα κατηρ το ϲκανδα λον του ϲταυρου",
+          "translation": "Now brothers and sisters, if I still preach circumcision, why am I still being persecuted? In that case the offense of the cross has been removed.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "οφελον και απο κοψονται οι ανα ϲτατουντεϲ υ μαϲ",
+          "translation": "I wish those who are disturbing you would go all the way and emasculate themselves!",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "υ μειϲ γαρ επ ελευ θερια εκληθητε αδελφοι μονον μη την ελευθερι αν ειϲ αφορμην τη ϲαρκι αλλα δια τηϲ αγαπηϲ δου λευεται αλληλοιϲ",
+          "translation": "For you were called to freedom, brothers and sisters. Only don't use your freedom as an opportunity for the flesh, but serve one another through love.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ο γαρ παϲ νομοϲ εν ενι λογω πε πληρωται εν τω αγαπηϲειϲ τον πληϲιον ϲου ωϲ ϲεαυτον",
+          "translation": "For the whole law is fulfilled in one statement: \"Love your neighbor as yourself.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ει δε αλληλουϲ δα κνετε και καται ϲθιετε βλεπετε μη ϋπ ϋπο αλληλων αναλωθητε",
+          "translation": "But if you bite and devour one another, watch out or you'll be consumed by one another.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "λεγω δε πν ι περι πατειτε και επιθυ μιαν ϲαρκοϲ ου μη τελεϲητε",
+          "translation": "I say then: walk by the Spirit and you won't gratify the desires of the flesh.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "η γαρ ϲαρξ επιθυμει κα τα του πνϲ το δε πν α κατα τηϲ ϲαρκοϲ ταυ τα γαρ δε αντικειται αλληλοιϲ ϊνα μη α εαν θελητε ταυ τα ποιητε",
+          "translation": "For the flesh desires what is against the Spirit, and the Spirit what is against the flesh. They're opposed to each other, so that you don't do what you want.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ει δε πν ι αγεϲθε ουκ εϲτε ουκετι εϲτε ϋπο νομον",
+          "translation": "But if you're led by the Spirit, you're not under the law.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "φανερα δε εϲτιν τα εργα τηϲ ϲαρκοϲ ατινα εϲτιν μοιχια πορνια ακαθαρϲια αϲελγια",
+          "translation": "Now the works of the flesh are obvious: sexual immorality, impurity, indecency,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ειδωλολατρεια ︴ φαρμακια εχθραι εριϲ ζηλοι θυμοι εριθειαι διχοϲταϲιαι αιρεϲιϲ",
+          "translation": "idolatry, sorcery, hatreds, strife, jealousy, outbursts of anger, selfish ambition, dissensions, factions,",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "φθονοι μεθαι κωμαι · και τα ο μοια τουτοιϲ ἁ προ λεγω ϋμιν καθωϲ ειπον κ(αι) προειπον οτι οι τα τοι αυτα πραϲϲοντεϲ βαϲιλιαν θυ ου κλη ρονομηϲουϲιν",
+          "translation": "envy, drunkenness, carousing, and things like these. I warn you as I did before: those who practice such things won't inherit the kingdom of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ο δε καρποϲ του πνϲ εϲτιν αγαπη χαρα ειρηνη μακροθυμια χρηϲτοτηϲ αγαθωϲυνη πιϲτιϲ",
+          "translation": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "πραϋτηϲ εγκρατεια · κατα τ ω τοιουτων ουκ ε ϲτιν νομοϲ",
+          "translation": "gentleness, and self-control. Against such things there is no law.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "οι δε του κυ χυ ιυ την ϲαρ κα εϲταυρωϲαν ϲυν τοιϲ παθημα ϲι και ταιϲ επιθυμι αιϲ",
+          "translation": "And those who belong to Christ Jesus have crucified the flesh with its passions and desires.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "ει ζωμεν πν ι πν ι και ϲτοιχωμεν",
+          "translation": "If we live by the Spirit, let's also walk by the Spirit.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "μη γινωμεθα κενοδοξοι αλλη λουϲ προκαλουμε νοι προκαλου [1 chars] αλληλοιϲ φθο νουντεϲ",
+          "translation": "Let's not become conceited, provoking one another, envying one another.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "αδελφοι εαν και προλημφθη αν θρωποϲ εν τινι παραπτωματι ϋ μιϲ οι πνι κοι κα ταρτιζετε τον τοιου τον εν πν ι πραυ τητοϲ ϲκοπων ϲε αυτον μη και ϲυ πιραϲθηϲ",
+          "translation": "Brothers and sisters, if someone is caught in any transgression, you who are spiritual should restore such a person in a spirit of gentleness — but watch yourself, so that you won't also be tempted.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "αλληλων τα βαρη βαϲταϲετε βαϲταζετε και ου τωϲ αναπληρω ϲατε τον νομον του χυ",
+          "translation": "Carry one another's burdens, and in this way you'll fulfill the law of Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ει γαρ δοκει τιϲ ει ναι τι μηδεν ω φρεναπατα εαυτ ο",
+          "translation": "For if anyone thinks they're something when they're nothing, they deceive themselves.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "το δε εργον εαυτου δοκιμαζετω εκα ϲτοϲ και τοτε ειϲ εαυτον μονον το καυχημα εξει και ουκ ειϲ τον ε τερον",
+          "translation": "Each person should test their own work, and then they'll have reason to boast in themselves alone, not in comparison to someone else.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "εκαϲτοϲ γαρ το ϊδιον φορτι ο βαϲταϲει",
+          "translation": "For each person will carry their own load.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "κοινω νειτω δε ο κατη χουμενοϲ τον λο γον τω κατηχο υ τι εν παϲιν αγα θοιϲ ·",
+          "translation": "The one who is taught the word should share all good things with the teacher.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "μη πλαναϲθε θϲ ου μυκτηριζετε ο γαρ εαν ϲπειρη ανθρωποϲ τουτο και θεριϲει",
+          "translation": "Don't be deceived: God isn't mocked. For whatever a person sows, they'll also reap.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "οτι ο ϲπιρων ειϲ την ϲαρκα εαυτου εκ τηϲ ϲαρκοϲ [1 chars] οϲ θεριϲι ϲει θεριϲει φθοραν ο δε ϲπιρων ειϲ το ε [1 chars] πν α εκ του πν ϲ θεριϲι ζωην αιωνιον",
+          "translation": "Because the one who sows to the flesh will from the flesh reap destruction, but the one who sows to the Spirit will from the Spirit reap eternal life.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "το δε καλον ποιο υ τεϲ μη εγκακω μεν καιρω [1 chars] ω γαρ ϊ διω θεριϲωμεν μη εκλυομενοι",
+          "translation": "Let's not grow weary in doing good, for at the right time we'll reap a harvest — if we don't give up.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "αρα ουν ωϲ καιρ ο εχωμεν εργαζω μεθα το αγαθον προϲ πανταϲ μα λιϲτα δε προϲ τουϲ οικειουϲ τηϲ πιϲτε ωϲ",
+          "translation": "So then, as we have opportunity, let's do good to everyone, and especially to those who belong to the family of faith.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ϊδετε πηλικοιϲ ϋμ ι γραμμαϲιν εγραψα τη εμη χειρι",
+          "translation": "See what large letters I'm writing to you with my own hand!",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "οϲοι θελουϲιν ευπρο ϲωπηϲαι εν ϲαρκι ουτοι αναγκαζου ϲιν ϋμαϲ περιτε μνεϲθε μονον ϊνα τω ϲταυρω του χυ μη διωκωνται",
+          "translation": "Those who want to make a good impression in the flesh are the ones who are trying to compel you to be circumcised — only so that they won't be persecuted for the cross of Christ.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ουδε γαρ οι περιτε μνομενοι αυτοι νομον φυλαϲϲου ϲιν αλλα θελουϲ ι ϋμαϲ περιτεμνε ϲθαι ϊνα εν τη ϋ μετερα ϲαρκι καυ χηϲωνται",
+          "translation": "For even those who are circumcised don't keep the law themselves, but they want you to be circumcised so that they can boast in your flesh.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "εμοι δε μη γενοι το καυχαϲθαι ει μη εν τω ϲταυρω του κυ ημων ιυ χυ δι ου εμοι κοϲμοϲ εϲταυρωται καγω κοϲμω",
+          "translation": "But far be it from me to boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "εν γαρ χω ιυ ουτε πε ριτομη τι εϲτιν ειϲχυϊ ου τε ακροβυϲτια αλ λα καινη κτιϲιϲ",
+          "translation": "For neither circumcision nor uncircumcision matters — but a new creation.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "κ(αι) οϲοι τω κανονι του τω ϲτοιχηϲουϲ ι ϊρηνη επ αυτουϲ και ελεοϲ και επι τον ιηλ του θυ",
+          "translation": "Peace and mercy be on all who follow this rule — on the Israel of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "του λοιπου κοπουϲ μοι μηδιϲ παρεχε τω εγω γαρ τα ϲτιγ ματα του κυ ιυ χυ εν τω ϲωματι μου βαϲταζω",
+          "translation": "From now on, let no one cause me trouble, for I carry the marks of Jesus on my body.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "η χαριϲ του κυ ιυ χυ μετα του πν ϲ ϋμ ω αδελφοι αμην ⌇﹏",
+          "translation": "Brothers and sisters, the grace of our Lord Jesus Christ be with your spirit. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}

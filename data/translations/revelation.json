@@ -1,0 +1,2636 @@
+{
+  "book": "Revelation",
+  "slug": "revelation",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "αποκαλυψιϲ αποκάλυψιϲ ιυ χυ ην εδωκεν ήν έδωκεν αυτω ο θϲ δειξαι τοιϲ αγι οιϲ δουλοιϲ αυτου α ά δει γε> νεϲθαι εν ταχει ταχὲι και εϲημανεν α ποϲτειλαϲ δια του αγγελου αυτου τω δουλω αυτου ϊωα νει ϊω α νη",
+          "translation": "The revelation of Jesus Christ, which God gave him to show his servants what must soon take place. He made it known by sending his angel to his servant John,",
+          "footnotes": [
+            {
+              "id": "revelation-1-1-interpretation",
+              "text": "\"Revelation\" (ἀποκάλυψις) means an unveiling or disclosure.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "original": "οϲ εμαρτυρη> ϲεν εμαρτύρηϲεν τον λογον του θυ και την μαρτυ ριαν ιυ χυ οϲα ϊδ ε",
+          "translation": "who testified to God's word and the testimony of Jesus Christ — everything he saw.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "μακαριοϲ μακάριοϲ ο αναγι νωϲκων και οι α> κουοντεϲ τον λο γον τηϲ προφητι αϲ και τηρουντεϲ τα εν αυτη γεγραμ μενα γεγραμμένα ο γαρ καιροϲ εγγυϲ",
+          "translation": "Blessed is the one who reads aloud and those who hear the words of this prophecy and keep what is written in it, because the time is near.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ϊωανηϲ ϊωάνηϲ ταιϲ επτα εκκληϲιαιϲ ταιϲ εν τη αϲια χαριϲ χάριϲ υμιν και ειρηνη απο ο ων ῶν και ο ην ῆν και ο ερχομενοϲ ερχο'μενοϲ και απο των επτα π ν ατων των ε> νωπιον ενώπιον του θρο νου αυτου",
+          "translation": "John, to the seven churches in Asia: Grace and peace to you from the one who is and who was and who is coming, and from the seven spirits before his throne,",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και α πο ιυ χυ ο μαρτυϲ μάρτυϲ ο πιϲτοϲ ο πρωτοτοκοϲ τ ω νεκρων και ο αρχ ω των βαϲειλειων βαϲειλεων βαϲειλεων τηϲ γηϲ τω αγαπωντι ημαϲ και λυϲαντι ημαϲ εκ των αμαρτιων ημων εν τω αιμα τι αίματι αυτου",
+          "translation": "and from Jesus Christ, the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth. To the one who loves us and loosed us from our sins by his blood —",
+          "footnotes": [
+            {
+              "id": "revelation-1-5-variant",
+              "text": "Codex Sinaiticus reads \"loosed\" (λύσαντι), not \"washed\" (λούσαντι).",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "και εποιη ϲεν βαϲιλει α κ(αι) ϊερειϲ τω θω και πρ ι αυτου αυτω αυτῶ η δοξα και το κρατοϲ ειϲ τ ο αιωνα τουϲ αιωναϲ των αιων ω αμην ·",
+          "translation": "and made us a kingdom, priests to his God and Father — to him be glory and power forever and ever. Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ϊδου ερχεται ϊδὸυ έρχεται μετα των νεφελ ω και οψονται όψονται αυτον παρ παϲ οφθαλμοϲ και οιτινεϲ αυτον εξεκεντη ϲαν και κοψονται επ αυτον παϲαι αι φυ λαι τηϲ γηϲ ναι νὰι αμ η αμ ὴ",
+          "translation": "Look! He is coming with the clouds, and every eye will see him — even those who pierced him — and all the peoples of the earth will mourn over him. So it will be! Amen.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εγω εγὼ ειμι το αλφα άλφα και εγω και το ω αρχη και τελοϲ αρχη και τελοϲ αρχη και τέλοϲ λεγει κϲ ο θϲ ο ων ῶν και ο ην ῆν και ο ερχομενοϲ ερχόμενοϲ ο παν τοκρατωρ",
+          "translation": "\"I am the Alpha and the Omega,\" says the Lord God, the one who is and who was and who is coming, the Almighty.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "εγω ιανηϲ ιωανηϲ ιωαννηϲ ο αδελφοϲ ϋμων και ϲυνκοι νωνοϲ ϲυνκοινὼνὸϲ εν τη θλι ψι και βαϲιλεια και ϋπομονη ϋπομονὴ ενι εν ιυ χω εγε νομην εν τη νη ϲω τη καλουμενη πατμω δια τον λογ ο του θυ και δια την μαρτυριαν μαρτυρίαν ιυ χυ",
+          "translation": "I, John — your brother and partner in the suffering, kingdom, and endurance that come from being in Jesus — was on the island called Patmos because of God's word and the testimony of Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "εγε νομην εν πν ι εν τη κυριακη ημερα και ηκουϲα ήκουϲα οπιϲω μου φωνην μεγα λην ωϲ ϲαλπιγγοϲ",
+          "translation": "I was in the Spirit on the Lord's day, and I heard behind me a loud voice like a trumpet,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "λεγουϲηϲ λεγουϲαν λέγουϲαν ο βλεπιϲ γραψον ειϲ το βιβλιον και πεμ ψον ταιϲ επτα εκκλη ϲιαιϲ ειϲ εφεϲον έφεϲον και ειϲ περγαμον πέργαμον και ειϲ θυατειρα και ειϲ ζμυρναν ζμύρναν και ειϲ φιλαδελφι α και ειϲ λαοδικιαν κ(αι) ειϲ ϲαρδιϲ κ(αι) ειϲ ϲάρδιϲ",
+          "translation": "saying, \"Write what you see in a scroll and send it to the seven churches: to Ephesus, to Smyrna, to Pergamum, to Thyatira, to Sardis, to Philadelphia, and to Laodicea.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και επεϲτρεψα βλε πιν βλεπειν την φωνην ητιϲ ελαλει μετ εμ(ου) και επιϲτρεψαϲ ει δον ϊδον επτα λυχνιαϲ χρυϲαϲ",
+          "translation": "I turned to see whose voice was speaking to me, and when I turned I saw seven gold lampstands.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και μεϲον των επτα λυχνι ω ομοιον υν α νου ενδεδυμενον ποδηρη και περιε ζωϲμενον προϲ τοιϲ μαϲθοιϲ ζωνην χρυϲαν χρυϲην",
+          "translation": "In the middle of the lampstands I saw someone like a son of man, dressed in a robe reaching down to his feet, with a gold belt around his chest.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "η δε κεφα λη αυτου και αι τρι χεϲ λευκαι ωϲ ερι ο λευκον ωϲ χιων και οι οφθαλμοι αυτου ωϲ φλοξ πυ ροϲ",
+          "translation": "His head and hair were white as white wool, white as snow, and his eyes were like a blazing fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και οι ποδεϲ αυ του ομοιοι ωϲ εν κα μινω πεπυρωμε νω και η φωνη αυ του ωϲ φωνη ϋδα των πολλων",
+          "translation": "His feet were like polished bronze refined in a furnace, and his voice sounded like the roar of rushing water.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ειχεν εχων εν τη δεξια χειρι αυτου αϲτε ραϲ επτα και εκ του ϲτοματοϲ αυτου ρομφαια διϲτομοϲ οξεια εκπορευομε νη και η οψιϲ αυτου φαινει ωϲ ο ηλιοϲ εν τη δυναμει αυ του",
+          "translation": "In his right hand he held seven stars, and out of his mouth came a sharp, double-edged sword. His face was shining like the sun at full strength.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και οτε ειδον αυτον επεϲα ειϲ τουϲ ποδαϲ αυτου ωϲι ωϲει νε κροϲ και επεθηκ ε την δεξιαν αυτου χειρα επ εμε λεγων μη φοβου εγω ειμι ο πρωτοϲ και ο εϲχατοϲ",
+          "translation": "When I saw him, I fell at his feet like a dead man. But he placed his right hand on me and said, \"Don't be afraid. I am the first and the last,",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "κ(αι) ο ζων και εγενομην νεκροϲ και ι δου ζων ειμι ειϲ τουϲ αιωναϲ των αιωνων αμην και εχω ταϲ κλειϲ του θανα του και του αδου",
+          "translation": "the living one. I was dead, and look — I am alive forever and ever. And I hold the keys to death and the grave.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "γραψον ουν α ειδεϲ και α ειϲιν και α δει μελλειν μελλει γενεϲθαι γεινεϲθαι μετα ταυτα",
+          "translation": "So write down what you have seen, what is now, and what will take place after this.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "το μυϲτη ριον των επτα αϲτε ρων ουϲ ειδεϲ επι τηϲ δεξιαϲ μου κ(αι) ταϲ επτα λυχνιαϲ ταϲ χρυϲαϲ οι ε πτα αϲτερεϲ αγγελοι των επτα εκκληϲι ων και ειϲιν και αι επτα λυχνι αι επτα εκκληϲιαι ειϲιν",
+          "translation": "This is the hidden meaning of the seven stars you saw in my right hand and the seven gold lampstands: the seven stars are the messengers of the seven churches, and the seven lampstands are the seven churches.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "τω αγγελω τηϲ εν ε φεϲω εκκληϲιαϲ γραψον ταδε λεγει ο κρατων τουϲ επτα αϲτεραϲ εν τη δεξι α αυτου χειρι ο πε ριπατων εν μεϲω των επτα λυχνι ω των χρυϲων",
+          "translation": "\"To the messenger of the church in Ephesus write: This is what the one who holds the seven stars in his right hand, who walks among the seven gold lampstands, says:",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "οιδα τα εργα ϲου και τον κοπον ϲου και τ η υ πομονην ϲου κ(αι) οτι ου δυνη βαϲτα ϲαι κακουϲ και επι ραϲαϲ τουϲ λεγον ταϲ εαυτουϲ αποϲτο λουϲ ειναι και ουκ ειϲιν και ευρεϲ αυτουϲ ψευδειϲ",
+          "translation": "\"I know your actions — your hard work and your endurance. I know you can't tolerate evil people. You have tested those who claim to be apostles but aren't, and you found them to be liars.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και υ πομο νην εχιϲ και θλιψιϲ παϲαϲ και εβαϲτα ϲαϲ δια το ονομα μου και ουκ εκο πιαϲαϲ",
+          "translation": "You have endurance — you've suffered for my name and haven't given up.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "αλλα εχω κατα ϲου οτι την α γαπην ϲου την πρω την αφηκεϲ αφηκαϲ",
+          "translation": "But I hold this against you: you've abandoned the love you had at first.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "μνη μονευε ουν ποθ ε πεπτωκεϲ και με τανοηϲον και τα πρωτα εργα ποιηϲ ο ει δε μη ερχομαι ϲοι και κινηϲω τ η λυχνιαν ϲου εκ του τοπου ε α μη μετανοηϲηϲ",
+          "translation": "Remember how far you've fallen. Turn back and do the things you did at first. If you don't, I'm coming to you and will remove your lampstand from its place — unless you change.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "αλλα τουτο εχειϲ οτι μιϲειϲ τα εργα των νικολαϊτων α καγω μιϲω",
+          "translation": "But you have this going for you: you hate the practices of the Nicolaitans, which I also hate.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ο ε χων ουϲ ακουϲα τω τι το πνα λεγει ταιϲ εκκληϲιαιϲ τω νεικωντι νικωντι δω ϲω φαγειν εκ του ξυ λου τηϲ ζωηϲ ο εϲτ ι εν μεϲω τω παραδιϲω του θυ",
+          "translation": "\"Anyone who has ears should listen to what the Spirit says to the churches. To the one who conquers, I will give the right to eat from the tree of life that stands in God's paradise.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και τω αγγε λω τηϲ ε εν ζμυρνη εκκληϲιαϲ γραψ ο ταδε λεγει ο πρωτοϲ και ο εϲχατοϲ οϲ ε γενετο νεκροϲ και εζηϲεν",
+          "translation": "\"Write to the messenger of the church in Smyrna: This is what the first and the last says — the one who was dead and came back to life:",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "οιδα ϲου τα εργα και την θλι ψιν και την πτωχι αν αλλα πλουϲιοϲ ει και την βλαϲφημι αν την εκ των λεγον των ϊουδαιων ϊουδαιουϲ ει ναι εαυτουϲ και ου κ ειϲιν αλλα ϲυνα γωγη του ϲατανα ειϲιν",
+          "translation": "\"I know your suffering and your poverty — yet you are rich. I also know the slander from those who claim to be Jews but aren't — they are a synagogue of Satan.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "μηδεν φοβου α μελλειϲ παϲχειν ϊδου μελλει βαλλε ι βαλιν εξ υμων ο διαβολοϲ ειϲ φυλα κην ϊνα πιραϲθη ται και εξεται θλι ψιν ημερων δεκα γινου πιϲτοϲ αχρι θανα του και δωϲω ϲοι τ ο ϲτεφανον τηϲ ζωηϲ",
+          "translation": "Don't be afraid of what you're about to suffer. Look — the devil is about to throw some of you into prison so you'll be tested, and you'll have suffering for ten days. Be faithful until death, and I will give you the crown of life.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ο εχων ουϲ ακουϲατω τι το π να λεγει ταιϲ εκ κληϲιαιϲ ο νικ ω ου μη αδικηθη εκ του θανατου του δευτερου",
+          "translation": "\"Anyone who has ears should listen to listen to what the Spirit says to the churches. The one who conquers won't be harmed by the second death.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και τω αγγελω τηϲ εν περ γαμω εκκληϲιαϲ γρα ψον ταδε λεγει ο ε χων την ρομφαι αν την διϲτομον την οξειαν",
+          "translation": "\"Write to the messenger of the church in Pergamum: This is what the one who has the sharp, double-edged sword says:",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "οιδα που κατοικειϲ οπου ο θρονοϲ του ϲατα να και κρατειϲ το ο νομα ϲου μου και ου κ ηρνηϲω την πι ϲτιν μου εν ταιϲ η μεραιϲ εν ταιϲ αιϲ αν τιπαϲ αντειπαϲ ο μαρτυϲ μου ο πιϲτοϲ οϲ απεκτ α θη παρ υμιν οπου ο ϲαταναϲ κατοικει",
+          "translation": "\"I know where you live — where Satan's throne is. Yet you hold onto my name, and you didn't deny your faith in me even in the days when Antipas, my faithful witness, was killed in your city, where Satan lives.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "αλλ εχω κατα ϲου ολιγα οτι ε χειϲ εκει κρατουνταϲ την διδαχην βαλα αμʼ οϲ εδιδαϲκεν τον δαλακ τον βαλακ βαλειν βαλλειν ϲκανδαλ ο ενωπιον των ϋϊ ων ϊ ϲλ ʼ φαγειν ειδω λοθυτα και πορνευ ϲαι",
+          "translation": "\"But I have a few things against you: you have some there who hold to the teaching of Balaam, who taught Balak to set a trap for the people of Israel, leading them to eat food sacrificed to idols and to commit sexual sin.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ουτωϲ εχειϲ και ϲυ κρατουνταϲ την διδαχην των νι ομοιωϲ",
+          "translation": "In the same way, you also have some who hold to the teaching of the Nicolaitans.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "μετανοηϲον ει δε μη ερχομαι ϲυ ϲοι τα χυ και πολεμηϲω μετ αυτων εν τη ρομφαια του ϲτο ματοϲ μου",
+          "translation": "Repent, then! If you don't, I will come to you quickly and fight against them with the sword of my mouth.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ο εχ ω ουϲ ακουϲατω τι το πνα λεγι ταιϲ εκκλη ϲιαιϲ τω νικωντι δωϲω εκ του μαν να του κεκρυμμε νου και ψηφον λευκην και επι τ η ψηφον ονομα και νον γεγραμμεν ο ο ουδειϲ οιδεν ει μη ο λαμβανων",
+          "translation": "\"Anyone who has ears should listen to listen to what the Spirit says to the churches. To the one who conquers, I will give hidden manna. I will also give a white stone, and on that stone is written a new name that no one knows except the one who receives it.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και τω αγγελω τηϲ εν θυατειροιϲ εκ κληϲιαϲ γραψον ταδε λεγει ο ϋϊοϲ του θυ ο εχων τουϲ οφθαλμουϲ αυτου ωϲ φλοξ πυροϲ κ(αι) οι ποδεϲ αυτου ο μοιοι χαλκολιβα νω ·",
+          "translation": "\"Write to the messenger of the church in Thyatira: This is what the Son of God says — the one whose eyes are like a blazing fire and whose feet are like polished bronze:",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "οιδα ϲου τα ερ γα και την αγαπην και την πιϲτιν και διακονιαν κ(αι) την διακονιαν κ(αι) την υ πομονην και τα εργα ϲου τα ε ϲχατα εϲϲχατα πλειονα τ ω πρωτων",
+          "translation": "\"I know your actions — your love, your faithfulness, your service, and your endurance. Your recent works are even better than your first ones.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "αλλ εχω κατα ϲου πολυ οτι αφειϲ αφηκαϲ την γυναι κα ϊαζαβελ ϊεζαβελʼ η λεγου ϲα την λεγουϲα την λεγουϲαν αυτην προφη τειαν προφητιν προφητιν ειναι και διδαϲκει και πλα να τουϲ εμουϲ δουλουϲ πορνευ ϲαι και φαγειν ει δωλοθυτα",
+          "translation": "But I have this against you: you tolerate that woman Jezebel, who claims to be a prophetess. She misleads my servants into sexual sin and into eating food sacrificed to idols.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και ε δωκα αυτη χρον ο ϊνα μετανοηϲη κ(αι) ου θελι μετανοηϲαι εκ τηϲ πορνιαϲ ταυ τηϲ",
+          "translation": "I gave her time to repent, but she refuses to turn away from her sexual sin.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ϊδου καλω βαλω αυ την ειϲ κλινην κ(αι) τουϲ μοιχευον ταϲ μετ αυτηϲ ειϲ θλιψιν μεγαλην εαν μη μετανο ηϲουϲιν εκ των εργων αυτηϲ",
+          "translation": "Look — I am throwing her onto a sickbed, and those who commit adultery with her into great suffering — unless they repent of her ways.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και τα τεκνα αυτηϲ α ποκτενω εν θα νατω και γνωϲ ο ται παϲαι αι εκκλη ϲιαι οτι εγω ειμι ο ερευνων νεφρουϲ και καρδιαϲ και δω ϲω υ μιν εκαϲτω κατα τα εργα υμων",
+          "translation": "I will strike her children dead. Then all the churches will know that I am the one who examines minds and hearts, and I will repay each of you based on what you've done.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "υμιν δε λεγω τοιϲ εν λοιποιϲ τοιϲ εν θυατειροιϲ οϲοι θυατειρη οι ουκ θυατειροιϲ οϲοι ουκ εχουϲιν την δι δαχην ταυτην οι τινεϲ ουκ εγνω ϲαν τα βαθη του ϲα τανα ωϲ λεγουϲιν ου βαλω εφ υμαϲ αλλο βαροϲ",
+          "translation": "But I say to the rest of you in Thyatira — those who don't follow this teaching, who haven't learned what some call 'the deep secrets of Satan' — I won't put any other burden on you.",
+          "footnotes": []
+        },
+        {
+          "verse": 25,
+          "original": "πλ η ο εχεται κρατηϲα ται αχρι ου αν ηξω",
+          "translation": "Just hold on to what you have until I come.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "και ο νικων και ο τηρων αχρι τελοιϲ τελουϲ τα εργα μου δωϲω αυτω εξουϲιαν επι των εθνων",
+          "translation": "\"To the one who conquers and keeps doing my works until the end, I will give authority over the nations —",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "και ποιμανι αυτουϲ εν ραβδω ϲιδηρα ωϲ τα ϲκευη τα κε ραμικα ϲυντριβε ται",
+          "translation": "they will rule them with an iron rod, shattering them like clay pots.",
+          "footnotes": []
+        },
+        {
+          "verse": 28,
+          "original": "ωϲ καγω ειλη φα παρα του πατροϲ μου και δωϲω αυ τω τον αϲτερα τ ο πρωϊνον ·",
+          "translation": "I will also give that person the morning star.",
+          "footnotes": []
+        },
+        {
+          "verse": 29,
+          "original": "ο εχ ω ουϲ ακουϲατω τι το πν α λεγι ταιϲ εκκληϲιαιϲ ·",
+          "translation": "\"Anyone who has ears should listen to listen to what the Spirit says to the churches.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και τω αγγελω τηϲ ε ϲαρδεϲιν εκκλη ϲιαϲ γραψον ταδε λεγει ο εχων τα ε πτα π ν ατα του θυ και τουϲ επτα αϲ τεραϲ οιδα ϲου τα εργα οτι ονομα ε χειϲ οτι ζηϲ και νε κροϲ ει",
+          "translation": "\"Write to the messenger of the church in Sardis: This is what the one says who has the seven spirits of God and the seven stars: I know your actions — you have a reputation of being alive, but you are dead.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "γινου εγρη γορων γρηγορων γρηγορων και ϲτηρι ξον τα λοιπα α ε μελλον αποθα νιν ου γαρ ευρηκα ϲου τα εργα πεπλη ρωμενα ενωπι ον του θυ μου",
+          "translation": "Wake up and strengthen what remains — what is about to die. I haven't found your actions fully done in the sight of my God.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "μνη μονευε πωϲ ει ληφαϲ και ηκουϲαϲ και τηρει και μετα νοηϲον εαν ουν μη μετανοηϲηϲ γρηγορηϲηϲ γρηγορηϲηϲ ηξω επι ϲε ωϲ κλεπτηϲ και ου μη γνωϲη οιαν ωραν ηξω επι ϲε",
+          "translation": "So remember what you received and heard — keep it and repent. If you don't wake up, I will come like a thief, and you won't know what hour I will come.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "αλλα εχιϲ ολιγα ο νοματα εν ϲαρδεϲ ι α ουκ εμολυναν τα ϊματια αυτων και περιπατηϲουϲ ι μετ εμου εν λευκοιϲ οτι αξιοι ειϲιν",
+          "translation": "But you do have a few people in Sardis who haven't soiled their clothes. They will walk with me dressed in white, because they are worthy.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "ο νι κων ουτωϲ ουτοϲ περι βαλειται εν ιματι οιϲ λευκοιϲ και ου μη εξαλιψω το ο νομα αυτου εκ τηϲ βιβλου τηϲ ζω ηϲ και ομολογηϲω το ονομα αυτου εμπροϲθεν του πατροϲ μου και ενωπιον των αγ γελων αυτου",
+          "translation": "The one who conquers will be dressed in white clothes. I won't erase their name from the book of life, and I will acknowledge them before my Father and his angels.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ο ε χων ουϲ ακουϲατω τι το π ν α λεγει ταιϲ εκκληϲιαιϲ",
+          "translation": "\"Anyone who has ears should listen to listen to what the Spirit says to the churches.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και τω αγγελω τηϲ εν φι λαδελφια εκκλη ϲιαιϲ εκκληϲιαϲ γραψον ταδε λεγει ο αληθινοϲ ο αγιοϲ ο εχων τ η κλιν του δα δ και ανυγων και ουδιϲ κλιϲει και κλει ω και κλει ω και ουδιϲ ανυξει",
+          "translation": "\"Write to the messenger of the church in Philadelphia: This is what the holy and true one says — the one who holds the key of David. He opens and no one can close; he closes and no one can open:",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "οιδα τα εργα ϲου ϊ δου δεδωκα ενω πιον ϲου θυραν ηνεωγμενην ην ουδειϲ δυνα ται κλειϲαι οτι μι κραν εχειϲ δυνα μιν και ετηρηϲαϲ μου τον λογον και ουκ ηρνηϲω το ονομα μου",
+          "translation": "\"I know your actions. Look — I have placed before you an open door that no one can close. You have only a little strength, but you have kept my word and haven't denied my name.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ϊδου δεδωκα εκ τηϲ ϲυ ναγωγηϲ ϲ υ αγωγηϲ του ϲατα να των λεγοντ ω εαυτουϲ ϊουδαιουϲ ειναι και ουκ ειϲιν αλλα ψευδονται ϊ δου ποιηϲω αυτουϲ ϊνα ηξουϲιν και προϲκυνηϲουϲ ι ενωπιον των πο δων ϲου και γνω ϲη οτι εγω ηγαπη ϲα ϲε",
+          "translation": "I will make those who belong to Satan's synagogue — those who falsely claim to be Jews — come and bow down at your feet. Then they will know that I have loved you.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "οτι ετηρηϲαϲ τον λογον τηϲ υ πο μονηϲ μου καγω ϲε εκ τηϲ ωραϲ του πι ραϲμου τηϲ μελλου ϲηϲ ερχεϲθε επι τηϲ οικουμενηϲ οληϲ πιραϲαι τουϲ κατοικουνταϲ ε πι τηϲ γηϲ",
+          "translation": "Because you have kept my command to endure, I will also keep you safe from the hour of testing that is about to come upon the whole world — a test for everyone living on earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ερχομαι ταχυ κρατι ο εχιϲ ϊνα μηδιϲ λαβη τ ο ϲτεφανον ϲου",
+          "translation": "I am coming soon. Hold on to what you have, so that no one takes your crown.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ο νικων ποιηϲω αυτω αυτον ϲτυλον εν τω ναω του θυ μου και εξω ου μη εξελ θη και γραψω επ αυ τον το ονομα του θυ μου και το ονο μα τηϲ πολεωϲ του θυ μου τηϲ κενηϲ ϊ ηλμ η καταβαινου ϲα τηϲ καταβαινουϲηϲ εκ του ουρανου θυ ουρανου απο του θυ μου και το ονομα μου το καινον",
+          "translation": "The one who conquers, I will make a pillar in the temple of my God — and they'll never leave it. I will write on them the name of my God and the name of the city of my God (the new Jerusalem that comes down from heaven from my God), and my own new name.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ο εχων ουϲ ακουϲατω τι το πνα λεγι ταιϲ εκκληϲι αιϲ ·",
+          "translation": "\"Anyone who has ears should listen to listen to what the Spirit says to the churches.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και τω αγγελω τηϲ εν λαοδικια εκκληϲιαϲ γραψ ο ταδε λεγει ο αμ η και ο μαρτυϲ ο πι ϲτοϲ και ο αληθι νοϲ και η αρχη τηϲ εκκληϲιαϲ κτιϲεωϲ του θυ",
+          "translation": "\"Write to the messenger of the church in Laodicea: This is what the Amen says — the faithful and true witness, the source of God's creation:",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "οιδα ϲου τα εργα ο τι ουτε ψυχροϲ ει ου τε ζεϲτοϲ οφελοϲ οφελ ο ψυχροϲ ηϲ η ζεϲτοϲ",
+          "translation": "\"I know your actions — you aren't cold or hot. I wish you were cold or hot!",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "οτι ουτωϲ χλιεροϲ χλιαροϲ ει και ουτε ζεϲτροϲ ζεϲτοϲ ουτε ψυχροϲ ει ει ουτε ψυχροϲ παυ ϲε μελλω ϲε εμιν εκ του ϲτοματοϲ ϲου μου",
+          "translation": "So because you are lukewarm — neither hot nor cold — I'm going to spit you out of my mouth.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "οτι λεγειϲ πλου ϲιοϲ ειμι και πε πλουτηκα και ου δενοϲ χριαν εχω και ουκ οιδαϲ ο τι ταλαιπωροϲ ει ϲυ ει ο ταλαιπωροϲ και ελεεινοϲ και και πτωχοϲ και τυφλοϲ και γυμνοϲ",
+          "translation": "You say, 'I'm rich. I'm well off. I don't need a thing.' But you don't realize that you're the one who is miserable, pitiful, poor, blind, and naked.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ϲυμ ϲοι αγορα ϲαι παρ εμου χρυϲι ον πεπυρωμενον εκ πυροϲ ϊνα πλου τηϲηϲ και ϊματια λευ κα ϊνα περιβαλη κ(αι) μη φανερωθη η αιϲχυνη τηϲ γυμνο τητοϲ ϲου και κολ λυριον ενχριϲαι τουϲ οφθαλμουϲ ϲου ϊνα βλεπηϲ",
+          "translation": "I advise you to buy from me gold refined by fire so you can be truly rich, and white clothes to cover your shameful nakedness, and salve for your eyes so you can see.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "εγω ο ϲουϲ αν φιλω ελεγ χω και παιδευω ζηλωϲον ουν και μετανοηϲον",
+          "translation": "I discipline and train everyone I love — so be serious and repent.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ϊδου εϲτηκα επι την θυ ραν και κρουω εαν τιϲ ακουϲη τηϲ φω νηϲ μου και ανοι ξω την θυραν και ειϲελευϲομαι προϲ αυτον και διπνη ϲω μετ αυτου και αυτοϲ μετ εμου",
+          "translation": "Look — I'm standing at the door, knocking. If anyone hears my voice and opens the door, I'll come in and eat with them, and they with me.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "ο νικων δωϲω αυ τω καθιϲαι μετ εμ(ου) εν τω θρονω μου ωϲ καγω ενικηϲα και εκαθιϲα μετα του πρϲ μου εν τω θρονω αυτου",
+          "translation": "To the one who conquers, I will give the right to sit beside me on my throne, just as I conquered and sat down beside my Father on his throne.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "ο ε χων ουϲ ακουϲατω τι το πνα λεγει ταιϲ εκκληϲιαιϲ ‾̷‾",
+          "translation": "\"Anyone who has ears should listen to listen to what the Spirit says to the churches.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "μετα ταυτα ϊδον κ(αι) ϊδου θυρα ηνεωγ μενη εν τω ο υνω και ιδου η φωνη η πρωτη ην ηκου ϲα ωϲ ϲαλπιγγοϲ λα λουϲαν μετ εμου λεγων λεγουϲα αναβα ω δε και διξω ϲοι α δι γενεϲθαι μετα ταυτα",
+          "translation": "After this I looked, and there in heaven was an open door. The first voice I heard — speaking to me like a trumpet — said, \"Come up here, and I will show you what must happen after this.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ευθεωϲ δε εγε νομην εν πνι και ϊδου θρονοϲ εκει το εν τω ο υνω και ο επι τον θρονον καθημενοϲ",
+          "translation": "Right away I was in the Spirit. And there in heaven was a throne, with someone sitting on it.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ο καθημενοϲ ομοι οϲ οραϲει λιθω ϊαϲ πιδι και ϲαρδιω και ϊερειϲ ϊρειϲ κυκλοθεν του θρονου ομοιωϲ οραϲι ϲμαραγδινω",
+          "translation": "The one sitting there looked like a jasper stone and a carnelian. Around the throne was a rainbow that looked like an emerald.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "κ(αι) κυ κλοθεν του θρονου θρονουϲ εικοϲι τεϲϲαρεϲ και πρεϲβυτερουϲ καθημενουϲ περι βεβλημενουϲ εν λευκοιϲ και επι ταϲ κεφαλαϲ αυτων ϲτεφανουϲ χρυϲε ουϲ",
+          "translation": "Around the throne were twenty-four other thrones, and on them sat twenty-four elders dressed in white robes, with gold crowns on their heads.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και εκ του θρο νου εκπορευονται αϲτραπαι και φω ναι και βρονται και επτα λαμπαδεϲ πυ ροϲ καιομεναι ε νωπιον του θρο νου α ειϲιν τα επτα πνευματα του θυ",
+          "translation": "Flashes of lightning and rumblings of thunder came from the throne. Seven burning torches blazed in front of the throne — these are the seven spirits of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "κ(αι) ενωπιον του θρονου ωϲ θαλαϲϲα ϋαλινη ομοια κρυ ϲταλλω και εν με ϲω του θρονου και κυκλω του θρονου τεϲϲαρα ζωα γεμον τα οφθαλμων εν προϲθεν και",
+          "translation": "Spread out before the throne was something like a sea of glass, clear as crystal. In the center around the throne were four living creatures, covered with eyes in the front and the back.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και το ζωον το πρω τον ομοιον λεον τι και το δευτερον ζωον ομοιον μο ϲχω και το τριτον ζωον εχον το προ ϲωπον ωϲ ομοι ον ανθρωπω και το τεταρτον ζωον ομοιον αετω πε τομενω",
+          "translation": "The first creature was like a lion, the second like an ox, the third had a face like a human, and the fourth was like a flying eagle.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και τα τεϲ ϲερα ζωα εν εκαϲτ ο αυτων ειχον ανα πτερυγαϲ εξ κυκλο θεν και εϲοθεν εϲωθεν γε μουϲιν οφθαλμ ω και αναπαυϲιν ου χ εξοϲαν ουκ εχουϲιν ημεραϲ και νυκτοϲ λεγον τεϲ αγιοϲ · αγιοϲ · αγιοϲ · αγιοϲ · αγιοϲ · αγιοϲ ˙ αγιοϲ αγιοϲ κϲ ο θϲ παντο κρατωρ · ο ην και ο ων και ο ερχομε νοϲ",
+          "translation": "Each of the four creatures had six wings and was covered with eyes all over — inside and out. Day and night they never stop saying: \"Holy, holy, holy is the Lord God Almighty — who was, and who is, and who is coming.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και οταν δω ϲωϲιν τα ζωα δοξαν και τιμην και ευχαρι ϲτιαν τω καθημε νω επι τω θρονω τω ζωντι ειϲ τουϲ αιωναϲ των αιω νων αμην ·",
+          "translation": "Whenever the creatures give glory, honor, and thanks to the one seated on the throne — the one who lives forever and ever —",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και πε ϲουνται οι εικοϲι τεϲϲαρεϲ πρεϲβυτε ροι ενωπιον του καθημενου επι του θρονου και προϲκυ νηϲουϲιν τω ζ ω τι ειϲ τουϲ αιωναϲ των αιωνων · αμ η και βαλλουϲιν βαλουϲιν τουϲ ϲτεφανουϲ αυτ ω ενωπιον του θρο νου εντεϲ λεγοντεϲ",
+          "translation": "the twenty-four elders fall down before the one on the throne and worship the one who lives forever and ever. They lay down their crowns before the throne, saying:",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "αξιοϲ ει κε ο κϲ και θϲ ημ ω λαβειν την δοξ α και τιμην και την δυναμιν οτι ϲυ ε κτιϲαϲ τα παντα και δια το θελη μα ϲου ηϲαν και εκτιϲθηϲαν",
+          "translation": "\"You are worthy, our Lord and God, to receive glory and honor and power, because you created everything — by your will they existed and were created.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ειδον επι ειτι την δε ξιαν του καθημε νου επι του θρο νου βιβλιον γεγραμμενον εμπροϲθεν και οπιϲθεν και κατε ϲφραγιϲμενον ϲφραγιϲιν πτα επτα",
+          "translation": "And I saw, in the right hand of the one seated on the throne, a scroll — written on both sides and sealed with seven seals.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "κ(αι) ειδον αγγελον κη ρυϲϲοντα ι ϲχυρ ο εν φωνη μεγαλη τιϲ αξιοϲ ανοιξε το βιβλιον και λυϲαι ταϲ ϲφραγιδαϲ αυ του",
+          "translation": "I saw a mighty angel shouting with a loud voice: \"Who is worthy to break the seals and open the scroll?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και ουδειϲ εδυ νατο εν τω ο υνω ουτε επι τηϲ γηϲ α νοιξε το βιβλιον ουτε βλεπειν αυτο",
+          "translation": "But no one in heaven or on earth or under the earth could open the scroll or look inside.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και εκλααν εκλεον πολυ οτι ουδειϲ αξιοϲ ευ ευρεθη ανοιξαι το βιβλιον ουτε βλεπειν αυτο",
+          "translation": "I wept bitterly because no one was found worthy to open the scroll or look inside.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ειϲ εκ των πρεϲβυ τερων λεγει μοι μη κλαιε ϊδου ενικηϲ ε ο λεων εκ τηϲ φυ ληϲ ϊουδα η ριζα δα δ ανοιξαι το βι βλιον και λυϲαι ταϲ επτα ϲφραγιδαϲ αυ του",
+          "translation": "Then one of the elders said to me, \"Stop crying! Look — the Lion of the tribe of Judah, the Root of David, has conquered. He is able to open the scroll and its seven seals.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ειδον εν μεϲω του θρονου και των τεϲϲαρων ζωων και εν μεϲω των πρεϲβυτερων αρνιον εϲτηκωϲ ωϲ εϲφαγμενον εχων κερατα επτα και οφθαλμουϲ ε πτα οι ειϲιν τα επτα πνα τα του θυ απε ϲταλμενα ειϲ πα ϲαν την γην",
+          "translation": "Then I saw, between the throne and the four creatures — with the elders all around — a Lamb that looked like it had been killed. It had seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ηλ θεν και ειληφεν εκ τηϲ δεξιαϲ τηϲ του καθημενου επι του θρονου",
+          "translation": "The Lamb came and took the scroll from the right hand of the one on the throne.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και οτε ελαβεν το βιβλιον τα τεϲϲερα ζωα και οι εικοϲι τεϲϲαρεϲ πρεϲβυτεροι επεϲ α ενωπιον του αρνι ου εκαϲτοϲ εχοντεϲ κιθαραν και φια λαϲ χρυϲεαϲ γεμου ϲαϲ θυμιαματων α ειϲιν αι προϲευχαι των αγιων",
+          "translation": "When the Lamb took the scroll, the four creatures and the twenty-four elders fell down before the Lamb. Each one had a harp and gold bowls filled with incense — which are the prayers of God's people.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και αδου ϲιν ωδην καινην λεγοντεϲ αξιοϲ ει λαβιν το βιβλιον και ανοιξαι ταϲ ϲφρα γιδαϲ αυτου οτι ε ϲφαγηϲ και ηγορα ϲαϲ τω θω ημαϲ εν τω αιματι ϲου εκ πα ϲηϲ φυληϲ και γλωϲ ϲηϲ και λαου και εθνουϲ",
+          "translation": "They sang a new song: \"You are worthy to take the scroll and to open its seals, because you were slaughtered, and with your blood you purchased for God people from every tribe, language, people, and nation.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και εποιη ϲαϲ αυτουϲ τω θω ημων βαϲιλιαν και ϊερατειαν και βα ϲιλευϲουϲιν επι τηϲ γηϲ",
+          "translation": "You have made them a kingdom and priests to our God — and they will rule on the earth.\"",
+          "footnotes": [
+            {
+              "id": "revelation-5-10-variant",
+              "text": "Some manuscripts read \"us\" instead of \"them,\" making the singers identify as the redeemed.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "original": "και ειδον και ηκουϲα ωϲ φωνην αγγελων πολλων κυκλω του θρονου και των ζω ων και των πρεϲ βυτερων και ην ο αριθμοϲ αυτων μυριαδεϲ μυριαδ ω και χιλιαδεϲ χιλια δων",
+          "translation": "Then I looked, and I heard the voices of many angels all around the throne, the creatures, and the elders — numbering tens of thousands, thousands of thousands —",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "λεγοντεϲ φω νη μεγαλη αξιον εϲτιν το αρνιον το εϲφαγμενον λαβιν την δυναμ ι και πλουτον και ϲοφιαν και ϊϲχυν και τιμην και δο ξαν και ευλογιαν",
+          "translation": "saying in a great voice: \"The Lamb who was slaughtered deserves to receive power, wealth, wisdom, strength, honor, glory, and blessing!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και παν κτιϲμα το ε τω ουνω και επι τηϲ γηϲ και τα εν τη θαλαϲϲη και τα εν αυ τοιϲ παντα και η κουϲα λεγονταϲ τω καθημενω επι του θρονου και τω αρνιω η ευλογια και η τιμη και η δοξα παντοκρατο και το κρατοϲ ειϲ τουϲ αιωναϲ των αιωνων ·",
+          "translation": "Then I heard every creature in heaven, on earth, under the earth, and in the sea — everything in all creation — saying: \"To the one seated on the throne, and to the Lamb, be blessing, honor, glory, and power forever and ever!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και τα τεϲϲαρα ζω α ελεγον αμην και οι πρεϲβυτεροι επεϲαν και προϲε κυνηϲαν",
+          "translation": "The four creatures said, \"Amen!\" and the elders fell down and worshiped.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ϊδον οτε ηνυξεν το αρ νιον μιαν εκ των επτα ϲφραγιδων και ηκουϲα ε νοϲ εκ των τεϲϲαρ ω ζωων λεγοντων ωϲ φωνην βροντηϲ ερχου και ϊδε",
+          "translation": "Then I watched as the Lamb opened the first of the seven seals. I heard one of the four creatures say with a voice like thunder, \"Come!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ει δον και ϊδου ϊπποϲ λευκοϲ και ο καθη μενοϲ επ αυτον ο̣ εχων τοξον και ε δοθη αυτω ϲτεφα νοϲ και εξηλθεν νικων και ενικη ϲεν",
+          "translation": "I looked, and there was a white horse. Its rider held a bow. He was given a crown, and he rode out as a conqueror — intent on conquering.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και οτε ηνυξεν την ϲφραγιδα την δευτεραν ηκουϲα του δευτερου ζωου λεγοντοϲ ερχου",
+          "translation": "When the Lamb opened the second seal, I heard the second creature say, \"Come!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ϊδε και ϊδον και ϊδου εξηλθεν αλλοϲ ϊπποϲ πυρροϲ και τω κα θημενω επ αυτον εδοθη αυτω λαβειν την ειρηνην εκ τηϲ γηϲ και εινα αλλη λουϲ ϲφαξωϲιν και εδοθη αυτω μα χαιρα μεγαλη",
+          "translation": "Another horse came out — a fiery red one. Its rider was given power to take peace from the earth, so that people would slaughter each other. He was given a huge sword.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ο τε ηνυξε την ϲφρα γιδα την τριτην η κουϲα του τριτου ζω ου λεγοντοϲ ερχου και ϊδε και ειδον και ϊδου ι πποϲ με λαϲ και ο καθημενοϲ επ αυτον εχων ζυ γον εν τη χιρι αυτου",
+          "translation": "When the Lamb opened the third seal, I heard the third creature say, \"Come!\" I looked, and there was a black horse. Its rider had a scale in his hand.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ηκουϲα ωϲ φω νην εν μεϲω τ ω τεϲϲαρων ζωων λεγουϲαν χοινιξ ϲι του ϲιτου δηναριου και τριϲ χοινικεϲ κριθ ω δηναριου και το ελαιον και τον οι νον μη αδικηϲηϲ",
+          "translation": "Then I heard something like a voice from among the four creatures saying: \"A quart of wheat for a day's wages, and three quarts of barley for a day's wages — but don't damage the olive oil or the wine.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και οτε ηνυξεν τ η ϲφραγιδα την τε ταρτην ηκουϲα φω νην του τεταρτου ζωου λεγοντοϲ ερ χου και ϊδε",
+          "translation": "When the Lamb opened the fourth seal, I heard the fourth creature say, \"Come!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ϊδ ο και ϊδου ϊπποϲ χλω ροϲ + και ο καθημε νοϲ επανω αυτου ονομα αυτω θα νατοϲ και ο αδηϲ ηκολουθι αυτω και εδοθη αυτοιϲ εξουϲια επι το τε ταρτον τηϲ γηϲ αποκτειναι εν ρομφαια και λιμω και θανατω και υ πο των θηρι ω τηϲ γηϲ",
+          "translation": "I looked, and there was a pale horse. Its rider's name was Death, and the Grave followed close behind. They were given power over a quarter of the earth to kill by sword, famine, disease, and the wild animals of the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και οτε η νοιξεν την ϲφρα γιδαν την ε ϲφραγιδα ειδον ϋποκατω του θυϲι ταϲ ψυ χαϲ των ανθρωπ ω των εϲφαγμεν ω δια τον λογον του θυ και δια την μαρ τυριαν και δια την μαρτυριαν ην εϲχ ο ειχ ο",
+          "translation": "When the Lamb opened the fifth seal, I saw under the altar the souls of those who had been slaughtered because of God's word and the testimony they held.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και εκραξαν φωνη μεγαλη λεγοντεϲ εωϲ ποτε ο δεϲπο τηϲ ο αγιοϲ και αλη θινοϲ ου κρινειϲ κ(αι) εκδικηϲειϲ το αιμα ημων εκ των κα τοικουντων επι τηϲ γηϲ",
+          "translation": "They cried out with a loud voice: \"How long, oh Master, holy and true, until you judge and avenge our blood on the people of the earth?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και εδο θη αυτοιϲ εκαϲτω ϲτολη λευκη και ερεθη αυτοιϲ ϊνα αναπαυϲωνται ε πι χρονον μικρ ο εωϲ πληρωϲωϲ ι και οι ϲυνδουλοι αυτων και οι αδελ φοι αυτων οι μελ λοντεϲ αποκτεν νεϲθαι υ πο αυτ ω ωϲ και αυτοι",
+          "translation": "Each of them was given a white robe, and they were told to rest a little while longer, until the full number was reached — their fellow servants and brothers and sisters who were about to be killed, just as they had been.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ει δον οτε ενυξεν ηνυξεν την ϲφραγιδα τ η εκτην και ϲιϲμοϲ μεγαϲ εγενετο και ο ηλιοϲ μελαϲ ε γενετο ωϲ ϲακκοϲ τριχινοϲ και η ϲε ληνη ολη εγενετο ωϲ αιμα",
+          "translation": "I watched as the Lamb opened the sixth seal. There was a violent earthquake. The sun turned black as sackcloth made of hair, and the full moon turned blood-red.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και οι αϲτε ρεϲ του ουνου επε ϲαν επι την γην ωϲ ϲυκη βαλλουϲα τουϲ ολ υ θουϲ αυτηϲ απο ανεμου με μει γαλου μεγαλου ϲιομενη",
+          "translation": "The stars of the sky fell to the earth, like a fig tree dropping its unripe figs when shaken by a strong wind.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ο ο υνοϲ απε χωριϲθη ωϲ βιβλι ον ελιϲϲομενοϲ και παν οροϲ και βουνοϲ εκ των το πων εκινηϲαν εκινηθηϲαν",
+          "translation": "The sky vanished like a scroll rolling up. Every mountain and island was moved from its place.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και οι βαϲιλειϲ τηϲ γηϲ και οι με γιϲτανεϲ και οι χιλιαρχοι και οι πλουϲιοι και ϊϲχυ ροι και παϲ δουλοϲ και παϲ ελευθεροϲ εκρυψαν εαυτουϲ ειϲ τα ϲπηλεα και ειϲ ταϲ πετραϲ τ ω ορεων",
+          "translation": "Then the kings of the earth, the nobles, the commanders, the rich, the powerful — everyone, slave or free — hid themselves in the caves and among the rocks of the mountains.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και λεγουϲ ι τοιϲ ορεϲιν και ταιϲ πετραιϲ πεϲεται εφ ημαϲ και κρυ ψεται ημαϲ απο προϲωπου του καθημενου επι τω θρονω και ε πι απο τηϲ οργηϲ του αρνιου",
+          "translation": "They said to the mountains and the rocks, \"Fall on us! Hide us from the face of the one seated on the throne, and from the anger of the Lamb —",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "οτι ηλθεν η ημερα η μεγα λη τηϲ οργηϲ αυτ ω και τιϲ δυναται ϲτα θηναι",
+          "translation": "because the great day of their anger has come, and who can stand?\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και μετα τουτο ι δον δ αγγελουϲ εϲτωταϲ επι ταϲ τεϲϲαραϲ γωνιαϲ τηϲ γηϲ κρατουν ταϲ τουϲ τεϲϲαραϲ ανεμουϲ τηϲ γηϲ ι να μη πνευϲη α νεμοϲ επι τηϲ γηϲ μητε επι τηϲ μητε επι παν δενδρον",
+          "translation": "After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth so no wind could blow on the land, the sea, or any tree.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ειδον αλλον αγγε λον αναβαινον τα απο ανατοληϲ η λιου εχοντα ϲφα γιδα ϲφραγιδα θυ ζωντοϲ και εκραξεν φω νη μεγαλη τοιϲ τεϲϲαρεϲ τεϲϲαρϲιν αγγελοιϲ + οιϲ εδοθη αυτοιϲ αδικηϲαι την γ η και την θαλαϲϲ α",
+          "translation": "Then I saw another angel coming up from the east, carrying the seal of the living God. They shouted to the four angels who had been given power to harm the land and the sea:",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "λεγων μη αδικηϲε ται την γην μηδε την θαλαϲϲαν μη δε τα δενδρα αχριϲ ϲφραγιϲωμεν τουϲ δουλουϲ του θυ η μων επι των με τωπων αυτων",
+          "translation": "\"Don't harm the land, the sea, or the trees until we have sealed the foreheads of our God's servants.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ηκουϲαν τον αρι θμον των εϲφρα γιϲμενων εκατ ο τεϲϲερακοντα χιλι αδεϲ εϲφραγιϲμε νοι εκ παϲηϲ φυ ληϲ ϋϊων ι ϲ λ",
+          "translation": "I heard the number of those who were sealed: one hundred forty-four thousand, sealed from every tribe of the people of Israel:",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "εκ φυληϲ ϊουδα δω δεκα χιλιαδεϲ χιλιάδεϲ εϲ φραγιϲμενοι εκ φυληϲ φυλὴϲ ρουβην δω δεκα χιλιαδεϲ δώδεκα χιλιάδεϲ",
+          "translation": "from the tribe of Judah, twelve thousand sealed; from the tribe of Reuben, twelve thousand; from the tribe of Gad, twelve thousand;",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "εκ φυληϲ φυλὴϲ αϲηρ δωδε κα χιλιαδεϲ · εκ φυληϲ νεφθα λι δωδεκα χιλιαδεϲ εκ φυληϲ μαναϲϲη δωδεκα χιλιαδεϲ",
+          "translation": "from the tribe of Asher, twelve thousand; from the tribe of Naphtali, twelve thousand; from the tribe of Manasseh, twelve thousand;",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εκ φυληϲ λευει δωδεκα χειλιαδεϲ εκ φυληϲ ϊϲϲαχαρ δωδεκα χιλιαδεϲ",
+          "translation": "from the tribe of Simeon, twelve thousand; from the tribe of Levi, twelve thousand; from the tribe of Issachar, twelve thousand;",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "εκ φυληϲ ζαβουλ ω δωδεκα χιλιαδεϲ εκ φυληϲ βενιαμ ι δωδεκα χειλιαδεϲ εκ φυληϲ ϊωϲηφ δωδεκα χειλιαδεϲ εϲφραγιϲμενοι",
+          "translation": "from the tribe of Zebulun, twelve thousand; from the tribe of Joseph, twelve thousand; from the tribe of Benjamin, twelve thousand sealed.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "μετα ταυτα ι δον και ϊδου οχλοϲ πολυϲ οϲ ον αριθμηϲαι αυτ ο ουδιϲ εδυνατο εκ παντοϲ εθνουϲ και φυλων και λα ων και γλωϲϲων εϲτωτεϲ ενωπι ο του θρονου και ε νωπιον του αρνι ου περιβεβλημε νουϲ περιβεβλημενοι ϲτολαϲ λευκαϲ και φοινικαϲ φοινικεϲ εν ταιϲ χερϲιν αυτ ω",
+          "translation": "After this I looked, and there was a huge crowd that no one could count — from every nation, tribe, people, and language — standing before the throne and before the Lamb. They wore white robes and held palm branches in their hands.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και κραζουϲιν φω νη μεγαλη λεγον τεϲ η ϲωτηρια τω θω ημων τω καθημενω επι τω θρονω και τω αρ νιω του θρονου και του αρνιου ειϲ τουϲ αιωναϲ των αιωνων αμ η",
+          "translation": "They cried out with a loud voice, \"Salvation belongs to our God — who sits on the throne — and to the Lamb!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και παντεϲ οι αγγελοι ι ϲτηκιϲαν κυκλω του θρονου και των πρεϲβυτε και των τεϲϲαρ ω ζωων και επεϲ α ενωπιον του θρο νου επι τα προϲω πα αυτων και προϲ εκυνηϲαν τω θω",
+          "translation": "All the angels were standing around the throne, the elders, and the four creatures, and they fell face-down before the throne and worshiped God,",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "λεγοντεϲ αμην η ευλογια και η δο ξα και η ϲοφια και η ευχαριϲτια και η τιμη και η δυναμιϲ και η ϊϲχυϲ τω θω ημων ειϲ τουϲ αιω ναϲ των αιωνων αμην :",
+          "translation": "saying, \"Amen! Blessing and glory and wisdom and thanks and honor and power and strength belong to our God forever and ever. Amen!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και απεκριθη ειϲ τ ω πρεϲβυτερων λεγων μοι ειϲ των πρεϲβυ τερων λεγων μοι ουτοι οι περιβεβλη μενοι ταϲ τολαϲ ϲτολαϲ ταϲ λευκαϲ τινεϲ ειϲιν και ποθεν ηλθον",
+          "translation": "Then one of the elders asked me, \"Who are these people dressed in white robes, and where did they come from?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ειρηκα αυτω κε μου ϲυ οιδαϲ και ει πεν ουτοι ειϲιν οι ερχομενοι εκ τηϲ θλιψεωϲ τηϲ μεγα ληϲ και επλυναν ταϲ ϲτολαϲ αυτων και ελευκαναν αυταϲ ε τω αιματι του αρνι ου",
+          "translation": "I replied, \"Sir, you know.\" And he said to me, \"These are the ones who have come through the great suffering. They have washed their robes and made them white in the blood of the Lamb.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "δια τουτο ειϲιν ενωπιον του θρο νου του θυ και λα τρευουϲιν αυτω ημεραϲ και νυκτοϲ εν τω ναω αυτου και ο καθημενοϲ επι του θρονου γι νωϲκει γινωϲκει επ ϲκηνωϲει επ αυτουϲ",
+          "translation": "That's why they are before God's throne — they serve him day and night in his temple. The one seated on the throne will shelter them.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ου πιναϲουϲιν ουδε διψαϲουϲιν ετι ου δε μη πεϲη επ αυ τουϲ ο ηλιοϲ ετι ου δε παν καυμα",
+          "translation": "They will never be hungry or thirsty again. The sun won't beat down on them, nor any scorching heat,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "οτι το αρνιον το ανα μεϲον του θρονου ποιμανει αυτουϲ και οδηγηϲει αυτουϲ επι ζωηϲ πηγαϲ ϋδα των και εξαλιψει ο θϲ παν δρακυον δακρυον απο των οφθαλ μων αυτων",
+          "translation": "because the Lamb at the center of the throne will be their shepherd. He will lead them to springs of life-giving water. And God will wipe away every tear from their eyes.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ο τε ηνοιξεν την ϲφραγιδα την ε βδομην εγενετο ϲιγη εν τω ουνω ωϲ ειμιωριον",
+          "translation": "When the Lamb opened the seventh seal, there was silence in heaven for about half an hour.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ϊδον τουϲ επτα αγ γελουϲ οι ενωπι ον του θυ εϲτηκα ϲιν και εδοθηϲ α αυτοιϲ επτα ϲαλπιγ γεϲ",
+          "translation": "Then I saw the seven angels who stand before God. They were given seven trumpets.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και αλλοϲ αγγε λοϲ ηλθεν και ε ϲταθη επι του θυ ϲιαϲτηριου εχων λιβανωτον χρυϲο υ και εδοθη αυτω θυμιαματα πολλα ϊνα δωϲει ταιϲ προϲ των αγι ω παντων επι το θυ ϲιαϲτηριον το χρυ ϲουν ενωπιον του θρονου",
+          "translation": "Another angel holding a gold censer came and stood at the altar. They were given a large amount of incense to offer with the prayers of all God's people on the gold altar before the throne.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ανα βη ανεβη ο καπνοϲ των θυ μιαματων ταιϲ προϲευχαιϲ των αγιων εκ χιροϲ του αγγελου ενωπι ον του θυ",
+          "translation": "The smoke of the incense, together with the prayers of God's people, rose before God from the hand of the angel.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ειλη φεν ο αγγελοϲ τ ο λιβανωτον και ε γεμιϲεν αυτον εκ του πυροϲ του θυϲιαϲτηριου και εβαλεν ειϲ την γ η και εγενοντο βρ ο ται και φωναι και αϲτραπαι και ϲει ϲμοϲ",
+          "translation": "Then the angel took the censer, filled it with fire from the altar, and threw it down on the earth. There were peals of thunder and rumblings, lightning, and an earthquake.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και οι επτα αγ γελοι εχοντεϲ ταϲ επτα ϲαλπιγγαϲ ητοιμαϲαν αυτουϲ εαυτουϲ ϊνα ϲαλπιϲωϲιν",
+          "translation": "Then the seven angels who had the seven trumpets prepared to sound them.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ο πρωτοϲ εϲαλ πιϲεν και εγενετο χα λαζα και πυρ μεμιγ μενον εν αιματι και εβληθη ειϲ τ η γην και το τριτον τηϲ γηϲ κατεκαη και το τριτον των δενδρων κατεκα η και παϲ χορτοϲ χλωροϲ κατεκαη ·",
+          "translation": "The first angel sounded: hail and fire mixed with blood were hurled down to the earth. A third of the earth was burned up, a third of the trees were burned up, and all the green grass was burned up.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ο δευτεροϲ ε ϲαλπιϲεν και ωϲ οροϲ μεγα πυρι καιομενον εβλη θη ειϲ την θαλαϲ ϲαν και εγενηθη το τριτον τηϲ θα λαϲϲηϲ αιμα",
+          "translation": "The second angel sounded: something like a great mountain blazing with fire was thrown into the sea. A third of the sea turned into blood,",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και απεθανε το τριτ ο μεροϲ των κτιϲμα των των εν τη θα λαϲϲη τα εχοντα ψυχην και το τρι τον των πλοιων διεφθαρηϲαν ·",
+          "translation": "a third of the living creatures in the sea died, and a third of the ships were destroyed.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ο τριτοϲ αγγελοϲ εϲαλπιϲεν και επε ϲεν εκ του ο υνου αϲτηρ μεγαϲ καιο μενοϲ ωϲ λαμπαϲ και επεϲεν επι το τριτον των πο ταμων και επι ταϲ πηγαϲ των ϋ δατων",
+          "translation": "The third angel sounded: a great star blazing like a torch fell from the sky. It fell on a third of the rivers and springs of water.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και το ονο μα του αϲτεροϲ λε γεται αψινθιον αψινθοϲ και λεγεται και ε γενετο το τριτον των ϋδατων ειϲ α ψινθιον και πολ λοι των α νων απε θανον εκ των υ δα των οτι επικρανθη ϲαν",
+          "translation": "The name of the star is Wormwood. A third of the water turned bitter, and many people died from the water because it had turned bitter.",
+          "footnotes": [
+            {
+              "id": "revelation-8-11-cultural-context",
+              "text": "\"Wormwood\" (ἄψινθος) is a bitter plant; here it symbolizes divine judgment.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "original": "και ο τεταρτοϲ αγγε λοϲ εϲαλπιϲεν και επληγη το τριτον του ηλιου και το τρι τον τηϲ ϲεληνηϲ και το τριτον των αϲτερων ϊνα ϲκο τιϲθη το τριτον αυτων και η ημε μη φανη το τρι τον αυτηϲ και η νυξ ομοιωϲ",
+          "translation": "The fourth angel sounded: a third of the sun, a third of the moon, and a third of the stars were struck — so that a third of their light was darkened. A third of the day was without light, and likewise the night.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και ειδ ο και ηκουϲα αετου πετομενου μεϲουρα νηματι λεγοντοϲ φωνη μεγαλη · ουαι ουαι · ουαι · τουϲ κα τοικουνταϲ επι τηϲ γηϲ εκ των λοι πων φωνων τηϲ ϲαλπιγγοϲ των τριων αγγελων των μελλοντων ϲαλπιζειν",
+          "translation": "Then I looked, and I heard an eagle flying overhead saying in a loud voice: \"Disaster, disaster, disaster for the people living on the earth, because of the remaining trumpet blasts from the three angels who are about to sound!\"",
+          "footnotes": [
+            {
+              "id": "revelation-8-13-variant",
+              "text": "Codex Sinaiticus reads \"eagle\" (ἀετός) not \"angel\" (ἄγγελος) — a distinctive variant.",
+              "type": "variant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ο πεμπτοϲ αγ γελοϲ εϲαλπιϲεν και ειδον αϲτεραϲ αϲτερα εκ του ο υνου πεπτω κοταϲ πεπτωκοτα ειϲ την γην και εδοθη αυτω η κλιϲ του φρεατοϲ τηϲ αβυϲϲου",
+          "translation": "The fifth angel sounded. I saw a star that had fallen from the sky to the earth. The star was given the key to the shaft of the abyss.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ανεβη καπνοϲ ε πι εκ του φρεατοϲ ωϲ καμινοϲ καπνοϲ καμινου μεγαληϲ και εϲκο τιϲθη ο ηλιοϲ και ο αηρ εκ του καπνου του φρεατοϲ",
+          "translation": "When it opened the abyss, smoke rose from it like the smoke from a huge furnace. The sun and the air were darkened by the smoke from the abyss.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "κ(αι) εκ του̣ καπνου εξηλθον ακριδεϲ ειϲ την γην και ε δοθη αυτοιϲ εξου ϲια ωϲ εχουϲιν ε ξουϲιαν οι κορπι οι ϲκορπιοι τηϲ γηϲ",
+          "translation": "Out of the smoke came locusts onto the earth. They were given power like the power of scorpions on the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ερρε θη αυτοιϲ ι να μη αδικηϲωϲιν τον χορτον τηϲ γηϲ ουδε παν δενδρον χλω δενδρον ει μη τουϲ ανθρωπουϲ οιτινεϲ ουκ εχου ϲιν την ϲφραγιδ α ̣ ϲφραγιδ α του θυ επι των με τωπων",
+          "translation": "They were told not to harm the grass of the earth, any plant, or any tree — only those people who did not have God's seal on their foreheads.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και εδοθη αυτοιϲ ϊνα μη απο κτινωϲιν αυτουϲ αλλ ϊνα βαϲανιϲθη ϲονται μηναϲ π ε τε και ο βαϲανιϲμοϲ ︴ αυτων ωϲ βαϲανι ϲμοϲ ϲκορπιου ο ταν πεϲη α νον",
+          "translation": "The locusts were not allowed to kill them, but to torture them for five months. Their torture was like the sting of a scorpion when it strikes a person.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και εν ταιϲ ημεραιϲ ε κειναιϲ ζητηϲουϲ ι οι α νοι τον θανα τον και ου μη ευρη ϲουϲιν αυτον και επιθυμηϲουϲιν α ποθανιν και φυ γη ο θανατοϲ απ αυ των",
+          "translation": "In those days, people will seek death but won't find it. They will long to die, but death will flee from them.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και τα ομοιω ματα των ακριδ ω ομοιοι ϊπποιϲ ητοι μαϲμενοιϲ ειϲ πο λεμον και επι ταϲ κεφαλαϲ αυτων ωϲ ϲτεφανοι ομοιοι χρυϲω και τα προ ϲωπα αυτων ωϲ προϲωπα α νων",
+          "translation": "The locusts looked like horses prepared for battle. On their heads were what looked like gold crowns, and their faces were like human faces.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ειχαν τριχαϲ ωϲ τριχαϲ γυναι κων οι οδον τεϲ αυτων ωϲ λε ο των ηϲαν",
+          "translation": "They had hair like women's hair, and their teeth were like lions' teeth.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και ειχ ο θωρακαϲ ωϲ θω ρακαϲ ϲιδηρουϲ κ(αι) η φωνη των πτε ρυγων αυτων ωϲ φωνη αρματων ϊππων πολλων τρεχοντων ειϲ πο λεμον",
+          "translation": "They had chests like iron breastplates, and the sound of their wings was like the roar of horses and chariots rushing into battle.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και εχου ϲιν ουραϲ ομοιοιϲ ϲκορπιοιϲ και κεν τρα και εν ταιϲ ου ραιϲ αυτων η εξου ϲια αυτων αδικη ϲαι τουϲ ανθρωπουϲ μηναϲ πεντε",
+          "translation": "They had tails with stingers like scorpions, and in their tails was the power to harm people for five months.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ε χουϲιν εαυτων τον βαϲιλεα τον αγ γελον τηϲ αβυϲϲου ω ονομα αυτω ε βραϊϲτι αβαδδων και εν τη ελληνι δι εχι ονομα απολ λυων",
+          "translation": "They had as their king the angel of the abyss — whose name in Hebrew is Abaddon and in Greek is Apollyon (\"the Destroyer\").",
+          "footnotes": [
+            {
+              "id": "revelation-9-11-cultural-context",
+              "text": "Abaddon (Hebrew) / Apollyon (Greek) both mean \"Destroyer\" — personified angel of the abyss.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "original": "ουαι η μια α πηλθεν ϊδου ερ χεται ερχονται ετι δυο ουαι μετα ταυτα",
+          "translation": "The first disaster has passed. Look — two more disasters are still coming after this.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ο εκτοϲ αγγελοϲ εϲαλπιϲ ε και ηκουϲα φων η φωνηϲ μιαϲ εκ των κερατ ω του θυϲιαϲτηριου του χρυϲου του ε νωπιον του θυ",
+          "translation": "The sixth angel sounded. I heard a voice from the four horns of the gold altar before God,",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "λε γοντα λεγουϲηϲ τω εκτω αγ γελω ο εχων την ϲαλπιγγα λυϲον τουϲ τεϲϲαρεϲ αγγελουϲ τουϲ δεδεμενουϲ επι τω ποταμω τω μεγαλω ευφρατη",
+          "translation": "saying to the sixth angel who had the trumpet: \"Release the four angels who are bound at the great river Euphrates!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ελυθηϲαν οι τεϲϲαρεϲ αγγελοι ητοιμαϲμενοι ειϲ την ωραν και μηνα και ενιαυτ ο ϊνα μη αποκτι νωϲιν το τριτον των α νων",
+          "translation": "So the four angels who had been prepared for this hour, day, month, and year were released to kill a third of humanity.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ο αριθμοϲ των ϲτρα τευματων του ϊπ πικου δυο μυρια δων μυριαδαϲ ηκουϲα τον αριθ μον αυτων",
+          "translation": "The number of mounted troops was two hundred million — I heard their number.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και ου τωϲ ειδον τουϲ ϊπ πουϲ εν τη οραϲει και τουϲ καθημε νουϲ επανω αυτ ω εχονταϲ θωρακαϲ πυρινουϲ και ϋα κινθινουϲ και θυ ωδειϲ θιωδειϲ και αι κεφα λαι των ϊππων ωϲ κεφαλαι λεον των και εκ των ϲτοματων αυτ ω εκπορευεται πυρ και καπνοϲ και θιον",
+          "translation": "This is how I saw the horses in the vision: the riders had breastplates that were fiery red, dark blue, and sulfur yellow. The horses' heads were like heads of lions, and out of their mouths came fire, smoke, and sulfur.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "απο των πλη γων τουτων απε κτανθηϲαν το τρι τον των α νων εκ του πυροϲ και του καπνου και του θειου του εκπορευ ομενου εκ των του των ϲτο ματων αυτων",
+          "translation": "A third of humanity was killed by these three plagues — from the fire, smoke, and sulfur that came out of their mouths.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "η γαρ εξουϲια των ϊπ πων εν τω ϲτομα τι αυτων εϲτιν και εν ταιϲ ουραιϲ αυτ ω αι γαρ αυτων ομοιαι οφεϲιν ε χουϲαϲ εχουϲαιϲ κεφαλαϲ και εν αυταιϲ αδι κουϲιν",
+          "translation": "For the power of the horses is in their mouths and in their tails. Their tails are like snakes, with heads that do the harming.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και οι λοι ποι των α νων οι ουκ απεκτανθη ϲαν εν ταιϲ πλη γαιϲ αυτων ταυταιϲ ουδε μετενοηϲ α εκ των εργων τ ω χιρων αυτων ϊνα μη προϲκυνηϲουϲ ι τα δαιμονια και τα ϊδωλα τα χρυϲαι α και τα αργυρα και τα χαλκεα και τα ξυ λινα και τα λιθινα α ουτε βλεπειν δυ νανται ουτε ακου ειν ουτε περιπατε ι",
+          "translation": "The rest of humanity — those who weren't killed by these plagues — still did not repent of what they had made with their own hands. They didn't stop worshiping demons and idols of gold, silver, bronze, stone, and wood — which can't see, hear, or walk.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και ου μετενοη ϲαν εκ των φω νων φονων αυτων ουτε εκ των φαρμακ ω αυτων ουτε εκ τηϲ πονηριαϲ πορνιαϲ αυτων ουτε εκ των κλεμ ματων αυτων ·",
+          "translation": "They did not repent of their murders, their sorcery, their sexual immorality, or their thefts.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ‾‾ ειδον αλλον αγγελ ο ϊϲχυρον καταβαι νοντα εκ του ουνου περιβεβλημεν ο νεφελην και η θριξ ϊριϲ επι τηϲ κεφαληϲ αυτου και το προϲω πον αυτου ωϲ ο η λιοϲ και οι ποδεϲ αυτου ωϲ ϲτυλοι πυροϲ",
+          "translation": "Then I saw another powerful angel coming down from heaven. They were wrapped in a cloud, with a rainbow over their head. Their face was like the sun, and their legs were like pillars of fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και εχων εν τη χειρι αυτου βι βλαριδιον βιβλιαριδιον βιβλαριδιον ηνεωγ μενον και εθηκ ε τον ποδα αυτου τ ο δεξιον επι τηϲ θα λαϲϲηϲ τον δε ευ ωνυμον επι τηϲ γηϲ",
+          "translation": "The angel held a small open scroll in their hand. They planted their right foot on the sea and the left foot on the land.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και εκραξεν φωνη μεγαλη ωϲ περ λεων μυκατε και οτε εκραξεν ωϲ ελαληϲαν αι ε πτα φωναι βρονται ταιϲ εαυτων φωναιϲ",
+          "translation": "Then they shouted with a loud voice, like a lion roaring. When they shouted, the seven thunders spoke.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και οϲα ελαληϲαν αι επτα βρονται εμελλον γραφε ι και ηκουϲα φων η εκ του ο υνου λεγου ϲαν ϲφραγιϲον ο ϲα ελαληϲαν αι ε πτα βρονται και μη αυτα γραψηϲ",
+          "translation": "When the seven thunders spoke, I was about to write it down. But I heard a voice from heaven saying: \"Seal up what the seven thunders have said — don't write it down.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ο αγγελοϲ ον ειδον εϲτωτα ε πι τηϲ θαλαϲϲηϲ και επι τηϲ γηϲ η ρεν την χειρα αυτου την δεξιαν ειϲ τον ουρανον",
+          "translation": "Then the angel I saw standing on the sea and on the land raised their right hand to heaven",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ωμοϲ ε εν τω ζωντι ειϲ τουϲ αι ωναϲ των αιων ω οϲ εκτιϲεν τον ουνον και τα εν αυτω και την γην και τα εν αυ τη κ(αι) την θαλαϲϲαν κ(αι) τα εν αυτη οτι χρονοϲ ου κετι εϲτιν εϲται",
+          "translation": "and swore by the one who lives forever and ever — who made heaven and what is in it, the earth and what is in it, the sea and what is in it — \"There will be no more delay!",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "αλλ εν ταιϲ ημεραιϲ τηϲ φωνηϲ του αγγελου του εβδομου οταν μελλη ϲαλπιζειν και ετελεϲθη το μυ ϲτηριον του θυ ωϲ ευηγγελιϲεν τουϲ εαυτου δουλουϲ και τουϲ προφηταϲ",
+          "translation": "But in the days when the seventh angel is about to sound, the hidden plan of God will be completed — just as he announced to his servants the prophets.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και η φωνη ην ηκουϲα εκ του ο υνο υ παλ ι λαλουϲαν μετ ε μου και λεγουϲαν υ παγε λαβε το βιβλα ριδιον το ηνεωγ μενον εν τη χειρι του αγγελου του εϲτω τοϲ επι τηϲ θαλαϲϲηϲ και επι τηϲ γηϲ",
+          "translation": "Then the voice I had heard from heaven spoke to me again: \"Go, take the open scroll from the hand of the angel standing on the sea and on the land.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και απηλθον προϲ τ ο αγγελον λεγων αυ τω δουναι μοι το βιβλιον και λεγει μοι λαβε αυτο και καταφαγε αυτο και πικρα νι ϲου την κοιλι αν αλλα εν τω ϲτο ματι ϲου εϲται γλυ κυ ωϲ μελι",
+          "translation": "I went to the angel and said, \"Give me the little scroll.\" And the angel said to me, \"Take it and eat it. It will turn bitter in your stomach, but in your mouth it will be sweet as honey.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ελα βον το βιβλιον εκ τηϲ χειροϲ του αγ γελου και κατεφα γον αυτο και ην εν τω ϲτοματι μου ωϲ μελει γλυκυ και οτε εφαγον αυτο εγεμιϲθη η κοιλι α μου πικριαϲ",
+          "translation": "So I took the scroll from the angel's hand and ate it. And in my mouth it was sweet as honey, but after I ate it, my stomach turned bitter.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και λεγουϲιν μοι δι ϲε παλιν προ φητευϲαι επι λαοιϲ και εθνεϲιν και γλωϲϲαιϲ και βαϲι λευϲιν πολλοιϲ",
+          "translation": "Then I was told, \"You must again prophesy about many peoples, nations, languages, and kings.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και εδοθη μοι κα λαμοϲ ομοιοϲ ρα βδω λεγει λεγων κ(αι) εϲτηκει ο αγγελοϲ λεγων εγειρε και μετρηϲον τ ο ναον του θυ και το θυϲιαϲτηριον και τουϲ προϲκυνουν ταϲ εν αυτω",
+          "translation": "I was given a reed like a measuring rod, along with the instruction: \"Get up and measure God's temple and the altar — and count those who worship there.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και τηϲ αυληϲ τηϲ την αυλην την εϲωθ ε του λαου ναου και εκβαλε εϲω εξωθεν και μη αυτην μετρηϲηϲ οτι εδο θη και τοιϲ εθνε ϲιν και την πολιν την αγιαν πατηϲου ϲιν μηναϲ τεϲϲε ρακοντα δυο",
+          "translation": "But leave out the outer courtyard of the temple — don't measure it — because it has been given to the nations. They will trample the holy city for forty-two months.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και δωϲω τοιϲ δυϲιν μαρτυϲιν μου και προφητευϲουϲ ι ημεραϲ χιλιαϲ δι ακοϲιαϲ εξηκον τα πεντε περιβεβλημε νουϲ περιβεβλημενοι ϲακκουϲ",
+          "translation": "I will give my two witnesses authority to prophesy for one thousand two hundred sixty days, wearing sackcloth.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ου τοι ειϲιν οι αι δυο ε λαιαι και αι δυο λυχνι αι ενωπιον του κυ τηϲ γηϲ εϲτω τεϲ εϲτωϲαι",
+          "translation": "These are the two olive trees and the two lampstands that stand before the Lord of the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ει τιϲ θελει αυτουϲ αδικηϲαι πυρ εκπορευεται εκ του ϲτοματοϲ αυ των και κατεϲθι ει τουϲ εχθρουϲ αυ των και η ει τιϲ θελη ϲη αδικηϲαι αυτουϲ ουτωϲ δι αυτον α ποκτανθηναι",
+          "translation": "If anyone wants to harm them, fire comes from their mouths and devours their enemies. Anyone who tries to harm them will die in that way.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "ου τοι εχουϲιν εξου ϲιαν κλειϲαι τον ουρανον ϊνα μη ϋ ετοϲ βρεχη ταϲ η μεραϲ τηϲ προφη τιαϲ αυτων και εξου ϲιαν εχουϲιν επι των ϋδατων ϲτρε φειν αυτα ειϲ αιμα κ(αι) παταξαι την γην εν παϲη πληγη ο ϲακιϲ εαν θεληϲω ϲι",
+          "translation": "They have power to close the sky so no rain falls during the days of their prophecy. They also have power over the waters — to turn them into blood — and to strike the earth with every kind of plague as often as they want.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και οταν τελεϲω ϲιν την μαρτυριαν αυτων το θηριον τοτε το αναβαινον εκ τηϲ αβυϲϲου ποι ηϲει μετ αυτων πολεμον και νι κηϲει αυτουϲ και αποκτενει αυτουϲ",
+          "translation": "When they have finished their testimony, the beast that comes up from the abyss will make war on them, conquer them, and kill them.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και τα πτωματα αυ των εϲται επι τηϲ πλατι αϲ τηϲ πολεωϲ τηϲ μεγαληϲ ητιϲ καλει ται πνι κωϲ ϲοδο μα και εγγυϲ ο ποταμοϲ και αιγυπτοϲ ˙ ο που και ο κϲ αυτ ω εϲ( τρ ) ω θη",
+          "translation": "Their dead bodies will lie in the street of the great city — which is figuratively called Sodom and Egypt, where also their Lord was crucified.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και βλεπουϲιν εκ των φυλων κ(αι) λαων κ(αι) γλωϲϲων και εθνων το πτω μα αυτων ημεραϲ τρειϲ και ημιϲυ και τα πτωματα αυτ ω ουκ αφιουϲιν αφη̣ ϲ ουϲιν αφιουϲιν τε θηναι ειϲ μνημα μνηματα",
+          "translation": "For three and a half days, people from every people, tribe, language, and nation will stare at their dead bodies and will not allow them to be buried.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και οι κατοικουν τεϲ επι τηϲ γηϲ χαι ρουϲιν επ αυτοιϲ κ(αι) ευφραινονται κ(αι) δωρα πεμπουϲιν πεμψουϲιν αλληλοιϲ οτι ου τοι οι προφηται οι δυο εβαϲανιϲαν τουϲ κατοικουνταϲ επι τηϲ γηϲ",
+          "translation": "The people of the earth will celebrate over them and be glad, and they will send gifts to each other — because these two prophets were a torment to the people of the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και με τα τριϲ ημεραϲ και ημιϲου ημιϲυ πν α ζωηϲ εκ του θυ ειϲηλθ ε ειϲ αυτουϲ και εϲ τηϲαν επι τουϲ πο δαϲ αυτων και φο βοϲ μεγαϲ επεϲ ε επι τουϲ θεορο υ ταϲ θεωρο υ ταϲ αυτουϲ",
+          "translation": "But after the three and a half days, the breath of life from God entered them. They stood up on their feet, and great fear fell on those who saw them.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ηκου ϲαν ηκουϲα φωνηϲ μεγα ληϲ εκ του ο υνου λεγουϲηϲ αυτοιϲ αναβατε ωδε και ανεβηϲαν ειϲ τον ο υνον εν τη νε φελη και εθεωρη ϲαν αυτουϲ οι εχθροι αυτων",
+          "translation": "Then I heard a loud voice from heaven saying to them, \"Come up here!\" They went up into heaven in a cloud, while their enemies watched.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και εν εκι νη τη ωρα εγενε το ϲιϲμοϲ μεγαϲ και το δεκατον τηϲ πολεωϲ επεϲεν και απεκτανθηϲ α εν τω ϲιϲμω ονο ματα ανων χιλια δεϲ επτα και οι λοι ποι εν φοβω εγεν ο το και εδωκαν δο ξαν τω θω του ου ρανου",
+          "translation": "At that very moment there was a great earthquake. A tenth of the city collapsed. Seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "η ουαι η δευ τερα παρηλθεν · ϊ δου ερχεται η ουαι η τριτη ταχυ",
+          "translation": "The second disaster is over. Look — the third disaster is coming soon!",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ο εβδομοϲ αγγελοϲ εϲαλπιϲεν και εγε νετο εγενοντο φωναι μεγα λαι εν τω ο υνω λε γουϲαι εγενετο η βαϲιλια του κοϲμου του κυ ημων και του χυ αυτου και βα ϲιλευϲει ειϲ τουϲ αι ωναϲ των αιων ω αμην ·",
+          "translation": "The seventh angel sounded. And loud voices in heaven said: \"The kingdom of the world has become the kingdom of our Lord and of his Christ — and he will rule forever and ever!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και οι εικοϲι τεϲϲαρεϲ πρεϲβυτε ροι οι ενωπιον του θυ οι καθηνται επι τουϲ θρονουϲ αυτ ω και επεϲαν επι τα προϲωπα αυτων και προϲεκυνηϲαν τω θω",
+          "translation": "The twenty-four elders, who sit on their thrones before God, fell on their faces and worshiped God,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "λεγοντεϲ ευχαριϲτουμεν ϲοι κϲ ο θϲ ο παντοκρα τωρ ο ων και ο ην και οτι ειληφαϲ τ η δυναμιν ϲου την μεγαλην και εβαϲι λευϲαϲ",
+          "translation": "saying: \"We thank you, Lord God Almighty, the one who is and who was, because you have taken your great power and begun to rule!",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και τα εθνη ωργιϲθη ωργιϲθηϲαν και ηλθ ε η οργη ϲου και ο κ(αι) ροϲ των νεκρων κριθηναι και δου ναι τον μιϲθον τοιϲ δουλοιϲ ϲου τοιϲ προφηταιϲ και τοιϲ αγιοιϲ και φοβου μενοιϲ το ονομα ϲου τουϲ μικρουϲ και τουϲ μεγαλουϲ τοιϲ μικροιϲ και τοιϲ μεγαλοιϲ και διαφθειραι τουϲ διαφθειρονταϲ τ η γην",
+          "translation": "The nations raged, but your anger has come. The time has come for the dead to be judged, and to give your reward to your servants the prophets, to your holy people, and to those who honor your name — both small and great — and to destroy those who destroy the earth.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και ηνυγη ο ναοϲ του θυ εν τω ουρανω ανω και ω φθη ︴ η κιβωτοϲ τηϲ διαθηκηϲ του θυ ε τω ναω αυτου και εγενετο εγενοντο αϲτραπαι και φωναι και βρ ο ται και ϲειϲμοϲ και χαλαζα μεγαλη",
+          "translation": "Then God's temple in heaven was opened, and the ark of his covenant appeared in his temple. There were flashes of lightning, rumblings, peals of thunder, an earthquake, and heavy hail.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ϲημιον μεγα ω φθη εν τω ο υνω γυνη περιβεβλη μενη τον ηλιον και την ϲεληνην η ϲεληνη ϋποκατω των πο δων αυτηϲ και επι τηϲ κεφαληϲ αυ τηϲ ϲτεφανοϲ αϲ τερων δωδεκα",
+          "translation": "A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and a crown of twelve stars on her head.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και εν γαϲτρι εχου ϲα και κραζει ωδι νουϲα και βαϲανι ζομενη τεκειν",
+          "translation": "She was pregnant and cried out in pain as she struggled to give birth.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "κ(αι) ωφθη αλλο εν τω ο υνω κ(αι) ϊδου δρακων πυρ ροϲ μεγαϲ εχων κεφαλαϲ επτα και κερατα δεκα και ε πι ταϲ κεφαλαϲ αυ του επτα διαδημα τα",
+          "translation": "Another sign appeared in heaven: a huge fire-red dragon with seven heads and ten horns, and seven crowns on its heads.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και η ουρα αυτου ϲυρι το τριτον των αϲτερων το τριτ ο του ουρανου και ε βαλεν αυτουϲ ειϲ την γην και ο δρα κων εϲτηκεν ενω πιον τηϲ γυναικοϲ τηϲ μελλουϲηϲ τε κειν ϊνα οταν τεκη το τεκνον αυτηϲ καταφαγη",
+          "translation": "Its tail swept a third of the stars from the sky and flung them to the earth. The dragon stood before the woman who was about to give birth, ready to devour her child the moment it was born.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ετε κεν ϋϊον αρρενα οϲ μελλει ποιμε νιν παντα τα εθνη εν ραβδω ϲιδηρα και ηρπαγη το τε κνον αυτηϲ προϲ τον θν και προϲ τον θρονον αυτου",
+          "translation": "She gave birth to a son — a male child — who is to rule all nations with an iron rod. And her child was snatched up to God and to his throne.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και η γυνη εφυγεν ειϲ την ερημον οπου εχι εκει τοπον ητοιμαϲμενον απο του θυ ϊνα ε κει τρεφουϲιν αυ τον αυτην ημεραϲ χιλι αϲ διακοϲιαϲ εξη κοντα πεντε",
+          "translation": "The woman fled into the wilderness, where God had prepared a place for her, to be taken care of for one thousand two hundred sixty days.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και εγενε το πολεμοϲ εν τω ουνω ο μιχα ηλ και οι αγγελοι αυτου πολεμηϲαι μετα του δρακον τοϲ και ο δρακων επολεμηϲεν και οι αγγελοι αυτου",
+          "translation": "Then war broke out in heaven. Michael and his angels fought against the dragon. The dragon and his angels fought back,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ουκ ϊϲχυϲαν προϲ αυτον ουδε τοτε τοποϲ ευρεθη ετι αυτοιϲ εν τω ο υνω",
+          "translation": "but they were too weak, and there was no longer any place for them in heaven.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και ε βληθη ο δρακ ω ο μεγαϲ οφιϲ ο αρχαιοϲ ο καλου μενοϲ διαβολοϲ ο ϲαταναϲ ο πλα νων την οικου μενην ολην ε βληθη ειϲ την γ η και οι αγγελοι αυτου μετ αυτου εβληθη ϲαν",
+          "translation": "The great dragon was thrown down — the ancient serpent, who is called the Devil and Satan, the one who leads the whole world astray. He was thrown down to the earth, and his angels were thrown down with him.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ηκουϲα φωνην μεγαλ η εν τω ουν ω λεγου ϲαν αρτι εγενετο η ϲωτηρια και η δυναμιϲ και η βα ϲιλια του θυ ημ ω και η εξουϲια του χριϲτου αυτου οτι εβληθη ο κατηγο ροϲ των αδελφ ω ημων ο κατηγο ρων αυτων ενω πιον του θυ ημ ω ημεραϲ και νυκτοϲ",
+          "translation": "Then I heard a loud voice in heaven saying: \"Now the salvation, the power, and the kingdom of our God have come, and the authority of his Christ. Because the accuser of our brothers and sisters — who accuses them before our God day and night — has been thrown down.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ουτοι ενικη ϲαν αυτον δια το αιμα του αρνιου κ(αι) δια τον λογον τηϲ μαρτυριαϲ αυτ ω και ουκ ηγαπηϲ α την ψυχην αυτ ω εαυτ ω αχρι θανατου",
+          "translation": "They defeated him by the blood of the Lamb and by the message of their testimony. They did not cling to their lives even when facing death.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "δια τουτο ευφρενε ο υνοι και οι κατοικουντεϲ ε ν αυτοιϲ ουαι ειϲ την γην και την θαλαϲϲαν οτι κα τεβη ο διαβολοϲ προϲ ϋμαϲ εχων θυμον ειδωϲ οτι ολιγον καιρον εχει",
+          "translation": "So celebrate, you heavens and everyone who lives in them! But disaster for the earth and the sea — because the devil has come down to you in a furious rage, knowing he doesn't have much time.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και οτε ειδεν ο δρακων οτι εβλη θη οτι εβληθη ο δρακων ειϲ την γην ε δωκεν εξεδιωξεν την γυναι κα ητιϲ ετεκεν τ ο αρϲενα",
+          "translation": "When the dragon saw that he had been thrown down to the earth, he went after the woman who had given birth to the male child.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και εδοθη ϲαν εδοθη τη γυναικι δυ ο πτερυγεϲ αετου του μεγαλου ϊνα πετηται ειϲ την ε ρημον ειϲ τοπον αυτηϲ οπου τρεφε ται εκει και και κ(αι) καιρ ο κ(αι) καιρ ο και κερουϲ και ημιϲου ημιϲυ καιρου απο προϲωπου του οφεωϲ",
+          "translation": "The woman was given two wings of a great eagle so she could fly to a place in the wilderness prepared for her — to be taken care of for a time, times, and half a time, away from the serpent.",
+          "footnotes": [
+            {
+              "id": "revelation-12-14-interpretation",
+              "text": "\"A time, times, and half a time\" likely means 3.5 years.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "original": "και εβα λεν ο οφιϲ εκ του ϲτοματοϲ αυτου οπιϲω τηϲ γυναι κοϲ ϋδωρ ωϲ πο ταμον ϊνα αυτην ποταμοφορητ ο ποιηϲη",
+          "translation": "Then from his mouth the serpent spewed water like a river after the woman, trying to sweep her away with the flood.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και εβο ηθηϲεν η γη τη γυναικι και ηνοι ξεν η γη το ϲτομα αυτηϲ και κατεπι ε τον ποταμον ον εβαλεν ο δρακ ω εκ του ϲτοματοϲ αυτου",
+          "translation": "But the earth came to the woman's aid. The earth opened its mouth and swallowed the river that the dragon had spewed from its mouth.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και ωργιϲθη ο δρακων επι τη γυ ναικι και απηλθ ε πολεμον ποιηϲαι μετα των επιλοι πων του ϲπερμα τοϲ αυτηϲ των τη ρουντων ταϲ εν τολαϲ του θυ και ε χοντων την μαρ τυριαν του θυ ιυ",
+          "translation": "The dragon was furious at the woman and went off to make war against the rest of her offspring — those who keep God's commandments and hold firmly to the testimony of Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και ε ϲταθη επι την αμμον τηϲ θαλαϲ ϲηϲ",
+          "translation": "Then the dragon stood on the sand beside the sea.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ειδον εκ τηϲ θαλαϲϲηϲ θη ριον αναβαινον εχον κερατα δεκα και κεφαλαϲ επτα και επι των κερα των αυτων αυτου διαδη ματα δεκα και ε πι ταϲ κεφαλαϲ αυτου ονομα βλα ϲφημιαϲ",
+          "translation": "Then I saw a beast rising from the sea. It had ten horns and seven heads. On its horns were ten crowns, and on its heads were blasphemous names.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και το θηριον ο ειδον ην ομοιον παρ δαλι και οι ποδεϲ αυτου ωϲ αρκου και το ϲτομα αυτου ωϲ ϲτομα λεοντ ω και εδωκεν αυτω ο δρακων την δυνα μιν αυτου και τ ο θρονον αυτου και εξουϲιαν μεγα λην",
+          "translation": "The beast I saw looked like a leopard, with feet like a bear, and a mouth like a lion. The dragon gave the beast its own power, its throne, and vast authority.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και μιαν εκ τ ω κεφαλων αυτου ωϲ εϲφαγμενην ειϲ θανατον και η πληγη του θανα του θανατου αυτου εθε και εθαυ μαϲεν ολη η γη ο πιϲω του θηριου",
+          "translation": "One of its heads appeared to have been mortally wounded — but its deadly wound was healed. The whole world was amazed and followed after the beast.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και προϲεκυνηϲ α τω δρακοντι οτι εδωκεν την εξου ϲιαν τω θηριω και προϲεκυνηϲαν τω θηριω λεγον τεϲ τιϲ ομοιοϲ τω θηριω και τιϲ δυ ναται πολεμηϲαι μετ αυτου",
+          "translation": "People worshiped the dragon because it had given authority to the beast. They also worshiped the beast, saying, \"Who is like the beast, and who can fight against it?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και εδο θη αυτω ϲτομα λαλουν μεγαλα και βλαϲφημιαϲ και εδοθη αυτω εξουϲια ποιηϲαι ο θελει μηναϲ τεϲϲερα κοντα δυο",
+          "translation": "The beast was given a mouth that spoke arrogant and blasphemous words, and it was given authority to act for forty-two months.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και η νοιξε το ϲτομα αυ του ειϲ βλαϲφη μιαϲ προϲ τον θν βλαϲφημηϲαι αυ τον το ονομα αυτου και την ϲκη νην αυτου και τουϲ ε τω ουν ω ϲκηνο υ τεϲ",
+          "translation": "It opened its mouth to blaspheme God — to insult his name and his dwelling place — against those who live in heaven.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και εδοθη αυ τω ποιηϲαι πολε μον μετα των α γιων και νικηϲαι αυτουϲ και εδοθη αυτω εξουϲιαν εξουϲια επι παϲαν φυλην και λαον και γλωϲϲ α και εθνοϲ",
+          "translation": "It was allowed to make war against God's people and to conquer them. And it was given authority over every tribe, people, language, and nation.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και προϲ κυνηϲουϲιν αυτω παντεϲ οι κατοι κουντεϲ επι τηϲ γηϲ ων ου γεγραπται τα ονοματα αυτ ω εν τω βιβλω τηϲ ζω ηϲ του αρνιου του εϲφαγμενου απο καταβοληϲ κοϲμ(ου)",
+          "translation": "All the people of the earth will worship it — everyone whose name has not been written from the foundation of the world in the book of life belonging to the Lamb who was slaughtered.",
+          "footnotes": [
+            {
+              "id": "revelation-13-8-variant",
+              "text": "\"From the foundation of the world\" may modify \"the Lamb who was slaughtered\" (slain before creation) or the names (written before creation). Codex Sinaiticus supports the first reading.",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "ει τιϲ εχει ουϲ ακου ϲατω ·",
+          "translation": "Anyone who has ears should listen:",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "ει τιϲ ειϲ αιχ μαλωϲιαν ϋπα γει ει τιϲ εν μαχαι ρα αποκτεινει δει αυτον εν μαχαιρα αποκτανθηναι ωδε εϲτιν η ϋπο μονη και υ η πιϲτιϲ των αγιων",
+          "translation": "If anyone is destined for captivity, into captivity they go. If anyone kills with the sword, by the sword they must be killed. This is when God's people need endurance and faithfulness.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ει δον αλλο θηριον αναβαινον εκ τηϲ γηϲ και ειχεν κε ρατα δυο ομοια αρ νιω και ελαλει ωϲ δρακων",
+          "translation": "Then I saw another beast rising from the earth. It had two horns like a lamb, but it spoke like a dragon.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και την εξουϲιαν του πρωτου θηριου παϲαν ποιει ενω πιον αυτου και ποιει την γην και τουϲ εν αυτη κατοι κουνταϲ προϲκυ νιν το θηριον το πρωτον ου εθε ραπευθη η πληγη του θανατου αυτου",
+          "translation": "It exercises all the authority of the first beast — in its presence. It makes the earth and its inhabitants worship the first beast, whose deadly wound had been healed.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και ποιει ϲημια μεγαλα ϊνα και πυρ ποιη πυρι̣ π̣η καταβαι νειν εκ του ο υνου ειϲ την γην ενω πιον των α νων",
+          "translation": "This beast performs great signs — even making fire come down from the sky to the earth — right in front of people.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και πλανα τουϲ κα τοικουνταϲ επι τηϲ γηϲ δια τα ϲημια α ε δοθη αυτω ποιηϲαι ενωπιον του θη ριου λεγων τοιϲ κατοικουϲιν επι τηϲ γηϲ και ποιη ϲαι εικονα τω θη ριω ο εχει πληγηϲ τηϲ μαχαιρηϲ και εζηϲεν",
+          "translation": "It tricks the people of the earth by the signs it was allowed to perform on behalf of the first beast. It tells the people of the earth to make an image in honor of the beast that was wounded by the sword yet still lived.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και εδοθη αυτω δουναι πν α τη εικονι του θη ριου ι να και λαλη ϲη η εικων του θη ριου και ποιηϲει οϲοι αν μη προϲ κυνηϲουϲιν τη ει κονι του θηριου αποκτανθωϲιν",
+          "translation": "The second beast was allowed to give breath to the image of the first beast, so that the image could speak and cause those who refuse to worship the image to be killed.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ποιει ποιηϲει πανταϲ τουϲ μικρουϲ και μεγαλουϲ και τουϲ πτωχουϲ και τουϲ πλουϲιουϲ και τουϲ ελευθερουϲ και τουϲ δουλουϲ ϊνα δωϲιν δωϲι αυτω αυτοιϲ χα ραγμα επι τηϲ χει ροϲ αυτων τηϲ δε ξιαϲ η επι το με τωπον αυτων",
+          "translation": "It forces everyone — small and great, rich and poor, free and slave — to receive a mark on their right hand or on their forehead,",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "κ(αι) ϊ να μη τιϲ δυνηται αγοραϲαι η πω ληϲαι ει μη ο ε χων το χαραγμα του θηριου η το ο νομα αυτου η τ ο αριθμον του ονο ματοϲ αυτου",
+          "translation": "so that no one can buy or sell unless they have the mark — which is the name of the beast or the number that represents its name.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ωδε η ϲοφια εϲτιν ο εχων ουϲ νουν ψηφι ϲατω τον αριθμ ο του θηριου αριθμοϲ γαρ α νου εϲτιν εξακοϲιαι εξηκ ο τα εξʼ ·",
+          "translation": "This calls for wisdom. Let anyone with understanding calculate the number of the beast, because it is the number of a person. Its number is six hundred sixty-six.",
+          "footnotes": [
+            {
+              "id": "revelation-13-18-interpretation",
+              "text": "666 is the number of the beast. In Hebrew gematria, \"Nero Caesar\" equals 666. Some manuscripts read 616.",
+              "type": "interpretation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ειδον κ(αι) ϊδου το αρνιον εϲτοϲ επι το οροϲ ϲιων και μετ αυτου εκα τον τεϲϲερακον τα τεϲϲαρεϲ χιλι αδεϲ εχουϲαι το ονομα του αυτου και το ονομα του π ρϲ αυ του γεγραμμενον επι των μετωπ ω αυτω αυτων",
+          "translation": "Then I looked, and there was the Lamb, standing on Mount Zion. With him were one hundred forty-four thousand people, who had his name and his Father's name written on their foreheads.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ηκουϲα φωνην εκ του ου ρανου ωϲ φων η ϋδατων πολλων και ωϲ φωνην βροντηϲ μεγαληϲ και η φω νη ην ηκουϲα ωϲ κιθαρωδων κι θαριζοντων εν ταιϲ κιθαραιϲ [1 chars] ραιϲ αυτ ω",
+          "translation": "I heard a sound from heaven like the roar of rushing water and the blast of loud thunder. The sound I heard was like harpists playing their harps.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και αδουϲιν ωδ η καινην και ην ενω πιον του θρονου και ενωπιον τ ω των τεϲϲαρων ζωων και ενωπι ον των πρεϲβυτε ρων και ουδειϲ ε δυνατο μαθειν την ωδην ει μη αι εκατον τεϲϲερακ ο τα μιαν τεϲϲαρεϲ χιλιαδεϲ οι ηγοραϲμενοι απο τηϲ γηϲ",
+          "translation": "They sang a new song before the throne and before the four creatures and the elders. No one could learn that song except the one hundred forty-four thousand who had been bought from the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "ουτοι ειϲιν οι μετα γυναι κων ουκ εμολυν θηϲαν παρθενοι γαρ ειϲιν ουτοι α κολουθουντεϲ τω αρνιω οπου α ϋπαγη ουτοι ηγο ραϲθηϲαν απο των ανθρωπων απ αρχηϲ τω θω και εν τω αρνιω",
+          "translation": "These are the ones who haven't defiled themselves with women — they remained pure. They follow the Lamb wherever he goes. They were bought from among the human race as first fruits to God and to the Lamb.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και εν τω ϲτομα τι αυτων ουχ ευ ρεθη ψευδοϲ αμω μοι γαρ ειϲιν",
+          "translation": "No lie was found in their words — they are blameless.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ειδον αγγελον αγγελον α αλλον αγγελον πεταμενον εν μεϲω ουρανημα τι μεϲουρανηματι εχοντα ευαγγε λιον αιωνιον ευ αγγελιϲαϲθε επι τουϲ καθημενουϲ επι τηϲ γηϲ και ε πι παν εθνοϲ και φυλην και γλωϲϲ α και λαον",
+          "translation": "Then I saw another angel flying high in the sky, with an eternal gospel to proclaim to everyone on earth — to every nation, tribe, language, and people.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "εν φω νη μεγαλη φοβη θητε τον θν και δοτε αυτω δοξαν οτι ηλθεν η ωρα τηϲ κριϲεωϲ αυτου και προϲκυνηϲα τε τω π ρ ι ηϲαντι ποιηϲαντι τον ουρανον και την γην και την θαλαϲϲαν και πη γαϲ υ δατων ·",
+          "translation": "The angel said in a loud voice: \"Fear God and give him glory, because the time of his judgment has come. Worship the one who made heaven, earth, the sea, and the springs of water!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και αλλοϲ αγγελοϲ δευτεροϲ ηκολουθηϲεν λεγων επεϲεν βαβυλων η μεγαλη εκ του οινου του θυμου τηϲ πορνιαϲ αυτηϲ πεπτωκαν παντα τα εθνη",
+          "translation": "Another angel — a second one — followed, saying: \"Fallen, fallen is Babylon the Great! She made all the nations drink the wine of her wild sexual desire!\"",
+          "footnotes": [
+            {
+              "id": "revelation-14-8-cultural-context",
+              "text": "\"Babylon\" is a coded reference to Rome throughout Revelation.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "κ(αι) αλλοϲ αγγελοϲ ηκολουθηϲεν τριτοϲ αυτοιϲ λεγων εν φωνη μεγαλη ει τιϲ προϲκυνι το θηριον και την εικονα αυτου και λαμβανι χαραγ μα επι τω μετω πω αυτου η επι τ η χειρα αυτου",
+          "translation": "Another angel — a third one — followed them, shouting: \"If anyone worships the beast and its image and receives its mark on their forehead or on their hand,",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και αυ τοϲ πιεται εκ του οινου του θυμου του θυ του κεκερα ϲμενου ακρατου ε τω ποτηριω τηϲ οργηϲ αυτου και βαϲανιϲθηϲεται εν πυρι και θειω ενωπιον αγγελ ω αγιων και ενωπι ον του αρνιου",
+          "translation": "they will drink the wine of God's fury — poured undiluted into the cup of his anger. They will be tortured with fire and sulfur before the holy angels and before the Lamb.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ο καπνοϲ του βα ϲανιϲμου αυτ ω ειϲ εωναϲ αιωναϲ των αι ωνων αναβαινει και ουκ εχουϲιν αναπαυϲιν ημε ραϲ και νυκτοϲ οι προϲκυνουντεϲ το θηριον και τ η εικονα αυτου και ει τιϲ λαμβανει το χαραγμα του ο νοματοϲ αυτου",
+          "translation": "The smoke of their torment rises forever and ever. There is no rest — day or night — for those who worship the beast and its image, or for anyone who receives the mark of its name.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ωδε η ϋπομονη των αγιων εϲτ ι των τηρουντων ταϲ εντολαϲ του θυ και την πιϲτιν ιυ",
+          "translation": "This calls for endurance on the part of God's people — those who keep the commandments of God and hold firm to the faithfulness of Jesus.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και ηκουϲα φω νηϲ λεγουϲηϲ εκ του ο υνου γραψ ο μακαριοι οι νε κροι οι εν κω απο θνηϲκοντεϲ απ αρ τι ναι λεγει το π ν α ϊ να αναπαηϲον ται εκ των κοπ ω αυτων τα γαρ εργα αυτων ακολουθι μετ αυτων",
+          "translation": "I heard a voice from heaven saying, \"Write this: Blessed are the dead who die in the Lord from now on!\" \"Yes,\" says the Spirit, \"they will rest from their labors — and what they have done goes with them.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ϊ δου νεφελη λευ κη και επι την νε φελην καθημε νον ομοιον ϋϊ ο ανθρωπου εχ ο τα εχον επι τηϲ κεφα ληϲ αυτου ϲτεφα νον χρυϲουν και εν τη χειρι αυτου δρεπανον οξυ ·",
+          "translation": "I looked, and there was a white cloud. On the cloud sat someone like a son of man, with a gold crown on his head and a sharp sickle in his hand.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και αλλοϲ αγγελοϲ εξηλθεν εκ του ναου αυτου κραζ ω εν φωνη μεγαλη τω καθημενω ε πι τηϲ νεφεληϲ πεμψον το δρε πανον ϲου και θε ριϲον οτι ηλθεν η ωρα του θεριϲμ(ου) οτι εξηρανθη ο θεριϲμοϲ τηϲ γηϲ",
+          "translation": "Another angel came out of the temple, shouting in a loud voice to the one sitting on the cloud: \"Swing your sickle and harvest — because the time to harvest has come! The crop of the earth is fully ripe!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και εβαλεν ο κα θημενοϲ επι τηϲ νεφεληϲ το δρε πανον αυτου επι την γην και εθε ριϲθη η γη",
+          "translation": "So the one sitting on the cloud swung his sickle over the earth, and the earth was harvested.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και αλ λοϲ αγγελοϲ εξηλ θεν εκ του ναου του εν τω ο υνω ε χων και αυτοϲ δρε πανον οξυ",
+          "translation": "Another angel came out of the temple in heaven, also holding a sharp sickle.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και αλλοϲ αγγελοϲ εξηλθεν εκ του θυϲιαϲτηριου εχ ω εξουϲιαν επι του πυροϲ και εφωνη ϲεν φωνη μεγα λη τω εχοντι το δρεπανον το οξυ λεγω λεγων πεμψον το δρεπανον ϲου το ο ξυ και τρυγηϲον τουϲ βοτρυαϲ τηϲ αμπελου τηϲ γηϲ οτι ηκμαϲαν αι ϲταφυλαι αυτηϲ",
+          "translation": "Still another angel — who had authority over the fire — came from the altar and shouted to the angel with the sharp sickle: \"Swing your sharp sickle and gather the grape clusters from the vine of the earth, because its grapes are fully ripe!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και εβαλεν ο αγ γελοϲ το δρεπαν ο αυτου επι τηϲ γηϲ και ετρυγηϲεν τ η αμπελον τηϲ γηϲ και εβαλεν ειϲ τ η ληνον του θυμου ϲου του θυ την μεγαλ η",
+          "translation": "The angel swung their sickle over the earth and gathered the grapes of the earth, and threw them into the great winepress of God's anger.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και επατηθη η λη νοϲ εξω τηϲ πο λεωϲ και εξηλθ ε αιμα εκ τηϲ ληνου αχρι των χαλιν ω των ϊππων απο ϲταδιων χιλιων διακοϲιων εξακοϲιων",
+          "translation": "The grapes were trampled outside the city, and blood flowed from the winepress — as high as a horse's bridle — for about two hundred miles.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ϊ δον αλλο ϲημιον εν τω ο υνω μεγα και θαυμαϲτον αγγελουϲ επτα ε χονταϲ πληγαϲ ε πτα ταϲ εϲχαταϲ οτι εν αυταιϲ ετε ο θυμοϲ του θυ",
+          "translation": "Then I saw another sign in heaven, great and amazing: seven angels with seven plagues — the final plagues — because with them God's wrath is completed.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ειδον ωϲ θαλαϲϲαν ϋαλι νην μεμιγμεν η πυρι και τουϲ νι κωνταϲ εκ του θη ριου και τηϲ εικο νοϲ αυτου και εκ του αριθμου του ονοματοϲ αυτ [1 chars] αυτου εϲτωταϲ επι την θαλαϲϲαν την υ α λινην εχονταϲ κιθαραϲ κυ του θυ",
+          "translation": "I saw something like a sea of glass mixed with fire. Standing by the sea of glass were those who had conquered the beast, its image, and the number of its name. They held harps given by God,",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και αδονταϲ την ωδην μωϋϲεωϲ του δουλου του θυ και την ωδην του αρνιου λεγοντεϲ μεγαλα και θαυμα ϲτα τα εργα ϲου κε ο θϲ ο παντοκρατωρ δικαιαι και αληθι ναι αι οδοι ϲου βα ϲιλευ βαϲιλευϲ των αιω νων εθνων αιωνων",
+          "translation": "and they sang the song of God's servant Moses, and the song of the Lamb: \"Great and amazing are your works, Lord God Almighty. Just and true are your ways, King of the nations.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "τιϲ ϲε ου φο βηθη κε και δοξα ϲη το ονομα ϲου οτι μονοϲ οϲιοϲ οτι παντα τα εθνη ηξουϲιν και προϲ κυνηϲουϲιν ενω πιον ϲου οτι δικ(αι) ωματα ενωπι ο ϲου εφανερωθη ϲαν",
+          "translation": "Who will not fear and glorify your name, Lord? Because you alone are holy. All the nations will come and worship before you — because your righteous judgments have been revealed.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και μετα ταυ τα ειδον και ηνυ γη ο ναοϲ τηϲ ϲκη νηϲ του μαρτυριου εν τω ο υνω",
+          "translation": "After this I looked, and the sanctuary — the tent of witness — was opened in heaven.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και εξηλθον οι επτα αγγελοι εχοντεϲ ταϲ επτα πληγαϲ εκ του ναου ενδε δυμενοι καθαρουϲ λινουϲ λαμπρουϲ και περιεζωϲμε νοι περι τα ϲτηθη ζωναϲ χρυϲαϲ",
+          "translation": "The seven angels with the seven plagues came out of the sanctuary, dressed in clean, bright linen with gold sashes around their chests.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ε εκ των τεϲϲαρ ω ζωων εδωκεν τοιϲ επτα αγγελοιϲ φιαλαϲ χρυϲαϲ γε μουϲαϲ του θυμου του θυ του ζωντοϲ ειϲ τουϲ αιωναϲ των αιωνων α μην ·",
+          "translation": "One of the four creatures gave the seven angels seven gold bowls filled with the anger of God — who lives forever and ever.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και εγεμιϲθη ο ναοϲ καπνου εκ τηϲ δοξηϲ του θυ κ(αι) εκ τηϲ δυναμεωϲ αυτου και ουδιϲ η δυνατο ειϲ τον να ον ειϲελθειν αχρι τελεϲθωϲιν αι ε πτα πληγαι των επτα αγγελων",
+          "translation": "The sanctuary was filled with smoke from God's glory and his power. No one could enter the sanctuary until the seven plagues of the seven angels were completed.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "κ(αι) ηκουϲα φωνηϲ με γαληϲ εκ του ναου λεγουϲηϲ τοιϲ ε πτα αγγελοιϲ υ πα γεται και εκχεεται ταϲ επτα φιαλαϲ του θυμου του θυ ειϲ τ η γην",
+          "translation": "I heard a loud voice from the sanctuary saying to the seven angels: \"Go and pour out the seven bowls of God's anger onto the earth.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και απηλθεν ο πρωτοϲ και εξεχε ε την φιαλην αυτου ειϲ την γην και εγενετο ελ κον ελκοϲ κακοϲ ελκοϲ πονηρον και κακον επι τουϲ α θρωπουϲ τουϲ εχ ο ταϲ το χαραγμα του θηριου και τουϲ προϲ κυνουνταϲ την ει κονα αυτου",
+          "translation": "The first angel went and poured out their bowl onto the earth. Horrible, painful sores broke out on the people who had the beast's mark and worshiped its image.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ειϲ κ(αι) ο δευτεροϲ εξεχε ε τ η φιαλην αυτου ειϲ την θαλαϲϲαν και εγενετο αιμα ωϲι νεκρου και παϲα ψυχη ζωϲα απεθα νεν επι τηϲ θαλαϲ ϲηϲ",
+          "translation": "The second angel poured out their bowl onto the sea. The sea turned into blood — like blood of a corpse — and every living creature in the sea died.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ο τριτοϲ ε ξεχεεν την φια λην αυτου επι τουϲ ποταμουϲ και ταϲ πηγαϲ των ϋδατ ω και εγενετο αιμα",
+          "translation": "The third angel poured out their bowl into the rivers and springs of water — and they turned into blood.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ηκουϲα των του αγ γελου των ϋδατ ω λεγοντοϲ δικαιοϲ ει ο ων και ο ην ο οϲιοϲ οτι ταυτα εκριναϲ",
+          "translation": "Then I heard the angel of the waters saying: \"You are just — the holy one who is and who was — because you have judged these things.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "οτι αιματα αγιων και προφητων ε ξεχεαν και αιμα ε δωκαϲ αυτοιϲ πιε ι οπερ αξιοι ειϲιν",
+          "translation": "They poured out the blood of your people and your prophets — and you have given them blood to drink. They deserve it!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ηκουϲα του θυϲια ϲτηριου λεγοντοϲ ναι κε ο θϲ ο παντο κρατωρ αληθιναι και δικαιαι αι κριϲιϲ ϲου ·",
+          "translation": "I heard the altar respond: \"Yes, Lord God Almighty, true and just are your judgments.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και ο τεταρτοϲ αγγελοϲ εξεχεεν την φιαλην αυτου επι τον ηλιον και εδοθη αυτω καυ ματιϲαι τουϲ ανουϲ πυρι",
+          "translation": "The fourth angel poured out their bowl onto the sun. The sun was given power to burn people with fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και εκαυματι ϲθηϲαν οι α νοι καυ μα μεγα και εβλα ϲφημηϲαν το ονο μα το α̣ [1 chars] α̣υ̣ του θυ του εχοντοϲ την εξουϲιαν ε πι ταϲ πληγαϲ ταυ ταϲ και ου μετενο ηϲαν δουναι αυτω δοξαν",
+          "translation": "People were scorched by the intense heat. They cursed God — who has authority over these plagues — but they did not repent and give him glory.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ο πεμπτοϲ εξε χεεν την φιαλην αυτου επι τον θρο νον του θηριου και εγενετο η βαϲι λεια αυτου εϲκοτω μενη εϲκοτιϲμενη και εμαϲ ω το ταϲ γλωϲϲαϲ αυ των απο του πονου",
+          "translation": "The fifth angel poured out their bowl onto the throne of the beast. The beast's kingdom was plunged into darkness. People gnawed their tongues in agony,",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και εβλαϲφημη ϲαν τον θν του ου ρανου εκ των πο νων αυτων και ου μετενοηϲαν ·",
+          "translation": "and cursed the God of heaven because of their pain and their sores — but they did not repent of what they were doing.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ο εκτοϲ εξεχεεν την φιαλην αυτου επι τον ποταμον τον μεγαν ευφρατ η και εξηρανθη το ϋδωρ αυτου ϊνα ετοι μαϲθη η οδοϲ τ ω βαϲιλεων των α πο ανατοληϲ ηλιου",
+          "translation": "The sixth angel poured out their bowl onto the great river Euphrates. Its water dried up to prepare the way for the kings from the east.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και εδοθη εκ του ϲτο ματοϲ του δρακοντοϲ και εκ του ϲτομα τοϲ του θηριου και εκ του ϲτοματοϲ του ψευδο προφητου πνα τα τρια ακαθαρτα ειωϲει ωϲει βατραχουϲ βατραχοι",
+          "translation": "Then I saw three unclean spirits that looked like frogs — coming from the mouth of the dragon, the mouth of the beast, and the mouth of the false prophet.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ειϲιν γαρ π ν ατα ποιουντα ϲη μεια εκπορευεϲθαι εκπορευονται ειϲ τουϲ βαϲιλειϲ τηϲ οικουμενηϲ οληϲ ϲυναγαγειν αυτουϲ ειϲ τον πο λεμον τηϲ ημεραϲ τηϲ μεγαληϲ του θυ του παντοκρατο ροϲ",
+          "translation": "They are demonic spirits that perform signs. They go out to the kings of the whole world — to gather them for battle on the great day of God Almighty.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "ϊδου ερχεται ερχομαι ωϲ κλεπτηϲ μακαρι οϲ ο τε γρηγορων κ(αι) τηρων τα ϊματια αυ του ϊνα μη γυμνοϲ περιπατη και βλε πωϲιν την αϲχη μοϲυνην αυτου",
+          "translation": "\"Look — I am coming like a thief. Blessed is the one who stays awake and keeps their clothes on, so they won't walk around naked and have people see their shame.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και ϲυνηγαγον αυ τουϲ ειϲ τοπον τ ο καλουμενον ε βραϊϲτι αρμαγεδ ω αρμεγεδ ω αρμαγεδ ω",
+          "translation": "The spirits gathered the armies together at the place called in Hebrew, Armageddon.",
+          "footnotes": [
+            {
+              "id": "revelation-16-16-cultural-context",
+              "text": "\"Armageddon\" (Ἁρμαγεδών) means \"Mount Megiddo\" — a hill in Israel known for battles.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "original": "και οτε ο ζ αγγελοϲ εξεχεεν την φιαλην αυτου επι τον αερα και ε ξηλθεν φωνη μεγαλη εκ του ναου του θυ λεγου ϲα γεγονεν",
+          "translation": "The seventh angel poured out their bowl into the air. A loud voice came from the throne in the sanctuary, saying, \"It is done!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και ε γενοντο βρονται και αϲτραπαι και φωναι και βρονται και ϲιϲμοϲ εγενε το μεγαϲ οιϲ οιοϲ ουκ ε γενοντο εγενετο αφ ου αν θρωποι εγενοντο επι τηϲ γηϲ τηλι κουτοϲ ϲιϲμοϲ ου τω μεγαϲ ·",
+          "translation": "There were flashes of lightning, rumblings, peals of thunder, and a violent earthquake — more severe than any earthquake since there have been people on the earth.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και εγενε το η πολιϲ η μεγα λη ειϲ τρια μερη κ(αι) η πολιϲ των εθν ω επεϲεν αι πολιϲ των εθν ω επεϲαν και βαβυ λων η μεγαλη ε μνηϲθη ενωπι ον του θυ του δου ναι αυτη ποτηρι ο οινου του θυμου τηϲ οργηϲ",
+          "translation": "The great city split into three parts. The cities of the nations collapsed. God remembered Babylon the Great — and gave her the cup filled with the wine of his furious anger.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και παϲα νηϲοϲ εφυγεν και ορη ουχ ευρε θηϲαν",
+          "translation": "Every island fled, and the mountains disappeared.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και χαλαζα μεγαλη ωϲ ταλαντι αια καταβαινει εκ του ο υνου επι τουϲ α νου ϲ και εβλαϲφη μηϲαν οι ανοι τον θν εκ τηϲ πληγηϲ τηϲ χαλαζηϲ ο τι μεγαλη εϲτιν η πληγη αυτηϲ ϲφοδρα",
+          "translation": "Huge hailstones — about a hundred pounds each — fell from the sky on people. They cursed God for the plague of hail, because that plague was so terrible.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ηλθεν ειϲ των επτα αγγε λων + των εχοντ ω ταϲ επτα φιαλαϲ και ελαληϲεν με τ εμου λεγων δευ ρο διξω ϲοι το κρι μα τηϲ πορνηϲ τηϲ μεγαληϲ τηϲ κα θημενηϲ επι ϋ δατων πολλων",
+          "translation": "One of the seven angels who had the seven bowls came and said to me: \"Come, I will show you the judgment of the great prostitute who sits on many waters.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "μεθ ηϲ εποιηϲ α πορνιαν οι βαϲιλειϲ τηϲ γηϲ και εμε θυϲθηϲαν οι κα τοικουντεϲ την γην εκ του οικ̣ου οινου τηϲ πορνιαϲ αυτηϲ",
+          "translation": "The kings of the earth had sexual relations with her, and the people of the earth got drunk on the wine of her sexual sin.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και απηνεγκεν με ειϲ ερημον εν πν ι και ειδον γυ ναικα καθημε νην επι θηριον κοκκινον γεμ ο τα γεμον ονοματα βλαϲφη μιαϲ ˙ εχοντα κε φαλαϲ επτα και κε ρατα δεκα",
+          "translation": "Then the angel carried me in the Spirit into the wilderness. I saw a woman sitting on a scarlet beast that was covered with blasphemous names and had seven heads and ten horns.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και η γυ νη ην περιβεβλη μενη πορφυρο υ και κοκκινον κ(αι) κεχρυϲωμενη χρυϲω και λιθω τι μιω και μαργαρι ταιϲ εχουϲα ποτη ριον χρουϲουν χρυϲουν εν τη χειρι αυτηϲ γεμ ω γεμο̣ν βδελυγματων και τα ακαθαρτα τηϲ πορνιαϲ αυτηϲ και τηϲ γηϲ",
+          "translation": "The woman was dressed in purple and scarlet, glittering with gold, precious stones, and pearls. She held a gold cup in her hand — full of disgusting things and the filth of her sexual sin.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και επι το μετωπον αυτηϲ ονομα γεγραμμε νον μυϲτηριον βαβυλων η μεγα λη η μητηρ των πορνων και των βδελυγματων τηϲ γηϲ",
+          "translation": "On her forehead was written a mystery: \"Babylon the Great, Mother of Prostitutes and of the Abominations of the Earth.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ειδα τ η γυναικα μεθυουϲ α τω αιματι του αιματοϲ των α γιων και εκ του αι ματοϲ των μαρτυ ρων ιυ και εθαυμα ϲα θαυμα μεγα ει δων αυτην",
+          "translation": "I saw the woman drunk with the blood of God's people — with the blood of those who were killed as witnesses to Jesus. When I saw her, I was completely astonished.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ει πεν μοι ο αγγελοϲ δια τι εθαυμαϲαϲ ε γω ϲοι ερω το μυϲτη ριον τηϲ γυναικοϲ και του θηριου του βαϲταζοντοϲ αυτ η του εχοντοϲ ταϲ επτα κεφαλαϲ και τα δεκα κερατα",
+          "translation": "\"Why are you astonished?\" the angel said to me. \"I will explain the mysterious meaning of the woman and of the beast that carries her — the beast with seven heads and ten horns.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "το θηριον ο ειδεϲ ην και ουκ εϲτιν και μελλει αναβαιν ι εκ τηϲ αβυϲϲου κ(αι) ειϲ απωλιαν ϋπα γειν και θαυμαϲ ο ται οι κατοικουν τεϲ επι τηϲ γηϲ ω ου γεγραπται τα ο νοματα επι το βι βλιον τηϲ ζωηϲ α πο καταβοληϲ κο ϲμου βλεποντ ω το θηριον οτι ην και ουκ εϲτιν και παλιν παρεϲτε παρεϲτιν",
+          "translation": "The beast you saw was, and is not, but is about to come up from the abyss and go to destruction. The people of the earth — whose names have not been written in the book of life from the foundation of the world — will be astonished when they see the beast that was, and is not, and will come again.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "ω δε ο νουϲ ο εχων ϲοφιαν αι επτα κε φαλαι επτα ορη ειϲ ι οπου η γυνη καθη ται επ αυτων και ε πτα βαϲιλειϲ εϲιν ειϲιν",
+          "translation": "Here is the wise understanding: the seven heads are seven hills on which the woman sits — and they are also seven kings.",
+          "footnotes": [
+            {
+              "id": "revelation-17-9-cultural-context",
+              "text": "The \"seven hills\" refers to Rome, built on seven hills.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "original": "οι πεντε επεϲαν ο ειϲ εϲτιν ο αλλοϲ ουπω ηλθεν και οταν ελθη ολιγ ο αυτον μινε ζει δει",
+          "translation": "Five have fallen, one is now, and the other hasn't come yet. When he does come, he must remain for only a little while.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και το θηριον ο ην και ουκ εϲτιν ουτοϲ ο ογδοοϲ εϲτιν και εκ των επτα εϲτ ι και ειϲ απωλιαν ϋπαγει",
+          "translation": "The beast that was and is not — it is itself an eighth king, even though it belongs to the seven — and it goes to destruction.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και τα δε κα καιρατα α ειδεϲ δεκα βαϲιλειϲ ει ϲιν οιτινεϲ βαϲι λιαν ουτω ουπω ελαβ ο αλλα εξουϲιν εξουϲιαν ωϲ βαϲιλειϲ βα μιαν ωραν λαμβανουϲ ι μετα του θηριου",
+          "translation": "The ten horns you saw are ten kings who haven't yet received a kingdom, but they will receive authority as kings for one hour together with the beast.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "ου τοι μιαν γνωμ η εχουϲιν και την δυναμιν και τ η εξουϲιαν αυτων τω θηριω διδοαϲ ι",
+          "translation": "They share one purpose and hand over their power and authority to the beast.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "ουτοι μετα του αρ νιου πολεμηϲου ϲιν και το αρνιον νικηϲι αυτουϲ ο τι κϲ κω ν εϲτιν κ(αι) βαϲιλευϲ βαϲιλε ων και οι μετ αυ του κλητοι και εκ λεκτοι και πιϲτοι",
+          "translation": "They will make war against the Lamb, and the Lamb will conquer them — because he is Lord of lords and King of kings. And those who are with him are called, chosen, and faithful.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και λεγει μοι ταυ τα τα ϋδατα α ειδε ειδεϲ ου η πορνη καθηται και λαοι και οχλοι ειϲιν και εθνη και γλωϲϲαι",
+          "translation": "Then the angel said to me, \"The waters you saw — where the prostitute sits — are peoples, multitudes, nations, and languages.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και τα δεκα κερατα α ειδεϲ και το θη ριον ουτοι μιϲηϲου ϲιν την πορνην και ηρημωμε νην ποιηϲουϲιν αυτην και γυμν η και ταϲ ϲαρκαϲ αυ τηϲ φαγονται και αυτην κατακαυϲου ϲιν πυρι",
+          "translation": "The ten horns you saw — and the beast — will hate the prostitute. They will strip her naked, eat her flesh, and burn her with fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "ο γαρ θϲ εδωκεν ειϲ ταϲ καρδιαϲ αυτου αυτων ποι ηϲαι την γνωμ η αυτου αυτων και ποιηϲε μιαν γνωμην κ(αι) δουναι την βαϲι λιαν αυτων τω θηριω αχρι τελε ϲθηϲονται οι λο γοι του θυ",
+          "translation": "For God has put it into their hearts to carry out his purpose — to agree and give their kingdom to the beast, until God's words are fulfilled.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και η γυ νη ην ειδεϲ εϲτ ι η πολιϲ η μεγαλη εχουϲα βαϲιλει α επι των βαϲιλει ων τηϲ γηϲ",
+          "translation": "\"The woman you saw is the great city that rules over the kings of the earth.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "μετα ταυτα ειδον αλλον αγγελον κα ταβαινοντα εκ του ουρανου εχ ο τα εξουϲιαν με γαλην και η γη ε φωτιϲθη εκ τηϲ δοξηϲ αυτου",
+          "translation": "After this I saw another angel coming down from heaven. The angel had great authority, and the earth was lit up by the angel's glory.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και ε κραξεν ϊϲχυρα φω νη λεγων επεϲ ε βαβυλων η μεγα λη και εγενετο κατοικητηριον δαιμονιων · και φυλακη παντοϲ πνα τοϲ ακαθαρτου και φυλακη παν τοϲ ορνεου ακαθαρ του και μεμιϲη μενου",
+          "translation": "The angel shouted with a powerful voice: \"Fallen, fallen is Babylon the Great! She has become a home for demons, a prison for every evil spirit, and a cage for every unclean and hated bird!",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "οτι εκ του οινου του θυμου τηϲ πορνιαϲ αυτηϲ πεπτωκαϲιν παντα τα εθνη κ(αι) οι βαϲιλειϲ τηϲ γηϲ μετ αυτηϲ επορ νευϲαν και οι εμ τηϲ γηϲ με τα τηϲ επορνευϲ α αυτηϲ επορνευϲ α εκ τηϲ δυναμεωϲ του ϲτρηνουϲ αυ τηϲ επλουτηϲαν",
+          "translation": "Because all the nations have drunk the wine of her wild sexual desire. The kings of the earth have had sex with her, and the merchants of the earth have grown wealthy from her wasteful luxury.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ηκουϲα αλλ η φωνην εκ του ο υνου λεγουϲαν εξελθα ται ο λαοϲ μου εξ αυ τηϲ ι να μη ϲυνκοι νωνηϲηται ταιϲ αμαρτιαιϲ αυτηϲ και εκ των πλη γων αυτηϲ ϊνα μη λαβηται",
+          "translation": "Then I heard another voice from heaven saying: \"Come out of her, my people — so you don't share in her sins and so you won't receive any of her plagues.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "οτι εκολ ληθηϲαν αυτηϲ αι αμαρτιαι αχρι του ο υνου και εμνη μονευϲεν ο θϲ τα αδικηματα αυτηϲ",
+          "translation": "Because her sins are piled up to the sky, and God has remembered her crimes.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "αποδοτε αυτη ωϲ και αυτη απεδω κεν διπλωϲατε τα διπλα κατα τα εργα αυτηϲ εν τω ποτηριω αυτηϲ ω εκεραϲεν κερα ϲαται αυτη διπλο υ",
+          "translation": "Pay her back as she has paid others. Double it — give her back double for what she did. Mix her cup twice as strong as what she mixed.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "οϲα εδοξαϲεν αυ την εαυτην και εϲτρηνια ϲεν τοϲουτον δο τε αυτη βαϲανιϲμ ο και πενθοϲ οτι ε τη καρδια αυτηϲ λε γει οτι καθημε βα ϲιλιϲϲα και χηρα ουκ ειμι και πεν θοϲ ου μη ειδω",
+          "translation": "Give her as much torment and grief as the glory and luxury she gave herself. In her heart she says, 'I sit like a queen. I'm not a widow. I will never see grief.'",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "δια τουτο εν μια ημερα ηξουϲιν αι πληγαι αυτηϲ θα νατοϲ και πενθοϲ και λιμοϲ και εν πυρι κατακαυθη ϲεται οτι ι ϲχυροϲ ο θϲ ο κϲ κϲ ο θϲ ο κριναϲ κρινων αυτην",
+          "translation": "That is why her plagues will hit her all in a single day — death, grief, and famine — and she will be burned with fire. Because the Lord God who judges her is powerful!",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και κλαυϲον ται και κοψονται επ αυτην οι βαϲι λειϲ τηϲ γηϲ οι με τ αυτηϲ πορνευϲαν τεϲ κ(αι) ϲτρηνιαϲαντεϲ κ(αι) ϲτρηνιαϲαντεϲ και ϲτεναξωϲιν οταν ϊδωϲιν τον καπνον τηϲ πτωϲεωϲ πυρωϲεωϲ αυτηϲ",
+          "translation": "The kings of the earth who committed immorality with her and shared in her luxury will weep and mourn over her when they see the smoke of her burning.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "απο μακροθεν ε ϲτηκοτεϲ δια τον φοβον του βαϲανι ϲμου αυτηϲ λεγον τεϲ ουαι ουαι η πο λιϲ η μεγαλη βαβυ λων η πολιϲ η ϊϲχυ ρα οτι μια ωρα ηλ θεν η κριϲιϲ ϲου",
+          "translation": "They will stand at a distance, terrified by her torment, saying: \"Disaster, disaster, the great city — Babylon, the mighty city — because in a single hour your judgment has come!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και οι εμποροι τηϲ γηϲ ϲου κλαιουϲιν και πενθουϲιν ε π αυτην οτι τον γο μον αυτων ουδειϲ αγοραζει ουκετι",
+          "translation": "The merchants of the earth weep and mourn for her — because no one buys their cargo anymore.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "γομον χρυϲου και αργυρου και λιθου τιμιου και μαργα ριτων και βυϲϲιν ω και πορφυραϲ και ϲιρικου και κοκκι νου και παν ξυλον θυϊνον και παν ϲκευοϲ ελεφαντι νον και παν ϲκευοϲ εκ ξυλου τιμιωτα του · και χαλκου και ϲιδηρου",
+          "translation": "Cargo of gold, silver, precious stones, pearls, fine linen, purple, silk, scarlet, all kinds of scented wood, all sorts of ivory objects, all sorts of objects made of expensive wood, bronze, iron, and marble;",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και κ ι ναμωμου · και α μωμον και θυμι αματα και μυρον και λιβανον · και οινον και ελαιον και ϲεμιδαλιν και ϲιτον και κτηνη και προβατα και ι ππων ι ππον ι ππων και ρεδων και ϲωματων · κ(αι) ψυχαϲ α νων",
+          "translation": "also cinnamon, spice, incense, myrrh, frankincense, wine, olive oil, fine flour, wheat, cattle, sheep, horses, chariots, and slaves — the very souls of people.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και η οπωρα ϲου τηϲ ε πιθυμιαϲ τηϲ ψυ χηϲ απηλθεν απο ϲου και παντα τα ριπαρα λιπαρα και λαμ πρα απωλοντο α πο ϲου και ουκετι ου μη αυτα ευρηϲου ϲιν",
+          "translation": "\"The fruit your soul craved has gone from you. All your luxury and splendor are lost — you will never find them again.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "οι εμποροι τουτων οι πλου τηϲαντεϲ απ αυτηϲ απο μακροθεν ϲτη ϲονται δια τον φοβον του βαϲανι ϲμου αυτηϲ κλαι οντεϲ και πενθο υ τεϲ",
+          "translation": "The merchants who grew wealthy from her will stand at a distance, terrified by her torment. They will weep and mourn,",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "λεγοντεϲ ουαι ουαι · η πολιϲ μενη η μεγαλη η περιβεβλημενη βυϲϲινον και πορ φυρουν και κοκκι νον και κεχρυϲω μενον εν χρυϲω και λιθω τιμιω και μαργαριτη",
+          "translation": "saying: \"Disaster, disaster for the great city! Dressed in fine linen, purple, and scarlet, glittering with gold, precious stones, and pearls —",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "οτι μια ωρα ηρημωθη ο τοϲουτοϲ πλουτοϲ και παϲ κυβερνη τηϲ και παϲ ο επι τον τοπον πλε ω και ναυται και οϲοι την θαλαϲϲαν ερ γαζονται απο μα κροθεν εϲτηϲαν",
+          "translation": "in a single hour all this wealth has been destroyed!\" Every ship captain, every passenger, all the sailors — everyone who makes a living from the sea — stood at a distance.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και εκραζον λεγ ο τεϲ βλεπ ο τεϲ βλεπ ο τεϲ τον καπνον τηϲ πυρωϲεωϲ αυ τηϲ λεγοντεϲ τιϲ ο μοια τη πολι τη με γαλη",
+          "translation": "When they saw the smoke from her burning, they cried out, \"Is there any city like this great city?\"",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και εβαλον χουν επι τηϲ κε φαληϲ αυτων και εκραζον κλαιον τεϲ και πενθουντεϲ λεγοντεϲ ουαι η πολιϲ η μεγαλη εν η επλουτηϲαν παντεϲ οι εχοντεϲ τα πλοια εν τη θα λαϲϲη εκ τηϲ τιμι οτητοϲ αυτηϲ ο τι μια ωρα ηρημω θη",
+          "translation": "They threw dust on their heads and cried, weeping and mourning: \"Disaster, disaster for the great city! Everyone who had ships on the sea grew wealthy from her wealth — and in a single hour she has been destroyed!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ευφρενου επ αυ τη ουραναι και οι αγιοι · και οι απο ϲτολοι και οι προ φηται οτι εκριν ε ο θϲ το κριμα υ μ ω εξ αυτηϲ ·",
+          "translation": "\"Celebrate over her, heaven — and God's people, the apostles, and the prophets — because God has judged her the way she judged you!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και ηρεν ειϲ αγγε λοϲ λιθον ϊϲχυρ ο ιϲχυροϲ ϊϲχυροϲ ωϲ λιθον μεγ α και εβαλεν ειϲ τ η θαλαϲϲαν λεγ ω οτι ουτωϲ ορμη ματι βληθηϲεται βαβυλων η μεγα λη πολιϲ και ου μη ευρεθη ετι εν αυ τη",
+          "translation": "Then a mighty angel picked up a boulder the size of a huge millstone and threw it into the sea, saying: \"This is how violently the great city Babylon will be thrown down — and never be found again.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "φωνη κιθαρω δων · και μουϲι κων και αυλητ ω και ϲαλπιγγων ου μη ακουϲθη εν ϲοι ετι και παϲ τεχνιτηϲ ου μη ευ ρεθη εν ϲοι ετι",
+          "translation": "The sound of harpists and musicians and flute players and trumpeters will never be heard in you again. No artisan of any trade will be found in you again. The sound of the millstone will never be heard in you again.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και φωϲ λυχνου ου μη φανη εν ϲοι ετι · και φωνην φωνη νυμ φιου και νυμφηϲ ου μη ακουϲθη εν ϲοι ετι οτι οι εμπο ροι ϲου ηϲαν οι με γιϲτανεϲ τηϲ γηϲ οτι εν τη φαρμακι α ϲου επλανηθη ϲαν παντα τα εθνη",
+          "translation": "The light of a lamp will never shine in you again. The voice of a groom and bride will never be heard in you again. Because your merchants were the most important people on earth, and all the nations were led astray by your sorcery.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και εν αυτη αιμα προφητων και α γιων ευρεθη και παντων των εϲ φαγμενων επι τηϲ γηϲ",
+          "translation": "And in her was found the blood of prophets and God's people — and of everyone who has been slaughtered on the earth.\"",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "μετα ταυτα ηκουϲα ωϲ φωνην μεγα λην οχλου πολλου εν τω ο υνω λεγ ο των αλληλουϊα η ϲωτηρια και η δοξα κ(αι) η δυναμιϲ του θυ η μων",
+          "translation": "After this I heard what sounded like the loud voice of a huge crowd in heaven, shouting: \"Hallelujah! Salvation, glory, and power belong to our God!",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "οτι αληθι ναι και δικαιαι αι κριϲειϲ αυτου οτι εκρινεν την πορ ν̣ν πορνην την μεγαλην ητιϲ εφθιρεν τ η γην εν τη πορνι α αυτηϲ και εξεδι κηϲεν το αιμα τ ω δουλων αυτηϲ αυτου εκ χιροϲ αυτηϲ",
+          "translation": "Because his judgments are true and just. He has condemned the great prostitute who corrupted the earth with her sexual sin. He has avenged the blood of his servants — avenged it from her hand!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και δευτερον ειρηκ α αλληλουϊα και ο καπνοϲ αυτηϲ αναβαινει ειϲ τουϲ αιωναϲ των αιω νων",
+          "translation": "A second time they shouted: \"Hallelujah! The smoke from her rises forever and ever!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και επεϲαν οι πρεϲ βυτεροι οι εικοϲι τεϲϲαρεϲ και τα τεϲ ϲερα ζωα και προϲεκυ νηϲαν τω θω τω καθημενω επι τω θρονω λεγον τεϲ αμην αλλη λουϊα",
+          "translation": "The twenty-four elders and the four creatures fell down and worshiped God — who sits on the throne — saying, \"Amen! Hallelujah!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και φωναι εξηλθ ο φωνη εξηλθ ε εκ του θρονου λε γουϲαι λεγουϲα αινειται τω θω η μων παντεϲ οι δουλοι αυτου οι φοβουμενοι αυτ ο οι μικροι και οι μεγαλοι",
+          "translation": "A voice came from the throne, saying: \"Praise our God, all you his servants — you who fear him, small and great!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ηκου ϲα ωϲ φωνην ο χλου πολλου και ωϲ φωνην υ δα των πολλων και ωϲ φωνην βρον των ι ϲχυρων λε γουϲων αλληλουϊ α · οτι εβαϲιλευϲεν ο θϲ ο κϲ κϲ ο θϲ ημων ο παντοκρατωρ",
+          "translation": "Then I heard what sounded like a huge crowd — like the roar of rushing water and the blast of loud thunder — shouting: \"Hallelujah! For the Lord our God, the Almighty, has begun to reign!",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "χαι ρωμεν και αγαλ λιωμεν και δω μεν δωϲομεν την δοξαν αυ των αυτω οτι ηλθεν ο γα μοϲ του αρνιου και η γυνη νυμφη αυτου ητοιμαϲεν εαυτ η",
+          "translation": "Let us celebrate and be glad and give him glory — because the marriage of the Lamb has come, and his bride has made herself ready.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και εδοθη αυτη ϊ να περιβαληται βυϲ ϲινον λαμπρον καθαρον το γαρ βυϲ ϲινον τα δικαιω ματα των αγιων εϲτιν",
+          "translation": "She was given fine linen to wear — bright and pure. For the fine linen represents the righteous deeds of God's people.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και λεγε λεγει λεγει μοι γραψον · μακαριοι οι ειϲ το διπνον του γαμου του αρνιου κεκλη μενοι κ(αι) λεγι μοι ουτοι οι λο γοι μου αληθινοι ειϲιν του θυ του θυ αληθινοι ειϲιν",
+          "translation": "Then the angel said to me, \"Write this: Blessed are those invited to the wedding feast of the Lamb!\" And the angel added, \"These are the true words of God.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ε πεϲα εμπροϲθεν των ποδων αυτου προϲκυνηϲαι αυ τω και λεγει μοι ο ρα μη ϲυνδουλοϲ ϲου ειμι και των αδελφων ϲου των ε χοντων την μαρ τυριαν ιυ τω θω προϲκυνηϲον η γαρ μαρτυρια ιυ εϲτ ι το π ν α τηϲ προφη τιαϲ",
+          "translation": "I fell at the angel's feet to worship them. But they said to me, \"Don't do that! I am a fellow servant with you and your brothers and sisters who hold the testimony of Jesus. Worship God! For the testimony of Jesus is the spirit of prophecy.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ειδον τ ο ο υνον ηνεωγμε νον και ι δου ϊπποϲ λευκοϲ και ο καθη μενοϲ επ αυτον πιϲτοϲ καλουμε νοϲ και αληθινοϲ και εν δικαιοϲυ νη κρινει και πο λεμι",
+          "translation": "Then I saw heaven opened wide, and there was a white horse. Its rider is called Faithful and True — and he judges and makes war with justice.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "οι δε δε οι οφθαλ μοι αυτου φλοξ πυ ροϲ και επι την κε φαλην αυτου δια δηματα πολλα ε χων ονομα ονοματα γεγραμμενα α ουδιϲ οιδ ε η ει μη αυτοϲ",
+          "translation": "His eyes are like a blazing fire. On his head are many diadems. He has a name written on him that no one knows but himself.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και πε ριβεβλημενοϲ ϊ ματιον περιρεραμ μενον περιρεραντιϲμενον αιματι και κεκλη κεκληται το ονομα αυτου ο λογοϲ του θυ",
+          "translation": "He is dressed in a robe dipped in blood, and his name is the Word of God.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και τα ϲτρατευ ματα εν τω ο υνω ηκολουθι αυτω εφ ιπποιϲ λευκοιϲ ενδεδυμενοιϲ ενδεδυμενοι βυϲϲινον λευκον και καθαρον",
+          "translation": "The armies of heaven were following him — riding on white horses and dressed in fine linen, white and pure.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και εκ του ϲτοματοϲ αυτου εκπορευεται ρομφαια οξεια ϊ να εν αυτη πατα ξει τα εθνη και αυ τοϲ ποιμανει αυτουϲ εν ραβδω ϲιδηρα και αυτοϲ πατει την ληνον του οινου τηϲ οργηϲ τηϲ οργηϲ του θυμου του θυ του παντοκρατοροϲ",
+          "translation": "Out of his mouth comes a sharp sword — to strike down the nations. He will rule them with an iron rod. He will tread the winepress of the furious anger of God Almighty.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και εχει επι το ϊμα και τον μη ρον αυτου ονομα γεγραμμενον βα ϲιλευϲ βαϲιλεων και κϲ κω ν",
+          "translation": "On his robe and on his thigh he has a name written: \"King of Kings and Lord of Lords.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και ει δον αλλον αγγελ ο εϲτωτα εν τω ηλι ω και εκραξεν εν φωνη μεγαλη λε γων παϲιν τοιϲ ορ νεοιϲ τοιϲ πετο μενοιϲ εν μεϲου ρανηματι δευτε ϲυναχθητε ειϲ το διπνον το μεγα του θυ",
+          "translation": "I saw an angel standing in the sun, shouting in a loud voice to all the birds flying overhead: \"Come, gather for the great feast of God!",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "ϊνα φαγηται ϲαρ καϲ βαϲιλεων και ϲαρκαϲ χιλιαρχ ω και ϲαρκαϲ ϊϲχυρ ω και ϲαρκαϲ ϊππ ω και των καθημε νων επ αυτοιϲ κ(αι) ϲαρκαϲ παντων ελευθερων τε και δουλων και μικρ ω και των μεγαλ ω",
+          "translation": "Come and feast on the flesh of kings, the flesh of commanders, the flesh of the powerful, the flesh of horses and their riders — the flesh of everyone, free and slave, small and great!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και ι δον το θηρι ο και τουϲ βαϲιλειϲ τηϲ γηϲ κατα τα και τα ϲτρα τευματα αυτων ϲυ νηγμενα ϲ υ ηγμενα ποιηϲαι τον πολεμον με τα του καθημενου επι του ι ππου και μετα του ϲτρατευ ματοϲ αυτου",
+          "translation": "Then I saw the beast and the kings of the earth with their armies gathered — to make war against the rider on the horse and against his army.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "και ε πιαϲθη το θηριον και μετ αυτου ο ψευ δοπροφητηϲ ο ποι ηϲαϲ τα ϲημια ενω πιον αυτου εν οιϲ επλανηϲεν τουϲ λαβονταϲ το χαραγ μα του θηριου και τουϲ προϲκυνο υ ταϲ την εικονα τη εικονι αυ του ζωντεϲ εβλη θηϲαν οι δυο ειϲ την λιμνην του πυροϲ τηϲ κεομε νηϲ εν θιω",
+          "translation": "The beast was captured, and with it the false prophet who had performed signs before it — signs that led astray those who received the mark of the beast and worshiped its image. The two of them were thrown alive into the fiery lake of burning sulfur.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και οι λοιποι απεκταν θηϲαν εν τη ρομ φαια του καθημε νου επι του ϊππου τη εξελθουϲη εκ του ϲτοματοϲ αυ του και παντα τα ορ νεα εχορταϲθηϲ α εκ των ϲαρκων αυ των",
+          "translation": "The rest were killed by the sword that came out of the rider's mouth. And all the birds gorged themselves on their flesh.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και ειδον αγ γε αλλον αγγελον καταβαινοντα εκ του ο υνου εχοντα την κλιν τηϲ αβυϲϲου και αλυϲεϲιν αλυϲιν μεγαλ η εν τη χειρι αυτου",
+          "translation": "I saw an angel coming down from heaven, holding the key to the abyss and a great chain in their hand.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και εκρατηϲεν τον δρακοντα τον οφ ι τον αρχαιον ο εϲτ ι ο διαβολοϲ και ο ϲαταναϲ και εδηϲ ε αυτον",
+          "translation": "The angel seized the dragon — the ancient serpent, who is the devil and Satan — and bound him for a thousand years.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "ειϲ την αβυϲ ϲον και εκλιϲεν κ(αι) εϲφραγιϲεν επα νω αυτου ϊνα μη πλανηϲει ετι τα ε θνη αχρι τελεϲθη τα χιλια ετη μετα ταυτα δι δει αυτον λυ θηναι μικρον χρο νον",
+          "translation": "The angel threw him into the abyss, locked it, and sealed it over him — so that he could no longer lead the nations astray until the thousand years were completed. After that he must be released for a short time.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και ειδον και εκαθιϲαν επ αυτουϲ και κρι μα εδοθη αυτοιϲ και ταϲ ψυχαϲ των πεπελεκιϲμεν ω δια την μαρτυρι αν ιυ και δια τον λο γον του θυ · ειτινεϲ ουν ου προϲεκυνηϲ α το θηριον ουδε τ η εικονα αυτου και ουκ ελαβον το χα ραγμα επι το μετω πον και επι την χειρα αυτων και ε ζηϲαν και εβαϲιλευ ϲαν μετα του χυ χι λια ετη",
+          "translation": "I saw thrones, and those who sat on them were given authority to judge. I also saw the souls of those who had been beheaded because of the testimony of Jesus and God's word — those who had not worshiped the beast or its image and had not received its mark on their foreheads or hands. They came to life and ruled with Christ for a thousand years.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "αυτη η α ναϲταϲιϲ η πρωτη",
+          "translation": "The rest of the dead did not come to life until the thousand years were completed. This is the first resurrection.",
+          "footnotes": [
+            {
+              "id": "revelation-20-5-interpretation",
+              "text": "The \"first resurrection\" distinguishes this from the general resurrection at the final judgment.",
+              "type": "interpretation"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "original": "μακαριοϲ και αγι οϲ ο εχων μεροϲ εν τη αναϲταϲι τη πρωτη επι του των ο δευτεροϲ θανατοϲ ουκ εχει εξουϲιαν αλλα εϲ ο ται ϊερειϲ και του θυ και του χυ και βαϲι λευϲουϲιν μετ αυ του τα χιλια ετη",
+          "translation": "Blessed and holy are those who share in the first resurrection. The second death has no power over them. They will be priests of God and of Christ and will rule with him for a thousand years.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και οταν τελεϲθη ϲε τελεϲθη τα χιλια ετη λυ θηϲεται ο ϲαταναϲ εκ τηϲ φυλακηϲ αυ του",
+          "translation": "When the thousand years are completed, Satan will be released from his prison,",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "και εξελευϲε ται πλανηϲαι παν τα τα εθνη εν ταιϲ τετραϲι γωνιαιϲ τηϲ γηϲ τ̣ωγ και τον γωγ και τον μαγωγ κ(αι) ϲυναγαγειν αυτουϲ ειϲ τον πολεμον ων ο αριθμοϲ αυ των ωϲ η αμμοϲ τηϲ θαλαϲϲηϲ",
+          "translation": "and he will go out to lead the nations astray — from the four corners of the earth — Gog and Magog — to gather them for battle. They are as numerous as the sand on the shore.",
+          "footnotes": [
+            {
+              "id": "revelation-20-8-cultural-context",
+              "text": "\"Gog and Magog\" from Ezekiel 38-39 represent the ultimate enemies of God's people.",
+              "type": "cultural-context"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "original": "και ανεβηϲαν επι το πλατοϲ τηϲ γηϲ και εκυκλωϲαν την παρεμβολην των αγιων και την πο λιν την ηγαπημε νην και κατεβη πυρ απο του θυ εκ του ου ν ου κ(αι) κατεφαγεν αυτουϲ",
+          "translation": "They spread out across the breadth of the earth and surrounded the camp of God's people — the city he loves. But fire came down from heaven and consumed them.",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και ο διαβολοϲ ο πλανων αυτουϲ εβληθη ειϲ τ η λιμνην του πυροϲ και του θιου οπου το θηριον και οπου ο ψευδο προφητηϲ και βα ϲανιϲθηϲονται ημεραϲ και νυκτοϲ ειϲ τουϲ αιωναϲ τ ω αιωνων",
+          "translation": "The devil — who had led them astray — was thrown into the lake of fire and sulfur, where the beast and the false prophet already were. They will be tormented day and night forever and ever.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "και ειδον θρονον μεγαν λευκον και τον καθημενον επανω αυτου ου απο του προϲω που εφυγεν η γη και ο ο υνοϲ και το ποϲ ουχ ευρεθη αυτοιϲ",
+          "translation": "Then I saw a great white throne and the one seated on it. The earth and the sky fled from his presence — and there was no place for them.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "και ειδον τουϲ νεκρουϲ και τουϲ μεγαλουϲ και τουϲ μικρουϲ εϲτωταϲ ενωπι ο επι του θρονου και βιβλια ηνεωχθη κ(αι) αλλο βιβλιον ηνεωχθη ο εϲτιν τηϲ ζωηϲ και εκριθηϲαν οι νεκροι εκ των γε γραμμενων εν ταιϲ βιβλοιϲ κα τα τα εργα αυτων",
+          "translation": "I saw the dead — great and small — standing before the throne. Books were opened. Then another book was opened — the book of life. The dead were judged by what was written in the books, by what they had done.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "και εδωκεν η θα λαϲϲα τουϲ νεκρουϲ τουϲ εν αυτη και ο τα ο θανατοϲ και ο αδηϲ εδωκαν τουϲ νεκρουϲ τουϲ εν αυ τοιϲ και κατεκριθη ϲαν εκαϲτοϲ κα τα τα εργα αυτων",
+          "translation": "The sea gave up the dead that were in it, and death and the grave gave up the dead that were in them. Each person was judged by what they had done.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και ο θανατοϲ και ο αδηϲ εβληθηϲ α ειϲ την λιμνην του πυροϲ και ουτοϲ ο δευτεροϲ θανατοϲ εϲτιν η λιμνη του πυροϲ",
+          "translation": "Then death and the grave were thrown into the lake of fire. This is the second death — the lake of fire.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ει τιϲ ου χ ευρεθηϲεται ευρεθη εν τη βιβλω τηϲ ζω ηϲ γεγραμμενοϲ ε βληθη ειϲ την λι μνην του πυροϲ",
+          "translation": "Anyone whose name was not found written in the book of life was thrown into the lake of fire.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "κ(αι) ειδον ο υνον κεν ο και γην κενην ο γαρ πρωτοϲ ο υνοϲ και η πρωτη γη α πηλθαν και η θα λαϲϲα ουκ εϲτιν ε τι",
+          "translation": "Then I saw a new heaven and a new earth — for the first heaven and the first earth had passed away, and the sea no longer existed.",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "και την πολιν τ η αγιαν ϊ ηλμ ʼ κεν η ειδον καταβαινου ϲαν εκ του ο υνου απο του θυ ητοιμα ϲμενην ωϲ νυμ φην κεκοϲμημεν η τω ανδρι αυτηϲ",
+          "translation": "I saw the holy city — the new Jerusalem — coming down out of heaven from God, prepared like a bride beautifully dressed for her husband.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "κ(αι) φωνη μεγαλη ηκουϲα φωνηϲ μεγαληϲ εκ του θρονου λεγου ϲα λεγουϲηϲ ϊδου η ϲκηνη του θυ μετα των α νω ν και εϲκηνωϲεν ϲκηνωϲει μετ αυτων και αυτοι λαοι αυτου εϲον ται αυτοϲ ο θϲ εϲται μετ αυτων",
+          "translation": "I heard a loud voice from the throne saying: \"Look! God's dwelling is among people. He will live with them, and they will be his people. God himself will be with them.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και εξα λιψει παν δρακυ δακρυον εκ των οφθαλμων αυτων και ο θανα τοϲ ουκ εϲται ετι ου τε κραυγη ουτε πεν θοϲ ουκ εϲται οτι ετι τα προβατα πρωτα απηλ θεν",
+          "translation": "He will wipe away every tear from their eyes. There will be no more death, no more mourning, no more crying, or pain — because the first things have passed away.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και ειπεν ο καθημενοϲ επι τω θρονω ι δου κε να ποιω παντα κ(αι) λεγει μοι γραψον οτι ουτοι οι λογοι πιϲτοι και αληθι νοι ειϲιν",
+          "translation": "The one seated on the throne said, \"Look — I am making everything new!\" Then he said, \"Write this down, because these words are trustworthy and true.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και λε γει μοι γεγονα γεγοναν εγω το αλφα και το ω η αρχη και το τελοϲ εγω τω διψωντι δωϲω εκ τηϲ πηγηϲ του ϋδατοϲ τηϲ ζω ηϲ δωρεαϲ δωρεαν",
+          "translation": "He also said to me: \"It is done. I am the Alpha and the Omega — the Beginning and the End. To the thirsty I will give from the spring of the water of life for free.",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "ο νικ ω κληρονομηϲι ταυ τα και εϲομαι αυ τω θϲ και αυτοϲ εϲται μου υϲ",
+          "translation": "The one who conquers will inherit these things — and I will be their God, and they will be my child.",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "τοιϲ δε ωϲ διλοιϲ και απιϲτοιϲ και εβδελυγμενοιϲ και π φονευϲει κ(αι) πορνοιϲ και φαρ μακοιϲ ˙ και ϊδωλο λατραιϲ και παϲιν τοιϲ ψευδεϲιν το μεροϲ αυτων εν τη λιμνη τη καιο μενη πυρι και θι ω ο εϲτιν ο θανα τοϲ ο δευτεροϲ",
+          "translation": "But the cowardly, the faithless, the detestable, the murderers, the sexually immoral, the sorcerers, the idolaters, and all liars — their share is in the lake that burns with fire and sulfur, which is the second death.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "κ(αι) ηλθεν ειϲ εκ τ ω επτα αγγελων τ ω εχοντων ταϲ ε πτα φιαλαϲ των γεμοντων γεμουϲων των επτα πληγων τ ω εϲχατων και ελα ληϲεν μετ εμου λεγων δευρο διξω ϲοι την νυμφην την γυναικα του αρνιου",
+          "translation": "Then one of the seven angels — who had the seven bowls filled with the seven last plagues — came and said to me: \"Come, I will show you the bride, the wife of the Lamb.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και απηνεγ κεν με εν πν ι ε πι οροϲ μεγα και ϋψηλον και εδιξ ε μοι την πολιν την αγιαν ι ηλμ καταβαινουϲαν εκ του ο υνο υ απο του θυ",
+          "translation": "The angel carried me in the Spirit up to a great, high mountain and showed me the holy city, Jerusalem, coming down out of heaven from God.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "εχουϲαν τ η δοξαν απο του θυ ο φωϲτηρ αυτηϲ ο μοιοϲ λιθω τιμι ωτατω ωϲ λιθω ι αϲπιδι κρυϲταλλι ζοντι",
+          "translation": "It shone with the glory of God. Its brilliance was like a very precious jewel — like a jasper stone, clear as crystal.",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "εχοντι τι χοϲ μεγα και ϋψηλ ο εχονταϲ εχουϲα πυλωναϲ δωδεκα και επι τουϲ πυλωναϲ αγ γελουϲ ιβ και ονο ματα αυτων γεγραμ μενα α εϲτιν των ιβ φυλων ϋϊων ιϲλ",
+          "translation": "It had a great, high wall with twelve gates — with twelve angels at the gates — and names written on the gates: the names of the twelve tribes of Israel.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "απο ανατοληϲ πυ λωνεϲ τρειϲ · και απο βορρα πυλω νεϲ γ · και απο βορ ρα νοτου πυλωνεϲ γ · και απο νοτου δυϲμων πυλω νεϲ τρειϲ ·",
+          "translation": "There were three gates on the east, three on the north, three on the south, and three on the west.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "και το τι χοϲ τηϲ πολεωϲ εχον θεμελιουϲ ιβ και επ αυτων δωδε κα ονοματα των ιβ αποϲτολων του αρνιου",
+          "translation": "The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "και ο λαλ ω μετ εμου ειχεν μετρον καλαμ ο καλαμου χρυϲουν ϊνα με τρηϲη την πολιν και τουϲ πυλωναϲ αυτηϲ και το τει χοϲ αυτηϲ",
+          "translation": "The angel who spoke to me had a gold measuring rod to measure the city, its gates, and its wall.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "και η πο λιϲ αυτηϲ τετραγω νοϲ κειται και το μηκοϲ οϲον το πλα τοϲ και εμετρηϲ ε την πολιν τω καλα μω επι ϲταδιων ϲταδιου δωδεκα χιλιαδ ω το μηκοϲ και το πλα τοϲ και το ϋψοϲ αυ τηϲ ειϲα εϲτιν",
+          "translation": "The city was set out as a square — as long as it was wide. The angel measured the city with the rod: twelve hundred miles. Its length, width, and height were equal.",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και εμετρηϲεν το χι λοϲ αυτηϲ εκατ ο πηχεων μετρ ο ανου ο εϲτιν αγγε λου",
+          "translation": "The angel also measured its wall — about two hundred sixteen feet thick — using the human measurement the angel used.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "και ην ενδω μαϲι η ενδωμηϲιϲ του τιχουϲ αυτηϲ ειαϲπιϲ και η πολιϲ χρυϲιον καθαρον ομοι ο ϋαλω καθαρω",
+          "translation": "The wall was built of jasper. The city itself was pure gold — as clear as glass.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και οι θεμελιοι του τι χουϲ τηϲ πολεωϲ παντι λιθω τιμι ω κεκοϲμημενοι ο θεμελιοϲ ο ειϲ ϊαϲπιϲ και ο δευτεροϲ ϲαπφειροϲ · και ο γ χαλκηδων · ο δ ϲμα ραγδοϲ ·",
+          "translation": "The foundations of the city wall were decorated with all kinds of precious stones: the first jasper, the second sapphire, the third agate, the fourth emerald,",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "ο ε ϲαρδονυξʼ · ο ϛ ϲαρδιον · ο ζ χρυ ϲολιθοϲ · ο η βηρυλ λοϲ · ο ε θ τοπαδι ον τοπαζιον · ο ι χρυϲοπρα ϲοϲ χρυϲοπραϲιοϲ ο ια υ ακινθοϲ ο ιβ αμεθυϲτινοϲ αμεθυϲοϲ",
+          "translation": "the fifth onyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst.",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "και οι ιβ πυλω νεϲ ιβ μαργαρειται ανα ειϲ εκαϲτοϲ των πυλωνων ων ην εξ ενοϲ μαργαριτου και η πλατια τηϲ πο λεωϲ χρυϲιον καθαρον ωϲ υ αλοϲ δι αυτηϲ διαυγηϲ",
+          "translation": "The twelve gates were twelve pearls — each gate made from a single pearl. The main street of the city was pure gold — transparent as glass.",
+          "footnotes": []
+        },
+        {
+          "verse": 22,
+          "original": "και να ο ουκ ειδον εν αυ τη οτι ο γαρ ο κϲ ο θϲ ο παντοκρατωρ ναοϲ αυτηϲ εϲτ ι και το αρνιον",
+          "translation": "I saw no temple in the city — because the Lord God Almighty and the Lamb are its temple.",
+          "footnotes": []
+        },
+        {
+          "verse": 23,
+          "original": "και η πολιϲ ου χριαν εχει του ηλιου ουδε τηϲ ϲεληνηϲ ϊνα φαινωϲιν ε αυτη η γαρ δοξα του θυ εφωτιϲ ε αυτην και ο λυ χνοϲ αυτηϲ το αρ νιον",
+          "translation": "The city doesn't need the sun or the moon to shine on it — for the glory of God gives it light, and the Lamb is its lamp.",
+          "footnotes": []
+        },
+        {
+          "verse": 24,
+          "original": "και περιπα τηϲουϲιν δ τα εθνη δια του φωτοϲ αυτηϲ και οι βαϲι λειϲ τηϲ γηϲ φε ρουϲιν την δο ξαν αυτων ειϲ αυτην",
+          "translation": "The nations will walk by its light, and the kings of the earth will bring their glory into it.",
+          "footnotes": [
+            {
+              "id": "revelation-21-24-variant",
+              "text": "Some manuscripts add \"of the saved\" after \"nations.\"",
+              "type": "variant"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "original": "και οι πυ λωνεϲ αυτηϲ ου μη κλειϲθω ϲιν ημερα ημεραϲ νυξʼ γαρ ουκ εϲτε εκει",
+          "translation": "Its gates will never be closed during the day — and there will be no night there.",
+          "footnotes": []
+        },
+        {
+          "verse": 26,
+          "original": "και οιϲουϲιν τ η δοξαν και την τι μην των εθν ω ειϲ αυτην",
+          "translation": "The glory and honor of the nations will be brought into it.",
+          "footnotes": []
+        },
+        {
+          "verse": 27,
+          "original": "και ου μη ειϲελθωϲιν ειϲ αυτην παν κοινον και ο ποι ωϲει ποι ω βδελυγμα και ψευδοϲ ει μη οι γεγραμμενοι εν τω βιβλιω τηϲ ζωηϲ του ο υνο υ",
+          "translation": "Nothing unclean will ever enter it — no one who does what is shameful or deceitful — only those whose names are written in the Lamb's book of life.",
+          "footnotes": []
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "και εδιξεν μοι ποταμον υ δατοϲ ζωηϲ λαμπρον ωϲ κρυϲταλλον εκπορευομεν ο εκ θρονου του θυ και του αρνιου",
+          "translation": "Then the angel showed me the river of the water of life — clear as crystal — flowing from the throne of God and of the Lamb,",
+          "footnotes": []
+        },
+        {
+          "verse": 2,
+          "original": "ε μεϲω τηϲ πλατι αϲ αυτηϲ και του ποταμου ενθεν κ(αι) ενθ ε και ποιουν καρπουϲ ιβ κατα μηνα εκα ϲτον αποδιδουϲ τουϲ καρπουϲ αυ του και τα φυλλα των ξυλων ειϲ θε ραπειαν εθνων",
+          "translation": "down the middle of the city's main street. On each side of the river grew the tree of life, producing twelve crops — yielding its fruit each month. And the leaves of the tree are for healing the nations.",
+          "footnotes": []
+        },
+        {
+          "verse": 3,
+          "original": "και παν καταγμα καταθεμα ουκ εϲται ετι και θρο νοϲ του θυ και του αρνιου εν αυτη ε ϲται και οι δουλοι αυτου λατρευϲου ϲιν αυτω",
+          "translation": "No longer will there be any curse. The throne of God and of the Lamb will be in the city, and God's servants will worship him.",
+          "footnotes": []
+        },
+        {
+          "verse": 4,
+          "original": "και οψ ο ται το προϲωπον αυτου και το ονο μα αυτου και επι των μετωπων αυτων",
+          "translation": "They will see his face — and his name will be on their foreheads.",
+          "footnotes": []
+        },
+        {
+          "verse": 5,
+          "original": "και νυξ ου κ εϲται ετι και ου κ εχουϲιν χρει α φωτοϲ λυχνου κ(αι) φωτοϲ ηλιου ο τι κϲ ο θϲ φωτιει επ αυτουϲ και βα ϲιλευϲουϲιν ειϲ τουϲ αιωναϲ τ ω αιωνων ·",
+          "translation": "There will be no more night. They won't need lamp or sunlight — because the Lord God will give them light. And they will reign forever and ever.",
+          "footnotes": []
+        },
+        {
+          "verse": 6,
+          "original": "και ει πεν μοι ουτοι οι λογοι πιϲτοι και αληθινοι · και ο κϲ ο θϲ των π ν ατων των προ φητων απεϲτιλ ε με τον αγγελον αυτου διξαι τοιϲ δουλοιϲ αυτου α δι γενεϲθαι εν τα χει",
+          "translation": "The angel said to me, \"These words are trustworthy and true. The Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must soon take place.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 7,
+          "original": "και ϊδου ερχο μαι ερχ ο ται ταχυ · μακαριοϲ ο τηρ ω τουϲ λογουϲ τηϲ προφηταϲ προφητι̣αϲ του βι βλιου τουτου",
+          "translation": "\"Look — I am coming soon! Blessed is the one who keeps the words of the prophecy of this scroll.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 8,
+          "original": "κα γω ϊωαννηϲ ο βλε πων και ακουων ταυτα και οτε ηκου ϲα και εβλεψα επε ϲα προϲκυνηϲαι εμπροϲθεν των ποδων του αγγε λου του δικνυντοϲ μοι ταυτα",
+          "translation": "I, John, am the one who heard and saw these things. When I heard and saw them, I fell down to worship at the feet of the angel who had shown them to me.",
+          "footnotes": []
+        },
+        {
+          "verse": 9,
+          "original": "και λεγει μοι ορα μη ϲυνδου λοϲ ϲου ειμι και τ ω αδελφων ϲου τ ω προφητων και των τηρουντων τουϲ λογουϲ του βι βλιου τουτου τω θω προϲκυνη ϲον",
+          "translation": "But the angel said to me, \"Don't do that! I am a fellow servant with you and with your brothers and sisters the prophets — and with those who keep the words of this scroll. Worship God!\"",
+          "footnotes": []
+        },
+        {
+          "verse": 10,
+          "original": "και λεγει μοι μη ϲφραγιϲηϲ τουϲ λογουϲ τουτουϲ τηϲ προφητειαϲ του βιβλιου τουτου ο καιροϲ γαρ ενγυϲ εϲτιν",
+          "translation": "Then the angel said to me, \"Don't seal up the words of the prophecy of this scroll — because the time is near.",
+          "footnotes": []
+        },
+        {
+          "verse": 11,
+          "original": "ο αδικων α δικηϲατω ετι · και ο ρυπαροϲ ρυ πανθητω ετι · και ο δικαιοϲ δικαιοϲυ νην ποιηϲατω ετι και ο αγιοϲ αγιαϲθη τω ετι",
+          "translation": "Let the unjust continue practicing injustice, and the filthy continue being filthy. Let the righteous continue practicing righteousness, and the holy continue being holy.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 12,
+          "original": "ϊδου ερχομαι ταχυ και ο μιϲθοϲ μου μετ εμου α ποδοθηναι αποδουναι εκαϲτω ωϲ το εργον εϲτ ι αυτου",
+          "translation": "\"Look — I am coming quickly! I bring my reward with me — to repay each person for what they have done.",
+          "footnotes": []
+        },
+        {
+          "verse": 13,
+          "original": "εγω το αλφα και το ω ο πρωτοϲ κ(αι) ο εϲχατοϲ η αρχη κ(αι) το τελοϲ",
+          "translation": "I am the Alpha and the Omega — the first and the last, the beginning and the end.",
+          "footnotes": []
+        },
+        {
+          "verse": 14,
+          "original": "μακαριοι οι πλυνοντεϲ ταϲ ϲτολαϲ αυτων ϊνα εϲται η εξουϲια αυτ ω ωϲ δε η εξουϲια επι το ξυλον τηϲ ζωηϲ και τοιϲ πυλωϲιν ειϲ ελθωϲιν ειϲ την πολιν",
+          "translation": "Blessed are those who wash their robes — so that they may have the right to the tree of life and may enter through the gates into the city.",
+          "footnotes": []
+        },
+        {
+          "verse": 15,
+          "original": "εξω οι κυνεϲ · και οι φαρμακοι · και οι πορνοι · και οι φονειϲ και οι ϊ δωλολατραι και παϲ ποιων και φιλων ψευδοϲ",
+          "translation": "Outside are the dogs — the sorcerers, the sexually immoral, the murderers, the idolaters, and everyone who loves and practices lies.",
+          "footnotes": []
+        },
+        {
+          "verse": 16,
+          "original": "ε γω ιϲ επεμψα τ ο αγγελον μου μαρ τυρηϲαι υ μιν ταυ τα επι ταιϲ εκκλη ϲιαιϲ εγω ειμι η ριζα και το γενοϲ δ α δ ο αϲτηρ ο λαμ προϲ ο πρω ι νοϲ",
+          "translation": "\"I, Jesus, have sent my angel to give you this testimony for the churches. I am the Root and the descendant of David — the bright morning star.\"",
+          "footnotes": []
+        },
+        {
+          "verse": 17,
+          "original": "και π πνα και νυμφη λεγουϲ ι ερχου και ο ακου ων ειπατω ερχου και ο διψων ερ χεϲθω ο θελων λαβετω ϋδωρ ζω ηϲ δωρεαν ·",
+          "translation": "The Spirit and the bride say, \"Come!\" Let everyone who hears say, \"Come!\" Let anyone who is thirsty come — let anyone who wishes take the water of life freely.",
+          "footnotes": []
+        },
+        {
+          "verse": 18,
+          "original": "η μαρτυρω εγω παντι τω ακου οντι τουϲ λογουϲ τηϲ προφητει αϲ του βιβλιου του του εαν τιϲ επι θηϲει επ αυτα επιθηϲι επ αυτον ο θϲ ταϲ πληγαϲ ταϲ γεγραμμεναϲ ε τω βιβλιω του τω ·",
+          "translation": "I testify to everyone who hears the words of the prophecy of this scroll: if anyone adds to them, God will add to them the plagues written in this scroll.",
+          "footnotes": []
+        },
+        {
+          "verse": 19,
+          "original": "και αν τιϲ α φελη απο των λο γων τουτων του βιβλιου τηϲ προ φητιαϲ ταυτηϲ α φελι ο θϲ το μεροϲ αυτου απο του ξυ λου τηϲ ζωηϲ και εκ τηϲ πολεωϲ τηϲ αγιαϲ των γε γραμμενων εν τω βιβλιω τουτω",
+          "translation": "And if anyone takes away from the words of the prophecy of this scroll, God will take away their share in the tree of life and in the holy city — which are described in this scroll.",
+          "footnotes": []
+        },
+        {
+          "verse": 20,
+          "original": "λεγι ο μαρτυρων ταυτα ειναι ναι ερ χομαι ταχυ ερχου κε ι ηυ χε",
+          "translation": "The one who testifies to these things says, \"Yes — I am coming soon!\" Amen. Come, Lord Jesus!",
+          "footnotes": []
+        },
+        {
+          "verse": 21,
+          "original": "η χαριϲ του κυ ιυ μετα των αγι ων αμην : ⌇﹏",
+          "translation": "May the grace of the Lord Jesus be with all God's people. Amen.",
+          "footnotes": []
+        }
+      ]
+    }
+  ]
+}
