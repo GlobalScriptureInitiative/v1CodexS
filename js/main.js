@@ -87,7 +87,7 @@ function renderBookList(filter) {
       return !filter || b.name.toLowerCase().includes(filter) || s.includes(filter);
     });
     if (filter && filtered.length === 0) continue;
-    html += `<div class="book-group"><div class="book-group-label">${cat}</div>`;
+    html += `<div class="book-group"><div class="book-group-label" data-cat="${cat}"><span class="collapse-arrow">▾</span>${cat}</div>`;
     for (const slug of filtered) {
       const b = getBook(slug);
       if (!b) continue;
@@ -234,6 +234,14 @@ function setupEventListeners() {
       const ch = b ? 1 : 1;
       openBook(slug, ch);
       if (window.innerWidth <= 768) sidebar.classList.remove('open');
+      return;
+    }
+    // Toggle group collapse
+    const label = e.target.closest('.book-group-label');
+    if (label) {
+      label.parentElement.classList.toggle('collapsed');
+      const arrow = label.querySelector('.collapse-arrow');
+      if (arrow) arrow.textContent = label.parentElement.classList.contains('collapsed') ? '▸' : '▾';
     }
   });
 
